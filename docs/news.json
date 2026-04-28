@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-04-28T20:50:14.385593",
+  "last_updated": "2026-04-28T21:08:50.925363",
   "stats": {
     "zhkh": 1,
-    "mchs": 1,
+    "mchs": 3,
     "works": 0,
     "events": 0,
-    "news": 26,
-    "total": 28
+    "news": 31,
+    "total": 35
   },
   "items": [
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.027304"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.027288"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.027052"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.027034"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.027011"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.026981"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "28.04 21:08",
+      "parsed_at": "2026-04-28T21:08:45.026944"
+    },
     {
       "id": "2f957a2a3529",
       "title": "Повышение финансовой грамотности населения",
