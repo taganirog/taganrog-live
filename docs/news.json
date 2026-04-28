@@ -1,1 +1,288 @@
-{"last_updated":"","stats":{"total":0,"zhkh":0,"mchs":0,"works":0,"events":0,"news":0},"items":[]}
+{
+  "last_updated": "2026-04-28T17:28:00.633955",
+  "stats": {
+    "zhkh": 1,
+    "mchs": 1,
+    "works": 0,
+    "events": 0,
+    "news": 23,
+    "total": 25
+  },
+  "items": [
+    {
+      "id": "0cc3ef9d9b85",
+      "title": "Новотрубный район Таганрога: где расположена часть города с забытым названием",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/novotrubnyy-rayon-taganroga-gde-raspolozhena-chast",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.529031"
+    },
+    {
+      "id": "19473e764ac9",
+      "title": "Авторский тур в Крым «Сплошное удовольствие»",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/avtorskiy-tur-v-krym-sploshnoe-udovolstvie-",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.529011"
+    },
+    {
+      "id": "9fb8e2718bea",
+      "title": "Где провести выходные с семьёй? На Семейном фестивале",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/gde-provesti-vykhodnye-s-semyey-na-semeynom-festiv",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528997"
+    },
+    {
+      "id": "f9d6cf55912f",
+      "title": "Проведи экватор лета в «Станции Морской»",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/provedi-ekvator-leta-v-stantsii-morskoy",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528983"
+    },
+    {
+      "id": "7ecebc395d06",
+      "title": "Спасайтесь от жары в панорамных бассейнах «Станции Морской»",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/spasaytes-ot-zhary-v-panoramnykh-basseynakh-stants",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528966"
+    },
+    {
+      "id": "2710301ee3ee",
+      "title": "Рыбоводы оценили состояние молоди судака и тарани: восстановят ли их популяции в Таганрогском заливе?",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/rybovody-otsenili-sostoyanie-molodi-sudaka-i-taran",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528941"
+    },
+    {
+      "id": "2c17e963304b",
+      "title": "Правда, что на берегу Таганрогского залива — засилье медуз?",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/pravda-chto-na-beregu-taganrogskogo-zaliva-zasile-",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528905"
+    },
+    {
+      "id": "a81d90d6ce69",
+      "title": "Администрация Таганрога наконец признала, что в Малую Черепаху сбрасывают канализационные стоки",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/administratsiya-taganroga-nakonets-priznala-chto-v",
+      "source": "bloknot-taganrog.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528882"
+    },
+    {
+      "id": "8cf6bea53d5e",
+      "title": "О том, как обмелел Миус рассказал житель Таганрогского округа",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/o-tom-kak-obmelel-mius-rasskazal-zhitel-taganrogsk",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528867"
+    },
+    {
+      "id": "0d88ed42d61b",
+      "title": "ОБРАЩЕНИЕ В РЕДАКЦИЮ",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/a_request_to_the_editor/",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528825"
+    },
+    {
+      "id": "45e88704f823",
+      "title": "НАРОДНЫЙ РЕПОРТЁР",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/narodnyy_reporter/",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528810"
+    },
+    {
+      "id": "e7fd90513d5f",
+      "title": "КРАЕВЕДЧЕСКИЙ МУЗЕЙ",
+      "desc": "",
+      "url": "https://bloknot-taganrog.ru/news/museum/",
+      "source": "bloknot-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:55.528781"
+    },
+    {
+      "id": "8da25e69ce37",
+      "title": "В Таганроге в последние выходные апреля потеплеет до +16 градусов",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-taganroge-v-poslednie-vyhodnye-aprelja-potepleet-do-16-gradusov.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.342819"
+    },
+    {
+      "id": "4b3b4eddf3b2",
+      "title": "В Таганроге на три дня ограничат подачу воды из-за плановых работ",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-taganroge-na-tri-dnja-ogranichat-podachu-vody-iz-za-planovyh-rabot.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.342583"
+    },
+    {
+      "id": "a009c1c09a7d",
+      "title": "Над акваторией Азовского моря перехватили БПЛА ночью 25 апреля",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/nad-akvatoriej-azovskogo-morja-perehvatili-bpla-nochju-25-aprelja.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.342344"
+    },
+    {
+      "id": "ec07eb0443db",
+      "title": "БПЛА перехватили над Неклиновским районом Ростовской области",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/bpla-perehvatili-nad-neklinovskim-rajonom-rostovskoj-oblasti.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.342095"
+    },
+    {
+      "id": "4d0c50e949bf",
+      "title": "В Таганроге 61-летний водитель такси сбил ребенка на «зебре»",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-taganroge-61-letnij-voditel-taksi-sbil-rebenka-na-zebre.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.341818"
+    },
+    {
+      "id": "556abcf1007f",
+      "title": "В небе над Азовским морем перехватили БПЛА 25 апреля",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-nebe-nad-azovskim-morem-perehvatili-bpla-25-aprelja.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.341574"
+    },
+    {
+      "id": "2090126c1bf9",
+      "title": "Жителей Таганрога предупредили о заморозках до -3 градусов",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/zhitelej-taganroga-predupredili-o-zamorozkah-do-3-gradusov.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.341309"
+    },
+    {
+      "id": "76a62ea53227",
+      "title": "В Неклиновском районе подросток на питбайке попал в больницу после столкновения с иномаркой",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-neklinovskom-rajone-podrostok-na-pitbajke-popal-v-bolnicu-posle-stolknovenija-s-inomarkoj.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.341042"
+    },
+    {
+      "id": "6b76cf4ad6f0",
+      "title": "В Таганроге отреставрируют уникальную печь начала XX века",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-taganroge-otrestavrirujut-unikalnuju-pech-nachala-xx-veka.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.340751"
+    },
+    {
+      "id": "d2ea9485574c",
+      "title": "В Таганроге ввели желтый уровень погодной опасности из-за сильного ветра",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-taganroge-vveli-zheltyj-uroven-pogodnoj-opasnosti-iz-za-silnogo-vetra.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.340492"
+    },
+    {
+      "id": "c3f8d1985f15",
+      "title": "В предпраздничную неделю в Таганроге  ухудшится погода",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-predprazdnichnuju-nedelju-v-taganroge-uhudshitsja-pogoda.html",
+      "source": "donday-taganrog.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.340228"
+    },
+    {
+      "id": "4ab47529a528",
+      "title": "Жителей Таганрога предупредили о заморозках до 30 апреля",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/zhitelej-taganroga-predupredili-o-zamorozkah-do-30-aprelja.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.339953"
+    },
+    {
+      "id": "5ba8b78176a4",
+      "title": "В ночь на 28 апреля над Азовским морем сбили БПЛА",
+      "desc": "",
+      "url": "https://donday-taganrog.ru/v-noch-na-28-aprelja-nad-azovskim-morem-sbili-bpla.html",
+      "source": "donday-taganrog.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:27",
+      "parsed_at": "2026-04-28T17:27:54.339639"
+    }
+  ]
+}
