@@ -109,26 +109,35 @@ def parse_bloknot():
     return out
 
 def parse_mytaganrog():
-    soup = get('https://mytaganrog.com/news')
-    if not soup: return []
     out = []
-    for el in soup.select('article, .news-item')[:12]:
-        ta = el.select_one('h2 a, h3 a, a[href]')
-        if not ta: continue
-        title = ta.get_text(strip=True)
-        url   = ta['href']
-        if not url.startswith('http'):
-            url = 'https://mytaganrog.com' + url
-        p = el.select_one('p, .desc')
-        desc = p.get_text(strip=True)[:200] if p else ''
-        if len(title) > 10:
-            out.append(item(title, desc, url, 'mytaganrog.com'))
+    seen = set()
+    for page_url in ['https://mytaganrog.com/', 'https://mytaganrog.com/taganrog_news/']:
+        soup = get(page_url)
+        if not soup: continue
+        for a in soup.select('a[href]'):
+            href = a.get('href', '')
+            if not href.startswith('http'):
+                href = 'https://mytaganrog.com' + href
+            title = a.get_text(strip=True)
+            if len(title) < 15 or href in seen: continue
+            if 'mytaganrog.com' not in href: continue
+            if any(x in href for x in ['/taganrog_news/', '/novosti', '/tegi/']):
+                seen.add(href)
+                out.append(item(title, '', href, 'mytaganrog.com'))
+            if len(out) >= 15: break
     log.info(f'mytaganrog: {len(out)}')
     return out
 
 def parse_vodokanal():
-    soup = get('https://tgnvoda.ru/avarii.php')
-    if not soup: return []
+    try:
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        r = requests.get('https://tgnvoda.ru/avarii.php', headers=HEADERS, timeout=14, verify=False)
+        r.encoding = r.apparent_encoding
+        soup = BeautifulSoup(r.text, 'lxml')
+    except Exception as e:
+        log.warning(f'vodokanal: {e}')
+        return []
     out = []
     for el in soup.select('p, .content p, li')[:15]:
         text = el.get_text(strip=True)
@@ -141,16 +150,17 @@ def parse_vodokanal():
     return out
 
 def parse_kommersant():
-    soup = get('https://www.kommersant.ru/teg/taganrog')
+    soup = get('https://www.kommersant.ru/search/results?search_query=таганрог&search_type=news')
     if not soup: return []
     out = []
-    for a in soup.select('h2 a[href], h3 a[href], .uho__link')[:10]:
+    for a in soup.select('a[href]')[:40]:
         title = a.get_text(strip=True)
-        url   = a['href']
+        url   = a.get('href', '')
         if not url.startswith('http'):
             url = 'https://www.kommersant.ru' + url
-        if len(title) > 10:
+        if len(title) > 20 and '/doc/' in url:
             out.append(item(title, '', url, 'kommersant.ru'))
+        if len(out) >= 10: break
     log.info(f'kommersant: {len(out)}')
     return out
 
