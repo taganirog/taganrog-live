@@ -60,6 +60,19 @@ def get(url: str):
 
 def item(title, desc, url, source, dt=None):
     cat, urgent = categorize(f'{title} {desc}')
+    # форматируем время
+    display_time = None
+    if dt:
+        # пробуем распарсить ISO формат
+        try:
+            from dateutil import parser as dp
+            parsed = dp.parse(dt)
+            # переводим в МСК (+3)
+            display_time = (parsed + timedelta(hours=3)).strftime('%d.%m %H:%M')
+        except Exception:
+            display_time = str(dt)[:16]
+    if not display_time:
+        display_time = (datetime.now() + timedelta(hours=3)).strftime('%d.%m %H:%M')
     return {
         'id':           make_id(url),
         'title':        title.strip()[:200],
@@ -68,8 +81,8 @@ def item(title, desc, url, source, dt=None):
         'source':       source,
         'category':     cat,
         'is_urgent':    urgent,
-        'published_at': dt or datetime.now().strftime('%H:%M'),
-        'parsed_at':    (datetime.now() + __import__('datetime').timedelta(hours=3)).isoformat(),
+        'published_at': display_time,
+        'parsed_at':    (datetime.now() + timedelta(hours=3)).isoformat(),
     }
 
 # ───────────── парсеры ─────────────
@@ -77,18 +90,22 @@ def parse_donday():
     soup = get('https://donday-taganrog.ru')
     if not soup: return []
     out = []
-    for a in soup.select('h2 a[href], h3 a[href], .entry-title a')[:15]:
+    for el in soup.select('article, .post, .entry')[:15]:
+        a = el.select_one('h2 a[href], h3 a[href], .entry-title a')
+        if not a: continue
         title = a.get_text(strip=True)
         url   = a['href']
         if not url.startswith('http'):
             url = 'https://donday-taganrog.ru' + url
-        p = a.find_parent(['article','div'])
-        desc = ''
-        if p:
-            ex = p.select_one('.excerpt, p')
-            desc = ex.get_text(strip=True)[:200] if ex else ''
+        p = el.select_one('.excerpt, p')
+        desc = p.get_text(strip=True)[:200] if p else ''
+        # реальная дата со страницы
+        time_el = el.select_one('time[datetime], .date, .post-date, .entry-date')
+        dt = None
+        if time_el:
+            dt = time_el.get('datetime') or time_el.get_text(strip=True)
         if len(title) > 10:
-            out.append(item(title, desc, url, 'donday-taganrog.ru'))
+            out.append(item(title, desc, url, 'donday-taganrog.ru', dt))
     log.info(f'donday: {len(out)}')
     return out
 
@@ -97,14 +114,21 @@ def parse_bloknot():
     if not soup: return []
     out = []
     seen = set()
-    for a in soup.select('a[href*="/news/"]')[:25]:
+    for el in soup.select('.news-list-item, .news-item, article')[:20]:
+        a = el.select_one('a[href*="/news/"]')
+        if not a: continue
         title = a.get_text(strip=True)
         url   = a['href']
         if not url.startswith('http'):
             url = 'https://bloknot-taganrog.ru' + url
-        if len(title) > 15 and url not in seen:
-            seen.add(url)
-            out.append(item(title, '', url, 'bloknot-taganrog.ru'))
+        if len(title) < 15 or url in seen: continue
+        seen.add(url)
+        # реальная дата
+        time_el = el.select_one('time[datetime], .date, .news-date, .time')
+        dt = None
+        if time_el:
+            dt = time_el.get('datetime') or time_el.get_text(strip=True)
+        out.append(item(title, '', url, 'bloknot-taganrog.ru', dt))
     log.info(f'bloknot: {len(out)}')
     return out
 
