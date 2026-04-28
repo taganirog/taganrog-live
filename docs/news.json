@@ -1,14 +1,47 @@
 {
-  "last_updated": "2026-04-28T17:28:00.633955",
+  "last_updated": "2026-04-28T17:43:11.823299",
   "stats": {
     "zhkh": 1,
     "mchs": 1,
     "works": 0,
     "events": 0,
-    "news": 23,
-    "total": 25
+    "news": 26,
+    "total": 28
   },
   "items": [
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:43",
+      "parsed_at": "2026-04-28T17:43:07.483704"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:43",
+      "parsed_at": "2026-04-28T17:43:07.483674"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17:43",
+      "parsed_at": "2026-04-28T17:43:07.483629"
+    },
     {
       "id": "0cc3ef9d9b85",
       "title": "Новотрубный район Таганрога: где расположена часть города с забытым названием",
