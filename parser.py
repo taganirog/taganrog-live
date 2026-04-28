@@ -11,7 +11,7 @@ import json
 import hashlib
 import logging
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, asdict
 
@@ -69,7 +69,7 @@ def item(title, desc, url, source, dt=None):
         'category':     cat,
         'is_urgent':    urgent,
         'published_at': dt or datetime.now().strftime('%H:%M'),
-        'parsed_at':    datetime.now().isoformat(),
+        'parsed_at':    (datetime.now() + __import__('datetime').timedelta(hours=3)).isoformat(),
     }
 
 # ───────────── парсеры ─────────────
@@ -215,7 +215,7 @@ def run():
     stats['total'] = len(all_items)
 
     output = {
-        'last_updated': datetime.now().isoformat(),
+        'last_updated': (datetime.now() + __import__('datetime').timedelta(hours=3)).isoformat(),
         'stats':        stats,
         'items':        all_items,
     }
