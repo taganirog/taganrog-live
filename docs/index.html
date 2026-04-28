@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Таганрог Live — городской портал</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Golos+Text:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#0d0f14; --bg2:#13161e; --bg3:#1a1e29;
+    --border:rgba(255,255,255,0.07); --border2:rgba(255,255,255,0.12);
+    --text:#e8eaf0; --text2:#8a8fa8; --text3:#555a72;
+    --accent:#e63c2f; --accent2:#ff5a4a;
+    --blue:#3a8ef6; --amber:#f0a500; --green:#2eb87e; --teal:#22c4b8;
+    --font-h:'Unbounded',sans-serif; --font-b:'Golos Text',sans-serif;
+    --r:12px; --rs:8px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--text);font-family:var(--font-b);font-size:15px;line-height:1.6;min-height:100vh}
+
+  /* HEADER */
+  header{position:sticky;top:0;z-index:100;background:rgba(13,15,20,0.88);backdrop-filter:blur(16px);border-bottom:1px solid var(--border);padding:0 1.5rem}
+  .hi{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:1.5rem;height:60px}
+  .logo{display:flex;align-items:center;gap:10px;text-decoration:none;flex-shrink:0}
+  .logo-icon{width:32px;height:32px;background:var(--accent);border-radius:8px;display:flex;align-items:center;justify-content:center;font-family:var(--font-h);font-size:13px;font-weight:800;color:#fff}
+  .logo-text{font-family:var(--font-h);font-size:15px;font-weight:600;color:var(--text)}
+  .logo-text span{color:var(--accent)}
+  nav{display:flex;gap:4px;flex:1;overflow-x:auto;scrollbar-width:none}
+  nav::-webkit-scrollbar{display:none}
+  nav a{text-decoration:none;font-size:13px;font-weight:500;color:var(--text2);padding:6px 12px;border-radius:99px;transition:.15s;white-space:nowrap;cursor:pointer}
+  nav a:hover{color:var(--text);background:rgba(255,255,255,0.06)}
+  nav a.active{color:#fff;background:var(--accent)}
+  nav a.active-blue{color:#fff;background:var(--blue)}
+  nav a.active-amber{color:#000;background:var(--amber)}
+  nav a.active-teal{color:#fff;background:var(--teal)}
+  nav a.active-purple{color:#fff;background:#7c3aed}
+  .live-badge{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--green);font-weight:500;flex-shrink:0}
+  .live-badge::before{content:'';width:7px;height:7px;border-radius:50%;background:var(--green);animation:pd 2s infinite}
+  @keyframes pd{0%,100%{opacity:1}50%{opacity:.4}}
+
+  /* HERO */
+  .hero{max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 1.5rem;position:relative}
+  .hero-glow{position:absolute;top:-40px;left:40%;width:500px;height:260px;background:radial-gradient(ellipse,rgba(230,60,47,.1) 0%,transparent 70%);pointer-events:none}
+  .hero h1{font-family:var(--font-h);font-size:clamp(26px,5vw,50px);font-weight:800;letter-spacing:-.04em;line-height:1.1;margin-bottom:.8rem}
+  .hero h1 span{color:var(--accent)}
+  .hero-meta{display:flex;gap:1.5rem;flex-wrap:wrap;font-size:13px;color:var(--text2)}
+  .hero-meta strong{color:var(--text)}
+
+  /* URGENT */
+  .urgent-wrap{max-width:1280px;margin:0 auto .75rem;padding:0 1.5rem}
+  .urgent-card{background:linear-gradient(135deg,rgba(230,60,47,.13),rgba(230,60,47,.04));border:1px solid rgba(230,60,47,.3);border-radius:var(--r);padding:.9rem 1.1rem;display:flex;align-items:center;gap:.75rem;animation:fi .4s ease}
+  .urgent-label{font-family:var(--font-h);font-size:10px;font-weight:600;letter-spacing:.1em;color:var(--accent2);background:rgba(230,60,47,.12);padding:4px 10px;border-radius:99px;white-space:nowrap;border:1px solid rgba(230,60,47,.25);flex-shrink:0}
+  .urgent-text{font-size:14px;color:var(--text);flex:1}
+  .urgent-text strong{color:var(--accent2)}
+  .urgent-time{font-size:12px;color:var(--text3);white-space:nowrap}
+
+  /* LAYOUT */
+  .wrap{max-width:1280px;margin:0 auto;padding:0 1.5rem 4rem;display:grid;grid-template-columns:1fr 340px;gap:1.75rem;position:relative;z-index:1}
+  @media(max-width:900px){.wrap{grid-template-columns:1fr}.sidebar{order:-1}}
+
+  /* FILTERS */
+  .filters{display:flex;gap:8px;margin-bottom:1.25rem;flex-wrap:wrap}
+  .fb{display:flex;align-items:center;gap:6px;padding:7px 14px;border-radius:99px;border:1px solid var(--border2);background:var(--bg2);color:var(--text2);font-family:var(--font-b);font-size:13px;font-weight:500;cursor:pointer;transition:.15s}
+  .fb:hover{background:var(--bg3);color:var(--text)}
+  .fb.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .fb.active-blue{background:var(--blue);border-color:var(--blue);color:#fff}
+  .fb.active-amber{background:var(--amber);border-color:var(--amber);color:#000}
+  .fb.active-teal{background:var(--teal);border-color:var(--teal);color:#fff}
+  .fb.active-purple{background:#7c3aed;border-color:#7c3aed;color:#fff}
+  .fc{background:rgba(255,255,255,.12);border-radius:99px;padding:1px 7px;font-size:11px}
+
+  /* NEWS CARDS */
+  .list{display:flex;flex-direction:column;gap:10px}
+  .card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1rem 1.2rem;cursor:pointer;transition:.18s;text-decoration:none;display:block;position:relative;overflow:hidden;animation:fi .25s ease}
+  .card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;border-radius:3px 0 0 3px}
+  .card.c-zhkh::before{background:var(--accent)}
+  .card.c-news::before{background:var(--blue)}
+  .card.c-mchs::before{background:var(--amber)}
+  .card.c-works::before{background:var(--teal)}
+  .card.c-events::before{background:#7c3aed}
+  .card:hover{border-color:var(--border2);background:var(--bg3);transform:translateY(-1px)}
+  .card.urgent{border-color:rgba(230,60,47,.28);background:linear-gradient(135deg,rgba(230,60,47,.05),var(--bg2) 60%)}
+  .ct{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+  .badge{font-size:11px;font-weight:600;padding:3px 9px;border-radius:99px}
+  .b-red{background:rgba(230,60,47,.14);color:var(--accent2);border:1px solid rgba(230,60,47,.22)}
+  .b-blue{background:rgba(58,142,246,.14);color:#6aadff;border:1px solid rgba(58,142,246,.22)}
+  .b-amber{background:rgba(240,165,0,.12);color:#f5c842;border:1px solid rgba(240,165,0,.22)}
+  .b-teal{background:rgba(34,196,184,.12);color:#4dddd4;border:1px solid rgba(34,196,184,.22)}
+  .b-purple{background:rgba(124,58,237,.13);color:#c4b5fd;border:1px solid rgba(124,58,237,.22)}
+  .src{font-size:12px;color:var(--text3)}
+  .ts{font-size:12px;color:var(--text3);margin-left:auto}
+  .ttl{font-size:15px;font-weight:600;color:var(--text);line-height:1.4;margin-bottom:4px}
+  .dsc{font-size:13px;color:var(--text2);line-height:1.5}
+
+  /* SIDEBAR */
+  .sidebar{display:flex;flex-direction:column;gap:1.25rem}
+  .sc{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:1.2rem}
+  .st{font-family:var(--font-h);font-size:11px;font-weight:600;letter-spacing:.08em;color:var(--text3);text-transform:uppercase;margin-bottom:.9rem}
+
+  /* WEATHER */
+  .wm{display:flex;align-items:center;gap:1rem;margin-bottom:.9rem}
+  .wt{font-family:var(--font-h);font-size:44px;font-weight:800;color:var(--text);line-height:1}
+  .wi{font-size:36px;line-height:1}
+  .wd{font-size:14px;color:var(--text);font-weight:500}
+  .ws{font-size:12px;color:var(--text2)}
+  .wg{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .wdd{background:var(--bg3);border-radius:var(--rs);padding:8px 10px;font-size:12px}
+  .wdd span{display:block;color:var(--text3);font-size:11px;margin-bottom:2px}
+  .wdd strong{color:var(--text)}
+
+  /* STATUS */
+  .sl{display:flex;flex-direction:column;gap:7px}
+  .si{display:flex;align-items:center;gap:10px;padding:9px 11px;background:var(--bg3);border-radius:var(--rs);border:1px solid var(--border)}
+  .sd{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+  .sd-r{background:var(--accent);box-shadow:0 0 6px rgba(230,60,47,.6)}
+  .sd-g{background:var(--green);box-shadow:0 0 6px rgba(46,184,126,.5)}
+  .sd-a{background:var(--amber);box-shadow:0 0 6px rgba(240,165,0,.5)}
+  .si h4{font-size:13px;font-weight:500;color:var(--text)}
+  .si p{font-size:12px;color:var(--text2)}
+  .sit{font-size:11px;color:var(--text3);white-space:nowrap;margin-left:auto}
+
+  /* STATS */
+  .sg{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}
+  .sm{text-align:center;padding:9px 6px;background:var(--bg3);border-radius:var(--rs)}
+  .sm strong{display:block;font-family:var(--font-h);font-size:20px;font-weight:800;color:var(--text)}
+  .sm span{font-size:11px;color:var(--text3)}
+
+  /* SOURCES */
+  .src-list{display:flex;flex-direction:column;gap:6px}
+  .src-item{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:var(--rs);background:var(--bg3);border:1px solid var(--border);font-size:13px;color:var(--text2)}
+  .src-fav{width:20px;height:20px;border-radius:4px;background:var(--bg2);border:1px solid var(--border2);display:flex;align-items:center;justify-content:center;font-size:10px;font-family:var(--font-h);font-weight:800;color:var(--text3);flex-shrink:0}
+  .src-dot{width:6px;height:6px;border-radius:50%;background:var(--green);margin-left:auto;flex-shrink:0}
+  .src-n{font-size:11px;color:var(--text3);margin-left:4px}
+
+  /* LOADING */
+  .loading{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:4rem 0;color:var(--text2)}
+  .spin{width:32px;height:32px;border:2px solid var(--border2);border-top-color:var(--accent);border-radius:50%;animation:spin 0.7s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* MORE BTN */
+  .more{display:flex;align-items:center;justify-content:center;width:100%;padding:11px;margin-top:12px;border:1px solid var(--border2);border-radius:var(--r);background:transparent;color:var(--text2);font-family:var(--font-b);font-size:14px;cursor:pointer;transition:.15s}
+  .more:hover{background:var(--bg2);color:var(--text)}
+
+  /* TOAST */
+  .toast{position:fixed;bottom:20px;right:20px;background:var(--bg3);border:1px solid var(--green);border-radius:var(--r);padding:10px 14px;display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text);z-index:999;transform:translateY(70px);opacity:0;transition:all .3s cubic-bezier(.34,1.56,.64,1);box-shadow:0 8px 28px rgba(0,0,0,.4)}
+  .toast.show{transform:translateY(0);opacity:1}
+  .tdot{width:7px;height:7px;border-radius:50%;background:var(--green)}
+
+  /* EMPTY */
+  .empty{padding:3rem 1rem;text-align:center;color:var(--text3);font-size:14px}
+
+  @keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+
+  footer{border-top:1px solid var(--border);padding:1.25rem 1.5rem;text-align:center;font-size:12px;color:var(--text3)}
+  footer strong{color:var(--text2)}
+
+  @media(max-width:600px){nav a{font-size:12px;padding:5px 9px}.hero h1{font-size:26px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hi">
+    <a href="#" class="logo">
+      <div class="logo-icon">ТГ</div>
+      <span class="logo-text">Таганрог<span>Live</span></span>
+    </a>
+    <nav id="nav">
+      <a class="active" onclick="setFilter('all',this)">Все</a>
+      <a onclick="setFilter('zhkh',this)" class="">ЖКХ / Аварии</a>
+      <a onclick="setFilter('news',this)">Новости</a>
+      <a onclick="setFilter('mchs',this)">МЧС / Погода</a>
+      <a onclick="setFilter('works',this)">Ремонты</a>
+      <a onclick="setFilter('events',this)">События</a>
+    </nav>
+    <div class="live-badge" id="live-badge">Обновляется</div>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-glow"></div>
+  <h1>Всё важное<br>в <span>Таганроге</span></h1>
+  <div class="hero-meta">
+    <span>Обновлено: <strong id="upd-time">загрузка…</strong></span>
+    <span>Источников: <strong>6</strong></span>
+    <span>Новостей: <strong id="total-count">—</strong></span>
+  </div>
+</div>
+
+<div class="urgent-wrap" id="urgent-wrap" style="display:none">
+  <div class="urgent-card">
+    <span class="urgent-label">⚡ СРОЧНО</span>
+    <div class="urgent-text" id="urgent-text"></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <!-- FEED -->
+  <div>
+    <div class="filters">
+      <button class="fb active" onclick="setFilter('all',this)">Все <span class="fc" id="c-all">—</span></button>
+      <button class="fb" onclick="setFilter('zhkh',this)" data-color="active">🔴 ЖКХ <span class="fc" id="c-zhkh">—</span></button>
+      <button class="fb" onclick="setFilter('news',this)" data-color="active-blue">📰 Новости <span class="fc" id="c-news">—</span></button>
+      <button class="fb" onclick="setFilter('mchs',this)" data-color="active-amber">⚠️ МЧС <span class="fc" id="c-mchs">—</span></button>
+      <button class="fb" onclick="setFilter('works',this)" data-color="active-teal">🚧 Ремонты <span class="fc" id="c-works">—</span></button>
+      <button class="fb" onclick="setFilter('events',this)" data-color="active-purple">📅 События <span class="fc" id="c-events">—</span></button>
+    </div>
+    <div class="list" id="list">
+      <div class="loading"><div class="spin"></div><span>Загружаем новости…</span></div>
+    </div>
+    <button class="more" id="more-btn" style="display:none" onclick="showMore()">Загрузить ещё</button>
+  </div>
+
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <div class="sc">
+      <div class="st">Погода в Таганроге</div>
+      <div class="wm">
+        <div class="wi">⛅</div>
+        <div style="flex:1"><div class="wd">Переменная облачность</div><div class="ws">Ощущается +13°</div></div>
+        <div class="wt">+15°</div>
+      </div>
+      <div class="wg">
+        <div class="wdd"><span>Ветер</span><strong>С-В, 12 м/с</strong></div>
+        <div class="wdd"><span>Влажность</span><strong>68%</strong></div>
+        <div class="wdd"><span>Давление</span><strong>753 мм</strong></div>
+        <div class="wdd"><span>Уровень моря</span><strong style="color:var(--amber)">⚠ +85 см</strong></div>
+      </div>
+    </div>
+
+    <div class="sc">
+      <div class="st">Статус служб</div>
+      <div class="sl">
+        <div class="si"><div class="sd sd-r"></div><div style="flex:1"><h4>Водоснабжение</h4><p>Пониженное давление</p></div><span class="sit">до 29 апр.</span></div>
+        <div class="si"><div class="sd sd-g"></div><div style="flex:1"><h4>Электроснабжение</h4><p>В норме</p></div><span class="sit">норма</span></div>
+        <div class="si"><div class="sd sd-g"></div><div style="flex:1"><h4>Теплоснабжение</h4><p>В норме</p></div><span class="sit">норма</span></div>
+        <div class="si"><div class="sd sd-a"></div><div style="flex:1"><h4>Азовское море</h4><p>Ветровой нагон</p></div><span class="sit">МЧС</span></div>
+      </div>
+    </div>
+
+    <div class="sc">
+      <div class="st">За сегодня</div>
+      <div class="sg">
+        <div class="sm"><strong id="s-total">—</strong><span>всего</span></div>
+        <div class="sm"><strong id="s-zhkh" style="color:var(--accent)">—</strong><span>аварий</span></div>
+        <div class="sm"><strong id="s-mchs" style="color:var(--amber)">—</strong><span>МЧС</span></div>
+      </div>
+    </div>
+
+    <div class="sc">
+      <div class="st">Источники</div>
+      <div class="src-list">
+        <div class="src-item"><div class="src-fav">D</div>donday-taganrog.ru<div class="src-dot"></div><span class="src-n" id="sn-d">—</span></div>
+        <div class="src-item"><div class="src-fav">B</div>bloknot-taganrog.ru<div class="src-dot"></div><span class="src-n" id="sn-b">—</span></div>
+        <div class="src-item"><div class="src-fav">M</div>mytaganrog.com<div class="src-dot"></div><span class="src-n" id="sn-m">—</span></div>
+        <div class="src-item"><div class="src-fav">В</div>tgnvoda.ru<div class="src-dot"></div><span class="src-n" id="sn-v">—</span></div>
+        <div class="src-item"><div class="src-fav">К</div>kommersant.ru<div class="src-dot"></div><span class="src-n" id="sn-k">—</span></div>
+        <div class="src-item"><div class="src-fav">М</div>mchs.gov.ru<div class="src-dot"></div><span class="src-n" id="sn-mc">—</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <strong>Таганрог Live</strong> — автоматический агрегатор. Обновление каждые 30 минут. Материалы принадлежат источникам.
+</footer>
+
+<div class="toast" id="toast"><div class="tdot"></div><span id="toast-msg"></span></div>
+
+<script>
+const CAT_META = {
+  all:    { label:'Все',          badge:'',       bc:'' },
+  zhkh:   { label:'ЖКХ / Авария',badge:'b-red',  bc:'active' },
+  news:   { label:'Новости',     badge:'b-blue',  bc:'active-blue' },
+  mchs:   { label:'МЧС',         badge:'b-amber', bc:'active-amber' },
+  works:  { label:'Ремонты',     badge:'b-teal',  bc:'active-teal' },
+  events: { label:'События',     badge:'b-purple',bc:'active-purple' },
+};
+
+let ALL = [], filter = 'all', shown = 10;
+
+async function loadData() {
+  try {
+    const r = await fetch('news.json?t=' + Date.now());
+    const d = await r.json();
+    ALL = d.items || [];
+    updateStats(d.stats || {});
+    updateTime(d.last_updated);
+    updateSources();
+    showUrgent();
+    render();
+  } catch(e) {
+    document.getElementById('list').innerHTML =
+      '<div class="empty">Данные загружаются. Если видишь это долго — парсер ещё не запускался.</div>';
+  }
+}
+
+function updateStats(s) {
+  document.getElementById('total-count').textContent = s.total || ALL.length;
+  document.getElementById('s-total').textContent = s.total || ALL.length;
+  document.getElementById('s-zhkh').textContent  = s.zhkh  || 0;
+  document.getElementById('s-mchs').textContent  = s.mchs  || 0;
+  document.getElementById('c-all').textContent    = s.total || ALL.length;
+  document.getElementById('c-zhkh').textContent   = s.zhkh  || 0;
+  document.getElementById('c-news').textContent   = s.news  || 0;
+  document.getElementById('c-mchs').textContent   = s.mchs  || 0;
+  document.getElementById('c-works').textContent  = s.works || 0;
+  document.getElementById('c-events').textContent = s.events|| 0;
+}
+
+function updateTime(iso) {
+  if (!iso) return;
+  const d = new Date(iso);
+  const diff = Math.floor((Date.now() - d) / 60000);
+  const el = document.getElementById('upd-time');
+  if (diff < 1) el.textContent = 'только что';
+  else if (diff < 60) el.textContent = diff + ' мин назад';
+  else el.textContent = d.toLocaleTimeString('ru', {hour:'2-digit',minute:'2-digit'});
+}
+
+function updateSources() {
+  const counts = {};
+  ALL.forEach(n => { counts[n.source] = (counts[n.source]||0)+1; });
+  const map = {
+    'donday-taganrog.ru':'sn-d','bloknot-taganrog.ru':'sn-b',
+    'mytaganrog.com':'sn-m','tgnvoda.ru':'sn-v',
+    'kommersant.ru':'sn-k','mchs.gov.ru':'sn-mc'
+  };
+  for (const [src, id] of Object.entries(map)) {
+    const el = document.getElementById(id);
+    if (el) el.textContent = (counts[src] || 0) + ' шт.';
+  }
+}
+
+function showUrgent() {
+  const u = ALL.find(n => n.is_urgent);
+  if (!u) return;
+  document.getElementById('urgent-wrap').style.display = '';
+  document.getElementById('urgent-text').innerHTML =
+    `<strong>${u.title}</strong>${u.desc ? ' — ' + u.desc.slice(0,100) + '…' : ''}`;
+}
+
+function render() {
+  const items = filter === 'all' ? ALL : ALL.filter(n => n.category === filter);
+  const slice  = items.slice(0, shown);
+  const list   = document.getElementById('list');
+  const moreBtn= document.getElementById('more-btn');
+
+  if (!slice.length) {
+    list.innerHTML = '<div class="empty">Новостей по этой категории пока нет.<br>Парсер обновляется каждые 30 минут.</div>';
+    moreBtn.style.display = 'none';
+    return;
+  }
+
+  list.innerHTML = slice.map(n => {
+    const m = CAT_META[n.category] || CAT_META.news;
+    const time = n.published_at?.length <= 5 ? n.published_at
+      : new Date(n.parsed_at).toLocaleTimeString('ru',{hour:'2-digit',minute:'2-digit'});
+    return `<a class="card c-${n.category}${n.is_urgent?' urgent':''}" href="${n.url}" target="_blank" rel="noopener">
+      <div class="ct">
+        <span class="badge ${m.badge}">${m.label}</span>
+        <span class="src">${n.source}</span>
+        <span class="ts">${time}</span>
+      </div>
+      <div class="ttl">${n.title}</div>
+      ${n.desc ? `<div class="dsc">${n.desc.slice(0,180)}${n.desc.length>180?'…':''}</div>` : ''}
+    </a>`;
+  }).join('');
+
+  moreBtn.style.display = items.length > shown ? '' : 'none';
+}
+
+function setFilter(f, el) {
+  filter = f; shown = 10;
+  document.querySelectorAll('nav a, .fb').forEach(a => {
+    a.className = a.tagName === 'A' ? '' : 'fb';
+  });
+  const color = el.dataset?.color || CAT_META[f]?.bc || 'active';
+  el.classList.add(color || 'active');
+  // sync nav
+  const navIdx = ['all','zhkh','news','mchs','works','events'].indexOf(f);
+  if (navIdx >= 0) {
+    document.querySelectorAll('nav a')[navIdx]?.classList.add(color || 'active');
+  }
+  render();
+}
+
+function showMore() { shown += 10; render(); }
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  document.getElementById('toast-msg').textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3500);
+}
+
+// auto-refresh каждые 5 мин
+setInterval(async () => {
+  const prev = ALL.length;
+  await loadData();
+  if (ALL.length > prev) toast(`+${ALL.length - prev} новых записей`);
+}, 5 * 60 * 1000);
+
+loadData();
+</script>
+</body>
+</html>
