@@ -1,0 +1,36 @@
+name: Парсинг новостей Таганрога
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # каждые 30 минут
+  workflow_dispatch:           # ручной запуск из интерфейса GitHub
+
+permissions:
+  contents: write              # нужно чтобы пушить news.json обратно в репо
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout репозитория
+        uses: actions/checkout@v4
+
+      - name: Установка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Установка зависимостей
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Запуск парсера
+        run: python parser.py --once
+
+      - name: Коммит обновлённого news.json
+        run: |
+          git config user.name  "Taganrog Live Bot"
+          git config user.email "bot@taganrog.live"
+          git add docs/news.json
+          git diff --cached --quiet || git commit -m "🔄 Обновление новостей $(date +'%d.%m %H:%M')"
+          git push
