@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-07T20:08:25.173608",
+  "last_updated": "2026-10-08T01:08:45.980225",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
     "works": 0,
     "events": 0,
-    "news": 31,
-    "total": 35
+    "news": 40,
+    "total": 44
   },
   "items": [
+    {
+      "id": "1bff815932d0",
+      "title": "Патрушев отправится в Китай на переговоры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008694",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457832"
+    },
+    {
+      "id": "53209a43121d",
+      "title": "Нефть испугали войной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008485",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457817"
+    },
+    {
+      "id": "eb5737ef282c",
+      "title": "Абонемент для инвестора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008489",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457804"
+    },
+    {
+      "id": "e9ba20fe40aa",
+      "title": "Клиентам подбирают удобную цифру",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008524",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457791"
+    },
+    {
+      "id": "c2a1d9f87fbe",
+      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/8956438",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457777"
+    },
+    {
+      "id": "c7cf15ef7199",
+      "title": "Пиратам права не давали",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008525",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457759"
+    },
+    {
+      "id": "7eb06cdce66a",
+      "title": "В коворкингах выявлены недоработки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008576",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457745"
+    },
+    {
+      "id": "c772527b920f",
+      "title": "Банки поищут чужие ошибки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008607",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457728"
+    },
+    {
+      "id": "8bb42a9684ef",
+      "title": "Тарифы разогнали инфляцию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008612",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 01:08",
+      "parsed_at": "2026-10-08T01:08:42.457696"
+    },
     {
       "id": "182dbd0cbfa6",
       "title": "культура в Таганроге",
