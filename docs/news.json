@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-08T01:08:45.980225",
+  "last_updated": "2026-10-08T05:08:44.344317",
   "stats": {
-    "zhkh": 1,
-    "mchs": 3,
+    "zhkh": 2,
+    "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 40,
-    "total": 44
+    "news": 47,
+    "total": 53
   },
   "items": [
+    {
+      "id": "f745762cfd86",
+      "title": "Женщина и четверо детей погибли при пожаре в Хабаровском крае",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008698",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637658"
+    },
+    {
+      "id": "9f5fac534d6e",
+      "title": "В Испании умерла пенсионерка, ставшая лицом протестов против жилищного кризиса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008699",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637650"
+    },
+    {
+      "id": "95cff0429219",
+      "title": "На самой глубокой шахте России произошла авария",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008701",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": true,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637639"
+    },
+    {
+      "id": "86d95d05b316",
+      "title": "Bloomberg: Ирак начнет поставлять нефть через Сирию в обход Ормузского пролива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008700",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637620"
+    },
+    {
+      "id": "e6949cda6e28",
+      "title": "Bloomberg: детали американского F-35 попали в Китай из-за ошибки логистов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008702",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637610"
+    },
+    {
+      "id": "813b6ddd021a",
+      "title": "Правительство выделило еще почти 11 млрд рублей на поддержку закрытых аэропортов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008703",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637600"
+    },
+    {
+      "id": "f3381724e0c3",
+      "title": "При обстреле танкера вблизи Катара пострадали моряки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008704",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637588"
+    },
+    {
+      "id": "781609e999ab",
+      "title": "Экс-глава Apple Тим Кук продал пакет акций компании почти на $64 млн",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008705",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637576"
+    },
+    {
+      "id": "fcf18c63abb0",
+      "title": "Число пострадавших при нападении в техникуме в Польше выросло до девяти месяцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008706",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 05:08",
+      "parsed_at": "2026-10-08T05:08:42.637557"
+    },
     {
       "id": "1bff815932d0",
       "title": "Патрушев отправится в Китай на переговоры",
