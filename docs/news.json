@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-08T05:08:44.344317",
+  "last_updated": "2026-10-08T12:14:56.121229",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 47,
-    "total": 53
+    "news": 56,
+    "total": 62
   },
   "items": [
+    {
+      "id": "e913587e8874",
+      "title": "75-летний судья умер на ринге после запрещенного приема рестлера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008942",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023356"
+    },
+    {
+      "id": "4a3b17dbb708",
+      "title": "Инвесторы смогут подключать к брокерскому счету ИИ-агентов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008878",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023332"
+    },
+    {
+      "id": "9fddef3b1167",
+      "title": "Греф составил топ активов для частного инвестора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008920",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023314"
+    },
+    {
+      "id": "02322523940b",
+      "title": "Суд в Индии дал три недели на репатриацию экипажа с задержанного танкера Unity",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008950",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023276"
+    },
+    {
+      "id": "59a7854aaa78",
+      "title": "Российская армия взяла Аннополье в Харьковской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008959",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023256"
+    },
+    {
+      "id": "3153be401d1a",
+      "title": "В Италии с россиянки взыщут €11 млн в качестве уплаты налогов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008896",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023236"
+    },
+    {
+      "id": "1d238bd5698e",
+      "title": "В продаже нашли Volga K50 с двухцветным кузовом",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9008957",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023216"
+    },
+    {
+      "id": "1e32358746d7",
+      "title": "Серверы выбили из облака",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008944",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023195"
+    },
+    {
+      "id": "7acc4f166d34",
+      "title": "Роспотребнадзор опроверг данные о втором случае заболевания в Иркутской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9008971",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 12:14",
+      "parsed_at": "2026-10-08T12:14:54.023167"
+    },
     {
       "id": "f745762cfd86",
       "title": "Женщина и четверо детей погибли при пожаре в Хабаровском крае",
