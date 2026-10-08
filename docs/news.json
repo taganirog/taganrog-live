@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-08T12:14:56.121229",
+  "last_updated": "2026-10-08T19:41:44.761738",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 56,
-    "total": 62
+    "news": 65,
+    "total": 71
   },
   "items": [
+    {
+      "id": "73ae1b9c7b89",
+      "title": "Мужчина погиб при ударе дрона по автомобилю в Белгородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009374",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235784"
+    },
+    {
+      "id": "4134a3e59b1c",
+      "title": "Канцлера Украиной вышибают",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009327",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235774"
+    },
+    {
+      "id": "ab22defcddaa",
+      "title": "Швейцарский футболист Гранит Джака условно оштрафован за подделку медсправки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009379",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235765"
+    },
+    {
+      "id": "8a80cfbc5d5c",
+      "title": "Корабль Crew Dragon с россиянином Андреем Федяевым вернулся на Землю",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009381",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235742"
+    },
+    {
+      "id": "d1023f83e1bf",
+      "title": "«Рамблер» запустил единого ИИ-помощника на базе «ГигаЧата»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009373",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235732"
+    },
+    {
+      "id": "0bf4c59c8648",
+      "title": "Московский клуб провел испанскую замену",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009366",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235722"
+    },
+    {
+      "id": "870cc6a9e2b5",
+      "title": "Вэнс: Microsoft исключена из программы по получению ВНЖ для сотрудников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009371",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235711"
+    },
+    {
+      "id": "ea341e981ca0",
+      "title": "«Три вулкана» границы не перейдут",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009351",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235699"
+    },
+    {
+      "id": "53a95dff0b83",
+      "title": "Аэропорты Москвы перешли на усиленный режим работы после введения ограничений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009391",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.10 19:41",
+      "parsed_at": "2026-10-08T19:41:43.235680"
+    },
     {
       "id": "e913587e8874",
       "title": "75-летний судья умер на ринге после запрещенного приема рестлера",
