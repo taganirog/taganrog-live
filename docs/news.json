@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-08T19:41:44.761738",
+  "last_updated": "2026-10-09T00:41:11.146544",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 65,
-    "total": 71
+    "news": 74,
+    "total": 80
   },
   "items": [
+    {
+      "id": "9f52ae3ace29",
+      "title": "За день над Россией сбили более 100 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955915"
+    },
+    {
+      "id": "851c3895853a",
+      "title": "Reuters: Уиткофф и Кушнер встретятся с представителями Украины 9 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009530",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955903"
+    },
+    {
+      "id": "febad1af5075",
+      "title": "Reuters: самолет Saudia загорелся в аэропорту Эр-Рияда после ударов хуситов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009531",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955890"
+    },
+    {
+      "id": "5611e2688020",
+      "title": "СКР возбудил дело о теракте после удара беспилотника по автобусу в ЛНР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009533",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955877"
+    },
+    {
+      "id": "90c8b8a35de6",
+      "title": "При ударе БПЛА по Грайворону погибла женщина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009535",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955840"
+    },
+    {
+      "id": "fe1aec93060a",
+      "title": "Белый дом инвестирует $6 млрд в научные проекты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009537",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955828"
+    },
+    {
+      "id": "70c4723cc908",
+      "title": "В Кремле согласны с оценкой Рубио о бесперспективности переговоров по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009538",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955814"
+    },
+    {
+      "id": "54267a762be9",
+      "title": "Соликамский магниевый завод исключили из проекта санкций ЕС по просьбе Эстонии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009539",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955799"
+    },
+    {
+      "id": "e39c84f5b119",
+      "title": "Три аэропорта Москвы приостановили работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009553",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 00:41",
+      "parsed_at": "2026-10-09T00:41:08.955775"
+    },
     {
       "id": "73ae1b9c7b89",
       "title": "Мужчина погиб при ударе дрона по автомобилю в Белгородской области",
