@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-09T04:36:05.169669",
+  "last_updated": "2026-10-09T11:15:26.522000",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 82,
-    "total": 89
+    "news": 91,
+    "total": 98
   },
   "items": [
+    {
+      "id": "3016b092b0ab",
+      "title": "Трамп обвинил СМИ в искажении его слов об ударах по Сан-Диего и Лос-Анджелесу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009758",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799139"
+    },
+    {
+      "id": "0123ff2baf67",
+      "title": "Трамп пообещал не атаковать Иран до выборов в ноябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009718",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799121"
+    },
+    {
+      "id": "9ff930f3921c",
+      "title": "Россияне впервые за восемь лет снизили ожидания по зарплатам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009748",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799103"
+    },
+    {
+      "id": "fd6a24f7d4e9",
+      "title": "В Нижегородской области при атаке БПЛА погиб военнослужащий отряда «Барс-НН»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009763",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799063"
+    },
+    {
+      "id": "e530297d83a7",
+      "title": "В Санкт-Петербург не пропустили более 20 тонн авокадо с вредителем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009769",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799040"
+    },
+    {
+      "id": "73664daec0e0",
+      "title": "FT: SoftBank планирует привлечь $100 млрд у инвесторов с Ближнего Востока на ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009725",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.799018"
+    },
+    {
+      "id": "cfd528f64302",
+      "title": "ФНС перечислила признаки созданных для ухода от налогов ЗПИФов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009771",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.798996"
+    },
+    {
+      "id": "2cb63a4a12b3",
+      "title": "Займите ваши машино-места",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009397",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.798969"
+    },
+    {
+      "id": "86bb6aaf837b",
+      "title": "Серийный рестомод Tensei на основе Honda NSX показали на фото",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9009768",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 11:15",
+      "parsed_at": "2026-10-09T11:15:24.798941"
+    },
     {
       "id": "fcf7cdda9b7d",
       "title": "Королева должна быть одна",
