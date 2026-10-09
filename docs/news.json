@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-09T00:41:11.146544",
+  "last_updated": "2026-10-09T04:36:05.169669",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 74,
-    "total": 80
+    "news": 82,
+    "total": 89
   },
   "items": [
+    {
+      "id": "fcf7cdda9b7d",
+      "title": "Королева должна быть одна",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009387",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381367"
+    },
+    {
+      "id": "f1f7a9efa76d",
+      "title": "Мировой венчур пошел на рекорд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009416",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381356"
+    },
+    {
+      "id": "cefd79cdb8b4",
+      "title": "Торговля пошла на поправку",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009434",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381344"
+    },
+    {
+      "id": "b4a3402863a9",
+      "title": "В Москве из-за ограничений ночью не смогли приземлиться больше десяти самолетов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009560",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381318"
+    },
+    {
+      "id": "de248ce02b04",
+      "title": "Индейцы подали в суд из-за важного для властей Канады проекта нефтепровода",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009562",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381305"
+    },
+    {
+      "id": "b2b8fb316721",
+      "title": "Maritime: атакованное у Болгарии судно Alfa Watan опустилось на глубину 2 км",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009561",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381295"
+    },
+    {
+      "id": "f08caffba9e7",
+      "title": "Politico: НАТО призывает Россию не беспокоиться насчет ядерных учений в Италии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009563",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381281"
+    },
+    {
+      "id": "2588b5bee9da",
+      "title": "Прокуратура запросила до 12 лет тюрьмы для врачей Марадоны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009564",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381265"
+    },
+    {
+      "id": "92eb0815b877",
+      "title": "Fars: несколько танкеров подорвались на минах в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009565",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 04:35",
+      "parsed_at": "2026-10-09T04:35:58.381242"
+    },
     {
       "id": "9f52ae3ace29",
       "title": "За день над Россией сбили более 100 беспилотников",
