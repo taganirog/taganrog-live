@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-09T11:15:26.522000",
+  "last_updated": "2026-10-09T18:25:29.254406",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
     "works": 0,
-    "events": 0,
-    "news": 91,
-    "total": 98
+    "events": 1,
+    "news": 99,
+    "total": 107
   },
   "items": [
+    {
+      "id": "e0c1201cbe98",
+      "title": "МУС назвал санкции США посягательством на верховенство права",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023227",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376920"
+    },
+    {
+      "id": "a2915de7fee0",
+      "title": "Зарплатная гонка подошла к финишу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023187",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376900"
+    },
+    {
+      "id": "ee6f5f1f9a15",
+      "title": "Новым сенатором от липецкого облсовета станет Герой России Евгений Саввин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023214",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376883"
+    },
+    {
+      "id": "1dec6a6869a0",
+      "title": "Проекты ДоброFON — лауреаты премии «Лучшие социальные проекты России»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023196",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376864"
+    },
+    {
+      "id": "1a6eb460d21a",
+      "title": "На подлете к Москве сбили 15 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023239",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376823"
+    },
+    {
+      "id": "16e00a3d554d",
+      "title": "Власти Черногории выдворят авторов Telegram-канала «Рыбарь»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023241",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376805"
+    },
+    {
+      "id": "535348833497",
+      "title": "Лауреат не прав, а лев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023207",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376784"
+    },
+    {
+      "id": "9a5fff8f86a2",
+      "title": "Подавшему в суд на организаторов концерта Канье Уэста воронежцу вернули 132 тысячи за билеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023229",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376763"
+    },
+    {
+      "id": "6e3f204f07bf",
+      "title": "Кайли Дженнер станет продюсером и исполнительницей главной роли в своем первом сериале",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9009757",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 18:25",
+      "parsed_at": "2026-10-09T18:25:27.376727"
+    },
     {
       "id": "3016b092b0ab",
       "title": "Трамп обвинил СМИ в искажении его слов об ударах по Сан-Диего и Лос-Анджелесу",
