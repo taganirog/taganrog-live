@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-09T18:25:29.254406",
+  "last_updated": "2026-10-09T23:11:32.863282",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 4,
     "works": 0,
     "events": 1,
-    "news": 99,
-    "total": 107
+    "news": 107,
+    "total": 116
   },
   "items": [
+    {
+      "id": "bdbb8b49765b",
+      "title": "Минцифры: услуги связи не должны дорожать быстрее тарифов ЖКХ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023338",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236900"
+    },
+    {
+      "id": "d700450ba88f",
+      "title": "Алексей Батраков отметился вторым результативным действием за «Галатасарай»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023339",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236885"
+    },
+    {
+      "id": "3224cb514271",
+      "title": "Объем социальной рекламы может достичь в 2026 году 63 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023286",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236867"
+    },
+    {
+      "id": "406e44e8705f",
+      "title": "Минфин США выдал временную лицензию на поставки дизеля из России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023340",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236831"
+    },
+    {
+      "id": "e80257e8de9d",
+      "title": "Ozon с 13 октября закроет доступ к страховке селлеров от повреждений и атак БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236812"
+    },
+    {
+      "id": "cec809c73430",
+      "title": "Двое погибли при ударе FPV-дрона по автомобилю в Белгородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023344",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236794"
+    },
+    {
+      "id": "58ceccb793ce",
+      "title": "Дмитриев заявил о пользе энергетического сотрудничества США и России для мира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023345",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236774"
+    },
+    {
+      "id": "c6d3c4935f29",
+      "title": "Трамп назначил Кэти Захарию пресс-секретарем Белого дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023348",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236749"
+    },
+    {
+      "id": "463e4384ee36",
+      "title": "В Туапсе при падении обломков БПЛА пострадал один человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023347",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.10 23:11",
+      "parsed_at": "2026-10-09T23:11:31.236717"
+    },
     {
       "id": "e0c1201cbe98",
       "title": "МУС назвал санкции США посягательством на верховенство права",
