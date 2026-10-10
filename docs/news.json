@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-10T15:48:45.326728",
+  "last_updated": "2026-10-10T20:34:05.274564",
   "stats": {
     "zhkh": 4,
-    "mchs": 3,
+    "mchs": 1,
     "works": 0,
     "events": 1,
-    "news": 112,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "9ad1035d0c9c",
+      "title": "ТАСС узнал о возможном визите Уиткоффа и Кушнера в Москву в октябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023827",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159352"
+    },
+    {
+      "id": "f007ac059aa0",
+      "title": "Лауреат Нобелевской премии мира раскритиковала санкции США против МУС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023828",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159341"
+    },
+    {
+      "id": "d4809685cb85",
+      "title": "Ниам Алгар и Фанни Ардан снимаются в триллере об ИИ-курорте",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023038",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159328"
+    },
+    {
+      "id": "a06c72abf468",
+      "title": "Инвестиции ушли в склады",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023832",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159303"
+    },
+    {
+      "id": "7d70f313cd3f",
+      "title": "Умер паралимпийский чемпион в метании клаба Таймазов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023833",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159293"
+    },
+    {
+      "id": "ad0d0c9f14d1",
+      "title": "В Индии задержали лидера «Партии тараканов»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023837",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159282"
+    },
+    {
+      "id": "1da33229ee81",
+      "title": "Минобороны России отчиталось об ударе по дата-центру «АТМ Укрсиббанка» в Киеве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023839",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159271"
+    },
+    {
+      "id": "37feff7ff730",
+      "title": "Трамп: Украине нужен новый президент",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023842",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159257"
+    },
+    {
+      "id": "230fa459f9b8",
+      "title": "Nike и Patagonia объявили войну микроволокнам",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023110",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 20:34",
+      "parsed_at": "2026-10-10T20:34:01.159237"
+    },
     {
       "id": "b33d3b84b462",
       "title": "В НАТО заявили, что не планируют блокировать Калининград",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.04 21:08",
       "parsed_at": "2026-04-28T21:08:45.027052"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.027034"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.027011"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.026981"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.026944"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:43",
-      "parsed_at": "2026-04-28T17:43:07.483704"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:43",
-      "parsed_at": "2026-04-28T17:43:07.483674"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:43",
-      "parsed_at": "2026-04-28T17:43:07.483629"
-    },
-    {
-      "id": "0cc3ef9d9b85",
-      "title": "Новотрубный район Таганрога: где расположена часть города с забытым названием",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/novotrubnyy-rayon-taganroga-gde-raspolozhena-chast",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.529031"
-    },
-    {
-      "id": "19473e764ac9",
-      "title": "Авторский тур в Крым «Сплошное удовольствие»",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/avtorskiy-tur-v-krym-sploshnoe-udovolstvie-",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.529011"
     }
   ]
 }
