@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-09T23:11:32.863282",
+  "last_updated": "2026-10-10T03:09:16.234880",
   "stats": {
     "zhkh": 4,
-    "mchs": 4,
+    "mchs": 3,
     "works": 0,
     "events": 1,
-    "news": 107,
-    "total": 116
+    "news": 112,
+    "total": 120
   },
   "items": [
+    {
+      "id": "683ee3436d44",
+      "title": "Авгиевы псарни Калуги",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023279",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409254"
+    },
+    {
+      "id": "c0d20fe682f1",
+      "title": "СМИ: Криштиану Роналду отстранили от игр за сборную Португалии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023351",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409245"
+    },
+    {
+      "id": "b3cbcb7877a8",
+      "title": "Новак: Россия незамедлительно начинает снимать ограничения на экспорт дизеля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023354",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409232"
+    },
+    {
+      "id": "97278ec49e8c",
+      "title": "Индекс Мосбиржи поднялся выше 2400 пунктов после разговора Путина и Трампа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023355",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409208"
+    },
+    {
+      "id": "0b60ff232587",
+      "title": "Дизельная сделка России и США. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023356",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409198"
+    },
+    {
+      "id": "94c19d223022",
+      "title": "Путин поблагодарил первую леди США за помощь в воссоединении разлученных семей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023357",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409188"
+    },
+    {
+      "id": "7dcd9b8ab5b7",
+      "title": "Ушаков рассказал, как Путин и Трамп не хотели заканчивать разговор",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023358",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409178"
+    },
+    {
+      "id": "2040fe897f75",
+      "title": "Путин заявил Трампу, что Россия подумает о сроках возобновления переговоров с Украиной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023645",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409166"
+    },
+    {
+      "id": "b61d5bdc5a99",
+      "title": "США и союзники обсудили завершение российско-украинского конфликта до зимы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023646",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 03:09",
+      "parsed_at": "2026-10-10T03:09:14.409148"
+    },
     {
       "id": "bdbb8b49765b",
       "title": "Минцифры: услуги связи не должны дорожать быстрее тарифов ЖКХ",
@@ -1229,61 +1328,6 @@
       "is_urgent": false,
       "published_at": "17:27",
       "parsed_at": "2026-04-28T17:27:54.341042"
-    },
-    {
-      "id": "6b76cf4ad6f0",
-      "title": "В Таганроге отреставрируют уникальную печь начала XX века",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-taganroge-otrestavrirujut-unikalnuju-pech-nachala-xx-veka.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.340751"
-    },
-    {
-      "id": "d2ea9485574c",
-      "title": "В Таганроге ввели желтый уровень погодной опасности из-за сильного ветра",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-taganroge-vveli-zheltyj-uroven-pogodnoj-opasnosti-iz-za-silnogo-vetra.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.340492"
-    },
-    {
-      "id": "c3f8d1985f15",
-      "title": "В предпраздничную неделю в Таганроге  ухудшится погода",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-predprazdnichnuju-nedelju-v-taganroge-uhudshitsja-pogoda.html",
-      "source": "donday-taganrog.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.340228"
-    },
-    {
-      "id": "4ab47529a528",
-      "title": "Жителей Таганрога предупредили о заморозках до 30 апреля",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/zhitelej-taganroga-predupredili-o-zamorozkah-do-30-aprelja.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.339953"
-    },
-    {
-      "id": "5ba8b78176a4",
-      "title": "В ночь на 28 апреля над Азовским морем сбили БПЛА",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-noch-na-28-aprelja-nad-azovskim-morem-sbili-bpla.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.339639"
     }
   ]
 }
