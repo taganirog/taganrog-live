@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T03:09:16.234880",
+  "last_updated": "2026-10-10T09:08:14.682106",
   "stats": {
     "zhkh": 4,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "4a2aba885185",
+      "title": "Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023656",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981448"
+    },
+    {
+      "id": "cda0fe65d9db",
+      "title": "На подлете к Москве сбили 10 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023658",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981429"
+    },
+    {
+      "id": "f14cad3e5795",
+      "title": "Главные новости к утру 10 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023660",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981410"
+    },
+    {
+      "id": "4a180ce37eb6",
+      "title": "В Мытищах произошло три аварии на одном участке шоссе, один человек погиб",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023661",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981370"
+    },
+    {
+      "id": "6275ca71eea3",
+      "title": "Все московские аэропорты приостановили работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023671",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981351"
+    },
+    {
+      "id": "bc8923799770",
+      "title": "В Ростовской области открыли горячую линию после атаки беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023672",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981331"
+    },
+    {
+      "id": "0ec33a2b2087",
+      "title": "Минобороны России отчиталось об ударе по судну с грузом для ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023675",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981311"
+    },
+    {
+      "id": "8105dbb24692",
+      "title": "Шесть человек пострадали при атаке БПЛА на Ростовскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023680",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981289"
+    },
+    {
+      "id": "ed5d0a49a847",
+      "title": "Джоан Роулинг выпустит книги о Макгонагалл и близнецах Уизли",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023096",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 09:08",
+      "parsed_at": "2026-10-10T09:08:12.981258"
+    },
     {
       "id": "683ee3436d44",
       "title": "Авгиевы псарни Калуги",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17:27",
       "parsed_at": "2026-04-28T17:27:55.528810"
-    },
-    {
-      "id": "e7fd90513d5f",
-      "title": "КРАЕВЕДЧЕСКИЙ МУЗЕЙ",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/museum/",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528781"
-    },
-    {
-      "id": "8da25e69ce37",
-      "title": "В Таганроге в последние выходные апреля потеплеет до +16 градусов",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-taganroge-v-poslednie-vyhodnye-aprelja-potepleet-do-16-gradusov.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.342819"
-    },
-    {
-      "id": "4b3b4eddf3b2",
-      "title": "В Таганроге на три дня ограничат подачу воды из-за плановых работ",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-taganroge-na-tri-dnja-ogranichat-podachu-vody-iz-za-planovyh-rabot.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.342583"
-    },
-    {
-      "id": "a009c1c09a7d",
-      "title": "Над акваторией Азовского моря перехватили БПЛА ночью 25 апреля",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/nad-akvatoriej-azovskogo-morja-perehvatili-bpla-nochju-25-aprelja.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.342344"
-    },
-    {
-      "id": "ec07eb0443db",
-      "title": "БПЛА перехватили над Неклиновским районом Ростовской области",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/bpla-perehvatili-nad-neklinovskim-rajonom-rostovskoj-oblasti.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.342095"
-    },
-    {
-      "id": "4d0c50e949bf",
-      "title": "В Таганроге 61-летний водитель такси сбил ребенка на «зебре»",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-taganroge-61-letnij-voditel-taksi-sbil-rebenka-na-zebre.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.341818"
-    },
-    {
-      "id": "556abcf1007f",
-      "title": "В небе над Азовским морем перехватили БПЛА 25 апреля",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-nebe-nad-azovskim-morem-perehvatili-bpla-25-aprelja.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.341574"
-    },
-    {
-      "id": "2090126c1bf9",
-      "title": "Жителей Таганрога предупредили о заморозках до -3 градусов",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/zhitelej-taganroga-predupredili-o-zamorozkah-do-3-gradusov.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.341309"
-    },
-    {
-      "id": "76a62ea53227",
-      "title": "В Неклиновском районе подросток на питбайке попал в больницу после столкновения с иномаркой",
-      "desc": "",
-      "url": "https://donday-taganrog.ru/v-neklinovskom-rajone-podrostok-na-pitbajke-popal-v-bolnicu-posle-stolknovenija-s-inomarkoj.html",
-      "source": "donday-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:54.341042"
     }
   ]
 }
