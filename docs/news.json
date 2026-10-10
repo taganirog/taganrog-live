@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T20:34:05.274564",
+  "last_updated": "2026-10-10T23:57:54.719233",
   "stats": {
     "zhkh": 4,
     "mchs": 1,
@@ -9,6 +9,138 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "bcd1dd589392",
+      "title": "Саудовская Аравия приостановила работу аэропорта в Эр-Рияде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023845",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708590"
+    },
+    {
+      "id": "2660d236a49a",
+      "title": "КСИР сообщил о подрыве танкера в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023847",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708577"
+    },
+    {
+      "id": "8c073a8d37fa",
+      "title": "Вратарь «Рейнджерс» Шестеркин выбыл до конца сезона НХЛ из-за травмы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023850",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708564"
+    },
+    {
+      "id": "e828c300ba2d",
+      "title": "Правительство частично сняло запрет на экспорт дизеля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023854",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708536"
+    },
+    {
+      "id": "18facfd6b109",
+      "title": "Глава Палестины перенес выборы на год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023855",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708522"
+    },
+    {
+      "id": "8db0c1ec79cb",
+      "title": "«Краснодару» не хватило удара",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023856",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708506"
+    },
+    {
+      "id": "e56bba22c990",
+      "title": "США выделят 4 млн баррелей нефти из резервов из-за урагана «Исайяс»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023858",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708494"
+    },
+    {
+      "id": "9026aec24e57",
+      "title": "В Федерации футбола Португалии выразили надежду на скорое возвращение Роналду",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023860",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708480"
+    },
+    {
+      "id": "e0cb5cf5daaa",
+      "title": "«Яндекс» добавил атаки БПЛА в список форс-мажоров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023862",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:50.708458"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:49.713685"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:49.713659"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 23:57",
+      "parsed_at": "2026-10-10T23:57:49.713615"
+    },
     {
       "id": "9ad1035d0c9c",
       "title": "ТАСС узнал о возможном визите Уиткоффа и Кушнера в Москву в октябре",
@@ -1196,138 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.10 05:08",
       "parsed_at": "2026-10-08T05:08:42.637557"
-    },
-    {
-      "id": "1bff815932d0",
-      "title": "Патрушев отправится в Китай на переговоры",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008694",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457832"
-    },
-    {
-      "id": "53209a43121d",
-      "title": "Нефть испугали войной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008485",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457817"
-    },
-    {
-      "id": "eb5737ef282c",
-      "title": "Абонемент для инвестора",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008489",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457804"
-    },
-    {
-      "id": "e9ba20fe40aa",
-      "title": "Клиентам подбирают удобную цифру",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008524",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457791"
-    },
-    {
-      "id": "c2a1d9f87fbe",
-      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/8956438",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457777"
-    },
-    {
-      "id": "c7cf15ef7199",
-      "title": "Пиратам права не давали",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008525",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457759"
-    },
-    {
-      "id": "7eb06cdce66a",
-      "title": "В коворкингах выявлены недоработки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008576",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457745"
-    },
-    {
-      "id": "c772527b920f",
-      "title": "Банки поищут чужие ошибки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008607",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457728"
-    },
-    {
-      "id": "8bb42a9684ef",
-      "title": "Тарифы разогнали инфляцию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008612",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 01:08",
-      "parsed_at": "2026-10-08T01:08:42.457696"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.027304"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.027288"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.04 21:08",
-      "parsed_at": "2026-04-28T21:08:45.027052"
     }
   ]
 }
