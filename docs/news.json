@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T09:08:14.682106",
+  "last_updated": "2026-10-10T15:48:45.326728",
   "stats": {
     "zhkh": 4,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "b33d3b84b462",
+      "title": "В НАТО заявили, что не планируют блокировать Калининград",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023772",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534550"
+    },
+    {
+      "id": "805deb71363f",
+      "title": "Глава «Росатома» заявил о намерении дойти до конца в суде с Финляндией по АЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023777",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534536"
+    },
+    {
+      "id": "aff2037406ea",
+      "title": "Москва заправила сделку топливом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023769",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534520"
+    },
+    {
+      "id": "2245f955b492",
+      "title": "Белоруссия запретила ввоз и продажу одного из чаев российского Greenfield",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023782",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534484"
+    },
+    {
+      "id": "6cfe1184581f",
+      "title": "Обзор зарубежных СМИ: Почему ураган в США грозит ростом мировых цен на нефть?",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023781",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534467"
+    },
+    {
+      "id": "493b21477ac7",
+      "title": "В Забайкалье возбудили уголовное дело после жесткой посадки самолета Cessna",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023785",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534448"
+    },
+    {
+      "id": "a0b49c763d7d",
+      "title": "Джордж Клуни откроет ресторан на юге Франции",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023101",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534431"
+    },
+    {
+      "id": "8e4b57b79c69",
+      "title": "Финский премьер Орпо призвал не пускать российских туристов в Европу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023791",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534414"
+    },
+    {
+      "id": "bdbf7a21349f",
+      "title": "Додик намерен поднять на уровень БиГ вопрос о газопроводе для поставок из России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023790",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "10.10 15:48",
+      "parsed_at": "2026-10-10T15:48:43.534386"
+    },
     {
       "id": "4a2aba885185",
       "title": "Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17:27",
       "parsed_at": "2026-04-28T17:27:55.529011"
-    },
-    {
-      "id": "9fb8e2718bea",
-      "title": "Где провести выходные с семьёй? На Семейном фестивале",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/gde-provesti-vykhodnye-s-semyey-na-semeynom-festiv",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528997"
-    },
-    {
-      "id": "f9d6cf55912f",
-      "title": "Проведи экватор лета в «Станции Морской»",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/provedi-ekvator-leta-v-stantsii-morskoy",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528983"
-    },
-    {
-      "id": "7ecebc395d06",
-      "title": "Спасайтесь от жары в панорамных бассейнах «Станции Морской»",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/spasaytes-ot-zhary-v-panoramnykh-basseynakh-stants",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528966"
-    },
-    {
-      "id": "2710301ee3ee",
-      "title": "Рыбоводы оценили состояние молоди судака и тарани: восстановят ли их популяции в Таганрогском заливе?",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/rybovody-otsenili-sostoyanie-molodi-sudaka-i-taran",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528941"
-    },
-    {
-      "id": "2c17e963304b",
-      "title": "Правда, что на берегу Таганрогского залива — засилье медуз?",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/pravda-chto-na-beregu-taganrogskogo-zaliva-zasile-",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528905"
-    },
-    {
-      "id": "a81d90d6ce69",
-      "title": "Администрация Таганрога наконец признала, что в Малую Черепаху сбрасывают канализационные стоки",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/administratsiya-taganroga-nakonets-priznala-chto-v",
-      "source": "bloknot-taganrog.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528882"
-    },
-    {
-      "id": "8cf6bea53d5e",
-      "title": "О том, как обмелел Миус рассказал житель Таганрогского округа",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/o-tom-kak-obmelel-mius-rasskazal-zhitel-taganrogsk",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528867"
-    },
-    {
-      "id": "0d88ed42d61b",
-      "title": "ОБРАЩЕНИЕ В РЕДАКЦИЮ",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/a_request_to_the_editor/",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528825"
-    },
-    {
-      "id": "45e88704f823",
-      "title": "НАРОДНЫЙ РЕПОРТЁР",
-      "desc": "",
-      "url": "https://bloknot-taganrog.ru/news/narodnyy_reporter/",
-      "source": "bloknot-taganrog.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17:27",
-      "parsed_at": "2026-04-28T17:27:55.528810"
     }
   ]
 }
