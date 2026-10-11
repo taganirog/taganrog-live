@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T09:05:49.761409",
+  "last_updated": "2026-10-11T16:12:02.859627",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "88601bb6305b",
+      "title": "«Яндекс» вновь сообщил о сбоях в работе «Алисы» и умных устройств",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024003",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930365"
+    },
+    {
+      "id": "9d92b778f1e6",
+      "title": "«Тушинские» попали в зону вылета",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024001",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930356"
+    },
+    {
+      "id": "bfbc2c6965f1",
+      "title": "«Удар хуситов по гражданской цели в Саудовской Аравии следует считать ожидаемым ответом»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023992",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930348"
+    },
+    {
+      "id": "5c12a4520aa7",
+      "title": "Владимир Путин проведет совещание по кибербезопасности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024010",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930322"
+    },
+    {
+      "id": "4cfbfc28b20b",
+      "title": "WSJ: муж Камалы Харрис выступает против ее участия в президентских выборах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024009",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930313"
+    },
+    {
+      "id": "82027fd93daa",
+      "title": "Пасечник: в результате атак дронов в ЛНР погибли два человека и 13 ранены",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024022",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930303"
+    },
+    {
+      "id": "c96b6f561069",
+      "title": "Тяжело в учении, нелегко в бою",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024002",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930293"
+    },
+    {
+      "id": "6f5e8c6513d0",
+      "title": "Интерес к якутскому кино вырос почти вдвое за два года",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023319",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930283"
+    },
+    {
+      "id": "e5193bda267b",
+      "title": "Власти Брянской области предупредили о сбросах мин с дронов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024023",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 16:12",
+      "parsed_at": "2026-10-11T16:12:00.930267"
+    },
     {
       "id": "b799a8fccadc",
       "title": "Премьер-министр Эстонии пожаловался на смену позиции США по российскому топливу",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.10 00:41",
       "parsed_at": "2026-10-09T00:41:08.955877"
-    },
-    {
-      "id": "90c8b8a35de6",
-      "title": "При ударе БПЛА по Грайворону погибла женщина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009535",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955840"
-    },
-    {
-      "id": "fe1aec93060a",
-      "title": "Белый дом инвестирует $6 млрд в научные проекты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009537",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955828"
-    },
-    {
-      "id": "70c4723cc908",
-      "title": "В Кремле согласны с оценкой Рубио о бесперспективности переговоров по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009538",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955814"
-    },
-    {
-      "id": "54267a762be9",
-      "title": "Соликамский магниевый завод исключили из проекта санкций ЕС по просьбе Эстонии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009539",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955799"
-    },
-    {
-      "id": "e39c84f5b119",
-      "title": "Три аэропорта Москвы приостановили работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009553",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955775"
-    },
-    {
-      "id": "73ae1b9c7b89",
-      "title": "Мужчина погиб при ударе дрона по автомобилю в Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009374",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235784"
-    },
-    {
-      "id": "4134a3e59b1c",
-      "title": "Канцлера Украиной вышибают",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009327",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235774"
-    },
-    {
-      "id": "ab22defcddaa",
-      "title": "Швейцарский футболист Гранит Джака условно оштрафован за подделку медсправки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009379",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235765"
-    },
-    {
-      "id": "8a80cfbc5d5c",
-      "title": "Корабль Crew Dragon с россиянином Андреем Федяевым вернулся на Землю",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009381",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235742"
     }
   ]
 }
