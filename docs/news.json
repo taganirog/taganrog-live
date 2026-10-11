@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T21:13:27.835518",
+  "last_updated": "2026-10-12T01:12:12.245689",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "823148708384",
+      "title": "Один человек погиб при ударе БПЛА по машине в Белгородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024230",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731899"
+    },
+    {
+      "id": "ade2b9ef7526",
+      "title": "Axios: Уиткофф и Кушнер отложили поездку в Москву",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024232",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731881"
+    },
+    {
+      "id": "e9a719426747",
+      "title": "Нетаньяху потребовал привлечь к ответственности авторов фильма о гибели гражданских в Газе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024233",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731863"
+    },
+    {
+      "id": "f99817b5f721",
+      "title": "Сложились факторы роста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024018",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731819"
+    },
+    {
+      "id": "5c29fbb67c88",
+      "title": "Группа сенаторов обвинила Трампа в нарушении закона за дизельную сделку с РФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024235",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731803"
+    },
+    {
+      "id": "f346371f727f",
+      "title": "Axios: РФ пока не согласилась на объявленное Трампом энергетическое перемирие",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024234",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731784"
+    },
+    {
+      "id": "6b90d1681564",
+      "title": "За день над Россией сбили 112 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024249",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731764"
+    },
+    {
+      "id": "b6906e12b6ec",
+      "title": "Глава МИД Саудовской Аравии созвонился с Аракчи после удара хуситов по аэропорту",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024250",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731743"
+    },
+    {
+      "id": "f7b946d929f6",
+      "title": "Хуситы атаковали аэропорт Эд-Даммама в Саудовской Аравии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024252",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 01:12",
+      "parsed_at": "2026-10-12T01:12:10.731712"
+    },
     {
       "id": "7478520d885f",
       "title": "Хуситы подтвердили удары по аэропорту в Эр-Рияде",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.10 11:15",
       "parsed_at": "2026-10-09T11:15:24.799040"
-    },
-    {
-      "id": "73664daec0e0",
-      "title": "FT: SoftBank планирует привлечь $100 млрд у инвесторов с Ближнего Востока на ИИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009725",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799018"
-    },
-    {
-      "id": "cfd528f64302",
-      "title": "ФНС перечислила признаки созданных для ухода от налогов ЗПИФов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009771",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.798996"
-    },
-    {
-      "id": "2cb63a4a12b3",
-      "title": "Займите ваши машино-места",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009397",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.798969"
-    },
-    {
-      "id": "86bb6aaf837b",
-      "title": "Серийный рестомод Tensei на основе Honda NSX показали на фото",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9009768",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.798941"
-    },
-    {
-      "id": "fcf7cdda9b7d",
-      "title": "Королева должна быть одна",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009387",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381367"
-    },
-    {
-      "id": "f1f7a9efa76d",
-      "title": "Мировой венчур пошел на рекорд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009416",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381356"
-    },
-    {
-      "id": "cefd79cdb8b4",
-      "title": "Торговля пошла на поправку",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009434",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381344"
-    },
-    {
-      "id": "b4a3402863a9",
-      "title": "В Москве из-за ограничений ночью не смогли приземлиться больше десяти самолетов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009560",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381318"
-    },
-    {
-      "id": "de248ce02b04",
-      "title": "Индейцы подали в суд из-за важного для властей Канады проекта нефтепровода",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009562",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381305"
     }
   ]
 }
