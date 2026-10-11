@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-10-10T23:57:54.719233",
+  "last_updated": "2026-10-11T03:05:48.726615",
   "stats": {
-    "zhkh": 4,
-    "mchs": 1,
+    "zhkh": 3,
+    "mchs": 2,
     "works": 0,
     "events": 1,
     "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "c2a1d9f87fbe",
+      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/8956438",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176766"
+    },
+    {
+      "id": "cbc44e52cff4",
+      "title": "Как минимум 50 человек пострадали при ракетном ударе по аэропорту Эр-Рияда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023865",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176747"
+    },
+    {
+      "id": "a2a1b03401a5",
+      "title": "FT: США пригрозили лишить Украину разведданных из-за ударов по российским НПЗ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023866",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176728"
+    },
+    {
+      "id": "447b355ac1a4",
+      "title": "При ударе по аэропорту Эр-Рияда погибли 12 человек, 309 пострадали",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023867",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176709"
+    },
+    {
+      "id": "e38457cf458b",
+      "title": "Каллас раскритиковала дизельную сделку России и США и анонсировала новые санкции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023868",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176684"
+    },
+    {
+      "id": "316da307a85c",
+      "title": "Саудовская Аравия обвинила хуситов в ударе по аэропорту Эр-Рияда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023869",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176662"
+    },
+    {
+      "id": "fbcf54d0d72b",
+      "title": "Пережившую казнь американку вернули из больницы в тюрьму",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023870",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:47.176633"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844993"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844973"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844702"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844679"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844653"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844616"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "11.10 03:05",
+      "parsed_at": "2026-10-11T03:05:39.844575"
+    },
     {
       "id": "bcd1dd589392",
       "title": "Саудовская Аравия приостановила работу аэропорта в Эр-Рияде",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.10 12:14",
       "parsed_at": "2026-10-08T12:14:54.023276"
-    },
-    {
-      "id": "59a7854aaa78",
-      "title": "Российская армия взяла Аннополье в Харьковской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008959",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023256"
-    },
-    {
-      "id": "3153be401d1a",
-      "title": "В Италии с россиянки взыщут €11 млн в качестве уплаты налогов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008896",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023236"
-    },
-    {
-      "id": "1d238bd5698e",
-      "title": "В продаже нашли Volga K50 с двухцветным кузовом",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9008957",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023216"
-    },
-    {
-      "id": "1e32358746d7",
-      "title": "Серверы выбили из облака",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008944",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023195"
-    },
-    {
-      "id": "7acc4f166d34",
-      "title": "Роспотребнадзор опроверг данные о втором случае заболевания в Иркутской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008971",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023167"
-    },
-    {
-      "id": "f745762cfd86",
-      "title": "Женщина и четверо детей погибли при пожаре в Хабаровском крае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008698",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637658"
-    },
-    {
-      "id": "9f5fac534d6e",
-      "title": "В Испании умерла пенсионерка, ставшая лицом протестов против жилищного кризиса",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008699",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637650"
-    },
-    {
-      "id": "95cff0429219",
-      "title": "На самой глубокой шахте России произошла авария",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008701",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": true,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637639"
-    },
-    {
-      "id": "86d95d05b316",
-      "title": "Bloomberg: Ирак начнет поставлять нефть через Сирию в обход Ормузского пролива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008700",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637620"
-    },
-    {
-      "id": "e6949cda6e28",
-      "title": "Bloomberg: детали американского F-35 попали в Китай из-за ошибки логистов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008702",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637610"
-    },
-    {
-      "id": "813b6ddd021a",
-      "title": "Правительство выделило еще почти 11 млрд рублей на поддержку закрытых аэропортов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008703",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637600"
-    },
-    {
-      "id": "f3381724e0c3",
-      "title": "При обстреле танкера вблизи Катара пострадали моряки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008704",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637588"
-    },
-    {
-      "id": "781609e999ab",
-      "title": "Экс-глава Apple Тим Кук продал пакет акций компании почти на $64 млн",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008705",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637576"
-    },
-    {
-      "id": "fcf18c63abb0",
-      "title": "Число пострадавших при нападении в техникуме в Польше выросло до девяти месяцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008706",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 05:08",
-      "parsed_at": "2026-10-08T05:08:42.637557"
     }
   ]
 }
