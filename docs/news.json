@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-11T03:05:48.726615",
+  "last_updated": "2026-10-11T09:05:49.761409",
   "stats": {
     "zhkh": 3,
-    "mchs": 2,
+    "mchs": 4,
     "works": 0,
     "events": 1,
-    "news": 114,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "b799a8fccadc",
+      "title": "Премьер-министр Эстонии пожаловался на смену позиции США по российскому топливу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023879",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361676"
+    },
+    {
+      "id": "cf4f3e1271f0",
+      "title": "Главные новости к утру 11 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023881",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361657"
+    },
+    {
+      "id": "7bc6d763c2fa",
+      "title": "Пожар произошел при ударе беспилотников по инфраструктуре в пригороде Владимира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023884",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361640"
+    },
+    {
+      "id": "a260c884b424",
+      "title": "В аэропорту Сочи из-за упавших обломков БПЛА произошел пожар",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023886",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361602"
+    },
+    {
+      "id": "8c5add5977a3",
+      "title": "Главные анонсы 12–18 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023889",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361582"
+    },
+    {
+      "id": "327d70a13383",
+      "title": "Фицо заявил о наивности руководства ЕС после топливной сделки России и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023890",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361557"
+    },
+    {
+      "id": "b71313df60e4",
+      "title": "Минобороны отчиталось об ударе по дата-центру в Одессе и сухогрузу в Черном море",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023893",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361516"
+    },
+    {
+      "id": "7eb422a7d5a1",
+      "title": "Премьер Греции пообещал вернуть скульптуры Парфенона из Британского музея",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023109",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361494"
+    },
+    {
+      "id": "dc7474680cc7",
+      "title": "Умерла чемпионка России по хоккею и тренер Юлия Карпова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023895",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 09:05",
+      "parsed_at": "2026-10-11T09:05:48.361464"
+    },
     {
       "id": "c2a1d9f87fbe",
       "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.10 19:41",
       "parsed_at": "2026-10-08T19:41:43.235742"
-    },
-    {
-      "id": "d1023f83e1bf",
-      "title": "«Рамблер» запустил единого ИИ-помощника на базе «ГигаЧата»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009373",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235732"
-    },
-    {
-      "id": "0bf4c59c8648",
-      "title": "Московский клуб провел испанскую замену",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009366",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235722"
-    },
-    {
-      "id": "870cc6a9e2b5",
-      "title": "Вэнс: Microsoft исключена из программы по получению ВНЖ для сотрудников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009371",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235711"
-    },
-    {
-      "id": "ea341e981ca0",
-      "title": "«Три вулкана» границы не перейдут",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009351",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235699"
-    },
-    {
-      "id": "53a95dff0b83",
-      "title": "Аэропорты Москвы перешли на усиленный режим работы после введения ограничений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009391",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 19:41",
-      "parsed_at": "2026-10-08T19:41:43.235680"
-    },
-    {
-      "id": "e913587e8874",
-      "title": "75-летний судья умер на ринге после запрещенного приема рестлера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008942",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023356"
-    },
-    {
-      "id": "4a3b17dbb708",
-      "title": "Инвесторы смогут подключать к брокерскому счету ИИ-агентов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008878",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023332"
-    },
-    {
-      "id": "9fddef3b1167",
-      "title": "Греф составил топ активов для частного инвестора",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008920",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023314"
-    },
-    {
-      "id": "02322523940b",
-      "title": "Суд в Индии дал три недели на репатриацию экипажа с задержанного танкера Unity",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9008950",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.10 12:14",
-      "parsed_at": "2026-10-08T12:14:54.023276"
     }
   ]
 }
