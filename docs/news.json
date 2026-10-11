@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T16:12:02.859627",
+  "last_updated": "2026-10-11T21:13:27.835518",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "7478520d885f",
+      "title": "Хуситы подтвердили удары по аэропорту в Эр-Рияде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024193",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100437"
+    },
+    {
+      "id": "36f51c1cf8e3",
+      "title": "Находка мальчика указала на захоронение жертв кораблекрушения XVIII века",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9023262",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100417"
+    },
+    {
+      "id": "52542d4eaee3",
+      "title": "Армейцы дернули стоп-кран",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024192",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100373"
+    },
+    {
+      "id": "490d10417145",
+      "title": "В Польше задержали подозреваемого в подготовке покушения на премьер-министра",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024198",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100356"
+    },
+    {
+      "id": "55fbca6fa24b",
+      "title": "«Яндекс» объяснил ограничение работы части функций «Диска»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024201",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100338"
+    },
+    {
+      "id": "8e420efc8f11",
+      "title": "В наших стойках выбыло",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024163",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100320"
+    },
+    {
+      "id": "73344099c46a",
+      "title": "Правительство разрешит экспортировать дизель отдельным компаниям по квотам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024205",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100301"
+    },
+    {
+      "id": "b1cc17515874",
+      "title": "«Манчестер Сити» обыграл «Ливерпуль» в матче АПЛ со счетом 3:0",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.10 21:13",
+      "parsed_at": "2026-10-11T21:13:26.100272"
+    },
     {
       "id": "88601bb6305b",
       "title": "«Яндекс» вновь сообщил о сбоях в работе «Алисы» и умных устройств",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.10 04:35",
       "parsed_at": "2026-10-09T04:35:58.381305"
-    },
-    {
-      "id": "b2b8fb316721",
-      "title": "Maritime: атакованное у Болгарии судно Alfa Watan опустилось на глубину 2 км",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009561",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381295"
-    },
-    {
-      "id": "f08caffba9e7",
-      "title": "Politico: НАТО призывает Россию не беспокоиться насчет ядерных учений в Италии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009563",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381281"
-    },
-    {
-      "id": "2588b5bee9da",
-      "title": "Прокуратура запросила до 12 лет тюрьмы для врачей Марадоны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009564",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381265"
-    },
-    {
-      "id": "92eb0815b877",
-      "title": "Fars: несколько танкеров подорвались на минах в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009565",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 04:35",
-      "parsed_at": "2026-10-09T04:35:58.381242"
-    },
-    {
-      "id": "9f52ae3ace29",
-      "title": "За день над Россией сбили более 100 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955915"
-    },
-    {
-      "id": "851c3895853a",
-      "title": "Reuters: Уиткофф и Кушнер встретятся с представителями Украины 9 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009530",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955903"
-    },
-    {
-      "id": "febad1af5075",
-      "title": "Reuters: самолет Saudia загорелся в аэропорту Эр-Рияда после ударов хуситов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009531",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955890"
-    },
-    {
-      "id": "5611e2688020",
-      "title": "СКР возбудил дело о теракте после удара беспилотника по автобусу в ЛНР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009533",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 00:41",
-      "parsed_at": "2026-10-09T00:41:08.955877"
     }
   ]
 }
