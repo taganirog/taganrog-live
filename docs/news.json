@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T20:12:00.065595",
+  "last_updated": "2026-10-13T02:41:41.483378",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "60d2bd48f651",
+      "title": "Politico: Мерц представил обновленный имидж партии ХДС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025077",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243816"
+    },
+    {
+      "id": "8643ab52e924",
+      "title": "Два аэропорта Москвы ввели ограничения на полеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025078",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243799"
+    },
+    {
+      "id": "45d418f4e69f",
+      "title": "Трамп: для завершения конфликта необходима встреча Путина и Зеленского",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025079",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243782"
+    },
+    {
+      "id": "fce1d5a7a12c",
+      "title": "Импорт растет параллельно с экспортом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024999",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243737"
+    },
+    {
+      "id": "edb7af8abfc1",
+      "title": "Говорить необязательно",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025015",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243718"
+    },
+    {
+      "id": "8c065d5da81f",
+      "title": "Силы ПВО отражают атаку БПЛА на промзоны Ставропольского края",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025080",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243700"
+    },
+    {
+      "id": "f840e0a54f8a",
+      "title": "На пути к Москве было сбито 10 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025081",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243678"
+    },
+    {
+      "id": "cbc0ac539b73",
+      "title": "Болгария запросила помощь ЕС и НАТО в расследовании атаки на суда в Черном море",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 02:41",
+      "parsed_at": "2026-10-13T02:41:39.243649"
+    },
     {
       "id": "d1620de44774",
       "title": "В FIDE хотят сократить контроль времени в классических шахматах",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.10 09:08",
       "parsed_at": "2026-10-10T09:08:12.981311"
-    },
-    {
-      "id": "8105dbb24692",
-      "title": "Шесть человек пострадали при атаке БПЛА на Ростовскую область",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023680",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981289"
-    },
-    {
-      "id": "ed5d0a49a847",
-      "title": "Джоан Роулинг выпустит книги о Макгонагалл и близнецах Уизли",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023096",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981258"
-    },
-    {
-      "id": "683ee3436d44",
-      "title": "Авгиевы псарни Калуги",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023279",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409254"
-    },
-    {
-      "id": "c0d20fe682f1",
-      "title": "СМИ: Криштиану Роналду отстранили от игр за сборную Португалии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023351",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409245"
-    },
-    {
-      "id": "b3cbcb7877a8",
-      "title": "Новак: Россия незамедлительно начинает снимать ограничения на экспорт дизеля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023354",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409232"
-    },
-    {
-      "id": "97278ec49e8c",
-      "title": "Индекс Мосбиржи поднялся выше 2400 пунктов после разговора Путина и Трампа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023355",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409208"
-    },
-    {
-      "id": "0b60ff232587",
-      "title": "Дизельная сделка России и США. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023356",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409198"
-    },
-    {
-      "id": "94c19d223022",
-      "title": "Путин поблагодарил первую леди США за помощь в воссоединении разлученных семей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023357",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409188"
     }
   ]
 }
