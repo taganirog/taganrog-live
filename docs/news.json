@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T04:28:37.055537",
+  "last_updated": "2026-10-12T10:47:03.525529",
   "stats": {
     "zhkh": 4,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "a794c0ba96c3",
+      "title": "«Ради этого Вашингтон готов пойти на любые меры»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024406",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785682"
+    },
+    {
+      "id": "3c49eb5ecffc",
+      "title": "Жителей Владивостока начали информировать о местонахождении укрытий",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024416",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785673"
+    },
+    {
+      "id": "000d307172da",
+      "title": "Корпоративные новости на “Ъ FM”",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024418",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785664"
+    },
+    {
+      "id": "a08cee952e82",
+      "title": "В Минобороны появился сервис для обучения нейросетей военного назначения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024430",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785643"
+    },
+    {
+      "id": "5a3188025599",
+      "title": "ВЦИОМ сообщил о сбое в работе сайта и базы данных",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024437",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785634"
+    },
+    {
+      "id": "ee05691f0937",
+      "title": "Суд на Кубани приговорил отца и дочь к 18 и семи годам колонии за госизмену",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024436",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785625"
+    },
+    {
+      "id": "0b148c4fa8bd",
+      "title": "Чибис объявил о планах запретить продажу вейпов в Мурманской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024444",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785615"
+    },
+    {
+      "id": "424d95aa1149",
+      "title": "Классная работа на дому",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9016841",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785604"
+    },
+    {
+      "id": "2ac2301c1a6b",
+      "title": "Bild: Швайцер заменит Бас на посту главы Минтруда Германии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024449",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 10:47",
+      "parsed_at": "2026-10-12T10:47:00.785589"
+    },
     {
       "id": "a97e6fb76ff8",
       "title": "Зарубежные студенты занялись здоровьем",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.10 23:11",
       "parsed_at": "2026-10-09T23:11:31.236812"
-    },
-    {
-      "id": "cec809c73430",
-      "title": "Двое погибли при ударе FPV-дрона по автомобилю в Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023344",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236794"
-    },
-    {
-      "id": "58ceccb793ce",
-      "title": "Дмитриев заявил о пользе энергетического сотрудничества США и России для мира",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023345",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236774"
-    },
-    {
-      "id": "c6d3c4935f29",
-      "title": "Трамп назначил Кэти Захарию пресс-секретарем Белого дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023348",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236749"
-    },
-    {
-      "id": "463e4384ee36",
-      "title": "В Туапсе при падении обломков БПЛА пострадал один человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023347",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236717"
-    },
-    {
-      "id": "e0c1201cbe98",
-      "title": "МУС назвал санкции США посягательством на верховенство права",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023227",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376920"
-    },
-    {
-      "id": "a2915de7fee0",
-      "title": "Зарплатная гонка подошла к финишу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023187",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376900"
-    },
-    {
-      "id": "ee6f5f1f9a15",
-      "title": "Новым сенатором от липецкого облсовета станет Герой России Евгений Саввин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023214",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376883"
-    },
-    {
-      "id": "1dec6a6869a0",
-      "title": "Проекты ДоброFON — лауреаты премии «Лучшие социальные проекты России»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023196",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376864"
-    },
-    {
-      "id": "1a6eb460d21a",
-      "title": "На подлете к Москве сбили 15 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023239",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376823"
     }
   ]
 }
