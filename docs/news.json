@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-12T10:47:03.525529",
+  "last_updated": "2026-10-12T20:12:00.065595",
   "stats": {
-    "zhkh": 4,
-    "mchs": 4,
+    "zhkh": 3,
+    "mchs": 5,
     "works": 0,
-    "events": 0,
-    "news": 112,
+    "events": 1,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "d1620de44774",
+      "title": "В FIDE хотят сократить контроль времени в классических шахматах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024970",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.756095"
+    },
+    {
+      "id": "6afa52e2af25",
+      "title": "Региональная калибровка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024960",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.756077"
+    },
+    {
+      "id": "15ca0db6e4cc",
+      "title": "Google предстала перед судом во Франции из-за фальшивых отзывов о замке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024968",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.756057"
+    },
+    {
+      "id": "a47b011089a1",
+      "title": "Сладкие обещания не работают",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024978",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.756019"
+    },
+    {
+      "id": "dfdcbe393ba3",
+      "title": "Рубль разогрелся на дизеле",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024948",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.756001"
+    },
+    {
+      "id": "f0335f2a09bf",
+      "title": "Tate открыл выставку об искусстве и моде Британии 1990-х",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9024698",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.755982"
+    },
+    {
+      "id": "83dd47dd18d0",
+      "title": "«Идея на миллион с Олегом Богдановым»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024980",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.755960"
+    },
+    {
+      "id": "b4ec0b9e9d4e",
+      "title": "МЧС: экипаж севшего на мель сухогруза Sunny Faith не запрашивал помощи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024955",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "12.10 20:11",
+      "parsed_at": "2026-10-12T20:11:58.755924"
+    },
     {
       "id": "a794c0ba96c3",
       "title": "«Ради этого Вашингтон готов пойти на любые меры»",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.10 03:09",
       "parsed_at": "2026-10-10T03:09:14.409188"
-    },
-    {
-      "id": "7dcd9b8ab5b7",
-      "title": "Ушаков рассказал, как Путин и Трамп не хотели заканчивать разговор",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023358",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409178"
-    },
-    {
-      "id": "2040fe897f75",
-      "title": "Путин заявил Трампу, что Россия подумает о сроках возобновления переговоров с Украиной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023645",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409166"
-    },
-    {
-      "id": "b61d5bdc5a99",
-      "title": "США и союзники обсудили завершение российско-украинского конфликта до зимы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023646",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 03:09",
-      "parsed_at": "2026-10-10T03:09:14.409148"
-    },
-    {
-      "id": "bdbb8b49765b",
-      "title": "Минцифры: услуги связи не должны дорожать быстрее тарифов ЖКХ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023338",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236900"
-    },
-    {
-      "id": "d700450ba88f",
-      "title": "Алексей Батраков отметился вторым результативным действием за «Галатасарай»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023339",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236885"
-    },
-    {
-      "id": "3224cb514271",
-      "title": "Объем социальной рекламы может достичь в 2026 году 63 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023286",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236867"
-    },
-    {
-      "id": "406e44e8705f",
-      "title": "Минфин США выдал временную лицензию на поставки дизеля из России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023340",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236831"
-    },
-    {
-      "id": "e80257e8de9d",
-      "title": "Ozon с 13 октября закроет доступ к страховке селлеров от повреждений и атак БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023341",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 23:11",
-      "parsed_at": "2026-10-09T23:11:31.236812"
     }
   ]
 }
