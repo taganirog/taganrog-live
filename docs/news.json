@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-12T01:12:12.245689",
+  "last_updated": "2026-10-12T04:28:37.055537",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 4,
     "works": 0,
-    "events": 1,
+    "events": 0,
     "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "a97e6fb76ff8",
+      "title": "Зарубежные студенты занялись здоровьем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9023951",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528489"
+    },
+    {
+      "id": "d6ec57c2d69c",
+      "title": "Пошлинами не пошатнуть",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024194",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528468"
+    },
+    {
+      "id": "d4cb4d36b6b6",
+      "title": "Инвесторы без права на суд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024197",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528450"
+    },
+    {
+      "id": "2e0930a6f6f0",
+      "title": "В Брянской области восстановили движение поездов на мосту после удара БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024259",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528410"
+    },
+    {
+      "id": "910ed9c7c143",
+      "title": "Бессент: реакция Европы на дизельное соглашение США лицемерна",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024262",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528385"
+    },
+    {
+      "id": "f9eeb4b8a168",
+      "title": "США уступили Британии и разрешили передавать ей ИИ-модели для проверки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024263",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528367"
+    },
+    {
+      "id": "9e397868a192",
+      "title": "Мадьяр: Венгрия не сможет быстро отказаться от нефти и газа из РФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024264",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528346"
+    },
+    {
+      "id": "009affcdc5a4",
+      "title": "В Подмосковье объявили желтый уровень опасности из-за сильного дождя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024265",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528326"
+    },
+    {
+      "id": "2919b2c0b585",
+      "title": "В Иране пригрозили уничтожить цифровую инфраструктуру США на Ближнем Востоке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024266",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.10 04:28",
+      "parsed_at": "2026-10-12T04:28:35.528296"
+    },
     {
       "id": "823148708384",
       "title": "Один человек погиб при ударе БПЛА по машине в Белгородской области",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.10 18:25",
       "parsed_at": "2026-10-09T18:25:27.376823"
-    },
-    {
-      "id": "16e00a3d554d",
-      "title": "Власти Черногории выдворят авторов Telegram-канала «Рыбарь»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023241",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376805"
-    },
-    {
-      "id": "535348833497",
-      "title": "Лауреат не прав, а лев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023207",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376784"
-    },
-    {
-      "id": "9a5fff8f86a2",
-      "title": "Подавшему в суд на организаторов концерта Канье Уэста воронежцу вернули 132 тысячи за билеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023229",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376763"
-    },
-    {
-      "id": "6e3f204f07bf",
-      "title": "Кайли Дженнер станет продюсером и исполнительницей главной роли в своем первом сериале",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9009757",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 18:25",
-      "parsed_at": "2026-10-09T18:25:27.376727"
-    },
-    {
-      "id": "3016b092b0ab",
-      "title": "Трамп обвинил СМИ в искажении его слов об ударах по Сан-Диего и Лос-Анджелесу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009758",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799139"
-    },
-    {
-      "id": "0123ff2baf67",
-      "title": "Трамп пообещал не атаковать Иран до выборов в ноябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009718",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799121"
-    },
-    {
-      "id": "9ff930f3921c",
-      "title": "Россияне впервые за восемь лет снизили ожидания по зарплатам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009748",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799103"
-    },
-    {
-      "id": "fd6a24f7d4e9",
-      "title": "В Нижегородской области при атаке БПЛА погиб военнослужащий отряда «Барс-НН»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009763",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799063"
-    },
-    {
-      "id": "e530297d83a7",
-      "title": "В Санкт-Петербург не пропустили более 20 тонн авокадо с вредителем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009769",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.10 11:15",
-      "parsed_at": "2026-10-09T11:15:24.799040"
     }
   ]
 }
