@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-13T22:24:59.272214",
+  "last_updated": "2026-10-14T02:21:09.292124",
   "stats": {
     "zhkh": 3,
-    "mchs": 5,
+    "mchs": 7,
     "works": 2,
     "events": 3,
-    "news": 107,
+    "news": 105,
     "total": 120
   },
   "items": [
+    {
+      "id": "0bc4d0f00c38",
+      "title": "Силы ПВО сбили 30 БПЛА на пути к Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025885",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426462"
+    },
+    {
+      "id": "99bcf6321a2c",
+      "title": "10 самолетов из Турции развернулись по пути в Москву из-за ограничений на полеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025886",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426445"
+    },
+    {
+      "id": "15070a40cc8c",
+      "title": "«Факел» сыграл с огоньком",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025883",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426426"
+    },
+    {
+      "id": "eb533022b963",
+      "title": "В Аксае зафиксировали превышение нормы вредных веществ в воздухе из-за пожара",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025902",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426403"
+    },
+    {
+      "id": "6bfe787144f6",
+      "title": "Во Внуково эвакуировали часть пассажиров из-за пожарной сигнализации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025906",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426364"
+    },
+    {
+      "id": "56d57a7822cf",
+      "title": "В США сообщили о транспортировке 19 млн баррелей нефти через Ормузский пролив",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025910",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426323"
+    },
+    {
+      "id": "34ec26ef7941",
+      "title": "Россиянин зарядил каталонцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025911",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426300"
+    },
+    {
+      "id": "e06d536ce24b",
+      "title": "ФБР задержало сотрудника OpenAI, установившего прослушку в офисе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025916",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426279"
+    },
+    {
+      "id": "767e3a21c798",
+      "title": "На пути к Москве было сбито 20 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025917",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:03.426250"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 02:21",
+      "parsed_at": "2026-10-14T02:21:02.457212"
+    },
     {
       "id": "439ace48d5f0",
       "title": "В Лондоне открылась первая крупная выставка работ Джонни Деппа",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.10 23:57",
       "parsed_at": "2026-10-10T23:57:50.708590"
-    },
-    {
-      "id": "2660d236a49a",
-      "title": "КСИР сообщил о подрыве танкера в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023847",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708577"
-    },
-    {
-      "id": "8c073a8d37fa",
-      "title": "Вратарь «Рейнджерс» Шестеркин выбыл до конца сезона НХЛ из-за травмы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023850",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708564"
-    },
-    {
-      "id": "e828c300ba2d",
-      "title": "Правительство частично сняло запрет на экспорт дизеля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023854",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708536"
-    },
-    {
-      "id": "18facfd6b109",
-      "title": "Глава Палестины перенес выборы на год",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708522"
-    },
-    {
-      "id": "8db0c1ec79cb",
-      "title": "«Краснодару» не хватило удара",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023856",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708506"
-    },
-    {
-      "id": "e56bba22c990",
-      "title": "США выделят 4 млн баррелей нефти из резервов из-за урагана «Исайяс»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023858",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708494"
-    },
-    {
-      "id": "9026aec24e57",
-      "title": "В Федерации футбола Португалии выразили надежду на скорое возвращение Роналду",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023860",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708480"
-    },
-    {
-      "id": "e0cb5cf5daaa",
-      "title": "«Яндекс» добавил атаки БПЛА в список форс-мажоров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023862",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708458"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:49.713685"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:49.713659"
     }
   ]
 }
