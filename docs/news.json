@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-13T07:50:24.769456",
+  "last_updated": "2026-10-13T15:23:43.447101",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
-    "works": 0,
+    "works": 1,
     "events": 1,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "cf1fd60daf90",
+      "title": "Посольство предупредило россиян об обострении обстановки на Маврикии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249976"
+    },
+    {
+      "id": "5844ce35ef85",
+      "title": "Британский велогонщик Ричардсон не выступит на ЧМ из-за обвинений в расизме",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025546",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249957"
+    },
+    {
+      "id": "098a5cdfbfbc",
+      "title": "АвтоВАЗ открыл подписку на фургон Lada Largus",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025549",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249938"
+    },
+    {
+      "id": "8b4ee8592374",
+      "title": "Путин обсудил с президентом ОАЭ поставки ДТ и ситуацию в Персидском заливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025551",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249915"
+    },
+    {
+      "id": "dfb1eaa93a1c",
+      "title": "ЕС ввел санкции против 200 физлиц и компаний в сфере электроники",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025513",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249874"
+    },
+    {
+      "id": "ba4fccc27db2",
+      "title": "Le Figaro: французские фермеры заменяют виноградники фисташками и чечевицей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025536",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249852"
+    },
+    {
+      "id": "49ef7653ac7f",
+      "title": "Минтранс до конца года внесет в ПДД знак парковки для многодетных семей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025555",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249833"
+    },
+    {
+      "id": "d85bbb2b36d9",
+      "title": "Один человек погиб и несколько пострадали на американских горках в штате Джорджия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025550",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249808"
+    },
+    {
+      "id": "d8a6492a16fc",
+      "title": "Лукашенко назвал выгодным строительство Западом забора на границе с Белоруссией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025560",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "13.10 15:23",
+      "parsed_at": "2026-10-13T15:23:41.249777"
+    },
     {
       "id": "1172837e024a",
       "title": "27 человек пострадали при землетрясении в Панаме магнитудой 6",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.10 20:34",
       "parsed_at": "2026-10-10T20:34:01.159257"
-    },
-    {
-      "id": "230fa459f9b8",
-      "title": "Nike и Patagonia объявили войну микроволокнам",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023110",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 20:34",
-      "parsed_at": "2026-10-10T20:34:01.159237"
-    },
-    {
-      "id": "b33d3b84b462",
-      "title": "В НАТО заявили, что не планируют блокировать Калининград",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023772",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534550"
-    },
-    {
-      "id": "805deb71363f",
-      "title": "Глава «Росатома» заявил о намерении дойти до конца в суде с Финляндией по АЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023777",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534536"
-    },
-    {
-      "id": "aff2037406ea",
-      "title": "Москва заправила сделку топливом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023769",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534520"
-    },
-    {
-      "id": "2245f955b492",
-      "title": "Белоруссия запретила ввоз и продажу одного из чаев российского Greenfield",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023782",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534484"
-    },
-    {
-      "id": "6cfe1184581f",
-      "title": "Обзор зарубежных СМИ: Почему ураган в США грозит ростом мировых цен на нефть?",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023781",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534467"
-    },
-    {
-      "id": "493b21477ac7",
-      "title": "В Забайкалье возбудили уголовное дело после жесткой посадки самолета Cessna",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023785",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534448"
-    },
-    {
-      "id": "a0b49c763d7d",
-      "title": "Джордж Клуни откроет ресторан на юге Франции",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023101",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534431"
-    },
-    {
-      "id": "8e4b57b79c69",
-      "title": "Финский премьер Орпо призвал не пускать российских туристов в Европу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023791",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534414"
     }
   ]
 }
