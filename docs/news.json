@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T02:41:41.483378",
+  "last_updated": "2026-10-13T07:50:24.769456",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "1172837e024a",
+      "title": "27 человек пострадали при землетрясении в Панаме магнитудой 6",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025090",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664189"
+    },
+    {
+      "id": "f371ad138f7b",
+      "title": "Более 24 тысяч жителей Владивостока остались без света из-за аварии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025092",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": true,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664169"
+    },
+    {
+      "id": "79683ea91553",
+      "title": "Трамп не верит в то, что Россия и Китай поддерживают Иран",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025098",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664154"
+    },
+    {
+      "id": "f6631f9874f8",
+      "title": "Главные новости к утру 13 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025108",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664115"
+    },
+    {
+      "id": "72ccf0776059",
+      "title": "В НАТО осудили действия Ирана против стран-членов блока",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025112",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664099"
+    },
+    {
+      "id": "5239cb4fb2ae",
+      "title": "Путешествия растерялись",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9024916",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664082"
+    },
+    {
+      "id": "ec7c1c2b8055",
+      "title": "Аэропорт Внуково с начала суток принял 37 и отправил 30 рейсов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025122",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664064"
+    },
+    {
+      "id": "7bd77f7d9101",
+      "title": "ВМС Франции задержали нефтяной танкер в Индийском океане",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025113",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.10 07:50",
+      "parsed_at": "2026-10-13T07:50:20.664034"
+    },
     {
       "id": "60d2bd48f651",
       "title": "Politico: Мерц представил обновленный имидж партии ХДС",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.10 15:48",
       "parsed_at": "2026-10-10T15:48:43.534414"
-    },
-    {
-      "id": "bdbf7a21349f",
-      "title": "Додик намерен поднять на уровень БиГ вопрос о газопроводе для поставок из России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023790",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "10.10 15:48",
-      "parsed_at": "2026-10-10T15:48:43.534386"
-    },
-    {
-      "id": "4a2aba885185",
-      "title": "Во время атаки на Ростовскую область были повреждены дома и железнодорожный мост",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023656",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981448"
-    },
-    {
-      "id": "cda0fe65d9db",
-      "title": "На подлете к Москве сбили 10 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023658",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981429"
-    },
-    {
-      "id": "f14cad3e5795",
-      "title": "Главные новости к утру 10 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023660",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981410"
-    },
-    {
-      "id": "4a180ce37eb6",
-      "title": "В Мытищах произошло три аварии на одном участке шоссе, один человек погиб",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023661",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981370"
-    },
-    {
-      "id": "6275ca71eea3",
-      "title": "Все московские аэропорты приостановили работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023671",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981351"
-    },
-    {
-      "id": "bc8923799770",
-      "title": "В Ростовской области открыли горячую линию после атаки беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023672",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981331"
-    },
-    {
-      "id": "0ec33a2b2087",
-      "title": "Минобороны России отчиталось об ударе по судну с грузом для ВСУ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023675",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 09:08",
-      "parsed_at": "2026-10-10T09:08:12.981311"
     }
   ]
 }
