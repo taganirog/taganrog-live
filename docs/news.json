@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T10:51:22.844476",
+  "last_updated": "2026-10-14T16:12:54.306509",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "229945b1d1c3",
+      "title": "Английские клубы оказались на грани",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026464",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724333"
+    },
+    {
+      "id": "252a5c800f60",
+      "title": "Песков: детали энергетического перемирия между Россией и Украиной пока не конкретизированы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026486",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724315"
+    },
+    {
+      "id": "ec4a0e9ac29a",
+      "title": "Минцифры помогло «Яндексу» найти площадки для переноса ключевых систем после атак",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026496",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724295"
+    },
+    {
+      "id": "c2a1d9f87fbe",
+      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/8956438",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724266"
+    },
+    {
+      "id": "88715dd0f3ea",
+      "title": "Reuters: ограничения Starlink повлияют на способность ВСУ сбивать беспилотники",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026501",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724246"
+    },
+    {
+      "id": "76253fea7c14",
+      "title": "В Минтрансе назвали инвестпрограмму РЖД на 2027 год сбалансированной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026483",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724227"
+    },
+    {
+      "id": "bf23d5622ce2",
+      "title": "Комитет Совета федерации по регламенту возглавил Владимир Джабаров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026490",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724206"
+    },
+    {
+      "id": "e2894d2b441e",
+      "title": "Бюро ABOVE стало новым резидентом STONE Towers",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026216",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724187"
+    },
+    {
+      "id": "e79390c950a2",
+      "title": "Американские теннисистки Гауфф и Пегула квалифицировались на Итоговый турнир WTA",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026519",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724165"
+    },
+    {
+      "id": "15a3aee86ae4",
+      "title": "С рэпера Джигана взыскали 1,7 млн рублей задолженности по алиментам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026484",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 16:12",
+      "parsed_at": "2026-10-14T16:12:52.724133"
+    },
     {
       "id": "a2e2eb84d290",
       "title": "Захарова: РФ указывала Японии на недопустимость шпионажа под видом журналистики",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.10 21:13",
       "parsed_at": "2026-10-11T21:13:26.100356"
-    },
-    {
-      "id": "55fbca6fa24b",
-      "title": "«Яндекс» объяснил ограничение работы части функций «Диска»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024201",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100338"
-    },
-    {
-      "id": "8e420efc8f11",
-      "title": "В наших стойках выбыло",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024163",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100320"
-    },
-    {
-      "id": "73344099c46a",
-      "title": "Правительство разрешит экспортировать дизель отдельным компаниям по квотам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024205",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100301"
-    },
-    {
-      "id": "b1cc17515874",
-      "title": "«Манчестер Сити» обыграл «Ливерпуль» в матче АПЛ со счетом 3:0",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100272"
-    },
-    {
-      "id": "88601bb6305b",
-      "title": "«Яндекс» вновь сообщил о сбоях в работе «Алисы» и умных устройств",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024003",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930365"
-    },
-    {
-      "id": "9d92b778f1e6",
-      "title": "«Тушинские» попали в зону вылета",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024001",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930356"
-    },
-    {
-      "id": "bfbc2c6965f1",
-      "title": "«Удар хуситов по гражданской цели в Саудовской Аравии следует считать ожидаемым ответом»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023992",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930348"
-    },
-    {
-      "id": "5c12a4520aa7",
-      "title": "Владимир Путин проведет совещание по кибербезопасности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024010",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930322"
-    },
-    {
-      "id": "4cfbfc28b20b",
-      "title": "WSJ: муж Камалы Харрис выступает против ее участия в президентских выборах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024009",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930313"
-    },
-    {
-      "id": "82027fd93daa",
-      "title": "Пасечник: в результате атак дронов в ЛНР погибли два человека и 13 ранены",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024022",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930303"
     }
   ]
 }
