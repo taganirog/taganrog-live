@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-14T21:05:47.938890",
+  "last_updated": "2026-10-15T00:50:49.985406",
   "stats": {
-    "zhkh": 3,
-    "mchs": 5,
+    "zhkh": 1,
+    "mchs": 6,
     "works": 3,
     "events": 3,
-    "news": 106,
+    "news": 107,
     "total": 120
   },
   "items": [
+    {
+      "id": "890c785e098a",
+      "title": "Погода высокой точности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009492",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584295"
+    },
+    {
+      "id": "ed6b5bce9026",
+      "title": "Магнитный подзатыльник",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009493",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584276"
+    },
+    {
+      "id": "7a2fe0b26d90",
+      "title": "Поэтический ритм в цифровой среде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009494",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584259"
+    },
+    {
+      "id": "73be3112da65",
+      "title": "Хуманзе, или История идеи скрещивания человека с обезьяной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009496",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584216"
+    },
+    {
+      "id": "6d6f6c0bfb21",
+      "title": "Апгрейд человечности?",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009498",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584199"
+    },
+    {
+      "id": "409358678970",
+      "title": "Академик Иванов: наука будущего будет междисциплинарной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9009500",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584182"
+    },
+    {
+      "id": "e226d906889b",
+      "title": "Системно значимые доходы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026750",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584163"
+    },
+    {
+      "id": "ac24c3d28057",
+      "title": "Два коммерческих судна затонули у Ормузского пролива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026813",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584143"
+    },
+    {
+      "id": "17240755eeef",
+      "title": "Посольство РФ ответило Нидерландам на планы задерживать суда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026815",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 00:50",
+      "parsed_at": "2026-10-15T00:50:48.584110"
+    },
     {
       "id": "b9daa8c79c63",
       "title": "Россия и Африка обсудили подготовку кадров для энергетики",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.10 04:28",
       "parsed_at": "2026-10-12T04:28:35.528410"
-    },
-    {
-      "id": "910ed9c7c143",
-      "title": "Бессент: реакция Европы на дизельное соглашение США лицемерна",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024262",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528385"
-    },
-    {
-      "id": "f9eeb4b8a168",
-      "title": "США уступили Британии и разрешили передавать ей ИИ-модели для проверки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024263",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528367"
-    },
-    {
-      "id": "9e397868a192",
-      "title": "Мадьяр: Венгрия не сможет быстро отказаться от нефти и газа из РФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024264",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528346"
-    },
-    {
-      "id": "009affcdc5a4",
-      "title": "В Подмосковье объявили желтый уровень опасности из-за сильного дождя",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024265",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528326"
-    },
-    {
-      "id": "2919b2c0b585",
-      "title": "В Иране пригрозили уничтожить цифровую инфраструктуру США на Ближнем Востоке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024266",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528296"
-    },
-    {
-      "id": "823148708384",
-      "title": "Один человек погиб при ударе БПЛА по машине в Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024230",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731899"
-    },
-    {
-      "id": "ade2b9ef7526",
-      "title": "Axios: Уиткофф и Кушнер отложили поездку в Москву",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024232",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731881"
-    },
-    {
-      "id": "e9a719426747",
-      "title": "Нетаньяху потребовал привлечь к ответственности авторов фильма о гибели гражданских в Газе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024233",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731863"
-    },
-    {
-      "id": "f99817b5f721",
-      "title": "Сложились факторы роста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024018",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731819"
     }
   ]
 }
