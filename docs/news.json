@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T05:02:35.153783",
+  "last_updated": "2026-10-14T10:51:22.844476",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
@@ -9,6 +9,182 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "a2e2eb84d290",
+      "title": "Захарова: РФ указывала Японии на недопустимость шпионажа под видом журналистики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030738"
+    },
+    {
+      "id": "07cf8f5d6fe3",
+      "title": "В Балакове отменили занятия в школах и закрыли детские сады после атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026088",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030721"
+    },
+    {
+      "id": "841d3fbad173",
+      "title": "Уральскому иеромонаху Никандру дали 7 лет из-за комментариев о генерале Власове",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026100",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030704"
+    },
+    {
+      "id": "08285782657a",
+      "title": "Минобороны: ВС РФ поразили ТЭЦ-6 и ТЭС «Трипольская» в Киевской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026093",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030667"
+    },
+    {
+      "id": "187d6b73b758",
+      "title": "Сбербанк ждет сохранения ключевой ставки ЦБ в октябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026103",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030649"
+    },
+    {
+      "id": "86a3fd43d716",
+      "title": "Аэропорт Шереметьево работает по скорректированному расписанию после атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026110",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030632"
+    },
+    {
+      "id": "383a90501e5d",
+      "title": "Рубль в зоне турбулентности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026097",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030614"
+    },
+    {
+      "id": "f3ff2e1d8f31",
+      "title": "ФБР арестовало сотрудника OpenAI по подозрению в прослушке руководства компании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026105",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030595"
+    },
+    {
+      "id": "b965832fd4a7",
+      "title": "В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026114",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:21.030569"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386834"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386816"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386573"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386553"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386528"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386496"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "14.10 10:51",
+      "parsed_at": "2026-10-14T10:51:17.386461"
+    },
     {
       "id": "3674c8daf0cb",
       "title": "Домам предписана идентификация",
@@ -1152,182 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.10 16:12",
       "parsed_at": "2026-10-11T16:12:00.930303"
-    },
-    {
-      "id": "c96b6f561069",
-      "title": "Тяжело в учении, нелегко в бою",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024002",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930293"
-    },
-    {
-      "id": "6f5e8c6513d0",
-      "title": "Интерес к якутскому кино вырос почти вдвое за два года",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023319",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930283"
-    },
-    {
-      "id": "e5193bda267b",
-      "title": "Власти Брянской области предупредили о сбросах мин с дронов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024023",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 16:12",
-      "parsed_at": "2026-10-11T16:12:00.930267"
-    },
-    {
-      "id": "b799a8fccadc",
-      "title": "Премьер-министр Эстонии пожаловался на смену позиции США по российскому топливу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023879",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361676"
-    },
-    {
-      "id": "cf4f3e1271f0",
-      "title": "Главные новости к утру 11 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023881",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361657"
-    },
-    {
-      "id": "7bc6d763c2fa",
-      "title": "Пожар произошел при ударе беспилотников по инфраструктуре в пригороде Владимира",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023884",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361640"
-    },
-    {
-      "id": "a260c884b424",
-      "title": "В аэропорту Сочи из-за упавших обломков БПЛА произошел пожар",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023886",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361602"
-    },
-    {
-      "id": "8c5add5977a3",
-      "title": "Главные анонсы 12–18 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023889",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361582"
-    },
-    {
-      "id": "327d70a13383",
-      "title": "Фицо заявил о наивности руководства ЕС после топливной сделки России и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023890",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361557"
-    },
-    {
-      "id": "b71313df60e4",
-      "title": "Минобороны отчиталось об ударе по дата-центру в Одессе и сухогрузу в Черном море",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023893",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361516"
-    },
-    {
-      "id": "7eb422a7d5a1",
-      "title": "Премьер Греции пообещал вернуть скульптуры Парфенона из Британского музея",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023109",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361494"
-    },
-    {
-      "id": "dc7474680cc7",
-      "title": "Умерла чемпионка России по хоккею и тренер Юлия Карпова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023895",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 09:05",
-      "parsed_at": "2026-10-11T09:05:48.361464"
-    },
-    {
-      "id": "c2a1d9f87fbe",
-      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/8956438",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176766"
-    },
-    {
-      "id": "cbc44e52cff4",
-      "title": "Как минимум 50 человек пострадали при ракетном ударе по аэропорту Эр-Рияда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023865",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176747"
-    },
-    {
-      "id": "a2a1b03401a5",
-      "title": "FT: США пригрозили лишить Украину разведданных из-за ударов по российским НПЗ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023866",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176728"
-    },
-    {
-      "id": "447b355ac1a4",
-      "title": "При ударе по аэропорту Эр-Рияда погибли 12 человек, 309 пострадали",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023867",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176709"
     }
   ]
 }
