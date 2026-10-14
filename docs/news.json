@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-14T16:12:54.306509",
+  "last_updated": "2026-10-14T21:05:47.938890",
   "stats": {
     "zhkh": 3,
     "mchs": 5,
-    "works": 2,
+    "works": 3,
     "events": 3,
-    "news": 107,
+    "news": 106,
     "total": 120
   },
   "items": [
+    {
+      "id": "b9daa8c79c63",
+      "title": "Россия и Африка обсудили подготовку кадров для энергетики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026686",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156858"
+    },
+    {
+      "id": "16129efe324b",
+      "title": "Дизелю не хватает мощности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026683",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156848"
+    },
+    {
+      "id": "a5025bdff0d1",
+      "title": "Деньги, льготы, дисциплина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026743",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156839"
+    },
+    {
+      "id": "924bc92cb02e",
+      "title": "Создателя токена HEX задержали в Стамбуле по запросу Интерпола",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026754",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156820"
+    },
+    {
+      "id": "f6faa56a5d0a",
+      "title": "Стартапы — дело молодых",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026690",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156809"
+    },
+    {
+      "id": "87c5cc30402d",
+      "title": "В регионах открыты для движения новые участки автодорог",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026665",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156798"
+    },
+    {
+      "id": "4b1bbaa2df6b",
+      "title": "ФАС предложила повысить тарифы «Транснефти» на прокачку нефти на 5%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026758",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156788"
+    },
+    {
+      "id": "6a51c3c129ee",
+      "title": "ФБР опровергло визит Кэша Патела в Россию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026761",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156776"
+    },
+    {
+      "id": "c621ad45c57c",
+      "title": "Минобороны России отчиталось об ударе по логистическому центру на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026764",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 21:05",
+      "parsed_at": "2026-10-14T21:05:46.156759"
+    },
     {
       "id": "229945b1d1c3",
       "title": "Английские клубы оказались на грани",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.10 01:12",
       "parsed_at": "2026-10-12T01:12:10.731819"
-    },
-    {
-      "id": "5c29fbb67c88",
-      "title": "Группа сенаторов обвинила Трампа в нарушении закона за дизельную сделку с РФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024235",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731803"
-    },
-    {
-      "id": "f346371f727f",
-      "title": "Axios: РФ пока не согласилась на объявленное Трампом энергетическое перемирие",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024234",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731784"
-    },
-    {
-      "id": "6b90d1681564",
-      "title": "За день над Россией сбили 112 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024249",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731764"
-    },
-    {
-      "id": "b6906e12b6ec",
-      "title": "Глава МИД Саудовской Аравии созвонился с Аракчи после удара хуситов по аэропорту",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024250",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731743"
-    },
-    {
-      "id": "f7b946d929f6",
-      "title": "Хуситы атаковали аэропорт Эд-Даммама в Саудовской Аравии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024252",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 01:12",
-      "parsed_at": "2026-10-12T01:12:10.731712"
-    },
-    {
-      "id": "7478520d885f",
-      "title": "Хуситы подтвердили удары по аэропорту в Эр-Рияде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024193",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100437"
-    },
-    {
-      "id": "36f51c1cf8e3",
-      "title": "Находка мальчика указала на захоронение жертв кораблекрушения XVIII века",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9023262",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100417"
-    },
-    {
-      "id": "52542d4eaee3",
-      "title": "Армейцы дернули стоп-кран",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024192",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100373"
-    },
-    {
-      "id": "490d10417145",
-      "title": "В Польше задержали подозреваемого в подготовке покушения на премьер-министра",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024198",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 21:13",
-      "parsed_at": "2026-10-11T21:13:26.100356"
     }
   ]
 }
