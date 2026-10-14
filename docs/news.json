@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-10-14T02:21:09.292124",
+  "last_updated": "2026-10-14T05:02:35.153783",
   "stats": {
     "zhkh": 3,
-    "mchs": 7,
+    "mchs": 5,
     "works": 2,
     "events": 3,
-    "news": 105,
+    "news": 107,
     "total": 120
   },
   "items": [
+    {
+      "id": "3674c8daf0cb",
+      "title": "Домам предписана идентификация",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025832",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.222000"
+    },
+    {
+      "id": "cd7667d1ae3a",
+      "title": "Малому бизнесу обновили «зонтик»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025837",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221983"
+    },
+    {
+      "id": "bf20ba6f5058",
+      "title": "CNN: Трамп может отказаться от трансляции казни стрелка из Форт-Худа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025918",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221967"
+    },
+    {
+      "id": "20868720349e",
+      "title": "Число сбитых на пути к Москве БПЛА выросло до 75",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025919",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221928"
+    },
+    {
+      "id": "a65d08abf845",
+      "title": "Более 30 летевших в Москву самолетов перенаправили в другие города",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025920",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221910"
+    },
+    {
+      "id": "cc3a31b22d65",
+      "title": "Великобритания ускорит поставки Украине ракет LMM",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025921",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221885"
+    },
+    {
+      "id": "baf1c9a7221f",
+      "title": "Мирный житель погиб при атаке БПЛА в Саратовской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025922",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221866"
+    },
+    {
+      "id": "0df9c7912347",
+      "title": "Япония даст ответ на визит бизнес-делегации Китая на Итуруп",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025923",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221845"
+    },
+    {
+      "id": "bc2e8b64d1a2",
+      "title": "Хуситы заявили о более 100 ударах Саудовской Аравии по Йемену за сутки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9025924",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:32.221817"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:31.820934"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.10 05:02",
+      "parsed_at": "2026-10-14T05:02:31.820898"
+    },
     {
       "id": "0bc4d0f00c38",
       "title": "Силы ПВО сбили 30 БПЛА на пути к Москве",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.10 03:05",
       "parsed_at": "2026-10-11T03:05:47.176709"
-    },
-    {
-      "id": "e38457cf458b",
-      "title": "Каллас раскритиковала дизельную сделку России и США и анонсировала новые санкции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023868",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176684"
-    },
-    {
-      "id": "316da307a85c",
-      "title": "Саудовская Аравия обвинила хуситов в ударе по аэропорту Эр-Рияда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023869",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176662"
-    },
-    {
-      "id": "fbcf54d0d72b",
-      "title": "Пережившую казнь американку вернули из больницы в тюрьму",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023870",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:47.176633"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844993"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844973"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844702"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844679"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844653"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844616"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "11.10 03:05",
-      "parsed_at": "2026-10-11T03:05:39.844575"
-    },
-    {
-      "id": "bcd1dd589392",
-      "title": "Саудовская Аравия приостановила работу аэропорта в Эр-Рияде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023845",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.10 23:57",
-      "parsed_at": "2026-10-10T23:57:50.708590"
     }
   ]
 }
