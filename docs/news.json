@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-16T00:52:59.134103",
+  "last_updated": "2026-10-16T02:59:31.478744",
   "stats": {
     "zhkh": 1,
-    "mchs": 5,
-    "works": 3,
-    "events": 1,
-    "news": 110,
+    "mchs": 4,
+    "works": 2,
+    "events": 0,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "b813ad5001da",
+      "title": "Китайские поставки вышли на новый максимум",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027494",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064916"
+    },
+    {
+      "id": "986089b1f61f",
+      "title": "Пропускная дееспособность",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027535",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064907"
+    },
+    {
+      "id": "6e5260dfaee1",
+      "title": "Бесконтентная продажа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027541",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064898"
+    },
+    {
+      "id": "71e31fb38cd2",
+      "title": "Дмитрий Медведев укрепляет горизонталь",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027587",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064874"
+    },
+    {
+      "id": "d1dda4f84ea6",
+      "title": "Госзаказ учится на предписаниях",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027612",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064864"
+    },
+    {
+      "id": "4fc65155a6ab",
+      "title": "Все аэропорты Московского авиационного узла приостановили работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027704",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064855"
+    },
+    {
+      "id": "8dda6254041a",
+      "title": "В США сообщили о возвращении авианосца USS George Bush на Ближний Восток",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027705",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064842"
+    },
+    {
+      "id": "3b2f347edb39",
+      "title": "«Аэрофлот» предупредил об отменах рейсов из-за ограничений на полеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027706",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 02:59",
+      "parsed_at": "2026-10-16T02:59:25.064824"
+    },
     {
       "id": "5b3ad2ad5e54",
       "title": "Трамп назвал шуткой слова про проблемы со здоровьем",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.10 02:21",
       "parsed_at": "2026-10-14T02:21:03.426403"
-    },
-    {
-      "id": "6bfe787144f6",
-      "title": "Во Внуково эвакуировали часть пассажиров из-за пожарной сигнализации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025906",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426364"
-    },
-    {
-      "id": "56d57a7822cf",
-      "title": "В США сообщили о транспортировке 19 млн баррелей нефти через Ормузский пролив",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025910",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426323"
-    },
-    {
-      "id": "34ec26ef7941",
-      "title": "Россиянин зарядил каталонцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025911",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426300"
-    },
-    {
-      "id": "e06d536ce24b",
-      "title": "ФБР задержало сотрудника OpenAI, установившего прослушку в офисе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025916",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426279"
-    },
-    {
-      "id": "767e3a21c798",
-      "title": "На пути к Москве было сбито 20 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025917",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426250"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:02.457212"
-    },
-    {
-      "id": "439ace48d5f0",
-      "title": "В Лондоне открылась первая крупная выставка работ Джонни Деппа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025834",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034728"
-    },
-    {
-      "id": "976a1892d260",
-      "title": "Срочный ремонт котировок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025823",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034712"
     }
   ]
 }
