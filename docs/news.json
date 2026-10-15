@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-15T17:34:51.450959",
+  "last_updated": "2026-10-15T21:48:09.322799",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 1,
     "mchs": 5,
-    "works": 4,
+    "works": 3,
     "events": 2,
-    "news": 107,
+    "news": 109,
     "total": 120
   },
   "items": [
+    {
+      "id": "67d21ea7440e",
+      "title": "Маркетплейс подстраховался",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027605",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474198"
+    },
+    {
+      "id": "bfdd4ac4b4e5",
+      "title": "Топливо привозного розлива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027583",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474183"
+    },
+    {
+      "id": "951debe9f39b",
+      "title": "AFP: Франция и Германия достигли соглашения о нормах по выбросам автомобилей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027637",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474166"
+    },
+    {
+      "id": "cbdf54fb3156",
+      "title": "Минпромторг утвердил приказ о технологическом сборе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027638",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474121"
+    },
+    {
+      "id": "4fab44c848a0",
+      "title": "Песков назвал условие нормализации отношений России и Молдавии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027641",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474093"
+    },
+    {
+      "id": "3eafbe0e072c",
+      "title": "Реклама нового поколения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027598",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474073"
+    },
+    {
+      "id": "0540c1650cee",
+      "title": "Страсти по регламенту",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027627",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474046"
+    },
+    {
+      "id": "a120d2618835",
+      "title": "Премию «Ясная Поляна» получил Сергей Шаргунов за роман «Попович»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027574",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.474024"
+    },
+    {
+      "id": "c090725e2022",
+      "title": "Главы Минэнерго России и Монголии обсудили поставки российской электроэнергии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027663",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 21:48",
+      "parsed_at": "2026-10-15T21:48:05.473984"
+    },
     {
       "id": "4b3ee38698e8",
       "title": "Спецпредставитель Трампа высказался об участии россиян в Олимпиаде-2028",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.10 15:23",
       "parsed_at": "2026-10-13T15:23:41.249957"
-    },
-    {
-      "id": "098a5cdfbfbc",
-      "title": "АвтоВАЗ открыл подписку на фургон Lada Largus",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025549",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249938"
-    },
-    {
-      "id": "8b4ee8592374",
-      "title": "Путин обсудил с президентом ОАЭ поставки ДТ и ситуацию в Персидском заливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025551",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249915"
-    },
-    {
-      "id": "dfb1eaa93a1c",
-      "title": "ЕС ввел санкции против 200 физлиц и компаний в сфере электроники",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025513",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249874"
-    },
-    {
-      "id": "ba4fccc27db2",
-      "title": "Le Figaro: французские фермеры заменяют виноградники фисташками и чечевицей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025536",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249852"
-    },
-    {
-      "id": "49ef7653ac7f",
-      "title": "Минтранс до конца года внесет в ПДД знак парковки для многодетных семей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025555",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249833"
-    },
-    {
-      "id": "d85bbb2b36d9",
-      "title": "Один человек погиб и несколько пострадали на американских горках в штате Джорджия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025550",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249808"
-    },
-    {
-      "id": "d8a6492a16fc",
-      "title": "Лукашенко назвал выгодным строительство Западом забора на границе с Белоруссией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025560",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249777"
-    },
-    {
-      "id": "1172837e024a",
-      "title": "27 человек пострадали при землетрясении в Панаме магнитудой 6",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025090",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 07:50",
-      "parsed_at": "2026-10-13T07:50:20.664189"
-    },
-    {
-      "id": "f371ad138f7b",
-      "title": "Более 24 тысяч жителей Владивостока остались без света из-за аварии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025092",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": true,
-      "published_at": "13.10 07:50",
-      "parsed_at": "2026-10-13T07:50:20.664169"
     }
   ]
 }
