@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-15T21:48:09.322799",
+  "last_updated": "2026-10-16T00:52:59.134103",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
     "works": 3,
-    "events": 2,
-    "news": 109,
+    "events": 1,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "5b3ad2ad5e54",
+      "title": "Трамп назвал шуткой слова про проблемы со здоровьем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027679",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.635056"
+    },
+    {
+      "id": "bebe4f12f8ee",
+      "title": "Bloomberg: Евросоюз планирует ускорить создание конкурента SpaceX",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027680",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.635037"
+    },
+    {
+      "id": "fd87bafe2fd0",
+      "title": "Путин передал во временное управление российские активы компании Tarkett",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027681",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.635018"
+    },
+    {
+      "id": "c19bd2a2a692",
+      "title": "Николас Мадуро назвал обвинения в пытках «ложью»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027682",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634954"
+    },
+    {
+      "id": "67e30239f154",
+      "title": "Силы ПВО сбили 37 БПЛА на пути к Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027683",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634935"
+    },
+    {
+      "id": "7ec6b25e80ef",
+      "title": "Во Франции 19 человек пострадали в ДТП с поездом у Евротоннеля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027685",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634911"
+    },
+    {
+      "id": "961bcbd37b71",
+      "title": "«Родина» не удержала Мирлинда Даку",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027684",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634885"
+    },
+    {
+      "id": "b194f6299509",
+      "title": "Силы ПВО сбили 12 БПЛА над Московским регионом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027700",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634865"
+    },
+    {
+      "id": "732a5d771e2b",
+      "title": "Пять человек погибли при ударе хуситов по президентскому дворцу в Адене",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027701",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 00:52",
+      "parsed_at": "2026-10-16T00:52:57.634835"
+    },
     {
       "id": "67d21ea7440e",
       "title": "Маркетплейс подстраховался",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.10 22:24",
       "parsed_at": "2026-10-13T22:24:55.034712"
-    },
-    {
-      "id": "aca4e34bf562",
-      "title": "Politico: США не предупредили Украину об обстрелах из-за непогоды",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034697"
-    },
-    {
-      "id": "6f4491964c4f",
-      "title": "Кому на Русь ехать хорошо",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025846",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034662"
-    },
-    {
-      "id": "d0a7fdea3ec2",
-      "title": "Захарова прокомментировала арест журналиста «Хоккайдо Симбун»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025862",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034644"
-    },
-    {
-      "id": "e0dbe04532e1",
-      "title": "Вышел трейлер экранизации «Хроник Нарнии» от Netflix",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025861",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034618"
-    },
-    {
-      "id": "2d505e8186f2",
-      "title": "Папа римский Лев XIV благополучно перенес операцию на легком",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025870",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034602"
-    },
-    {
-      "id": "2110baec2b4b",
-      "title": "Корнелльский университет отменил мероприятия из-за дела об изнасиловании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025865",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034583"
-    },
-    {
-      "id": "07aec817636c",
-      "title": "МИД связал задержание танкера Sea Owl 1 с единой стратегией ЕС и НАТО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025877",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 22:24",
-      "parsed_at": "2026-10-13T22:24:55.034556"
-    },
-    {
-      "id": "cf1fd60daf90",
-      "title": "Посольство предупредило россиян об обострении обстановки на Маврикии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249976"
-    },
-    {
-      "id": "5844ce35ef85",
-      "title": "Британский велогонщик Ричардсон не выступит на ЧМ из-за обвинений в расизме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025546",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.10 15:23",
-      "parsed_at": "2026-10-13T15:23:41.249957"
     }
   ]
 }
