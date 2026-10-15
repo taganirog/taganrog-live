@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-15T03:12:56.619943",
+  "last_updated": "2026-10-15T07:56:59.030631",
   "stats": {
     "zhkh": 1,
-    "mchs": 6,
+    "mchs": 5,
     "works": 4,
-    "events": 3,
-    "news": 106,
+    "events": 2,
+    "news": 108,
     "total": 120
   },
   "items": [
+    {
+      "id": "7f9f6fb2911f",
+      "title": "Reuters: в США обсуждают ослабление санкций против «теневого флота»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026842",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104925"
+    },
+    {
+      "id": "265589ef8676",
+      "title": "Хуситы заявили об уничтожении истребителя Typhoon над Йеменом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026843",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104907"
+    },
+    {
+      "id": "92987c2e2c71",
+      "title": "Маркетплейсы просят упрощения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026734",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104884"
+    },
+    {
+      "id": "e1f211bdd314",
+      "title": "Китай вывел на орбиту группу спутников наблюдения за поверхностью Земли",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026848",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104864"
+    },
+    {
+      "id": "36968275c596",
+      "title": "Главные новости к утру 15 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026860",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104792"
+    },
+    {
+      "id": "5483ae5e858a",
+      "title": "Минобрнауки хочет обязать абитуриентов заранее оплачивать обучение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026863",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104774"
+    },
+    {
+      "id": "176bbed21eb6",
+      "title": "Пентагон запросит $50 млрд на масштабное производство беспилотных систем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026874",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104749"
+    },
+    {
+      "id": "826be0f777c2",
+      "title": "Галузин: Россия не намерена договариваться с Западной Европой по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026867",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 07:56",
+      "parsed_at": "2026-10-15T07:56:57.104718"
+    },
     {
       "id": "4cc0264fc7b6",
       "title": "Лига чемпионов перешла на хоккейную результативность",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.10 20:11",
       "parsed_at": "2026-10-12T20:11:58.756019"
-    },
-    {
-      "id": "dfdcbe393ba3",
-      "title": "Рубль разогрелся на дизеле",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024948",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 20:11",
-      "parsed_at": "2026-10-12T20:11:58.756001"
-    },
-    {
-      "id": "f0335f2a09bf",
-      "title": "Tate открыл выставку об искусстве и моде Британии 1990-х",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9024698",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "12.10 20:11",
-      "parsed_at": "2026-10-12T20:11:58.755982"
-    },
-    {
-      "id": "83dd47dd18d0",
-      "title": "«Идея на миллион с Олегом Богдановым»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024980",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 20:11",
-      "parsed_at": "2026-10-12T20:11:58.755960"
-    },
-    {
-      "id": "b4ec0b9e9d4e",
-      "title": "МЧС: экипаж севшего на мель сухогруза Sunny Faith не запрашивал помощи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024955",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "12.10 20:11",
-      "parsed_at": "2026-10-12T20:11:58.755924"
-    },
-    {
-      "id": "a794c0ba96c3",
-      "title": "«Ради этого Вашингтон готов пойти на любые меры»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024406",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785682"
-    },
-    {
-      "id": "3c49eb5ecffc",
-      "title": "Жителей Владивостока начали информировать о местонахождении укрытий",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024416",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785673"
-    },
-    {
-      "id": "000d307172da",
-      "title": "Корпоративные новости на “Ъ FM”",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024418",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785664"
-    },
-    {
-      "id": "a08cee952e82",
-      "title": "В Минобороны появился сервис для обучения нейросетей военного назначения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024430",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785643"
     }
   ]
 }
