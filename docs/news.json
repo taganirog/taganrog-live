@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-15T00:50:49.985406",
+  "last_updated": "2026-10-15T03:12:56.619943",
   "stats": {
     "zhkh": 1,
     "mchs": 6,
-    "works": 3,
+    "works": 4,
     "events": 3,
-    "news": 107,
+    "news": 106,
     "total": 120
   },
   "items": [
+    {
+      "id": "4cc0264fc7b6",
+      "title": "Лига чемпионов перешла на хоккейную результативность",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026830",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974709"
+    },
+    {
+      "id": "b2a6fd79020b",
+      "title": "Трамп призвал сажать в тюрьму и расстреливать за утечки секретной информации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026832",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974692"
+    },
+    {
+      "id": "a8299fc0b559",
+      "title": "Axios: Белый дом сообщил о непричастности к ограничению работы Starlink на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026833",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974674"
+    },
+    {
+      "id": "2b0cdbb4ae9f",
+      "title": "По протоптанной нанодороге",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026646",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974629"
+    },
+    {
+      "id": "2b0ca3e79f8a",
+      "title": "Улов выходит из объектива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026720",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974609"
+    },
+    {
+      "id": "3bf90f0ac397",
+      "title": "Промышленности нужны молодые кадры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026742",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974574"
+    },
+    {
+      "id": "b7ec5b31ca31",
+      "title": "Блестящие перспективы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026759",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974555"
+    },
+    {
+      "id": "a3025c9478ea",
+      "title": "Трамп намерен лишить Иран надежды на создание ядерного оружия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026834",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974528"
+    },
+    {
+      "id": "b586047974d0",
+      "title": "NYP: поставки дизеля из РФ в США начнутся в ближайшие две недели",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026835",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.10 03:12",
+      "parsed_at": "2026-10-15T03:12:54.974501"
+    },
     {
       "id": "890c785e098a",
       "title": "Погода высокой точности",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.10 10:47",
       "parsed_at": "2026-10-12T10:47:00.785643"
-    },
-    {
-      "id": "5a3188025599",
-      "title": "ВЦИОМ сообщил о сбое в работе сайта и базы данных",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024437",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785634"
-    },
-    {
-      "id": "ee05691f0937",
-      "title": "Суд на Кубани приговорил отца и дочь к 18 и семи годам колонии за госизмену",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024436",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785625"
-    },
-    {
-      "id": "0b148c4fa8bd",
-      "title": "Чибис объявил о планах запретить продажу вейпов в Мурманской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024444",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785615"
-    },
-    {
-      "id": "424d95aa1149",
-      "title": "Классная работа на дому",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9016841",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785604"
-    },
-    {
-      "id": "2ac2301c1a6b",
-      "title": "Bild: Швайцер заменит Бас на посту главы Минтруда Германии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024449",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 10:47",
-      "parsed_at": "2026-10-12T10:47:00.785589"
-    },
-    {
-      "id": "a97e6fb76ff8",
-      "title": "Зарубежные студенты занялись здоровьем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9023951",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528489"
-    },
-    {
-      "id": "d6ec57c2d69c",
-      "title": "Пошлинами не пошатнуть",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024194",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528468"
-    },
-    {
-      "id": "d4cb4d36b6b6",
-      "title": "Инвесторы без права на суд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024197",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528450"
-    },
-    {
-      "id": "2e0930a6f6f0",
-      "title": "В Брянской области восстановили движение поездов на мосту после удара БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9024259",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.10 04:28",
-      "parsed_at": "2026-10-12T04:28:35.528410"
     }
   ]
 }
