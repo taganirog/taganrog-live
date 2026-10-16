@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T02:59:31.478744",
+  "last_updated": "2026-10-16T06:49:39.137343",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "17aca99e744e",
+      "title": "В США экстрадировали россиянина по обвинению в обходе санкций против РФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027709",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963891"
+    },
+    {
+      "id": "c6abfec46f92",
+      "title": "Трамп: я не большой поклонник Зеленского",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027710",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963877"
+    },
+    {
+      "id": "68c4053727ac",
+      "title": "Трамп назвал причину трудностей в решении конфликта РФ и Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027712",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963863"
+    },
+    {
+      "id": "b9d7e472efae",
+      "title": "Великобритания поставит Украине новые партии ракет Storm Shadows",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027713",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963830"
+    },
+    {
+      "id": "09146b743ef6",
+      "title": "Над Ленобластью сбито 2 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027714",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963817"
+    },
+    {
+      "id": "38f772a64699",
+      "title": "Коворкинг сработался с инвестором",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027406",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963805"
+    },
+    {
+      "id": "5b2c795150fe",
+      "title": "В Кабмине назвали дату первого за 5 лет заседания межправкомиссии РФ и Словакии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027715",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963793"
+    },
+    {
+      "id": "5725617722d5",
+      "title": "Сеул ответил на сомнения Пхеньяна в успехе испытаний гиперзвуковой ракеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027720",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963777"
+    },
+    {
+      "id": "2474fe10fa92",
+      "title": "Пожарные ликвидировали возгорание на заводе OSB-плит в Томске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027727",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:34.963753"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 06:49",
+      "parsed_at": "2026-10-16T06:49:33.978932"
+    },
     {
       "id": "b813ad5001da",
       "title": "Китайские поставки вышли на новый максимум",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.10 05:02",
       "parsed_at": "2026-10-14T05:02:32.221910"
-    },
-    {
-      "id": "cc3a31b22d65",
-      "title": "Великобритания ускорит поставки Украине ракет LMM",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025921",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221885"
-    },
-    {
-      "id": "baf1c9a7221f",
-      "title": "Мирный житель погиб при атаке БПЛА в Саратовской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025922",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221866"
-    },
-    {
-      "id": "0df9c7912347",
-      "title": "Япония даст ответ на визит бизнес-делегации Китая на Итуруп",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025923",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221845"
-    },
-    {
-      "id": "bc2e8b64d1a2",
-      "title": "Хуситы заявили о более 100 ударах Саудовской Аравии по Йемену за сутки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025924",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221817"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:31.820934"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:31.820898"
-    },
-    {
-      "id": "0bc4d0f00c38",
-      "title": "Силы ПВО сбили 30 БПЛА на пути к Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025885",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426462"
-    },
-    {
-      "id": "99bcf6321a2c",
-      "title": "10 самолетов из Турции развернулись по пути в Москву из-за ограничений на полеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025886",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426445"
-    },
-    {
-      "id": "15070a40cc8c",
-      "title": "«Факел» сыграл с огоньком",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025883",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426426"
-    },
-    {
-      "id": "eb533022b963",
-      "title": "В Аксае зафиксировали превышение нормы вредных веществ в воздухе из-за пожара",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025902",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "14.10 02:21",
-      "parsed_at": "2026-10-14T02:21:03.426403"
     }
   ]
 }
