@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-16T20:45:51.606258",
+  "last_updated": "2026-10-16T23:20:50.384450",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
-    "works": 2,
+    "works": 1,
     "events": 0,
-    "news": 113,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "66d02733fe4a",
+      "title": "Дмитриев: США попросили у РФПИ помощи в осуществлении дизельной сделки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040683",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859850"
+    },
+    {
+      "id": "aa531f09a732",
+      "title": "Курс доллара. Прогноз на 19—23 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040685",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859835"
+    },
+    {
+      "id": "c87c0811154e",
+      "title": "Трамп заявил о непричастности к ограничению доступа Украины к Starshield",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040689",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859822"
+    },
+    {
+      "id": "c2a1d9f87fbe",
+      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/8956438",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859809"
+    },
+    {
+      "id": "c041952a0197",
+      "title": "Мирошник сообщил о гибели семи членов избиркомов во время выборов в России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040692",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859794"
+    },
+    {
+      "id": "20ce95e2acf7",
+      "title": "The Telegraph: ограничить работу Starlink на Украине Трампу предложил Илон Маск",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040690",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859781"
+    },
+    {
+      "id": "917117a6267c",
+      "title": "Стоимость нефти Brent достигла $110 за баррель впервые с мая",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040693",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859767"
+    },
+    {
+      "id": "b881a3135180",
+      "title": "Трамп заявил, что хотел бы видеть Путина на саммите G20",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040694",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859753"
+    },
+    {
+      "id": "b7bd1e894c64",
+      "title": "Искусственный интеллект реорганизовал естественный отбор",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040626",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859738"
+    },
+    {
+      "id": "4c7a103ef9c4",
+      "title": "Мальчик из России погиб в отеле в Шарм-эш-Шейхе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040695",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 23:20",
+      "parsed_at": "2026-10-16T23:20:35.859716"
+    },
     {
       "id": "8d94c3f9d653",
       "title": "Путину доложили о взятии под контроль 70% полосы безопасности на Украине",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 00:50",
       "parsed_at": "2026-10-15T00:50:48.584199"
-    },
-    {
-      "id": "409358678970",
-      "title": "Академик Иванов: наука будущего будет междисциплинарной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009500",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584182"
-    },
-    {
-      "id": "e226d906889b",
-      "title": "Системно значимые доходы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026750",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584163"
-    },
-    {
-      "id": "ac24c3d28057",
-      "title": "Два коммерческих судна затонули у Ормузского пролива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026813",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584143"
-    },
-    {
-      "id": "17240755eeef",
-      "title": "Посольство РФ ответило Нидерландам на планы задерживать суда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026815",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584110"
-    },
-    {
-      "id": "b9daa8c79c63",
-      "title": "Россия и Африка обсудили подготовку кадров для энергетики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026686",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156858"
-    },
-    {
-      "id": "16129efe324b",
-      "title": "Дизелю не хватает мощности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026683",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156848"
-    },
-    {
-      "id": "a5025bdff0d1",
-      "title": "Деньги, льготы, дисциплина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026743",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156839"
-    },
-    {
-      "id": "924bc92cb02e",
-      "title": "Создателя токена HEX задержали в Стамбуле по запросу Интерпола",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026754",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156820"
-    },
-    {
-      "id": "f6faa56a5d0a",
-      "title": "Стартапы — дело молодых",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026690",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156809"
-    },
-    {
-      "id": "87c5cc30402d",
-      "title": "В регионах открыты для движения новые участки автодорог",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026665",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156798"
     }
   ]
 }
