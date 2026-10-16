@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-10-16T11:39:01.241449",
+  "last_updated": "2026-10-16T16:39:48.599585",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 4,
     "works": 2,
     "events": 0,
-    "news": 115,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "f075133a98de",
+      "title": "Десятки человек задержаны во время рейда на Сенном рынке в Петербурге",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040470",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978438"
+    },
+    {
+      "id": "c15392294dd6",
+      "title": "В Якутске создадут Арктический медиахаб с каналом «Mash Арктика»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040479",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978419"
+    },
+    {
+      "id": "773d31dba1bb",
+      "title": "«Дошло до того, что о гипнозе спросили самого Третьяка»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040366",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978393"
+    },
+    {
+      "id": "c9ccfc70d7fe",
+      "title": "«ЭКО-культура» планирует урегулировать вопрос с налоговой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040468",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978355"
+    },
+    {
+      "id": "889f4ce5f8cf",
+      "title": "Посадка на «Сапсан» по биометрии заработает в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040478",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978337"
+    },
+    {
+      "id": "75e6df9f8791",
+      "title": "В Москве задержали студента за поджог релейного шкафа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040492",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978319"
+    },
+    {
+      "id": "cad63626cd28",
+      "title": "«В салоне настоящая восточная роскошь»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040365",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978299"
+    },
+    {
+      "id": "cad85543ed17",
+      "title": "В Москве арестовали главу фонда «Защитим детей от наркотиков и алкоголя» Кротову",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040496",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978277"
+    },
+    {
+      "id": "41af2557b66d",
+      "title": "В Комитете лесного хозяйства Подмосковья опровергли нашествие волков",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040493",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:46.978244"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326490"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326237"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326216"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326191"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326146"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "16.10 16:39",
+      "parsed_at": "2026-10-16T16:39:42.326107"
+    },
     {
       "id": "5ec5fa39d110",
       "title": "Украина должна выплатить иностранным кредиторам более $6,5 млрд в 2027 году",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.10 16:12",
       "parsed_at": "2026-10-14T16:12:52.724246"
-    },
-    {
-      "id": "76253fea7c14",
-      "title": "В Минтрансе назвали инвестпрограмму РЖД на 2027 год сбалансированной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026483",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724227"
-    },
-    {
-      "id": "bf23d5622ce2",
-      "title": "Комитет Совета федерации по регламенту возглавил Владимир Джабаров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026490",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724206"
-    },
-    {
-      "id": "e2894d2b441e",
-      "title": "Бюро ABOVE стало новым резидентом STONE Towers",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026216",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724187"
-    },
-    {
-      "id": "e79390c950a2",
-      "title": "Американские теннисистки Гауфф и Пегула квалифицировались на Итоговый турнир WTA",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026519",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724165"
-    },
-    {
-      "id": "15a3aee86ae4",
-      "title": "С рэпера Джигана взыскали 1,7 млн рублей задолженности по алиментам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026484",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724133"
-    },
-    {
-      "id": "a2e2eb84d290",
-      "title": "Захарова: РФ указывала Японии на недопустимость шпионажа под видом журналистики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026082",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030738"
-    },
-    {
-      "id": "07cf8f5d6fe3",
-      "title": "В Балакове отменили занятия в школах и закрыли детские сады после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026088",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030721"
-    },
-    {
-      "id": "841d3fbad173",
-      "title": "Уральскому иеромонаху Никандру дали 7 лет из-за комментариев о генерале Власове",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026100",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030704"
-    },
-    {
-      "id": "08285782657a",
-      "title": "Минобороны: ВС РФ поразили ТЭЦ-6 и ТЭС «Трипольская» в Киевской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026093",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030667"
-    },
-    {
-      "id": "187d6b73b758",
-      "title": "Сбербанк ждет сохранения ключевой ставки ЦБ в октябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026103",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030649"
-    },
-    {
-      "id": "86a3fd43d716",
-      "title": "Аэропорт Шереметьево работает по скорректированному расписанию после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026110",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030632"
-    },
-    {
-      "id": "383a90501e5d",
-      "title": "Рубль в зоне турбулентности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026097",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030614"
-    },
-    {
-      "id": "f3ff2e1d8f31",
-      "title": "ФБР арестовало сотрудника OpenAI по подозрению в прослушке руководства компании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026105",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030595"
-    },
-    {
-      "id": "b965832fd4a7",
-      "title": "В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026114",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:21.030569"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386834"
     }
   ]
 }
