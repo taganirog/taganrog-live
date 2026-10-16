@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-10-16T06:49:39.137343",
+  "last_updated": "2026-10-16T11:39:01.241449",
   "stats": {
     "zhkh": 1,
-    "mchs": 4,
+    "mchs": 2,
     "works": 2,
     "events": 0,
-    "news": 113,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "5ec5fa39d110",
+      "title": "Украина должна выплатить иностранным кредиторам более $6,5 млрд в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027921",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168371"
+    },
+    {
+      "id": "c639821bc6ce",
+      "title": "Теннисистка Диана Шнайдер не вышла в полуфинал турнира WTA 1000 в Ухане",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027932",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168353"
+    },
+    {
+      "id": "8f31ef83f054",
+      "title": "При атаке БПЛА на автобус в белгородском Шебекино пострадали четыре человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027941",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168334"
+    },
+    {
+      "id": "b8198cd10226",
+      "title": "Принцип пазла: от лоскутного стека к ПАК",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027862",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168295"
+    },
+    {
+      "id": "2d3727e4b67f",
+      "title": "Умер чемпион НБА и член Зала славы баскетбола Клифф Хейган",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027945",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168278"
+    },
+    {
+      "id": "d62c665d15e6",
+      "title": "Tesla представила летающий Roadster",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027931",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168255"
+    },
+    {
+      "id": "39af17d8ac58",
+      "title": "«Россети» призвали готовить среду для участников СВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027491",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168237"
+    },
+    {
+      "id": "7d351df2adf9",
+      "title": "WP: Украина начала сомневаться в новых поставках оружия НАТО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027951",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168217"
+    },
+    {
+      "id": "8de158a80955",
+      "title": "Трудятся роботы, арендует человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027536",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:43.168189"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:40.096473"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 11:38",
+      "parsed_at": "2026-10-16T11:38:40.096439"
+    },
     {
       "id": "17aca99e744e",
       "title": "В США экстрадировали россиянина по обвинению в обходе санкций против РФ",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.10 10:51",
       "parsed_at": "2026-10-14T10:51:17.386834"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386816"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386573"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386553"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386528"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386496"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "14.10 10:51",
-      "parsed_at": "2026-10-14T10:51:17.386461"
-    },
-    {
-      "id": "3674c8daf0cb",
-      "title": "Домам предписана идентификация",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025832",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.222000"
-    },
-    {
-      "id": "cd7667d1ae3a",
-      "title": "Малому бизнесу обновили «зонтик»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025837",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221983"
-    },
-    {
-      "id": "bf20ba6f5058",
-      "title": "CNN: Трамп может отказаться от трансляции казни стрелка из Форт-Худа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025918",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221967"
-    },
-    {
-      "id": "20868720349e",
-      "title": "Число сбитых на пути к Москве БПЛА выросло до 75",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025919",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221928"
-    },
-    {
-      "id": "a65d08abf845",
-      "title": "Более 30 летевших в Москву самолетов перенаправили в другие города",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9025920",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 05:02",
-      "parsed_at": "2026-10-14T05:02:32.221910"
     }
   ]
 }
