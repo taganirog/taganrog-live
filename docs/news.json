@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-16T23:20:50.384450",
+  "last_updated": "2026-10-17T01:55:40.944362",
   "stats": {
     "zhkh": 1,
-    "mchs": 4,
+    "mchs": 3,
     "works": 1,
     "events": 0,
-    "news": 114,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "7db7be15e0ee",
+      "title": "Новак: дефицит бензина в России составляет около 5%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040696",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848839"
+    },
+    {
+      "id": "c032bd0c22fa",
+      "title": "ЦБ расширит возможности зеленого финансирования",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040697",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848826"
+    },
+    {
+      "id": "691ea59ba412",
+      "title": "В Москве закрыли три аэропорта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040698",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848800"
+    },
+    {
+      "id": "7a689bc660cc",
+      "title": "Пресс-секретарь Белого дома установила антирекорд, проработав всего пять дней",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040491",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848788"
+    },
+    {
+      "id": "7f28a55a2af3",
+      "title": "Миляев сообщил о налете беспилотников на Тульскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040976",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848775"
+    },
+    {
+      "id": "6ae58a2d913f",
+      "title": "Рядом с Москвой сбили 15 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040977",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848762"
+    },
+    {
+      "id": "c431766e6085",
+      "title": "Думайте сами, считайте сами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040978",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848748"
+    },
+    {
+      "id": "672c1715c7e1",
+      "title": "Трамп пообещал когда-нибудь раскрыть причины начала конфликта на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040979",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 01:55",
+      "parsed_at": "2026-10-17T01:55:38.848729"
+    },
     {
       "id": "66d02733fe4a",
       "title": "Дмитриев: США попросили у РФПИ помощи в осуществлении дизельной сделки",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 03:12",
       "parsed_at": "2026-10-15T03:12:54.974574"
-    },
-    {
-      "id": "b7ec5b31ca31",
-      "title": "Блестящие перспективы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026759",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974555"
-    },
-    {
-      "id": "a3025c9478ea",
-      "title": "Трамп намерен лишить Иран надежды на создание ядерного оружия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026834",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974528"
-    },
-    {
-      "id": "b586047974d0",
-      "title": "NYP: поставки дизеля из РФ в США начнутся в ближайшие две недели",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026835",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974501"
-    },
-    {
-      "id": "890c785e098a",
-      "title": "Погода высокой точности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009492",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584295"
-    },
-    {
-      "id": "ed6b5bce9026",
-      "title": "Магнитный подзатыльник",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009493",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584276"
-    },
-    {
-      "id": "7a2fe0b26d90",
-      "title": "Поэтический ритм в цифровой среде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009494",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584259"
-    },
-    {
-      "id": "73be3112da65",
-      "title": "Хуманзе, или История идеи скрещивания человека с обезьяной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009496",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584216"
-    },
-    {
-      "id": "6d6f6c0bfb21",
-      "title": "Апгрейд человечности?",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9009498",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 00:50",
-      "parsed_at": "2026-10-15T00:50:48.584199"
     }
   ]
 }
