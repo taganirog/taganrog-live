@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T16:39:48.599585",
+  "last_updated": "2026-10-16T20:45:51.606258",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "8d94c3f9d653",
+      "title": "Путину доложили о взятии под контроль 70% полосы безопасности на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040647",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089749"
+    },
+    {
+      "id": "084e617e9a6f",
+      "title": "Продажи злаковых батончиков в России упали более чем на 8% за год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9027446",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089731"
+    },
+    {
+      "id": "5225f2e78417",
+      "title": "«Вкусвилл» заходит в «килл»-зону",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040648",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089713"
+    },
+    {
+      "id": "2df8c8953ddd",
+      "title": "Путин пожелал папе римскому скорейшего выздоровления после операции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040659",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089696"
+    },
+    {
+      "id": "fbc2ccc5e5b0",
+      "title": "Потребителям намяли бокалы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040593",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089657"
+    },
+    {
+      "id": "7d19c5112176",
+      "title": "Генеральная репетиция",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040618",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089638"
+    },
+    {
+      "id": "c9838950f1f7",
+      "title": "Дмитриев сообщил о переговорах с США по проектам в сфере дата-центров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040667",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:48.089606"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.10 20:45",
+      "parsed_at": "2026-10-16T20:45:43.077753"
+    },
     {
       "id": "f075133a98de",
       "title": "Десятки человек задержаны во время рейда на Сенном рынке в Петербурге",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.10 21:05",
       "parsed_at": "2026-10-14T21:05:46.156798"
-    },
-    {
-      "id": "4b1bbaa2df6b",
-      "title": "ФАС предложила повысить тарифы «Транснефти» на прокачку нефти на 5%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026758",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156788"
-    },
-    {
-      "id": "6a51c3c129ee",
-      "title": "ФБР опровергло визит Кэша Патела в Россию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026761",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156776"
-    },
-    {
-      "id": "c621ad45c57c",
-      "title": "Минобороны России отчиталось об ударе по логистическому центру на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026764",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 21:05",
-      "parsed_at": "2026-10-14T21:05:46.156759"
-    },
-    {
-      "id": "229945b1d1c3",
-      "title": "Английские клубы оказались на грани",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026464",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724333"
-    },
-    {
-      "id": "252a5c800f60",
-      "title": "Песков: детали энергетического перемирия между Россией и Украиной пока не конкретизированы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026486",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724315"
-    },
-    {
-      "id": "ec4a0e9ac29a",
-      "title": "Минцифры помогло «Яндексу» найти площадки для переноса ключевых систем после атак",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026496",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724295"
-    },
-    {
-      "id": "c2a1d9f87fbe",
-      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/8956438",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724266"
-    },
-    {
-      "id": "88715dd0f3ea",
-      "title": "Reuters: ограничения Starlink повлияют на способность ВСУ сбивать беспилотники",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026501",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.10 16:12",
-      "parsed_at": "2026-10-14T16:12:52.724246"
     }
   ]
 }
