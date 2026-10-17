@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T03:56:34.602093",
+  "last_updated": "2026-10-17T08:16:12.183671",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "bf97366d6502",
+      "title": "Пентагон: «Хамас» и «Хезболла» собирают деньги на поддержку Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040990",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386743"
+    },
+    {
+      "id": "83bf96ebeed1",
+      "title": "На подлете к Москве сбили еще 75 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040991",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386726"
+    },
+    {
+      "id": "6b5182bf9025",
+      "title": "Главные новости к утру 17 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040992",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386709"
+    },
+    {
+      "id": "9882fb4a1d9a",
+      "title": "Антонио Бандерас и Николас Кейдж сыграют в новом сезоне «Настоящего детектива»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040993",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386673"
+    },
+    {
+      "id": "76ea02eb9b56",
+      "title": "Московские аэропорты возобновили работу после массированной атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040994",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386654"
+    },
+    {
+      "id": "22e96b689885",
+      "title": "Портреты русской цивилизации",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/8864120",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386635"
+    },
+    {
+      "id": "8da41e030d62",
+      "title": "Ученые впервые обнаружили зеленую звезду",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040435",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386617"
+    },
+    {
+      "id": "23db82a1e3d2",
+      "title": "Город под фильтром процветания",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040503",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386598"
+    },
+    {
+      "id": "aa3de182270b",
+      "title": "WSJ: Иран помог хуситам организовать атаку на аэропорт в Эр-Рияде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040997",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 08:16",
+      "parsed_at": "2026-10-17T08:16:08.386569"
+    },
     {
       "id": "e9a0a34d17ee",
       "title": "США передали РФ список компаний, которые готовы закупать российский дизель",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 07:56",
       "parsed_at": "2026-10-15T07:56:57.104925"
-    },
-    {
-      "id": "265589ef8676",
-      "title": "Хуситы заявили об уничтожении истребителя Typhoon над Йеменом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026843",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104907"
-    },
-    {
-      "id": "92987c2e2c71",
-      "title": "Маркетплейсы просят упрощения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026734",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104884"
-    },
-    {
-      "id": "e1f211bdd314",
-      "title": "Китай вывел на орбиту группу спутников наблюдения за поверхностью Земли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026848",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104864"
-    },
-    {
-      "id": "36968275c596",
-      "title": "Главные новости к утру 15 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026860",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104792"
-    },
-    {
-      "id": "5483ae5e858a",
-      "title": "Минобрнауки хочет обязать абитуриентов заранее оплачивать обучение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026863",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104774"
-    },
-    {
-      "id": "176bbed21eb6",
-      "title": "Пентагон запросит $50 млрд на масштабное производство беспилотных систем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026874",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104749"
-    },
-    {
-      "id": "826be0f777c2",
-      "title": "Галузин: Россия не намерена договариваться с Западной Европой по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026867",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104718"
-    },
-    {
-      "id": "4cc0264fc7b6",
-      "title": "Лига чемпионов перешла на хоккейную результативность",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026830",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974709"
-    },
-    {
-      "id": "b2a6fd79020b",
-      "title": "Трамп призвал сажать в тюрьму и расстреливать за утечки секретной информации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026832",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974692"
     }
   ]
 }
