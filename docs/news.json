@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-17T08:16:12.183671",
+  "last_updated": "2026-10-17T12:32:47.520160",
   "stats": {
-    "zhkh": 1,
+    "zhkh": 0,
     "mchs": 3,
     "works": 0,
-    "events": 0,
+    "events": 1,
     "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "5541a91d1364",
+      "title": "Spiegel: в поджоге Starlink в Польше подозревают «связанную с Россией» турецкую ОПГ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041056",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773721"
+    },
+    {
+      "id": "9e714128af53",
+      "title": "В Курской области из-за удара БПЛА по сахарному заводу ранена женщина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041059",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773711"
+    },
+    {
+      "id": "f70166bc83e7",
+      "title": "Warner Bros. зарегистрировала в РФ товарные знаки из «Гарри Поттера»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041070",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773701"
+    },
+    {
+      "id": "c20178e3e2c1",
+      "title": "Праздник доверили профессионалам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041064",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773679"
+    },
+    {
+      "id": "a6f80704a5f5",
+      "title": "«Воркутауголь»: обстановка на шахте «Комсомольская» в Коми стабилизировалась",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041069",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773670"
+    },
+    {
+      "id": "50d0acae09e1",
+      "title": "Петербургский аэропорт Пулково принял 20 рейсов из-за ограничений в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041074",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773659"
+    },
+    {
+      "id": "71ffaffb1bed",
+      "title": "Аэропорт Хельсинки принял не сумевший сесть в Петербурге самолет из Хургады",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041080",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773646"
+    },
+    {
+      "id": "a927969d654f",
+      "title": "Склады под высоким тарифом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041077",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 12:32",
+      "parsed_at": "2026-10-17T12:32:45.773628"
+    },
     {
       "id": "bf97366d6502",
       "title": "Пентагон: «Хамас» и «Хезболла» собирают деньги на поддержку Ирана",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 12:35",
       "parsed_at": "2026-10-15T12:35:22.179518"
-    },
-    {
-      "id": "d0c7296cd2f0",
-      "title": "Впервые в мире для незрячих людей озвучили тифлокомментарий с борта ледокола «Арктика»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027122",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179499"
-    },
-    {
-      "id": "6534c20b9eca",
-      "title": "Путин сменил посла в Парагвае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027123",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179480"
-    },
-    {
-      "id": "7d3334925327",
-      "title": "Недвижимость бывшего главы Плеса перешла в муниципальную собственность",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027133",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179439"
-    },
-    {
-      "id": "ad7b408f9461",
-      "title": "Новак: Россия планирует продолжать импорт бензина до конца года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027135",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179417"
-    },
-    {
-      "id": "d17bb8befff4",
-      "title": "YouTube Music ввел маркировку для ИИ-песен",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027132",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179393"
-    },
-    {
-      "id": "324b6378446d",
-      "title": "«Добрые дела под аудитом»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026814",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179370"
-    },
-    {
-      "id": "9136e5374fc3",
-      "title": "Новак подтвердил обсуждение запрета на экспорт сжиженных углеводородных газов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027136",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179305"
-    },
-    {
-      "id": "7f9f6fb2911f",
-      "title": "Reuters: в США обсуждают ослабление санкций против «теневого флота»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026842",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 07:56",
-      "parsed_at": "2026-10-15T07:56:57.104925"
     }
   ]
 }
