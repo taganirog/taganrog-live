@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T12:32:47.520160",
+  "last_updated": "2026-10-17T16:23:25.006220",
   "stats": {
     "zhkh": 0,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "2681c7da2c97",
+      "title": "В Брянской области мужчина погиб в лесу при атаке БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041114",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535534"
+    },
+    {
+      "id": "b92baff0398e",
+      "title": "Взлетная полоса для Маска",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041117",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535522"
+    },
+    {
+      "id": "2f34d2f3173f",
+      "title": "Умер «Русский Тайсон» Денис Бойцов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041123",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535512"
+    },
+    {
+      "id": "83f1eee2eaae",
+      "title": "В Марселе митингующие ворвались в здание мэрии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041122",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535493"
+    },
+    {
+      "id": "fcd80063d2b8",
+      "title": "Мерц: Германии не обойтись без воинской обязанности в будущем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041128",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535484"
+    },
+    {
+      "id": "eb4f4f3c9029",
+      "title": "Суд арестовал 19-летнего москвича, бросившего кирпич в окно электрички на МЦД",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041127",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535474"
+    },
+    {
+      "id": "082b2f8be528",
+      "title": "Денис Мацуев исполнит Малера на фестивале ArsLonga",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040640",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535464"
+    },
+    {
+      "id": "f0f0d6da49a8",
+      "title": "Врач-педиатр и водитель скорой помощи погибли в ДТП в Карелии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041129",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535453"
+    },
+    {
+      "id": "061dc4640bb1",
+      "title": "Жительница Сочи пропала после визита в квартиру соседа-самозванца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041131",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 16:23",
+      "parsed_at": "2026-10-17T16:23:19.535436"
+    },
     {
       "id": "5541a91d1364",
       "title": "Spiegel: в поджоге Starlink в Польше подозревают «связанную с Россией» турецкую ОПГ",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 17:34",
       "parsed_at": "2026-10-15T17:34:49.904414"
-    },
-    {
-      "id": "b4db2d81e2dd",
-      "title": "Вокалистка финской группы Nightwish Флор Янсен покинула группу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027407",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904394"
-    },
-    {
-      "id": "e43a31c7487e",
-      "title": "Фигуристы Трусова и Семененко выступят на этапе Гран-при ISU в Китае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027444",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904363"
-    },
-    {
-      "id": "6129715cfd36",
-      "title": "Картина Василия Кандинского продана за $41,8 млн",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027434",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904338"
-    },
-    {
-      "id": "b734882b0023",
-      "title": "Росфинмониторинг внес иноагента Невзорова в список террористов и экстремистов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027440",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904325"
-    },
-    {
-      "id": "6dec34032ac7",
-      "title": "Мосбиржа с 1 октября начала расчет индексов обмена наличной валюты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027442",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904310"
-    },
-    {
-      "id": "fa4aa4566afe",
-      "title": "В России зарегистрировали первый биоаналог «Окревуса» от рассеянного склероза",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026591",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904294"
-    },
-    {
-      "id": "18647141009d",
-      "title": "«В общем, интрига удалась»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027300",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904267"
-    },
-    {
-      "id": "51af429bf448",
-      "title": "«Такое происходит впервые в истории турнира»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027059",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179536"
-    },
-    {
-      "id": "76f920bbf6af",
-      "title": "WSJ: отношения Трампа и Зеленского ухудшились после встречи в Нью-Йорке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027050",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 12:35",
-      "parsed_at": "2026-10-15T12:35:22.179518"
     }
   ]
 }
