@@ -1,14 +1,80 @@
 {
-  "last_updated": "2026-10-18T00:14:43.175335",
+  "last_updated": "2026-10-18T02:15:46.924488",
   "stats": {
     "zhkh": 1,
-    "mchs": 3,
+    "mchs": 2,
     "works": 0,
-    "events": 3,
+    "events": 4,
     "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "53e3cea6e1ee",
+      "title": "«МегаФон»: среднее число  DDoS-атак за девять месяцев снизилось на 65%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040975",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159323"
+    },
+    {
+      "id": "197fa15c2538",
+      "title": "Протестующие во Франции сожгли здание мэрии XIX века",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041193",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159309"
+    },
+    {
+      "id": "ba06ebe61872",
+      "title": "Францию охватили массовые беспорядки: поджоги, погромы, мародерство. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041186",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159297"
+    },
+    {
+      "id": "89c7eef7ae5d",
+      "title": "Израильские поселенцы напали на дипломатов ЕС и избили мэра из Франции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041194",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159282"
+    },
+    {
+      "id": "e5d87a6a219f",
+      "title": "Рядом с Москвой сбили 11 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041195",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159267"
+    },
+    {
+      "id": "3caeb4371d01",
+      "title": "Блогера Ивана Золо задержали на концерте в Донецке за рисунок на футболке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041196",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "18.10 02:15",
+      "parsed_at": "2026-10-18T02:15:45.159246"
+    },
     {
       "id": "83da054fe2da",
       "title": "«Локомотив» сыграл вничью с «Краснодаром» в матче РПЛ",
@@ -1262,72 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 06:49",
       "parsed_at": "2026-10-16T06:49:34.963817"
-    },
-    {
-      "id": "38f772a64699",
-      "title": "Коворкинг сработался с инвестором",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027406",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963805"
-    },
-    {
-      "id": "5b2c795150fe",
-      "title": "В Кабмине назвали дату первого за 5 лет заседания межправкомиссии РФ и Словакии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027715",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963793"
-    },
-    {
-      "id": "5725617722d5",
-      "title": "Сеул ответил на сомнения Пхеньяна в успехе испытаний гиперзвуковой ракеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027720",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963777"
-    },
-    {
-      "id": "2474fe10fa92",
-      "title": "Пожарные ликвидировали возгорание на заводе OSB-плит в Томске",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027727",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963753"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:33.978932"
-    },
-    {
-      "id": "b813ad5001da",
-      "title": "Китайские поставки вышли на новый максимум",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027494",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 02:59",
-      "parsed_at": "2026-10-16T02:59:25.064916"
     }
   ]
 }
