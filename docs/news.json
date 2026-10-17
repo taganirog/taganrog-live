@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-17T16:23:25.006220",
+  "last_updated": "2026-10-17T19:33:26.972565",
   "stats": {
     "zhkh": 0,
     "mchs": 3,
     "works": 0,
-    "events": 1,
-    "news": 116,
+    "events": 2,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "d0aa8e22d497",
+      "title": "Во Франции возобновились протесты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041111",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686551"
+    },
+    {
+      "id": "0f11efdf1886",
+      "title": "Даниил Медведев вынудил судью нарушить протокол в полуфинале «мастерса» в Шанхае",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041158",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686539"
+    },
+    {
+      "id": "9e4a21dd7267",
+      "title": "Дептранс предупредил о тумане в Москве до утра воскресенья",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041160",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686525"
+    },
+    {
+      "id": "17f8dd4b1440",
+      "title": "«Не думаю, что древние племена знали беса»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040584",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686494"
+    },
+    {
+      "id": "a4ebb1b2f85a",
+      "title": "Sky Sports назвал Дэвида Бекхэма возможным кандидатом на пост президента FIFA",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041162",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686481"
+    },
+    {
+      "id": "c9652fe5bdac",
+      "title": "Галерея керамики TOMO переехала в центр Москвы и открыла выставку «Объекты и состояния»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040643",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686468"
+    },
+    {
+      "id": "7abaa726f5d7",
+      "title": "Российские войска ударили по предприятию «Кромберг энд Шуберт» в Луцке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041163",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686453"
+    },
+    {
+      "id": "fcfb46294c42",
+      "title": "Более 20 муниципалитетов ЛНР обесточены после атаки ВСУ на энергообъекты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041164",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686438"
+    },
+    {
+      "id": "774a268bc0f1",
+      "title": "Более 100 рейсов задерживаются в московских аэропортах после ночных ограничений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041167",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 19:33",
+      "parsed_at": "2026-10-17T19:33:25.686416"
+    },
     {
       "id": "2681c7da2c97",
       "title": "В Брянской области мужчина погиб в лесу при атаке БПЛА",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 21:48",
       "parsed_at": "2026-10-15T21:48:05.474183"
-    },
-    {
-      "id": "951debe9f39b",
-      "title": "AFP: Франция и Германия достигли соглашения о нормах по выбросам автомобилей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027637",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474166"
-    },
-    {
-      "id": "cbdf54fb3156",
-      "title": "Минпромторг утвердил приказ о технологическом сборе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027638",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474121"
-    },
-    {
-      "id": "4fab44c848a0",
-      "title": "Песков назвал условие нормализации отношений России и Молдавии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027641",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474093"
-    },
-    {
-      "id": "3eafbe0e072c",
-      "title": "Реклама нового поколения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027598",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474073"
-    },
-    {
-      "id": "0540c1650cee",
-      "title": "Страсти по регламенту",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027627",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474046"
-    },
-    {
-      "id": "a120d2618835",
-      "title": "Премию «Ясная Поляна» получил Сергей Шаргунов за роман «Попович»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027574",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474024"
-    },
-    {
-      "id": "c090725e2022",
-      "title": "Главы Минэнерго России и Монголии обсудили поставки российской электроэнергии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027663",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.473984"
-    },
-    {
-      "id": "4b3ee38698e8",
-      "title": "Спецпредставитель Трампа высказался об участии россиян в Олимпиаде-2028",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027436",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904428"
-    },
-    {
-      "id": "67ca3eb4ebda",
-      "title": "Минпросвещения уточнило порядок введения «дроноведения» в школах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027417",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 17:34",
-      "parsed_at": "2026-10-15T17:34:49.904414"
     }
   ]
 }
