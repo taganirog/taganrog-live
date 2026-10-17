@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-17T19:33:26.972565",
+  "last_updated": "2026-10-17T21:57:55.228369",
   "stats": {
     "zhkh": 0,
     "mchs": 3,
     "works": 0,
-    "events": 2,
-    "news": 115,
+    "events": 3,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "9c5e4b809a76",
+      "title": "В МИД России назвали нереалистичной идею о быстром пути к «ядерному нулю»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041169",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.935034"
+    },
+    {
+      "id": "2b41eca8fdd2",
+      "title": "Словакия и Венгрия отказались от участия в новом кредите Евросоюза для Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041171",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.935017"
+    },
+    {
+      "id": "21767a05dd83",
+      "title": "За день над Россией сбили 30 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041172",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934998"
+    },
+    {
+      "id": "aa73120cd4ca",
+      "title": "Организаторы протестов во Франции оценили число участников в 800 тысяч",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041173",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934957"
+    },
+    {
+      "id": "8c1937e6a48e",
+      "title": "В Румынии сбили два беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041175",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934939"
+    },
+    {
+      "id": "12944e97197a",
+      "title": "Правительство продлило сроки модернизации НПЗ в России до июля 2027 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041177",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934922"
+    },
+    {
+      "id": "89498db4f317",
+      "title": "Хакеры в Германии взломали почту ХДС и разослали фишинговые письма политикам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041178",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934904"
+    },
+    {
+      "id": "394b1f95e5fc",
+      "title": "Новак сообщил об отгрузке первого танкера с российским дизелем на мировой рынок",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041179",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934883"
+    },
+    {
+      "id": "20665a51d920",
+      "title": "Не менее 17 человек погибли в давке на религиозном празднике в Индии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041180",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "17.10 21:57",
+      "parsed_at": "2026-10-17T21:57:51.934854"
+    },
     {
       "id": "d0aa8e22d497",
       "title": "Во Франции возобновились протесты",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 00:52",
       "parsed_at": "2026-10-16T00:52:57.635037"
-    },
-    {
-      "id": "fd87bafe2fd0",
-      "title": "Путин передал во временное управление российские активы компании Tarkett",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027681",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.635018"
-    },
-    {
-      "id": "c19bd2a2a692",
-      "title": "Николас Мадуро назвал обвинения в пытках «ложью»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027682",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634954"
-    },
-    {
-      "id": "67e30239f154",
-      "title": "Силы ПВО сбили 37 БПЛА на пути к Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027683",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634935"
-    },
-    {
-      "id": "7ec6b25e80ef",
-      "title": "Во Франции 19 человек пострадали в ДТП с поездом у Евротоннеля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027685",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634911"
-    },
-    {
-      "id": "961bcbd37b71",
-      "title": "«Родина» не удержала Мирлинда Даку",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027684",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634885"
-    },
-    {
-      "id": "b194f6299509",
-      "title": "Силы ПВО сбили 12 БПЛА над Московским регионом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027700",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634865"
-    },
-    {
-      "id": "732a5d771e2b",
-      "title": "Пять человек погибли при ударе хуситов по президентскому дворцу в Адене",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027701",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 00:52",
-      "parsed_at": "2026-10-16T00:52:57.634835"
-    },
-    {
-      "id": "67d21ea7440e",
-      "title": "Маркетплейс подстраховался",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027605",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474198"
-    },
-    {
-      "id": "bfdd4ac4b4e5",
-      "title": "Топливо привозного розлива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027583",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 21:48",
-      "parsed_at": "2026-10-15T21:48:05.474183"
     }
   ]
 }
