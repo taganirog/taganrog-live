@@ -1,14 +1,58 @@
 {
-  "last_updated": "2026-10-17T01:55:40.944362",
+  "last_updated": "2026-10-17T03:56:34.602093",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
-    "works": 1,
+    "works": 0,
     "events": 0,
-    "news": 115,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "e9a0a34d17ee",
+      "title": "США передали РФ список компаний, которые готовы закупать российский дизель",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040980",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 03:56",
+      "parsed_at": "2026-10-17T03:56:32.566990"
+    },
+    {
+      "id": "11239ba6d456",
+      "title": "В Конгресс США внесли законопроект о запрете дизельной сделки с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040981",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 03:56",
+      "parsed_at": "2026-10-17T03:56:32.566971"
+    },
+    {
+      "id": "e3cf8fb81a24",
+      "title": "Politico: Anthropic предложила блокировать ИИ при риске массовой гибели людей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040982",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 03:56",
+      "parsed_at": "2026-10-17T03:56:32.566948"
+    },
+    {
+      "id": "32342d087d8e",
+      "title": "Число сбитых у Москвы беспилотников выросло до 44",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9040984",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.10 03:56",
+      "parsed_at": "2026-10-17T03:56:32.566917"
+    },
     {
       "id": "7db7be15e0ee",
       "title": "Новак: дефицит бензина в России составляет около 5%",
@@ -1284,50 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.10 03:12",
       "parsed_at": "2026-10-15T03:12:54.974692"
-    },
-    {
-      "id": "a8299fc0b559",
-      "title": "Axios: Белый дом сообщил о непричастности к ограничению работы Starlink на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026833",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974674"
-    },
-    {
-      "id": "2b0cdbb4ae9f",
-      "title": "По протоптанной нанодороге",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026646",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974629"
-    },
-    {
-      "id": "2b0ca3e79f8a",
-      "title": "Улов выходит из объектива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026720",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974609"
-    },
-    {
-      "id": "3bf90f0ac397",
-      "title": "Промышленности нужны молодые кадры",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026742",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.10 03:12",
-      "parsed_at": "2026-10-15T03:12:54.974574"
     }
   ]
 }
