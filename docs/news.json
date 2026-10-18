@@ -1,14 +1,80 @@
 {
-  "last_updated": "2026-10-18T02:15:46.924488",
+  "last_updated": "2026-10-18T04:18:36.041575",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 3,
     "works": 0,
     "events": 4,
-    "news": 113,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "640c73a54c41",
+      "title": "В Подмосковье стали чаще находить следы медведей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041197",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.892905"
+    },
+    {
+      "id": "c79d0f871e88",
+      "title": "В Ленинградской области сбили 17 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041198",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.892887"
+    },
+    {
+      "id": "7112bdb31744",
+      "title": "Число сбитых рядом с Москвой БПЛА выросло до 36",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041199",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.892868"
+    },
+    {
+      "id": "de8e1cbe5cfb",
+      "title": "Экс-президент Сенегала вышел из гонки за пост генерального секретаря ООН",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041200",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.892846"
+    },
+    {
+      "id": "964dc2beb2c5",
+      "title": "В деревне Низино под Петербургом после атаки БПЛА произошел пожар",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041201",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.892814"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 04:18",
+      "parsed_at": "2026-10-18T04:18:33.073612"
+    },
     {
       "id": "53e3cea6e1ee",
       "title": "«МегаФон»: среднее число  DDoS-атак за девять месяцев снизилось на 65%",
@@ -1262,72 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 11:38",
       "parsed_at": "2026-10-16T11:38:40.096473"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:40.096439"
-    },
-    {
-      "id": "17aca99e744e",
-      "title": "В США экстрадировали россиянина по обвинению в обходе санкций против РФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027709",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963891"
-    },
-    {
-      "id": "c6abfec46f92",
-      "title": "Трамп: я не большой поклонник Зеленского",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027710",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963877"
-    },
-    {
-      "id": "68c4053727ac",
-      "title": "Трамп назвал причину трудностей в решении конфликта РФ и Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027712",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963863"
-    },
-    {
-      "id": "b9d7e472efae",
-      "title": "Великобритания поставит Украине новые партии ракет Storm Shadows",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027713",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963830"
-    },
-    {
-      "id": "09146b743ef6",
-      "title": "Над Ленобластью сбито 2 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027714",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 06:49",
-      "parsed_at": "2026-10-16T06:49:34.963817"
     }
   ]
 }
