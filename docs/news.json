@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T17:45:01.484810",
+  "last_updated": "2026-10-18T20:42:38.568989",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "b66113df5064",
+      "title": "Лавров назвал место следующего заседания России и стран Персидского залива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041457",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464233"
+    },
+    {
+      "id": "53c78f0a6690",
+      "title": "Путин пока не решил насчет поездки на саммит G20 в Майами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041460",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464214"
+    },
+    {
+      "id": "a934f3306e80",
+      "title": "Условный срок со скидкой на операцию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041424",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464194"
+    },
+    {
+      "id": "dd1f4aca16c8",
+      "title": "«Гайд-паркам» добавят комфорта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041427",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464122"
+    },
+    {
+      "id": "d03dfa83b2cb",
+      "title": "Бессент назвал безрассудными обвинения Украины в ограничении доступа к Starlink",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041470",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464103"
+    },
+    {
+      "id": "9966d4ab94fa",
+      "title": "Захарова ответила на призыв Латвии запретить выдачу шенгенских виз россиянам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041465",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464081"
+    },
+    {
+      "id": "110462fbdd32",
+      "title": "Аренда на сносных условиях",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041416",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464059"
+    },
+    {
+      "id": "00eec37ab825",
+      "title": "Число осужденных мужчин снизилось на 50% за десять лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041456",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464037"
+    },
+    {
+      "id": "25833cda6269",
+      "title": "Telegraph узнала о подготовке срочного пакета санкций Евросоюза против России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041479",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "18.10 20:42",
+      "parsed_at": "2026-10-18T20:42:35.464006"
+    },
     {
       "id": "e7c66e77fe1a",
       "title": "«Металлург» победил «Автомобилиста» в КХЛ в первом матче после ухода Разина",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 01:55",
       "parsed_at": "2026-10-17T01:55:38.848748"
-    },
-    {
-      "id": "672c1715c7e1",
-      "title": "Трамп пообещал когда-нибудь раскрыть причины начала конфликта на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040979",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848729"
-    },
-    {
-      "id": "66d02733fe4a",
-      "title": "Дмитриев: США попросили у РФПИ помощи в осуществлении дизельной сделки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040683",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859850"
-    },
-    {
-      "id": "aa531f09a732",
-      "title": "Курс доллара. Прогноз на 19—23 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040685",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859835"
-    },
-    {
-      "id": "c87c0811154e",
-      "title": "Трамп заявил о непричастности к ограничению доступа Украины к Starshield",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040689",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859822"
-    },
-    {
-      "id": "c2a1d9f87fbe",
-      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/8956438",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859809"
-    },
-    {
-      "id": "c041952a0197",
-      "title": "Мирошник сообщил о гибели семи членов избиркомов во время выборов в России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040692",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859794"
-    },
-    {
-      "id": "20ce95e2acf7",
-      "title": "The Telegraph: ограничить работу Starlink на Украине Трампу предложил Илон Маск",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040690",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859781"
-    },
-    {
-      "id": "917117a6267c",
-      "title": "Стоимость нефти Brent достигла $110 за баррель впервые с мая",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040693",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859767"
-    },
-    {
-      "id": "b881a3135180",
-      "title": "Трамп заявил, что хотел бы видеть Путина на саммите G20",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040694",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859753"
     }
   ]
 }
