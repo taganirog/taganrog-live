@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-10-18T14:29:27.400011",
+  "last_updated": "2026-10-18T17:45:01.484810",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 4,
     "works": 0,
     "events": 4,
-    "news": 113,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "e7c66e77fe1a",
+      "title": "«Металлург» победил «Автомобилиста» в КХЛ в первом матче после ухода Разина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041401",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092324"
+    },
+    {
+      "id": "3856baa5ee09",
+      "title": "Глава Минэнерго: США не смягчали ни одной санкции в отношении российской нефти",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041399",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092313"
+    },
+    {
+      "id": "2c21d196e7f5",
+      "title": "В Юго-Восточной Азии зафиксировали рекордные объемы изъятого метамфетамина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041391",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092303"
+    },
+    {
+      "id": "46a79ad73c2c",
+      "title": "Макрон обратится к нации на фоне массовых беспорядков во Франции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041405",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092293"
+    },
+    {
+      "id": "5c5d2d691559",
+      "title": "МВД Франции сообщило о задержании 2 тыс. участников беспорядков",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041410",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092271"
+    },
+    {
+      "id": "2e18811ca8d9",
+      "title": "Теракт пришел по воздуху",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041374",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092261"
+    },
+    {
+      "id": "0c80be1731e7",
+      "title": "Минобороны РФ сообщило об ударе по сухогрузу с военным грузом у Одессы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041420",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092252"
+    },
+    {
+      "id": "c11ddccf4ec1",
+      "title": "Дуров прокомментировал удар БПЛА по дата-центру VK в Ленобласти",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041418",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092240"
+    },
+    {
+      "id": "ef151deff82d",
+      "title": "Япония планирует запуск миссии на Фобос 20 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041415",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:45",
+      "parsed_at": "2026-10-18T17:45:00.092222"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842809"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842669"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842657"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842640"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842623"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "18.10 17:44",
+      "parsed_at": "2026-10-18T17:44:53.842598"
+    },
     {
       "id": "e1f7409935ce",
       "title": "В Иране назначили нового министра обороны",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 23:20",
       "parsed_at": "2026-10-16T23:20:35.859753"
-    },
-    {
-      "id": "b7bd1e894c64",
-      "title": "Искусственный интеллект реорганизовал естественный отбор",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040626",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859738"
-    },
-    {
-      "id": "4c7a103ef9c4",
-      "title": "Мальчик из России погиб в отеле в Шарм-эш-Шейхе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040695",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 23:20",
-      "parsed_at": "2026-10-16T23:20:35.859716"
-    },
-    {
-      "id": "8d94c3f9d653",
-      "title": "Путину доложили о взятии под контроль 70% полосы безопасности на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040647",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089749"
-    },
-    {
-      "id": "084e617e9a6f",
-      "title": "Продажи злаковых батончиков в России упали более чем на 8% за год",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027446",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089731"
-    },
-    {
-      "id": "5225f2e78417",
-      "title": "«Вкусвилл» заходит в «килл»-зону",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040648",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089713"
-    },
-    {
-      "id": "2df8c8953ddd",
-      "title": "Путин пожелал папе римскому скорейшего выздоровления после операции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040659",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089696"
-    },
-    {
-      "id": "fbc2ccc5e5b0",
-      "title": "Потребителям намяли бокалы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040593",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089657"
-    },
-    {
-      "id": "7d19c5112176",
-      "title": "Генеральная репетиция",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040618",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089638"
-    },
-    {
-      "id": "c9838950f1f7",
-      "title": "Дмитриев сообщил о переговорах с США по проектам в сфере дата-центров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040667",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:48.089606"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 20:45",
-      "parsed_at": "2026-10-16T20:45:43.077753"
-    },
-    {
-      "id": "f075133a98de",
-      "title": "Десятки человек задержаны во время рейда на Сенном рынке в Петербурге",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040470",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978438"
-    },
-    {
-      "id": "c15392294dd6",
-      "title": "В Якутске создадут Арктический медиахаб с каналом «Mash Арктика»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978419"
-    },
-    {
-      "id": "773d31dba1bb",
-      "title": "«Дошло до того, что о гипнозе спросили самого Третьяка»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040366",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978393"
-    },
-    {
-      "id": "c9ccfc70d7fe",
-      "title": "«ЭКО-культура» планирует урегулировать вопрос с налоговой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040468",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978355"
-    },
-    {
-      "id": "889f4ce5f8cf",
-      "title": "Посадка на «Сапсан» по биометрии заработает в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040478",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978337"
     }
   ]
 }
