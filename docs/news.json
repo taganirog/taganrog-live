@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-18T04:18:36.041575",
+  "last_updated": "2026-10-18T09:13:05.865979",
   "stats": {
     "zhkh": 1,
-    "mchs": 3,
+    "mchs": 4,
     "works": 0,
     "events": 4,
-    "news": 112,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "489286827447",
+      "title": "Главные новости к утру 18 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949477"
+    },
+    {
+      "id": "acf9a5bdfdec",
+      "title": "Квентин Тарантино написал сценарий для своего следующего фильма",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949460"
+    },
+    {
+      "id": "1407be29ef09",
+      "title": "Московские аэропорты вернулись к работе после атаки БПЛА на город",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041213",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949442"
+    },
+    {
+      "id": "e2536785ad1e",
+      "title": "За ночь на подлете к Москве сбили 76 дронов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041214",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949404"
+    },
+    {
+      "id": "07d1ecc1f7d0",
+      "title": "Ученые обнаружили планеты лучше Земли за пределами Солнечной системы",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9040542",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949387"
+    },
+    {
+      "id": "013fa7c8e9f5",
+      "title": "Главные анонсы 19–25 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041215",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949367"
+    },
+    {
+      "id": "2e293e2db6ac",
+      "title": "Четверо пострадали при атаке БПЛА на Ленинградскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041216",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949349"
+    },
+    {
+      "id": "e7534e345873",
+      "title": "Рубио: у Украины нет доступа к системе Starshield",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041223",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949328"
+    },
+    {
+      "id": "64ed154e777e",
+      "title": "Пожар начался на складе Ozon в Ленобласти после атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041227",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:03.949294"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 09:13",
+      "parsed_at": "2026-10-18T09:13:02.815415"
+    },
     {
       "id": "640c73a54c41",
       "title": "В Подмосковье стали чаще находить следы медведей",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 16:39",
       "parsed_at": "2026-10-16T16:39:42.326107"
-    },
-    {
-      "id": "5ec5fa39d110",
-      "title": "Украина должна выплатить иностранным кредиторам более $6,5 млрд в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027921",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168371"
-    },
-    {
-      "id": "c639821bc6ce",
-      "title": "Теннисистка Диана Шнайдер не вышла в полуфинал турнира WTA 1000 в Ухане",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027932",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168353"
-    },
-    {
-      "id": "8f31ef83f054",
-      "title": "При атаке БПЛА на автобус в белгородском Шебекино пострадали четыре человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027941",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168334"
-    },
-    {
-      "id": "b8198cd10226",
-      "title": "Принцип пазла: от лоскутного стека к ПАК",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027862",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168295"
-    },
-    {
-      "id": "2d3727e4b67f",
-      "title": "Умер чемпион НБА и член Зала славы баскетбола Клифф Хейган",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027945",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168278"
-    },
-    {
-      "id": "d62c665d15e6",
-      "title": "Tesla представила летающий Roadster",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027931",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168255"
-    },
-    {
-      "id": "39af17d8ac58",
-      "title": "«Россети» призвали готовить среду для участников СВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027491",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168237"
-    },
-    {
-      "id": "7d351df2adf9",
-      "title": "WP: Украина начала сомневаться в новых поставках оружия НАТО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027951",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168217"
-    },
-    {
-      "id": "8de158a80955",
-      "title": "Трудятся роботы, арендует человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9027536",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:43.168189"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 11:38",
-      "parsed_at": "2026-10-16T11:38:40.096473"
     }
   ]
 }
