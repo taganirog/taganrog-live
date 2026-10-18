@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-18T09:13:05.865979",
+  "last_updated": "2026-10-18T14:29:27.400011",
   "stats": {
     "zhkh": 1,
-    "mchs": 4,
+    "mchs": 2,
     "works": 0,
     "events": 4,
-    "news": 111,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "e1f7409935ce",
+      "title": "В Иране назначили нового министра обороны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041321",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345662"
+    },
+    {
+      "id": "c5d1c28ecd2b",
+      "title": "С тульским правосудием разобрались в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041246",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345644"
+    },
+    {
+      "id": "1d4f11a3cd53",
+      "title": "Минобороны РФ сообщило об уничтожении семи ракет «Фламинго» и 1 256 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041326",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345627"
+    },
+    {
+      "id": "1eb3a1c8dd64",
+      "title": "Новак: США получат дизель из России через 15-20 дней после подписания контрактов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041332",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345589"
+    },
+    {
+      "id": "74532b162ca8",
+      "title": "«Соль Руси» пришлась пенсионерам не по вкусу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041275",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345568"
+    },
+    {
+      "id": "d01c67243800",
+      "title": "Алина Лысенко выиграла чемпионат мира по велоспорту на треке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041335",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345529"
+    },
+    {
+      "id": "30cf166537f5",
+      "title": "Петербург и Ленинградская область подверглись масштабной атаке БПЛА с начала СВО. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041334",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345509"
+    },
+    {
+      "id": "138c8f86a411",
+      "title": "В Кремле прокомментировали налет БПЛА на Ленинградскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041338",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345486"
+    },
+    {
+      "id": "efcb80ae2063",
+      "title": "СКА назначил Разина главным тренером вместо Ларионова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041339",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:26.345457"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 14:29",
+      "parsed_at": "2026-10-18T14:29:25.573919"
+    },
     {
       "id": "489286827447",
       "title": "Главные новости к утру 18 октября",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.10 16:39",
       "parsed_at": "2026-10-16T16:39:46.978337"
-    },
-    {
-      "id": "75e6df9f8791",
-      "title": "В Москве задержали студента за поджог релейного шкафа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040492",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978319"
-    },
-    {
-      "id": "cad63626cd28",
-      "title": "«В салоне настоящая восточная роскошь»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040365",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978299"
-    },
-    {
-      "id": "cad85543ed17",
-      "title": "В Москве арестовали главу фонда «Защитим детей от наркотиков и алкоголя» Кротову",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040496",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978277"
-    },
-    {
-      "id": "41af2557b66d",
-      "title": "В Комитете лесного хозяйства Подмосковья опровергли нашествие волков",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040493",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:46.978244"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326490"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326237"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326216"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326191"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326146"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "16.10 16:39",
-      "parsed_at": "2026-10-16T16:39:42.326107"
     }
   ]
 }
