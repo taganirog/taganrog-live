@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T20:42:38.568989",
+  "last_updated": "2026-10-18T22:55:24.909367",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "d24137cf3aed",
+      "title": "Макрон потребовал от правительства не допустить повторения беспорядков",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041500",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226534"
+    },
+    {
+      "id": "896fa8553195",
+      "title": "В Англии и Уэльсе браки по статистике чаще распадаются после 20 лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041480",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226515"
+    },
+    {
+      "id": "dde108f6d596",
+      "title": "США пригрозили ЕС разрушительным ответом на возможные ограничения Starlink",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041503",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226491"
+    },
+    {
+      "id": "c2a1d9f87fbe",
+      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/8956438",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226473"
+    },
+    {
+      "id": "9182b74803a3",
+      "title": "Американец с докторской степенью безуспешно подал 2,3 тыс. заявок на работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041499",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226452"
+    },
+    {
+      "id": "e98d5add023a",
+      "title": "Лавров 19 октября встретится в Тегеране с президентом Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041505",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226430"
+    },
+    {
+      "id": "73b689365d3a",
+      "title": "Турция рассчитывает получить часть дизтоплива по соглашению России и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041506",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226404"
+    },
+    {
+      "id": "aa806b7ffc34",
+      "title": "Семь человек пострадали при ударах БПЛА по Белгородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041507",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226384"
+    },
+    {
+      "id": "f38c3ff63078",
+      "title": "Страны Персидского залива предложили признать хуситов террористами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041508",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226362"
+    },
+    {
+      "id": "3c9dd5c4a23b",
+      "title": "Бессент поспорил с Зеленским о способах завершения конфликта с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041510",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.10 22:55",
+      "parsed_at": "2026-10-18T22:55:23.226334"
+    },
     {
       "id": "b66113df5064",
       "title": "Лавров назвал место следующего заседания России и стран Персидского залива",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 03:56",
       "parsed_at": "2026-10-17T03:56:32.566990"
-    },
-    {
-      "id": "11239ba6d456",
-      "title": "В Конгресс США внесли законопроект о запрете дизельной сделки с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040981",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 03:56",
-      "parsed_at": "2026-10-17T03:56:32.566971"
-    },
-    {
-      "id": "e3cf8fb81a24",
-      "title": "Politico: Anthropic предложила блокировать ИИ при риске массовой гибели людей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040982",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 03:56",
-      "parsed_at": "2026-10-17T03:56:32.566948"
-    },
-    {
-      "id": "32342d087d8e",
-      "title": "Число сбитых у Москвы беспилотников выросло до 44",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040984",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 03:56",
-      "parsed_at": "2026-10-17T03:56:32.566917"
-    },
-    {
-      "id": "7db7be15e0ee",
-      "title": "Новак: дефицит бензина в России составляет около 5%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040696",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848839"
-    },
-    {
-      "id": "c032bd0c22fa",
-      "title": "ЦБ расширит возможности зеленого финансирования",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040697",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848826"
-    },
-    {
-      "id": "691ea59ba412",
-      "title": "В Москве закрыли три аэропорта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040698",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848800"
-    },
-    {
-      "id": "7a689bc660cc",
-      "title": "Пресс-секретарь Белого дома установила антирекорд, проработав всего пять дней",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040491",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848788"
-    },
-    {
-      "id": "7f28a55a2af3",
-      "title": "Миляев сообщил о налете беспилотников на Тульскую область",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040976",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848775"
-    },
-    {
-      "id": "6ae58a2d913f",
-      "title": "Рядом с Москвой сбили 15 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040977",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848762"
-    },
-    {
-      "id": "c431766e6085",
-      "title": "Думайте сами, считайте сами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040978",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 01:55",
-      "parsed_at": "2026-10-17T01:55:38.848748"
     }
   ]
 }
