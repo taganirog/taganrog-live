@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-18T22:55:24.909367",
+  "last_updated": "2026-10-19T01:07:51.261977",
   "stats": {
     "zhkh": 1,
-    "mchs": 4,
+    "mchs": 5,
     "works": 0,
     "events": 4,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "67ca54ad0515",
+      "title": "Россия призвала Данию к соглашению о предотвращении военных инцидентов в Балтике",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041514",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.656008"
+    },
+    {
+      "id": "f7788d3201e0",
+      "title": "Россия и Белоруссия подпишут правила объединенного рынка электроэнергии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041513",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.655990"
+    },
+    {
+      "id": "872a4a3237fb",
+      "title": "Трамп объяснил, почему отложил введение «адских санкций» против России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.655973"
+    },
+    {
+      "id": "0c806e73f9d6",
+      "title": "Фурам покатило на родине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041455",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.655956"
+    },
+    {
+      "id": "f9d04fdb3515",
+      "title": "«МегаФон»: среднее число  DDoS-атак за девять месяцев снизилось на 65%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041256",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.655938"
+    },
+    {
+      "id": "ce5281882479",
+      "title": "Премьер Канады сообщил о гибели четырех человек при пожаре на военной базе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041515",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:49.655908"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 01:07",
+      "parsed_at": "2026-10-19T01:07:42.740787"
+    },
     {
       "id": "d24137cf3aed",
       "title": "Макрон потребовал от правительства не допустить повторения беспорядков",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 08:16",
       "parsed_at": "2026-10-17T08:16:08.386709"
-    },
-    {
-      "id": "9882fb4a1d9a",
-      "title": "Антонио Бандерас и Николас Кейдж сыграют в новом сезоне «Настоящего детектива»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040993",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386673"
-    },
-    {
-      "id": "76ea02eb9b56",
-      "title": "Московские аэропорты возобновили работу после массированной атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040994",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386654"
-    },
-    {
-      "id": "22e96b689885",
-      "title": "Портреты русской цивилизации",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/8864120",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386635"
-    },
-    {
-      "id": "8da41e030d62",
-      "title": "Ученые впервые обнаружили зеленую звезду",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040435",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386617"
-    },
-    {
-      "id": "23db82a1e3d2",
-      "title": "Город под фильтром процветания",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040503",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386598"
-    },
-    {
-      "id": "aa3de182270b",
-      "title": "WSJ: Иран помог хуситам организовать атаку на аэропорт в Эр-Рияде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040997",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386569"
-    },
-    {
-      "id": "e9a0a34d17ee",
-      "title": "США передали РФ список компаний, которые готовы закупать российский дизель",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040980",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 03:56",
-      "parsed_at": "2026-10-17T03:56:32.566990"
     }
   ]
 }
