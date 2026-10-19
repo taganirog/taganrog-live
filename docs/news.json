@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-19T08:00:49.096652",
+  "last_updated": "2026-10-19T14:01:11.210307",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
     "works": 1,
-    "events": 3,
-    "news": 110,
+    "events": 2,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "78f0554e175d",
+      "title": "«Определенный кризис идей»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041983",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627196"
+    },
+    {
+      "id": "a2abbb6cdf19",
+      "title": "SZ: Volkswagen заморозит зарплаты сотрудникам по всему миру до 2030 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041995",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627186"
+    },
+    {
+      "id": "fd27503510a9",
+      "title": "Цифровой молоток геолога",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041677",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627175"
+    },
+    {
+      "id": "ce596bc1efb8",
+      "title": "Песков: инициатива бизнеса вложиться в новые системы ПВО не обсуждалась",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042001",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627143"
+    },
+    {
+      "id": "9f7aeae620f6",
+      "title": "Автомобиль месяца: Москвич М70 Ультра",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9027479",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627131"
+    },
+    {
+      "id": "617fdadee69c",
+      "title": "«Статус Кутузовского направления»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041982",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627119"
+    },
+    {
+      "id": "aef9f8fbdbbb",
+      "title": "Дональд Трамп перестроит поле для гольфа в Вашингтоне вопреки запрету суда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041990",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627109"
+    },
+    {
+      "id": "e6495eb5d61c",
+      "title": "Рубио заявил о недовольстве США одновременно Украиной и Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042025",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627096"
+    },
+    {
+      "id": "4b22296865d4",
+      "title": "McLaren продаст автомобили, на которых ездили Айртон Сенна и Брэд Питт",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9042021",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 14:01",
+      "parsed_at": "2026-10-19T14:01:09.627075"
+    },
     {
       "id": "2467a2addbe3",
       "title": "Песков назвал возможную дату визита премьера Индии в Россию",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 19:33",
       "parsed_at": "2026-10-17T19:33:25.686525"
-    },
-    {
-      "id": "17f8dd4b1440",
-      "title": "«Не думаю, что древние племена знали беса»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040584",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686494"
-    },
-    {
-      "id": "a4ebb1b2f85a",
-      "title": "Sky Sports назвал Дэвида Бекхэма возможным кандидатом на пост президента FIFA",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041162",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686481"
-    },
-    {
-      "id": "c9652fe5bdac",
-      "title": "Галерея керамики TOMO переехала в центр Москвы и открыла выставку «Объекты и состояния»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040643",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686468"
-    },
-    {
-      "id": "7abaa726f5d7",
-      "title": "Российские войска ударили по предприятию «Кромберг энд Шуберт» в Луцке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041163",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686453"
-    },
-    {
-      "id": "fcfb46294c42",
-      "title": "Более 20 муниципалитетов ЛНР обесточены после атаки ВСУ на энергообъекты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041164",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686438"
-    },
-    {
-      "id": "774a268bc0f1",
-      "title": "Более 100 рейсов задерживаются в московских аэропортах после ночных ограничений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041167",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686416"
-    },
-    {
-      "id": "2681c7da2c97",
-      "title": "В Брянской области мужчина погиб в лесу при атаке БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041114",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535534"
-    },
-    {
-      "id": "b92baff0398e",
-      "title": "Взлетная полоса для Маска",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041117",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535522"
-    },
-    {
-      "id": "2f34d2f3173f",
-      "title": "Умер «Русский Тайсон» Денис Бойцов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041123",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535512"
     }
   ]
 }
