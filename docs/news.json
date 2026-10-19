@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T03:19:08.777167",
+  "last_updated": "2026-10-19T08:00:49.096652",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "2467a2addbe3",
+      "title": "Песков назвал возможную дату визита премьера Индии в Россию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041550",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.596084"
+    },
+    {
+      "id": "a57e9d5c1edc",
+      "title": "Главные новости к утру 19 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041557",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.596064"
+    },
+    {
+      "id": "384eaaf84fae",
+      "title": "Песков рассказал, когда пройдет прямая линия Путина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041564",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.596042"
+    },
+    {
+      "id": "84db1955593f",
+      "title": "Премьер Японии Такаити теряет популярность после скандала с увольнением министра",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041569",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.596006"
+    },
+    {
+      "id": "6a925df8ce7b",
+      "title": "17 тыс. человек остались без воды в Приморском крае из-за аварии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041571",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.595985"
+    },
+    {
+      "id": "4e1b6be2bc61",
+      "title": "Захарова призвала премьера Албании не перекладывать вину за беспорядки на других",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041579",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.595966"
+    },
+    {
+      "id": "21dfc6c53530",
+      "title": "В Китае с 2028 года могут ввести сертификацию стройматериалов по стандартам РФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041574",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.595947"
+    },
+    {
+      "id": "9ca25cf01464",
+      "title": "Британцы освобождают полки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041469",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 08:00",
+      "parsed_at": "2026-10-19T08:00:47.595917"
+    },
     {
       "id": "6f941a4688df",
       "title": "Платежный баланс не укладывается в прогноз",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 16:23",
       "parsed_at": "2026-10-17T16:23:19.535512"
-    },
-    {
-      "id": "83f1eee2eaae",
-      "title": "В Марселе митингующие ворвались в здание мэрии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041122",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535493"
-    },
-    {
-      "id": "fcd80063d2b8",
-      "title": "Мерц: Германии не обойтись без воинской обязанности в будущем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041128",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535484"
-    },
-    {
-      "id": "eb4f4f3c9029",
-      "title": "Суд арестовал 19-летнего москвича, бросившего кирпич в окно электрички на МЦД",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041127",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535474"
-    },
-    {
-      "id": "082b2f8be528",
-      "title": "Денис Мацуев исполнит Малера на фестивале ArsLonga",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040640",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535464"
-    },
-    {
-      "id": "f0f0d6da49a8",
-      "title": "Врач-педиатр и водитель скорой помощи погибли в ДТП в Карелии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041129",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535453"
-    },
-    {
-      "id": "061dc4640bb1",
-      "title": "Жительница Сочи пропала после визита в квартиру соседа-самозванца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041131",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 16:23",
-      "parsed_at": "2026-10-17T16:23:19.535436"
-    },
-    {
-      "id": "5541a91d1364",
-      "title": "Spiegel: в поджоге Starlink в Польше подозревают «связанную с Россией» турецкую ОПГ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041056",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773721"
-    },
-    {
-      "id": "9e714128af53",
-      "title": "В Курской области из-за удара БПЛА по сахарному заводу ранена женщина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041059",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773711"
     }
   ]
 }
