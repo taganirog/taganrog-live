@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-19T14:01:11.210307",
+  "last_updated": "2026-10-19T20:37:12.268849",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
-    "works": 1,
+    "works": 2,
     "events": 2,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "e97620c505e7",
+      "title": "Молодежь заинтересовалась православием",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042371",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773977"
+    },
+    {
+      "id": "571cb5424219",
+      "title": "В Москве завершился фестиваль «Видеть и Слышать»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042172",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773967"
+    },
+    {
+      "id": "ae54a530a62e",
+      "title": "В Чувашии поручили ускорить ремонт муниципальных дорог",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042270",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773957"
+    },
+    {
+      "id": "5c424ad76be4",
+      "title": "Сделки частичного прояснения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042363",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773932"
+    },
+    {
+      "id": "228c5549fcac",
+      "title": "Белоруссия запретила ввоз некоторых товаров из Латвии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042406",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773922"
+    },
+    {
+      "id": "7396b5a88976",
+      "title": "За день Россией сбили 13 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042412",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773905"
+    },
+    {
+      "id": "ecc95811d3f0",
+      "title": "Папа римский обсудил с Зеленским гуманитарную помощь жителям Алешек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042407",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 20:37",
+      "parsed_at": "2026-10-19T20:37:08.773875"
+    },
     {
       "id": "78f0554e175d",
       "title": "«Определенный кризис идей»",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 21:57",
       "parsed_at": "2026-10-17T21:57:51.934939"
-    },
-    {
-      "id": "12944e97197a",
-      "title": "Правительство продлило сроки модернизации НПЗ в России до июля 2027 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041177",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934922"
-    },
-    {
-      "id": "89498db4f317",
-      "title": "Хакеры в Германии взломали почту ХДС и разослали фишинговые письма политикам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041178",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934904"
-    },
-    {
-      "id": "394b1f95e5fc",
-      "title": "Новак сообщил об отгрузке первого танкера с российским дизелем на мировой рынок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041179",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934883"
-    },
-    {
-      "id": "20665a51d920",
-      "title": "Не менее 17 человек погибли в давке на религиозном празднике в Индии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041180",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934854"
-    },
-    {
-      "id": "d0aa8e22d497",
-      "title": "Во Франции возобновились протесты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041111",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686551"
-    },
-    {
-      "id": "0f11efdf1886",
-      "title": "Даниил Медведев вынудил судью нарушить протокол в полуфинале «мастерса» в Шанхае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041158",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686539"
-    },
-    {
-      "id": "9e4a21dd7267",
-      "title": "Дептранс предупредил о тумане в Москве до утра воскресенья",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041160",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 19:33",
-      "parsed_at": "2026-10-17T19:33:25.686525"
     }
   ]
 }
