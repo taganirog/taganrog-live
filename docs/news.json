@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T20:37:12.268849",
+  "last_updated": "2026-10-20T00:53:50.018267",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "a721e59a7e0b",
+      "title": "Трамп: США не получают от Украины ничего в обмен на разведданные",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042468",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354338"
+    },
+    {
+      "id": "4951d7f22eeb",
+      "title": "АТОР: российские туристы не откладывают поездки во Францию из-за протестов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042467",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354320"
+    },
+    {
+      "id": "4b3f96db0d87",
+      "title": "В Польше арестовали гражданина Украины по подозрению в шпионаже",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042466",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354301"
+    },
+    {
+      "id": "e67999f0ee55",
+      "title": "Трамп: Россия справедлива по отношению к Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042470",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354263"
+    },
+    {
+      "id": "7007aab206eb",
+      "title": "Трамп призвал Зеленского поручить вести переговоры по Украине кому-то другому",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042469",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354245"
+    },
+    {
+      "id": "72da61c1ab6b",
+      "title": "Reuters: Уиткофф и Кушнер посетят Норвегию для переговоров по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042472",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354223"
+    },
+    {
+      "id": "cfac0e23537d",
+      "title": "Трамп анонсировал освобождение задержанного в России американца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042473",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354183"
+    },
+    {
+      "id": "4fc108a7b0fe",
+      "title": "Аэропорт в польском Жешуве приостановил работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042490",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354161"
+    },
+    {
+      "id": "6e1c10ee14d9",
+      "title": "Трамп: США не нацелены на ужесточение санкций в отношении России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042475",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 00:53",
+      "parsed_at": "2026-10-20T00:53:48.354131"
+    },
     {
       "id": "e97620c505e7",
       "title": "Молодежь заинтересовалась православием",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 00:14",
       "parsed_at": "2026-10-18T00:14:41.333604"
-    },
-    {
-      "id": "0e39e47526e0",
-      "title": "На подлете к Москве сбили 37 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041189",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 00:14",
-      "parsed_at": "2026-10-18T00:14:41.333588"
-    },
-    {
-      "id": "639d050aa4ba",
-      "title": "Человек пострадал при ударе БПЛА по селу в Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041190",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 00:14",
-      "parsed_at": "2026-10-18T00:14:41.333570"
-    },
-    {
-      "id": "abe076586c5b",
-      "title": "Хуситы заявили об уничтожении саудовского военного вертолета у границы с Йеменом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041191",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 00:14",
-      "parsed_at": "2026-10-18T00:14:41.333550"
-    },
-    {
-      "id": "b63b19b38008",
-      "title": "За сутки рядом с Москвой сбили почти 200 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041192",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 00:14",
-      "parsed_at": "2026-10-18T00:14:41.333519"
-    },
-    {
-      "id": "9c5e4b809a76",
-      "title": "В МИД России назвали нереалистичной идею о быстром пути к «ядерному нулю»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041169",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.935034"
-    },
-    {
-      "id": "2b41eca8fdd2",
-      "title": "Словакия и Венгрия отказались от участия в новом кредите Евросоюза для Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041171",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.935017"
-    },
-    {
-      "id": "21767a05dd83",
-      "title": "За день над Россией сбили 30 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041172",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934998"
-    },
-    {
-      "id": "aa73120cd4ca",
-      "title": "Организаторы протестов во Франции оценили число участников в 800 тысяч",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041173",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934957"
-    },
-    {
-      "id": "8c1937e6a48e",
-      "title": "В Румынии сбили два беспилотника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041175",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 21:57",
-      "parsed_at": "2026-10-17T21:57:51.934939"
     }
   ]
 }
