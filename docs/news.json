@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-19T01:07:51.261977",
+  "last_updated": "2026-10-19T03:19:08.777167",
   "stats": {
     "zhkh": 1,
     "mchs": 5,
-    "works": 0,
-    "events": 4,
+    "works": 1,
+    "events": 3,
     "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "6f941a4688df",
+      "title": "Платежный баланс не укладывается в прогноз",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041382",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.832027"
+    },
+    {
+      "id": "d05172cb62af",
+      "title": "Уголь убрали с дороги",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041431",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.832012"
+    },
+    {
+      "id": "f0aff42d4df8",
+      "title": "Зерно созрело для роста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041464",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.832000"
+    },
+    {
+      "id": "6353e3f88d6f",
+      "title": "Смешать, но не взбалтывать",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041466",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831970"
+    },
+    {
+      "id": "1e46340bc9a5",
+      "title": "Западные наблюдатели заметили опасное сближение российского спутника с финским",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041473",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831958"
+    },
+    {
+      "id": "2307f018a7c1",
+      "title": "Командные игры разума",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041477",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831945"
+    },
+    {
+      "id": "fd5be5447ca8",
+      "title": "Летевший из Тель-Авива в Вену самолет сел в Болгарии из-за сообщения о бомбе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041532",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831933"
+    },
+    {
+      "id": "9c0ba7209483",
+      "title": "КСИР сообщил о подрыве на мине танкера в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041534",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831918"
+    },
+    {
+      "id": "8cce690ab663",
+      "title": "Премьер Литвы сообщил о попытке поджога дата-центра с оборудованием Starlink",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9041535",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.10 03:19",
+      "parsed_at": "2026-10-19T03:19:06.831897"
+    },
     {
       "id": "67ca54ad0515",
       "title": "Россия призвала Данию к соглашению о предотвращении военных инцидентов в Балтике",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.10 12:32",
       "parsed_at": "2026-10-17T12:32:45.773711"
-    },
-    {
-      "id": "f70166bc83e7",
-      "title": "Warner Bros. зарегистрировала в РФ товарные знаки из «Гарри Поттера»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041070",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773701"
-    },
-    {
-      "id": "c20178e3e2c1",
-      "title": "Праздник доверили профессионалам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041064",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773679"
-    },
-    {
-      "id": "a6f80704a5f5",
-      "title": "«Воркутауголь»: обстановка на шахте «Комсомольская» в Коми стабилизировалась",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041069",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773670"
-    },
-    {
-      "id": "50d0acae09e1",
-      "title": "Петербургский аэропорт Пулково принял 20 рейсов из-за ограничений в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041074",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773659"
-    },
-    {
-      "id": "71ffaffb1bed",
-      "title": "Аэропорт Хельсинки принял не сумевший сесть в Петербурге самолет из Хургады",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041080",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773646"
-    },
-    {
-      "id": "a927969d654f",
-      "title": "Склады под высоким тарифом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041077",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 12:32",
-      "parsed_at": "2026-10-17T12:32:45.773628"
-    },
-    {
-      "id": "bf97366d6502",
-      "title": "Пентагон: «Хамас» и «Хезболла» собирают деньги на поддержку Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040990",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386743"
-    },
-    {
-      "id": "83bf96ebeed1",
-      "title": "На подлете к Москве сбили еще 75 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040991",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386726"
-    },
-    {
-      "id": "6b5182bf9025",
-      "title": "Главные новости к утру 17 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040992",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.10 08:16",
-      "parsed_at": "2026-10-17T08:16:08.386709"
     }
   ]
 }
