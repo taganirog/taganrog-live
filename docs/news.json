@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-20T13:44:41.780726",
+  "last_updated": "2026-10-20T18:30:29.158612",
   "stats": {
-    "zhkh": 0,
+    "zhkh": 1,
     "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 113,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "6b69c7783d16",
+      "title": "В Архангельской области медведь впервые с 1978 года насмерть растерзал человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043151",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647223"
+    },
+    {
+      "id": "267f697ac568",
+      "title": "Газпром символически сократил инвестиционную программу на 2026 год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043152",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647203"
+    },
+    {
+      "id": "09a661e56e27",
+      "title": "Кассационный суд отклонил жалобу Блиновской на отказ в отсрочке наказания",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043155",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647189"
+    },
+    {
+      "id": "f93e8d47e2b9",
+      "title": "В Калифорнии украли коллекционные карточки на $1 млн",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043050",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647169"
+    },
+    {
+      "id": "51b341e8e167",
+      "title": "Умер исполнитель главной роли в фильме «Жить» Владислав Толдыков",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043171",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647147"
+    },
+    {
+      "id": "0b9416beb744",
+      "title": "ЦИК передаст вакантные думские мандаты Шолбану Кара-оолу и Арсену Фадзаеву",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043172",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:25.647105"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 18:30",
+      "parsed_at": "2026-10-20T18:30:23.759154"
+    },
     {
       "id": "47d7333d5234",
       "title": "Jeland показала тизер интерьера «кибер-кроссовера» C4",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 14:29",
       "parsed_at": "2026-10-18T14:29:26.345627"
-    },
-    {
-      "id": "1eb3a1c8dd64",
-      "title": "Новак: США получат дизель из России через 15-20 дней после подписания контрактов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041332",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345589"
-    },
-    {
-      "id": "74532b162ca8",
-      "title": "«Соль Руси» пришлась пенсионерам не по вкусу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041275",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345568"
-    },
-    {
-      "id": "d01c67243800",
-      "title": "Алина Лысенко выиграла чемпионат мира по велоспорту на треке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041335",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345529"
-    },
-    {
-      "id": "30cf166537f5",
-      "title": "Петербург и Ленинградская область подверглись масштабной атаке БПЛА с начала СВО. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041334",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345509"
-    },
-    {
-      "id": "138c8f86a411",
-      "title": "В Кремле прокомментировали налет БПЛА на Ленинградскую область",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041338",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345486"
-    },
-    {
-      "id": "efcb80ae2063",
-      "title": "СКА назначил Разина главным тренером вместо Ларионова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041339",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345457"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:25.573919"
     }
   ]
 }
