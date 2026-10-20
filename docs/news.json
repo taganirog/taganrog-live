@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-20T03:51:02.643825",
+  "last_updated": "2026-10-20T08:35:19.635831",
   "stats": {
     "zhkh": 0,
-    "mchs": 6,
+    "mchs": 5,
     "works": 2,
     "events": 1,
-    "news": 111,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "7259bd9570ec",
+      "title": "МИД Катара: мир, возможно, проживает первый год Третьей мировой войны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042506",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989799"
+    },
+    {
+      "id": "aeb7d43d7bf8",
+      "title": "Axios: Уиткофф планирует визит в Москву после переговоров в Осло",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042525",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989785"
+    },
+    {
+      "id": "85ba9b44861f",
+      "title": "Bild узнала о хакерской атаке на почту партии «Альтернативы для Германии»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042511",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989755"
+    },
+    {
+      "id": "f613300c3347",
+      "title": "«РИА Новости»: зарплаты выше 500 тысяч рублей зафиксированы в девяти отраслях",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042537",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989731"
+    },
+    {
+      "id": "0e3b134613e0",
+      "title": "Microsoft выпустила шрифт по почерку Микеланджело",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9042262",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989719"
+    },
+    {
+      "id": "f3169cb653b6",
+      "title": "Юг Крыма частично обесточен из-за аварии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042550",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989708"
+    },
+    {
+      "id": "24aeefc3c6fc",
+      "title": "Reuters подтвердило поездку Уиткоффа в Россию для обсуждения дела Хаббарда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042557",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989697"
+    },
+    {
+      "id": "c2fd7eeedded",
+      "title": "За ночь над Россией сбили 136 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042558",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989684"
+    },
+    {
+      "id": "ae7f1c3a9f3c",
+      "title": "Северокорейские СМИ опубликовали фото Ким Чен Ына после слухов о его коме",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042559",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 08:35",
+      "parsed_at": "2026-10-20T08:35:15.989663"
+    },
     {
       "id": "71d13f313ca0",
       "title": "Омбудсмен специального назначения",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 09:13",
       "parsed_at": "2026-10-18T09:13:02.815415"
-    },
-    {
-      "id": "640c73a54c41",
-      "title": "В Подмосковье стали чаще находить следы медведей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041197",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.892905"
-    },
-    {
-      "id": "c79d0f871e88",
-      "title": "В Ленинградской области сбили 17 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041198",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.892887"
-    },
-    {
-      "id": "7112bdb31744",
-      "title": "Число сбитых рядом с Москвой БПЛА выросло до 36",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041199",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.892868"
-    },
-    {
-      "id": "de8e1cbe5cfb",
-      "title": "Экс-президент Сенегала вышел из гонки за пост генерального секретаря ООН",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041200",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.892846"
-    },
-    {
-      "id": "964dc2beb2c5",
-      "title": "В деревне Низино под Петербургом после атаки БПЛА произошел пожар",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041201",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.892814"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 04:18",
-      "parsed_at": "2026-10-18T04:18:33.073612"
-    },
-    {
-      "id": "53e3cea6e1ee",
-      "title": "«МегаФон»: среднее число  DDoS-атак за девять месяцев снизилось на 65%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9040975",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 02:15",
-      "parsed_at": "2026-10-18T02:15:45.159323"
-    },
-    {
-      "id": "197fa15c2538",
-      "title": "Протестующие во Франции сожгли здание мэрии XIX века",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041193",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 02:15",
-      "parsed_at": "2026-10-18T02:15:45.159309"
-    },
-    {
-      "id": "ba06ebe61872",
-      "title": "Францию охватили массовые беспорядки: поджоги, погромы, мародерство. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041186",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 02:15",
-      "parsed_at": "2026-10-18T02:15:45.159297"
     }
   ]
 }
