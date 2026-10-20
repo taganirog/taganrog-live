@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-20T18:30:29.158612",
+  "last_updated": "2026-10-20T22:31:59.923279",
   "stats": {
     "zhkh": 1,
-    "mchs": 4,
+    "mchs": 2,
     "works": 2,
     "events": 1,
-    "news": 112,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "461d437089bc",
+      "title": "Минкульт сможет запрещать набор на творческие специальности в непрофильных вузах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043284",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.014066"
+    },
+    {
+      "id": "553150f02fec",
+      "title": "Лавров: США и Россия в лучшем случае останутся конкурентами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043285",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.014044"
+    },
+    {
+      "id": "8e8dcfc28db0",
+      "title": "А ты не жди меня, хорошая…",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043275",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.014026"
+    },
+    {
+      "id": "91c189cce9d0",
+      "title": "ЗАЭС сообщила об ударе ВСУ по станционному автобусу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043293",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.014003"
+    },
+    {
+      "id": "7fb73b310c1b",
+      "title": "КСИР сообщил о подрыве танкера с 2 млн баррелей нефти в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043294",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.013982"
+    },
+    {
+      "id": "d7bce3bafc5f",
+      "title": "Главы правительств России и Китая встретились в Царском Селе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043297",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.013964"
+    },
+    {
+      "id": "10723f551e25",
+      "title": "Лавров: Россия не пойдет на политические уступки в переговорах по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043302",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.013944"
+    },
+    {
+      "id": "454e61fe4f07",
+      "title": "Уиткофф обсудит с Путиным возможную трехстороннюю встречу с Трампом и Зеленским",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043301",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:58.013913"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 22:31",
+      "parsed_at": "2026-10-20T22:31:56.667071"
+    },
     {
       "id": "6b69c7783d16",
       "title": "В Архангельской области медведь впервые с 1978 года насмерть растерзал человека",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 17:45",
       "parsed_at": "2026-10-18T17:45:00.092222"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842809"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842669"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842657"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842640"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842623"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "18.10 17:44",
-      "parsed_at": "2026-10-18T17:44:53.842598"
-    },
-    {
-      "id": "e1f7409935ce",
-      "title": "В Иране назначили нового министра обороны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041321",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345662"
-    },
-    {
-      "id": "c5d1c28ecd2b",
-      "title": "С тульским правосудием разобрались в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041246",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345644"
-    },
-    {
-      "id": "1d4f11a3cd53",
-      "title": "Минобороны РФ сообщило об уничтожении семи ракет «Фламинго» и 1 256 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041326",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 14:29",
-      "parsed_at": "2026-10-18T14:29:26.345627"
     }
   ]
 }
