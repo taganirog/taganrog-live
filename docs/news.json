@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-10-20T22:31:59.923279",
+  "last_updated": "2026-10-21T01:51:34.872776",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 114,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "2f4eb12bd046",
+      "title": "«Мы должны набраться смелости»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9026166",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981993"
+    },
+    {
+      "id": "f666b528ea78",
+      "title": "Российские гимнасты получили лицензию на участие в Олимпиаде-2028",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043320",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981976"
+    },
+    {
+      "id": "771356a7400b",
+      "title": "«Украина должна хотеть заключить соглашение»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043324",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981962"
+    },
+    {
+      "id": "482f5014cad7",
+      "title": "Минобороны России планирует создать безэкипажные танковые подразделения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043321",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981946"
+    },
+    {
+      "id": "852498594bb8",
+      "title": "В Белгородской области при атаке дронов пострадали два человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043323",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981932"
+    },
+    {
+      "id": "fd1a7dc781d8",
+      "title": "На каталонцев нашлась управа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043326",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981919"
+    },
+    {
+      "id": "33d46d8ebe03",
+      "title": "WSJ: Маск распорядился замедлить работу военной версии Starlink для Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981906"
+    },
+    {
+      "id": "299e12497fff",
+      "title": "Умер радиоведущий Back To the Universe Мартин Ландерс",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043325",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:32.981884"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258599"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258395"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258374"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258357"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258333"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "21.10 01:51",
+      "parsed_at": "2026-10-21T01:51:29.258303"
+    },
     {
       "id": "461d437089bc",
       "title": "Минкульт сможет запрещать набор на творческие специальности в непрофильных вузах",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 20:42",
       "parsed_at": "2026-10-18T20:42:35.464122"
-    },
-    {
-      "id": "d03dfa83b2cb",
-      "title": "Бессент назвал безрассудными обвинения Украины в ограничении доступа к Starlink",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041470",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464103"
-    },
-    {
-      "id": "9966d4ab94fa",
-      "title": "Захарова ответила на призыв Латвии запретить выдачу шенгенских виз россиянам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041465",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464081"
-    },
-    {
-      "id": "110462fbdd32",
-      "title": "Аренда на сносных условиях",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041416",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464059"
-    },
-    {
-      "id": "00eec37ab825",
-      "title": "Число осужденных мужчин снизилось на 50% за десять лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041456",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464037"
-    },
-    {
-      "id": "25833cda6269",
-      "title": "Telegraph узнала о подготовке срочного пакета санкций Евросоюза против России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464006"
-    },
-    {
-      "id": "e7c66e77fe1a",
-      "title": "«Металлург» победил «Автомобилиста» в КХЛ в первом матче после ухода Разина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041401",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092324"
-    },
-    {
-      "id": "3856baa5ee09",
-      "title": "Глава Минэнерго: США не смягчали ни одной санкции в отношении российской нефти",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041399",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092313"
-    },
-    {
-      "id": "2c21d196e7f5",
-      "title": "В Юго-Восточной Азии зафиксировали рекордные объемы изъятого метамфетамина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041391",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092303"
-    },
-    {
-      "id": "46a79ad73c2c",
-      "title": "Макрон обратится к нации на фоне массовых беспорядков во Франции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041405",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092293"
-    },
-    {
-      "id": "5c5d2d691559",
-      "title": "МВД Франции сообщило о задержании 2 тыс. участников беспорядков",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041410",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092271"
-    },
-    {
-      "id": "2e18811ca8d9",
-      "title": "Теракт пришел по воздуху",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041374",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092261"
-    },
-    {
-      "id": "0c80be1731e7",
-      "title": "Минобороны РФ сообщило об ударе по сухогрузу с военным грузом у Одессы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041420",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092252"
-    },
-    {
-      "id": "c11ddccf4ec1",
-      "title": "Дуров прокомментировал удар БПЛА по дата-центру VK в Ленобласти",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041418",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092240"
-    },
-    {
-      "id": "ef151deff82d",
-      "title": "Япония планирует запуск миссии на Фобос 20 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041415",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 17:45",
-      "parsed_at": "2026-10-18T17:45:00.092222"
     }
   ]
 }
