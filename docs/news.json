@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-20T08:35:19.635831",
+  "last_updated": "2026-10-20T13:44:41.780726",
   "stats": {
     "zhkh": 0,
-    "mchs": 5,
+    "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 112,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "47d7333d5234",
+      "title": "Jeland показала тизер интерьера «кибер-кроссовера» C4",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9042844",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505777"
+    },
+    {
+      "id": "57c5463be605",
+      "title": "МВД: число подростков-киберпреступников в России выросло на 30% в 2026 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042859",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505755"
+    },
+    {
+      "id": "a9a4625af86c",
+      "title": "Курс доллара на Forex опустился ниже 82 рублей впервые с 11 августа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042856",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505731"
+    },
+    {
+      "id": "c8ad76f53c3a",
+      "title": "ЕС оценил потери Украины от остановки экспорта в Черном море в €60 млн в день",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042857",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505713"
+    },
+    {
+      "id": "cacefe3ea0a0",
+      "title": "Ferrari F50 с пробегом 170 км оценили более чем в 20 млн долларов",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9042855",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505695"
+    },
+    {
+      "id": "f18255a68532",
+      "title": "Кема Клаб представили коллекцию, вдохновленную барной классикой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042868",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505676"
+    },
+    {
+      "id": "702cde26fe8c",
+      "title": "В Большой Ялте объявили режим ЧС из-за сильных дождей и выхода рек из берегов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042833",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505657"
+    },
+    {
+      "id": "03e86432779b",
+      "title": "«Гротексу» отказали в принудительной лицензии на эмпаглифлозин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042725",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505636"
+    },
+    {
+      "id": "f7a00616bc43",
+      "title": "Польша выдворила 15 россиян и белорусов за попытку участвовать в ЧМ по каратэ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042876",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:39.505609"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.10 13:44",
+      "parsed_at": "2026-10-20T13:44:37.350439"
+    },
     {
       "id": "7259bd9570ec",
       "title": "МИД Катара: мир, возможно, проживает первый год Третьей мировой войны",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 14:29",
       "parsed_at": "2026-10-18T14:29:25.573919"
-    },
-    {
-      "id": "489286827447",
-      "title": "Главные новости к утру 18 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949477"
-    },
-    {
-      "id": "acf9a5bdfdec",
-      "title": "Квентин Тарантино написал сценарий для своего следующего фильма",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949460"
-    },
-    {
-      "id": "1407be29ef09",
-      "title": "Московские аэропорты вернулись к работе после атаки БПЛА на город",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041213",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949442"
-    },
-    {
-      "id": "e2536785ad1e",
-      "title": "За ночь на подлете к Москве сбили 76 дронов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041214",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949404"
-    },
-    {
-      "id": "07d1ecc1f7d0",
-      "title": "Ученые обнаружили планеты лучше Земли за пределами Солнечной системы",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9040542",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949387"
-    },
-    {
-      "id": "013fa7c8e9f5",
-      "title": "Главные анонсы 19–25 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041215",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949367"
-    },
-    {
-      "id": "2e293e2db6ac",
-      "title": "Четверо пострадали при атаке БПЛА на Ленинградскую область",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041216",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949349"
-    },
-    {
-      "id": "e7534e345873",
-      "title": "Рубио: у Украины нет доступа к системе Starshield",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041223",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949328"
-    },
-    {
-      "id": "64ed154e777e",
-      "title": "Пожар начался на складе Ozon в Ленобласти после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041227",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:03.949294"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 09:13",
-      "parsed_at": "2026-10-18T09:13:02.815415"
     }
   ]
 }
