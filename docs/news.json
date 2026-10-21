@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-21T23:48:26.269277",
+  "last_updated": "2026-10-22T02:50:48.253050",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
-    "works": 1,
-    "events": 1,
-    "news": 112,
+    "works": 0,
+    "events": 0,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "6b9cecd25fd1",
+      "title": "Трамп сообщил о желании избежать неверных шагов в урегулировании конфликта на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044393",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637446"
+    },
+    {
+      "id": "dcc64ff76d94",
+      "title": "Акции Berkshire Hathaway установили новый исторический максимум",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044298",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637433"
+    },
+    {
+      "id": "daadec00774c",
+      "title": "Семь человек погибли в ДТП в Тюменской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044399",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637418"
+    },
+    {
+      "id": "9a7da47e1275",
+      "title": "Госминистр ОАЭ Лана Заки Нуссейбе выдвинулась на пост генсека ООН",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044398",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637406"
+    },
+    {
+      "id": "668e8b07221e",
+      "title": "Цены принимают товарный вид",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044192",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637391"
+    },
+    {
+      "id": "b7e573bb039d",
+      "title": "В Белоруссии появится более тысячи отрядов народного ополчения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044394",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637380"
+    },
+    {
+      "id": "084ea858e61b",
+      "title": "Гарри Кейн показал весь арсенал",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044400",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637366"
+    },
+    {
+      "id": "b19d688709fd",
+      "title": "В ИКИ РАН назвали дату пика звездопада Ориониды",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044401",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637352"
+    },
+    {
+      "id": "404a20abec0b",
+      "title": "Мужчина ранен при ударе БПЛА по жилому дому в Липецкой области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044405",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 02:50",
+      "parsed_at": "2026-10-22T02:50:46.637330"
+    },
     {
       "id": "7206ea3fda0e",
       "title": "Российско-африканское сотрудничество: практический вектор",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.10 00:53",
       "parsed_at": "2026-10-20T00:53:48.354183"
-    },
-    {
-      "id": "4fc108a7b0fe",
-      "title": "Аэропорт в польском Жешуве приостановил работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042490",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354161"
-    },
-    {
-      "id": "6e1c10ee14d9",
-      "title": "Трамп: США не нацелены на ужесточение санкций в отношении России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042475",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354131"
-    },
-    {
-      "id": "e97620c505e7",
-      "title": "Молодежь заинтересовалась православием",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042371",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773977"
-    },
-    {
-      "id": "571cb5424219",
-      "title": "В Москве завершился фестиваль «Видеть и Слышать»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042172",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773967"
-    },
-    {
-      "id": "ae54a530a62e",
-      "title": "В Чувашии поручили ускорить ремонт муниципальных дорог",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042270",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773957"
-    },
-    {
-      "id": "5c424ad76be4",
-      "title": "Сделки частичного прояснения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042363",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773932"
-    },
-    {
-      "id": "228c5549fcac",
-      "title": "Белоруссия запретила ввоз некоторых товаров из Латвии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042406",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773922"
-    },
-    {
-      "id": "7396b5a88976",
-      "title": "За день Россией сбили 13 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042412",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773905"
-    },
-    {
-      "id": "ecc95811d3f0",
-      "title": "Папа римский обсудил с Зеленским гуманитарную помощь жителям Алешек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042407",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 20:37",
-      "parsed_at": "2026-10-19T20:37:08.773875"
     }
   ]
 }
