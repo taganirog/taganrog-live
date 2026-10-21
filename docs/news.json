@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T20:28:26.716086",
+  "last_updated": "2026-10-21T23:48:26.269277",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "7206ea3fda0e",
+      "title": "Российско-африканское сотрудничество: практический вектор",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044162",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794528"
+    },
+    {
+      "id": "24d66db936e0",
+      "title": "Лихачев предрек выход КНР на второе место по выработке электроэнергии в мире",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044281",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794511"
+    },
+    {
+      "id": "67875cd5c991",
+      "title": "Reuters: США планируют эвакуацию из посольств в странах Персидского залива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044283",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794493"
+    },
+    {
+      "id": "9797ffe482f9",
+      "title": "В США запрещенную Meta оштрафовали на $25 млрд за ложь про конфиденциальность данных",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044277",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794474"
+    },
+    {
+      "id": "16163d42e787",
+      "title": "Двое погибли при ударе по нефтяному месторождению Шайба в Саудовской Аравии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044286",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794455"
+    },
+    {
+      "id": "823b377413a8",
+      "title": "Иранские СМИ сообщили о взрывах в городе Сирик",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044289",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794436"
+    },
+    {
+      "id": "17978f21eece",
+      "title": "Лидера КПРФ в Коми Михайлова задержали по делу об оправдании терроризма",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044291",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794418"
+    },
+    {
+      "id": "ab0cedfb0843",
+      "title": "Трамп: урегулирование конфликта на Украине ближе, чем когда-либо",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044292",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794398"
+    },
+    {
+      "id": "ec1173714b16",
+      "title": "Папе римскому не нужно дальнейшее лечение после удаления опухоли",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044293",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794377"
+    },
+    {
+      "id": "c84e07d27c72",
+      "title": "Politico узнал критерии выбора посредника от ЕС для переговоров с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044296",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 23:48",
+      "parsed_at": "2026-10-21T23:48:24.794348"
+    },
     {
       "id": "f86da466bb34",
       "title": "Спектакли обретают статус",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.10 20:37",
       "parsed_at": "2026-10-19T20:37:08.773875"
-    },
-    {
-      "id": "78f0554e175d",
-      "title": "«Определенный кризис идей»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041983",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627196"
-    },
-    {
-      "id": "a2abbb6cdf19",
-      "title": "SZ: Volkswagen заморозит зарплаты сотрудникам по всему миру до 2030 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041995",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627186"
-    },
-    {
-      "id": "fd27503510a9",
-      "title": "Цифровой молоток геолога",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041677",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627175"
-    },
-    {
-      "id": "ce596bc1efb8",
-      "title": "Песков: инициатива бизнеса вложиться в новые системы ПВО не обсуждалась",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042001",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627143"
-    },
-    {
-      "id": "9f7aeae620f6",
-      "title": "Автомобиль месяца: Москвич М70 Ультра",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9027479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627131"
-    },
-    {
-      "id": "617fdadee69c",
-      "title": "«Статус Кутузовского направления»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041982",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627119"
-    },
-    {
-      "id": "aef9f8fbdbbb",
-      "title": "Дональд Трамп перестроит поле для гольфа в Вашингтоне вопреки запрету суда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041990",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627109"
-    },
-    {
-      "id": "e6495eb5d61c",
-      "title": "Рубио заявил о недовольстве США одновременно Украиной и Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042025",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627096"
-    },
-    {
-      "id": "4b22296865d4",
-      "title": "McLaren продаст автомобили, на которых ездили Айртон Сенна и Брэд Питт",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9042021",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 14:01",
-      "parsed_at": "2026-10-19T14:01:09.627075"
-    },
-    {
-      "id": "2467a2addbe3",
-      "title": "Песков назвал возможную дату визита премьера Индии в Россию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041550",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.596084"
     }
   ]
 }
