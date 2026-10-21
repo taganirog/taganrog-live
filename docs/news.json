@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:13:50.169475",
+  "last_updated": "2026-10-21T15:07:56.129864",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "d02c62411d87",
+      "title": "Ведущего Back To the Universe Сергея Тутова похоронят на кладбище под Коломной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043772",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082877"
+    },
+    {
+      "id": "703bcad6e1cd",
+      "title": "В Ливерпуле откроется новая версия музея The Beatles Story",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043817",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082857"
+    },
+    {
+      "id": "99fafa47bd09",
+      "title": "Хвича Кварацхелия пропустит остаток сезона из-за травмы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043851",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082836"
+    },
+    {
+      "id": "8d4e25684773",
+      "title": "В России предложили ограничить возраст для ЭКО по ОМС 38 годами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043515",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082818"
+    },
+    {
+      "id": "b874573096fb",
+      "title": "«Восхищаться особенно нечем»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043682",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082801"
+    },
+    {
+      "id": "01b1c234926b",
+      "title": "Зять Трампа Кушнер по телефону поговорил с Путиным",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043852",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082783"
+    },
+    {
+      "id": "ca0e6eb65cc3",
+      "title": "МИД РФ призвал россиян не посещать места скопления людей в Европе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043849",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082765"
+    },
+    {
+      "id": "8656cefe85fe",
+      "title": "Эксперт «Донстроя»: эпоха изолированных бизнес-центров уходит в прошлое",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043822",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082741"
+    },
+    {
+      "id": "aeb78fb0574d",
+      "title": "МИД России вызвал временного поверенного в делах Латвии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043860",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:54.082711"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 15:07",
+      "parsed_at": "2026-10-21T15:07:50.966986"
+    },
     {
       "id": "53e56d26dfde",
       "title": "Спецпосланник президента США Уиткофф вылетел в Петербург",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.10 03:19",
       "parsed_at": "2026-10-19T03:19:06.832000"
-    },
-    {
-      "id": "6353e3f88d6f",
-      "title": "Смешать, но не взбалтывать",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041466",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831970"
-    },
-    {
-      "id": "1e46340bc9a5",
-      "title": "Западные наблюдатели заметили опасное сближение российского спутника с финским",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041473",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831958"
-    },
-    {
-      "id": "2307f018a7c1",
-      "title": "Командные игры разума",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041477",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831945"
-    },
-    {
-      "id": "fd5be5447ca8",
-      "title": "Летевший из Тель-Авива в Вену самолет сел в Болгарии из-за сообщения о бомбе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041532",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831933"
-    },
-    {
-      "id": "9c0ba7209483",
-      "title": "КСИР сообщил о подрыве на мине танкера в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041534",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831918"
-    },
-    {
-      "id": "8cce690ab663",
-      "title": "Премьер Литвы сообщил о попытке поджога дата-центра с оборудованием Starlink",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041535",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.831897"
-    },
-    {
-      "id": "67ca54ad0515",
-      "title": "Россия призвала Данию к соглашению о предотвращении военных инцидентов в Балтике",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041514",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.656008"
-    },
-    {
-      "id": "f7788d3201e0",
-      "title": "Россия и Белоруссия подпишут правила объединенного рынка электроэнергии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041513",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.655990"
-    },
-    {
-      "id": "872a4a3237fb",
-      "title": "Трамп объяснил, почему отложил введение «адских санкций» против России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.655973"
-    },
-    {
-      "id": "0c806e73f9d6",
-      "title": "Фурам покатило на родине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041455",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.655956"
     }
   ]
 }
