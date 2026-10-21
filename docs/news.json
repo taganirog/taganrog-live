@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-21T04:10:10.256787",
+  "last_updated": "2026-10-21T09:13:50.169475",
   "stats": {
     "zhkh": 2,
-    "mchs": 4,
+    "mchs": 3,
     "works": 2,
     "events": 1,
-    "news": 111,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "53e56d26dfde",
+      "title": "Спецпосланник президента США Уиткофф вылетел в Петербург",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043389",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582841"
+    },
+    {
+      "id": "a2337c16f8eb",
+      "title": "МВД посоветовало не переводить полную предоплату за онлайн-покупки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043395",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582823"
+    },
+    {
+      "id": "094ea3e41797",
+      "title": "Глава Верховного суда России Краснов прибыл в Пекин с трехдневным визитом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043406",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582805"
+    },
+    {
+      "id": "8aee36cc5152",
+      "title": "Российская армия поразила подстанцию, склад и сухогруз на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043411",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582787"
+    },
+    {
+      "id": "188d7d2a446c",
+      "title": "В пермской Лысьве восстановили водоснабжение после аварии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043407",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582768"
+    },
+    {
+      "id": "6c293a4da1f8",
+      "title": "Самолет Уиткоффа приземлился в петербургском аэропорту Пулково",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043415",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582750"
+    },
+    {
+      "id": "06c5944d45f1",
+      "title": "В Ульяновске взломали аккаунт мэрии в «ВК»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043416",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582731"
+    },
+    {
+      "id": "4d58545ec736",
+      "title": "«Лос-Анджелес» одержал первую победу в сезоне НХЛ, Панарин набрал три очка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043420",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582712"
+    },
+    {
+      "id": "7300b90e2e05",
+      "title": "Инвестплатформа не собрала инвесторов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043300",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582688"
+    },
+    {
+      "id": "f0b9568401b6",
+      "title": "Силы ПВО за ночь сбили над Россией 373 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043423",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 09:13",
+      "parsed_at": "2026-10-21T09:13:48.582640"
+    },
     {
       "id": "f89fb936c953",
       "title": "Скидки на российскую нефть для Китая сократились",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.10 01:07",
       "parsed_at": "2026-10-19T01:07:49.655956"
-    },
-    {
-      "id": "f9d04fdb3515",
-      "title": "«МегаФон»: среднее число  DDoS-атак за девять месяцев снизилось на 65%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041256",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.655938"
-    },
-    {
-      "id": "ce5281882479",
-      "title": "Премьер Канады сообщил о гибели четырех человек при пожаре на военной базе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041515",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:49.655908"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 01:07",
-      "parsed_at": "2026-10-19T01:07:42.740787"
-    },
-    {
-      "id": "d24137cf3aed",
-      "title": "Макрон потребовал от правительства не допустить повторения беспорядков",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041500",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226534"
-    },
-    {
-      "id": "896fa8553195",
-      "title": "В Англии и Уэльсе браки по статистике чаще распадаются после 20 лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041480",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226515"
-    },
-    {
-      "id": "dde108f6d596",
-      "title": "США пригрозили ЕС разрушительным ответом на возможные ограничения Starlink",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041503",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226491"
-    },
-    {
-      "id": "c2a1d9f87fbe",
-      "title": "Компании в «СберБизнесе» получили доступ к коротким облигациям и финансированию под залог ценных бумаг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/8956438",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226473"
-    },
-    {
-      "id": "9182b74803a3",
-      "title": "Американец с докторской степенью безуспешно подал 2,3 тыс. заявок на работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041499",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226452"
-    },
-    {
-      "id": "e98d5add023a",
-      "title": "Лавров 19 октября встретится в Тегеране с президентом Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041505",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226430"
-    },
-    {
-      "id": "73b689365d3a",
-      "title": "Турция рассчитывает получить часть дизтоплива по соглашению России и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041506",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226404"
     }
   ]
 }
