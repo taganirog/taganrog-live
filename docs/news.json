@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-21T01:51:34.872776",
+  "last_updated": "2026-10-21T04:10:10.256787",
   "stats": {
-    "zhkh": 1,
+    "zhkh": 2,
     "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 112,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "f89fb936c953",
+      "title": "Скидки на российскую нефть для Китая сократились",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043135",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253739"
+    },
+    {
+      "id": "a872c32146f0",
+      "title": "Консервативное ускорение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043232",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253727"
+    },
+    {
+      "id": "fb82f05fcaa8",
+      "title": "Продукты пришли к консолидации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043258",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253715"
+    },
+    {
+      "id": "f892fd3bbc26",
+      "title": "Переход на столичности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043262",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253705"
+    },
+    {
+      "id": "1f32c25361f8",
+      "title": "Минздрав сообщил о росте среднего возраста выявления рака в России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043342",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253695"
+    },
+    {
+      "id": "2d2be4092907",
+      "title": "Маск назвал ИИ и роботов единственным способом решения проблемы госдолга США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043346",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253682"
+    },
+    {
+      "id": "60ab674eb2e3",
+      "title": "Суд Норвегии арестовал российское имущество в Осло по требованию «Нафтогаза»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043347",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "21.10 04:10",
+      "parsed_at": "2026-10-21T04:10:08.253656"
+    },
     {
       "id": "2f4eb12bd046",
       "title": "«Мы должны набраться смелости»",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.10 22:55",
       "parsed_at": "2026-10-18T22:55:23.226404"
-    },
-    {
-      "id": "aa806b7ffc34",
-      "title": "Семь человек пострадали при ударах БПЛА по Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041507",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226384"
-    },
-    {
-      "id": "f38c3ff63078",
-      "title": "Страны Персидского залива предложили признать хуситов террористами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041508",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226362"
-    },
-    {
-      "id": "3c9dd5c4a23b",
-      "title": "Бессент поспорил с Зеленским о способах завершения конфликта с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041510",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 22:55",
-      "parsed_at": "2026-10-18T22:55:23.226334"
-    },
-    {
-      "id": "b66113df5064",
-      "title": "Лавров назвал место следующего заседания России и стран Персидского залива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041457",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464233"
-    },
-    {
-      "id": "53c78f0a6690",
-      "title": "Путин пока не решил насчет поездки на саммит G20 в Майами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041460",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464214"
-    },
-    {
-      "id": "a934f3306e80",
-      "title": "Условный срок со скидкой на операцию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041424",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464194"
-    },
-    {
-      "id": "dd1f4aca16c8",
-      "title": "«Гайд-паркам» добавят комфорта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041427",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.10 20:42",
-      "parsed_at": "2026-10-18T20:42:35.464122"
     }
   ]
 }
