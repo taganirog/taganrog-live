@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-21T15:07:56.129864",
+  "last_updated": "2026-10-21T20:28:26.716086",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 3,
-    "works": 2,
+    "works": 1,
     "events": 1,
     "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "f86da466bb34",
+      "title": "Спектакли обретают статус",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044186",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240853"
+    },
+    {
+      "id": "8da553f0144d",
+      "title": "Инвесторам срезают премию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044042",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240836"
+    },
+    {
+      "id": "621119c253b8",
+      "title": "В квартире Святослава Рихтера рассказывают о его дружбе с Генрихом Нейгаузом",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9044058",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240819"
+    },
+    {
+      "id": "084796aacb0d",
+      "title": "В Толедо объявили эвакуацию после взрыва резервуара с химикатами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044200",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240800"
+    },
+    {
+      "id": "411c91795f2b",
+      "title": "Уиткофф назвал переговоры с Путиным конструктивными",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240781"
+    },
+    {
+      "id": "c87005ea0ab0",
+      "title": "Минфин США еще на месяц продлил лицензию на переговоры о продаже активов ЛУКОЙЛа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044206",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240762"
+    },
+    {
+      "id": "60ee0be6b8e6",
+      "title": "Американец вышел без УДО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044183",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240742"
+    },
+    {
+      "id": "1d51c77fd7c8",
+      "title": "ФСБ задержала дезертировавшего из ВСУ немецкого снайпера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044090",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240723"
+    },
+    {
+      "id": "d345e6cce426",
+      "title": "Reuters: из-за высокого спроса в магазинах появится ограниченное число новых iPhone Duo",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044222",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240700"
+    },
+    {
+      "id": "9ef867bc618c",
+      "title": "Сенатор недельной выдержки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044140",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.10 20:28",
+      "parsed_at": "2026-10-21T20:28:25.240671"
+    },
     {
       "id": "d02c62411d87",
       "title": "Ведущего Back To the Universe Сергея Тутова похоронят на кладбище под Коломной",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.10 08:00",
       "parsed_at": "2026-10-19T08:00:47.596084"
-    },
-    {
-      "id": "a57e9d5c1edc",
-      "title": "Главные новости к утру 19 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041557",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.596064"
-    },
-    {
-      "id": "384eaaf84fae",
-      "title": "Песков рассказал, когда пройдет прямая линия Путина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041564",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.596042"
-    },
-    {
-      "id": "84db1955593f",
-      "title": "Премьер Японии Такаити теряет популярность после скандала с увольнением министра",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041569",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.596006"
-    },
-    {
-      "id": "6a925df8ce7b",
-      "title": "17 тыс. человек остались без воды в Приморском крае из-за аварии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041571",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.595985"
-    },
-    {
-      "id": "4e1b6be2bc61",
-      "title": "Захарова призвала премьера Албании не перекладывать вину за беспорядки на других",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041579",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.595966"
-    },
-    {
-      "id": "21dfc6c53530",
-      "title": "В Китае с 2028 года могут ввести сертификацию стройматериалов по стандартам РФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041574",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.595947"
-    },
-    {
-      "id": "9ca25cf01464",
-      "title": "Британцы освобождают полки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041469",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 08:00",
-      "parsed_at": "2026-10-19T08:00:47.595917"
-    },
-    {
-      "id": "6f941a4688df",
-      "title": "Платежный баланс не укладывается в прогноз",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041382",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.832027"
-    },
-    {
-      "id": "d05172cb62af",
-      "title": "Уголь убрали с дороги",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041431",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.832012"
-    },
-    {
-      "id": "f0aff42d4df8",
-      "title": "Зерно созрело для роста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9041464",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.10 03:19",
-      "parsed_at": "2026-10-19T03:19:06.832000"
     }
   ]
 }
