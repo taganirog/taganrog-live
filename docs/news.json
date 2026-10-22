@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:58:03.143901",
+  "last_updated": "2026-10-22T21:19:27.048596",
   "stats": {
     "zhkh": 4,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "9f15e7855ac3",
+      "title": "Минэнерго предложило повысить цены на АЗС на 2,1 руб. для поддержки импорта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045193",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860959"
+    },
+    {
+      "id": "a0e3bd1b1dee",
+      "title": "Шуховскую башню в Москве начнут разбирать в начале 2027 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045166",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860941"
+    },
+    {
+      "id": "e0820e85e1ae",
+      "title": "«Единичный пропуск вовсе не означает провала»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044736",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860921"
+    },
+    {
+      "id": "81b470dffe8d",
+      "title": "Власти Энергодара заявили, что город находится на грани гуманитарной катастрофы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045175",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860903"
+    },
+    {
+      "id": "f207092135ba",
+      "title": "Главу КПРФ в Коми Михайлова арестовали на два месяца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045201",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860879"
+    },
+    {
+      "id": "b2ef173cc204",
+      "title": "Путин наградил Российское театральное общество орденом за заслуги в культуре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045206",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860862"
+    },
+    {
+      "id": "ea8b4e5767c1",
+      "title": "Приморье получило преемника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045189",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860842"
+    },
+    {
+      "id": "074a62f95187",
+      "title": "Тайное станет явным автоматически",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045194",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860823"
+    },
+    {
+      "id": "ea9a84ed842d",
+      "title": "Медведев предложил регионам вести учет мигрантов через приложение «Амина»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045225",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:25.860793"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 21:19",
+      "parsed_at": "2026-10-22T21:19:24.034494"
+    },
     {
       "id": "78e2aab39e5e",
       "title": "Li Auto раскрыла оснащение и цены российских версий гибридного кроссовера L8",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.10 18:30",
       "parsed_at": "2026-10-20T18:30:25.647147"
-    },
-    {
-      "id": "0b9416beb744",
-      "title": "ЦИК передаст вакантные думские мандаты Шолбану Кара-оолу и Арсену Фадзаеву",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043172",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 18:30",
-      "parsed_at": "2026-10-20T18:30:25.647105"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 18:30",
-      "parsed_at": "2026-10-20T18:30:23.759154"
-    },
-    {
-      "id": "47d7333d5234",
-      "title": "Jeland показала тизер интерьера «кибер-кроссовера» C4",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9042844",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505777"
-    },
-    {
-      "id": "57c5463be605",
-      "title": "МВД: число подростков-киберпреступников в России выросло на 30% в 2026 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042859",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505755"
-    },
-    {
-      "id": "a9a4625af86c",
-      "title": "Курс доллара на Forex опустился ниже 82 рублей впервые с 11 августа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042856",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505731"
-    },
-    {
-      "id": "c8ad76f53c3a",
-      "title": "ЕС оценил потери Украины от остановки экспорта в Черном море в €60 млн в день",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042857",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505713"
-    },
-    {
-      "id": "cacefe3ea0a0",
-      "title": "Ferrari F50 с пробегом 170 км оценили более чем в 20 млн долларов",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9042855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505695"
-    },
-    {
-      "id": "f18255a68532",
-      "title": "Кема Клаб представили коллекцию, вдохновленную барной классикой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042868",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505676"
-    },
-    {
-      "id": "702cde26fe8c",
-      "title": "В Большой Ялте объявили режим ЧС из-за сильных дождей и выхода рек из берегов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042833",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505657"
-    },
-    {
-      "id": "03e86432779b",
-      "title": "«Гротексу» отказали в принудительной лицензии на эмпаглифлозин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042725",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505636"
     }
   ]
 }
