@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T11:10:45.825395",
+  "last_updated": "2026-10-22T16:58:03.143901",
   "stats": {
     "zhkh": 4,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "78e2aab39e5e",
+      "title": "Li Auto раскрыла оснащение и цены российских версий гибридного кроссовера L8",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9044998",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624389"
+    },
+    {
+      "id": "2e0ca79dd01d",
+      "title": "РФС ведет переговоры о товарищеском матче сборных России и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045014",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624370"
+    },
+    {
+      "id": "29b7c377462c",
+      "title": "Выдачи кредитов в автосалонах могут сократиться в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044996",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624352"
+    },
+    {
+      "id": "868934e620ab",
+      "title": "Европа признала отставание от США и Китая в доведении разработок до рынка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044978",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624334"
+    },
+    {
+      "id": "88c6b76223b3",
+      "title": "Дроны налетели на экспертизу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044980",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624306"
+    },
+    {
+      "id": "4569ebbc5a7c",
+      "title": "Barbie и театр «Ла Скала» объединились к 25-летию «Барби и Щелкунчика»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9044671",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624289"
+    },
+    {
+      "id": "e915a448338e",
+      "title": "МТС привлекла 30 млрд руб. через флоатер с офертой через два года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045031",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624270"
+    },
+    {
+      "id": "8f136bf14cda",
+      "title": "В поисках переговорщика",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045024",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624250"
+    },
+    {
+      "id": "d2cf6920e4c4",
+      "title": "Иран угрожает соседям войной на суше",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044995",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624231"
+    },
+    {
+      "id": "fe9c3369e2cc",
+      "title": "Правительство одобрило законопроект об ужесточении наказания за езду без прав",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045043",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 16:58",
+      "parsed_at": "2026-10-22T16:58:01.624202"
+    },
     {
       "id": "6e67bf218f76",
       "title": "При взрыве газа в Северной Осетии пострадали шесть человек",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.10 13:44",
       "parsed_at": "2026-10-20T13:44:39.505636"
-    },
-    {
-      "id": "f7a00616bc43",
-      "title": "Польша выдворила 15 россиян и белорусов за попытку участвовать в ЧМ по каратэ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042876",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:39.505609"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 13:44",
-      "parsed_at": "2026-10-20T13:44:37.350439"
-    },
-    {
-      "id": "7259bd9570ec",
-      "title": "МИД Катара: мир, возможно, проживает первый год Третьей мировой войны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042506",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989799"
-    },
-    {
-      "id": "aeb7d43d7bf8",
-      "title": "Axios: Уиткофф планирует визит в Москву после переговоров в Осло",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042525",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989785"
-    },
-    {
-      "id": "85ba9b44861f",
-      "title": "Bild узнала о хакерской атаке на почту партии «Альтернативы для Германии»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042511",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989755"
-    },
-    {
-      "id": "f613300c3347",
-      "title": "«РИА Новости»: зарплаты выше 500 тысяч рублей зафиксированы в девяти отраслях",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042537",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989731"
-    },
-    {
-      "id": "0e3b134613e0",
-      "title": "Microsoft выпустила шрифт по почерку Микеланджело",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9042262",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989719"
-    },
-    {
-      "id": "f3169cb653b6",
-      "title": "Юг Крыма частично обесточен из-за аварии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042550",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989708"
-    },
-    {
-      "id": "24aeefc3c6fc",
-      "title": "Reuters подтвердило поездку Уиткоффа в Россию для обсуждения дела Хаббарда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042557",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989697"
-    },
-    {
-      "id": "c2fd7eeedded",
-      "title": "За ночь над Россией сбили 136 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042558",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989684"
     }
   ]
 }
