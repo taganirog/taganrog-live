@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-22T05:44:13.390899",
+  "last_updated": "2026-10-22T11:10:45.825395",
   "stats": {
-    "zhkh": 3,
-    "mchs": 3,
+    "zhkh": 4,
+    "mchs": 2,
     "works": 0,
     "events": 0,
     "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "6e67bf218f76",
+      "title": "При взрыве газа в Северной Осетии пострадали шесть человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044572",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594339"
+    },
+    {
+      "id": "ed66cb85e72f",
+      "title": "Коллекторское агентство «ЭОС» отменило незаконную смену руководства",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044542",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594323"
+    },
+    {
+      "id": "8496f723cf56",
+      "title": "Путин назначил Юрия Трутнева своим помощником",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044578",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594297"
+    },
+    {
+      "id": "7c70a00dce6a",
+      "title": "Путин назначил Дмитрия Ядрова главой Минтранса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044579",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594280"
+    },
+    {
+      "id": "ebad1e4751d7",
+      "title": "Путин утвердил назначение Силуанова и Никитина вице-премьерами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044582",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594262"
+    },
+    {
+      "id": "d20ca0e2c542",
+      "title": "Путин снял Дмитрия Григоренко с поста вице-премьера — главы аппарата кабмина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044584",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594243"
+    },
+    {
+      "id": "956b9e8b7f7f",
+      "title": "Перемирие с оглядкой на выборы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044583",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594223"
+    },
+    {
+      "id": "0a63cdbfad94",
+      "title": "Застройщику дали денег",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044559",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594205"
+    },
+    {
+      "id": "e73fd5d3d228",
+      "title": "Набсовет Сбербанка рассмотрит кандидатуру Григоренко на пост зампреда правления",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044598",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594184"
+    },
+    {
+      "id": "75e38bf84a13",
+      "title": "Путин наградил телеведущую Екатерину Андрееву орденом «За заслуги перед Отечеством»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044603",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 11:10",
+      "parsed_at": "2026-10-22T11:10:42.594152"
+    },
     {
       "id": "d4fd83cc5430",
       "title": "Трамп назвал войну в Иране одним из своих самых выдающихся решений",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.10 08:35",
       "parsed_at": "2026-10-20T08:35:15.989684"
-    },
-    {
-      "id": "ae7f1c3a9f3c",
-      "title": "Северокорейские СМИ опубликовали фото Ким Чен Ына после слухов о его коме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042559",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 08:35",
-      "parsed_at": "2026-10-20T08:35:15.989663"
-    },
-    {
-      "id": "71d13f313ca0",
-      "title": "Омбудсмен специального назначения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042317",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.529019"
-    },
-    {
-      "id": "4a006b7964a7",
-      "title": "Умер тележурналист Михаил Пономарев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042360",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528999"
-    },
-    {
-      "id": "bf6f8e1e4908",
-      "title": "Раскрыта схема хищения выплат участникам СВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042362",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528981"
-    },
-    {
-      "id": "f4b5701d7f5e",
-      "title": "Депутат-коммунист предложила вернуть Волгограду и Петербургу «героические» названия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042416",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528941"
-    },
-    {
-      "id": "0b95390bac29",
-      "title": "МИД России: Китай заинтересован в урегулировании конфликта на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042494",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528923"
-    },
-    {
-      "id": "2432ee82ce9f",
-      "title": "Судно село на мель у берегов Анапы из-за шторма",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042495",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528903"
-    },
-    {
-      "id": "ca4b7b25a0cd",
-      "title": "Каллас заявила о намерении ЕС добиваться доступа к Северному морскому пути",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042496",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528884"
-    },
-    {
-      "id": "beb34030493d",
-      "title": "Россия и КНДР договорились развивать сотрудничество в сфере образования",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042497",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 03:51",
-      "parsed_at": "2026-10-20T03:51:00.528854"
-    },
-    {
-      "id": "a721e59a7e0b",
-      "title": "Трамп: США не получают от Украины ничего в обмен на разведданные",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042468",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354338"
     }
   ]
 }
