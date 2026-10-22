@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:50:48.253050",
+  "last_updated": "2026-10-22T05:44:13.390899",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
@@ -9,6 +9,72 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "d4fd83cc5430",
+      "title": "Трамп назвал войну в Иране одним из своих самых выдающихся решений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044404",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851139"
+    },
+    {
+      "id": "a86fbdb572ac",
+      "title": "Вблизи Москвы сбиты 56 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044406",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851120"
+    },
+    {
+      "id": "36b32f26683f",
+      "title": "Литва запросила у Еврокомиссии €1,06 млрд на закупку вооружений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044402",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851103"
+    },
+    {
+      "id": "1344ca6d3e3f",
+      "title": "Российские гимнастки заняли шестое место в командном многоборье на ЧМ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044407",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851083"
+    },
+    {
+      "id": "72546f46b673",
+      "title": "Один человек погиб и восемь ранены при атаке на аэропорт в Саудовской Аравии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044408",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851061"
+    },
+    {
+      "id": "590b7adac02f",
+      "title": "В МИД России сообщили о переговорах с Бахрейном и Кувейтом о безвизе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044410",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.10 05:44",
+      "parsed_at": "2026-10-22T05:44:11.851030"
+    },
     {
       "id": "6b9cecd25fd1",
       "title": "Трамп сообщил о желании избежать неверных шагов в урегулировании конфликта на Украине",
@@ -1262,72 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.10 00:53",
       "parsed_at": "2026-10-20T00:53:48.354338"
-    },
-    {
-      "id": "4951d7f22eeb",
-      "title": "АТОР: российские туристы не откладывают поездки во Францию из-за протестов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042467",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354320"
-    },
-    {
-      "id": "4b3f96db0d87",
-      "title": "В Польше арестовали гражданина Украины по подозрению в шпионаже",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042466",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354301"
-    },
-    {
-      "id": "e67999f0ee55",
-      "title": "Трамп: Россия справедлива по отношению к Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042470",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354263"
-    },
-    {
-      "id": "7007aab206eb",
-      "title": "Трамп призвал Зеленского поручить вести переговоры по Украине кому-то другому",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042469",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354245"
-    },
-    {
-      "id": "72da61c1ab6b",
-      "title": "Reuters: Уиткофф и Кушнер посетят Норвегию для переговоров по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042472",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354223"
-    },
-    {
-      "id": "cfac0e23537d",
-      "title": "Трамп анонсировал освобождение задержанного в России американца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042473",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 00:53",
-      "parsed_at": "2026-10-20T00:53:48.354183"
     }
   ]
 }
