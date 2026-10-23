@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-10-23T18:17:20.987791",
+  "last_updated": "2026-10-23T22:23:49.302470",
   "stats": {
     "zhkh": 2,
-    "mchs": 0,
+    "mchs": 3,
     "works": 2,
     "events": 1,
-    "news": 115,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "a064895c3b33",
+      "title": "Путин поручил правительству закрыть кадровый дефицит ветеранами СВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059374",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080853"
+    },
+    {
+      "id": "29e4c7274753",
+      "title": "Минфин рассмотрит риски банкротства компаний при введении налога на сверхдоходы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059375",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080845"
+    },
+    {
+      "id": "094b88c5217c",
+      "title": "WB Банк продлил кредитные каникулы для продавцов Wildberries",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059382",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080832"
+    },
+    {
+      "id": "53393e107f5f",
+      "title": "ЦБ установил курс доллара ниже 81 руб. впервые с августа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059389",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080823"
+    },
+    {
+      "id": "be7c4fc88dbf",
+      "title": "При ракетном ударе ВСУ по заводу в Орле пострадали восемь человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059394",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080813"
+    },
+    {
+      "id": "46850631de7e",
+      "title": "Набиуллина заявила об отсутствии угроз финансовой стабильности России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059393",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080802"
+    },
+    {
+      "id": "e8164c4b50cb",
+      "title": "Путин поручил выделить 1,2 млрд руб. на субсидии на газовое оборудование",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059391",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080791"
+    },
+    {
+      "id": "152d2cf0bc10",
+      "title": "Мосбиржа нашла нарушения в корпоративном управлении «Самолета»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059396",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080781"
+    },
+    {
+      "id": "8ddaecfc3981",
+      "title": "Золото впервые с конца июля упало ниже $4000 за унцию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059397",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:48.080762"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493423"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493258"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493246"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493232"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493213"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "23.10 22:23",
+      "parsed_at": "2026-10-23T22:23:44.493188"
+    },
     {
       "id": "ba9608e5517f",
       "title": "Минюст объявил журналиста Максима Курникова иностранным агентом",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 20:28",
       "parsed_at": "2026-10-21T20:28:25.240762"
-    },
-    {
-      "id": "60ee0be6b8e6",
-      "title": "Американец вышел без УДО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044183",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240742"
-    },
-    {
-      "id": "1d51c77fd7c8",
-      "title": "ФСБ задержала дезертировавшего из ВСУ немецкого снайпера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044090",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240723"
-    },
-    {
-      "id": "d345e6cce426",
-      "title": "Reuters: из-за высокого спроса в магазинах появится ограниченное число новых iPhone Duo",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044222",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240700"
-    },
-    {
-      "id": "9ef867bc618c",
-      "title": "Сенатор недельной выдержки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044140",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240671"
-    },
-    {
-      "id": "d02c62411d87",
-      "title": "Ведущего Back To the Universe Сергея Тутова похоронят на кладбище под Коломной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043772",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082877"
-    },
-    {
-      "id": "703bcad6e1cd",
-      "title": "В Ливерпуле откроется новая версия музея The Beatles Story",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043817",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082857"
-    },
-    {
-      "id": "99fafa47bd09",
-      "title": "Хвича Кварацхелия пропустит остаток сезона из-за травмы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043851",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082836"
-    },
-    {
-      "id": "8d4e25684773",
-      "title": "В России предложили ограничить возраст для ЭКО по ОМС 38 годами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043515",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082818"
-    },
-    {
-      "id": "b874573096fb",
-      "title": "«Восхищаться особенно нечем»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043682",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082801"
-    },
-    {
-      "id": "01b1c234926b",
-      "title": "Зять Трампа Кушнер по телефону поговорил с Путиным",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043852",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082783"
-    },
-    {
-      "id": "ca0e6eb65cc3",
-      "title": "МИД РФ призвал россиян не посещать места скопления людей в Европе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043849",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082765"
-    },
-    {
-      "id": "8656cefe85fe",
-      "title": "Эксперт «Донстроя»: эпоха изолированных бизнес-центров уходит в прошлое",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043822",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082741"
-    },
-    {
-      "id": "aeb78fb0574d",
-      "title": "МИД России вызвал временного поверенного в делах Латвии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043860",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:54.082711"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 15:07",
-      "parsed_at": "2026-10-21T15:07:50.966986"
-    },
-    {
-      "id": "53e56d26dfde",
-      "title": "Спецпосланник президента США Уиткофф вылетел в Петербург",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043389",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582841"
     }
   ]
 }
