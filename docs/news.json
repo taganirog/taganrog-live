@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-23T00:48:43.315466",
+  "last_updated": "2026-10-23T03:17:57.421439",
   "stats": {
     "zhkh": 3,
-    "mchs": 2,
+    "mchs": 0,
     "works": 1,
     "events": 0,
-    "news": 114,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "e6c3a5f16752",
+      "title": "Топ-менеджер поделился рудой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9044869",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578863"
+    },
+    {
+      "id": "b4686f7e873d",
+      "title": "Россия и Украина снова обменялись телами погибших военных",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045140",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578847"
+    },
+    {
+      "id": "469363031479",
+      "title": "У промышленников подрос оптимизм, но не планы выпуска",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045146",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578835"
+    },
+    {
+      "id": "74665ecf8b39",
+      "title": "Моногородам хотят добавить срок",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045188",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578822"
+    },
+    {
+      "id": "616b5b585e9c",
+      "title": "Франция притормаживает",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045204",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578810"
+    },
+    {
+      "id": "7ed6864538ef",
+      "title": "Структуры «Ареал» вошли в золотодобывающий проект в Карелии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045249",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578796"
+    },
+    {
+      "id": "0e2beb1bbeac",
+      "title": "Глава «Росатома» допустил остановку проекта АЭС «Пакш-2»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045287",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578783"
+    },
+    {
+      "id": "9296a6533d7a",
+      "title": "Вэнс отверг заявления о манипуляциях России в отношении Трампа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045290",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578768"
+    },
+    {
+      "id": "7f5e9afd8d17",
+      "title": "В центральных районах Парижа продлили комендантский час",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045289",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:55.578744"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 03:17",
+      "parsed_at": "2026-10-23T03:17:54.931064"
+    },
     {
       "id": "27826e96139f",
       "title": "Технология в экспортной упаковке",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 01:51",
       "parsed_at": "2026-10-21T01:51:29.258395"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258374"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258357"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258333"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258303"
-    },
-    {
-      "id": "461d437089bc",
-      "title": "Минкульт сможет запрещать набор на творческие специальности в непрофильных вузах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043284",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.014066"
-    },
-    {
-      "id": "553150f02fec",
-      "title": "Лавров: США и Россия в лучшем случае останутся конкурентами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043285",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.014044"
-    },
-    {
-      "id": "8e8dcfc28db0",
-      "title": "А ты не жди меня, хорошая…",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043275",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.014026"
-    },
-    {
-      "id": "91c189cce9d0",
-      "title": "ЗАЭС сообщила об ударе ВСУ по станционному автобусу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043293",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.014003"
-    },
-    {
-      "id": "7fb73b310c1b",
-      "title": "КСИР сообщил о подрыве танкера с 2 млн баррелей нефти в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043294",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.013982"
-    },
-    {
-      "id": "d7bce3bafc5f",
-      "title": "Главы правительств России и Китая встретились в Царском Селе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043297",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.10 22:31",
-      "parsed_at": "2026-10-20T22:31:58.013964"
     }
   ]
 }
