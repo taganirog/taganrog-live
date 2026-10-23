@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-23T13:19:10.352159",
+  "last_updated": "2026-10-23T18:17:20.987791",
   "stats": {
     "zhkh": 2,
     "mchs": 0,
     "works": 2,
-    "events": 0,
-    "news": 116,
+    "events": 1,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "ba9608e5517f",
+      "title": "Минюст объявил журналиста Максима Курникова иностранным агентом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059177",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384214"
+    },
+    {
+      "id": "86f983f46333",
+      "title": "ПВЗ нагружают налоговой базой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059167",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384196"
+    },
+    {
+      "id": "06a4484b614e",
+      "title": "Набиуллина: ЦБ не ожидает волны дефолтов по бондам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059185",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384181"
+    },
+    {
+      "id": "542b1699f790",
+      "title": "Страховщик возместит Алеф-банку выплату по гарантии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059190",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384165"
+    },
+    {
+      "id": "50f5ac4d5239",
+      "title": "Шесть человек погибли при стрельбе в Иордании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059178",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384148"
+    },
+    {
+      "id": "80696f63872e",
+      "title": "ФК «Зенит» привлекли к тяжбе о возврате денег за билеты на концерт Канье Уэста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059216",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384130"
+    },
+    {
+      "id": "589d48d91769",
+      "title": "Минздрав обновил рекомендации по лечению ДЦП впервые за десять лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045493",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384109"
+    },
+    {
+      "id": "5153cebdf90a",
+      "title": "«АвтоВАЗ» спрогнозировал снижение продаж новых Lada в октябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059272",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384090"
+    },
+    {
+      "id": "03dbde275a95",
+      "title": "Экс-судья не смогла пересчитать доходы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059183",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384071"
+    },
+    {
+      "id": "4809b1ffb6f1",
+      "title": "В Найроби обрушилось строящееся 18-этажное здание",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059275",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 18:17",
+      "parsed_at": "2026-10-23T18:17:15.384044"
+    },
     {
       "id": "2e3fbd39c5f6",
       "title": "EQT приобретет производителя диагностических систем Qiagen за €9,6 млрд",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 09:13",
       "parsed_at": "2026-10-21T09:13:48.582841"
-    },
-    {
-      "id": "a2337c16f8eb",
-      "title": "МВД посоветовало не переводить полную предоплату за онлайн-покупки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043395",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582823"
-    },
-    {
-      "id": "094ea3e41797",
-      "title": "Глава Верховного суда России Краснов прибыл в Пекин с трехдневным визитом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043406",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582805"
-    },
-    {
-      "id": "8aee36cc5152",
-      "title": "Российская армия поразила подстанцию, склад и сухогруз на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043411",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582787"
-    },
-    {
-      "id": "188d7d2a446c",
-      "title": "В пермской Лысьве восстановили водоснабжение после аварии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043407",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582768"
-    },
-    {
-      "id": "6c293a4da1f8",
-      "title": "Самолет Уиткоффа приземлился в петербургском аэропорту Пулково",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043415",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582750"
-    },
-    {
-      "id": "06c5944d45f1",
-      "title": "В Ульяновске взломали аккаунт мэрии в «ВК»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043416",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582731"
-    },
-    {
-      "id": "4d58545ec736",
-      "title": "«Лос-Анджелес» одержал первую победу в сезоне НХЛ, Панарин набрал три очка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043420",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582712"
-    },
-    {
-      "id": "7300b90e2e05",
-      "title": "Инвестплатформа не собрала инвесторов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043300",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582688"
-    },
-    {
-      "id": "f0b9568401b6",
-      "title": "Силы ПВО за ночь сбили над Россией 373 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043423",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 09:13",
-      "parsed_at": "2026-10-21T09:13:48.582640"
-    },
-    {
-      "id": "f89fb936c953",
-      "title": "Скидки на российскую нефть для Китая сократились",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043135",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253739"
     }
   ]
 }
