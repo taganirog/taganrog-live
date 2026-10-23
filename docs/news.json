@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-23T03:17:57.421439",
+  "last_updated": "2026-10-23T08:07:46.521864",
   "stats": {
     "zhkh": 3,
     "mchs": 0,
-    "works": 1,
+    "works": 2,
     "events": 0,
-    "news": 116,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "ba1b95afabe9",
+      "title": "Урожай картофеля в России снизился на 8,7%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045243",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681188"
+    },
+    {
+      "id": "0dc67371770e",
+      "title": "Главные новости к утру 23 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045310",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681176"
+    },
+    {
+      "id": "cdac5c29c8df",
+      "title": "Маск пожертвовал $440 млн на поддержку республиканцев перед промежуточными выборами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045316",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681165"
+    },
+    {
+      "id": "96f6b18a021d",
+      "title": "В российском МИД оценили перспективы возможной встречи лидеров РФ, КНР и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045319",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681152"
+    },
+    {
+      "id": "3a8c4a0a7fa7",
+      "title": "Умер писатель Рю Мураками",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045326",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681139"
+    },
+    {
+      "id": "ca42905fdf56",
+      "title": "МИД России: между Москвой и НАТО существует канал связи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045324",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681124"
+    },
+    {
+      "id": "5149014e38f5",
+      "title": "В Шанхае появилась волна Lego из 380 тыс. цветов",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9045089",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681112"
+    },
+    {
+      "id": "26a7f86cb75a",
+      "title": "Продажи товаров для ремонта сократились на 4,7%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045235",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681097"
+    },
+    {
+      "id": "6eb8b68a3558",
+      "title": "Собянин: в сторону Москвы ночью летели 155 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045330",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 08:07",
+      "parsed_at": "2026-10-23T08:07:44.681074"
+    },
     {
       "id": "e6c3a5f16752",
       "title": "Топ-менеджер поделился рудой",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 01:51",
       "parsed_at": "2026-10-21T01:51:32.981993"
-    },
-    {
-      "id": "f666b528ea78",
-      "title": "Российские гимнасты получили лицензию на участие в Олимпиаде-2028",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043320",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981976"
-    },
-    {
-      "id": "771356a7400b",
-      "title": "«Украина должна хотеть заключить соглашение»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043324",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981962"
-    },
-    {
-      "id": "482f5014cad7",
-      "title": "Минобороны России планирует создать безэкипажные танковые подразделения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043321",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981946"
-    },
-    {
-      "id": "852498594bb8",
-      "title": "В Белгородской области при атаке дронов пострадали два человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043323",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981932"
-    },
-    {
-      "id": "fd1a7dc781d8",
-      "title": "На каталонцев нашлась управа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043326",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981919"
-    },
-    {
-      "id": "33d46d8ebe03",
-      "title": "WSJ: Маск распорядился замедлить работу военной версии Starlink для Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043341",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981906"
-    },
-    {
-      "id": "299e12497fff",
-      "title": "Умер радиоведущий Back To the Universe Мартин Ландерс",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043325",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981884"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258599"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:29.258395"
     }
   ]
 }
