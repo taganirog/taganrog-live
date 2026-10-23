@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T22:23:49.302470",
+  "last_updated": "2026-10-24T01:27:12.904334",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "1d5500edb1bd",
+      "title": "Russ выиграл аукцион за право управлять сетью рекламных конструкций мэрии Москвы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059398",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702828"
+    },
+    {
+      "id": "d1111ca33d14",
+      "title": "Минобрнауки предложило минимальные баллы ЕГЭ для поступления в вузы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059401",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702815"
+    },
+    {
+      "id": "dbd13155a5ee",
+      "title": "Выбор в пользу регионов и репутации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9043918",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702803"
+    },
+    {
+      "id": "93b074c3a4df",
+      "title": "Российская гимнастка Рощина завоевала серебро в личном многоборье на ЧМ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059410",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702791"
+    },
+    {
+      "id": "75ed25b5740a",
+      "title": "Чистая прибыль «Фосагро» снизилась в три раза за девять месяцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059412",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702776"
+    },
+    {
+      "id": "287bc897448f",
+      "title": "Итальянцы вернули потерянное кольцо туристу в костюмах хоббитов",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059308",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702761"
+    },
+    {
+      "id": "1a98b0d9c482",
+      "title": "Новак сообщил об отправке первых танкеров с российским дизелем в сторону США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059691",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702746"
+    },
+    {
+      "id": "b4d14d5e2990",
+      "title": "В Брянской области погибла женщина при ударе ВСУ по ехавшему из Москвы автобусу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059693",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702731"
+    },
+    {
+      "id": "e225654835f4",
+      "title": "ТАСС: Саудовская Аравия не проведет «Интервидение» в этом году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059694",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 01:27",
+      "parsed_at": "2026-10-24T01:27:10.702709"
+    },
     {
       "id": "a064895c3b33",
       "title": "Путин поручил правительству закрыть кадровый дефицит ветеранами СВО",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 23:48",
       "parsed_at": "2026-10-21T23:48:24.794418"
-    },
-    {
-      "id": "ab0cedfb0843",
-      "title": "Трамп: урегулирование конфликта на Украине ближе, чем когда-либо",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044292",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794398"
-    },
-    {
-      "id": "ec1173714b16",
-      "title": "Папе римскому не нужно дальнейшее лечение после удаления опухоли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044293",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794377"
-    },
-    {
-      "id": "c84e07d27c72",
-      "title": "Politico узнал критерии выбора посредника от ЕС для переговоров с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044296",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794348"
-    },
-    {
-      "id": "f86da466bb34",
-      "title": "Спектакли обретают статус",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044186",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240853"
-    },
-    {
-      "id": "8da553f0144d",
-      "title": "Инвесторам срезают премию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044042",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240836"
-    },
-    {
-      "id": "621119c253b8",
-      "title": "В квартире Святослава Рихтера рассказывают о его дружбе с Генрихом Нейгаузом",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9044058",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240819"
-    },
-    {
-      "id": "084796aacb0d",
-      "title": "В Толедо объявили эвакуацию после взрыва резервуара с химикатами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044200",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240800"
-    },
-    {
-      "id": "411c91795f2b",
-      "title": "Уиткофф назвал переговоры с Путиным конструктивными",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240781"
-    },
-    {
-      "id": "c87005ea0ab0",
-      "title": "Минфин США еще на месяц продлил лицензию на переговоры о продаже активов ЛУКОЙЛа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044206",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 20:28",
-      "parsed_at": "2026-10-21T20:28:25.240762"
     }
   ]
 }
