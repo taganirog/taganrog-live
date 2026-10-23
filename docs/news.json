@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-23T08:07:46.521864",
+  "last_updated": "2026-10-23T13:19:10.352159",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 2,
     "mchs": 0,
     "works": 2,
     "events": 0,
-    "news": 115,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "2e3fbd39c5f6",
+      "title": "EQT приобретет производителя диагностических систем Qiagen за €9,6 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9045070",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522439"
+    },
+    {
+      "id": "76e083eb41b3",
+      "title": "Merck и Moderna представили вакцину, снижающую риск смерти от рака кожи на 42%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9055225",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522427"
+    },
+    {
+      "id": "993f0e16f468",
+      "title": "Песков: трехсторонние переговоры по Украине пройдут в Абу-Даби в начале ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9058730",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522415"
+    },
+    {
+      "id": "ad8f1593baac",
+      "title": "Песков опроверг данные об обмене американца Хаббарда на автора «Рыбаря» Звинчука",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9058911",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522398"
+    },
+    {
+      "id": "fd6da7b9a004",
+      "title": "Бывшего советника Трампа Кушнера обвинили в лоббировании интересов ОАЭ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9058590",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522386"
+    },
+    {
+      "id": "00a808144802",
+      "title": "При атаке БПЛА на судно в Черном море погиб человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9058922",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522369"
+    },
+    {
+      "id": "4e8500bdd3e1",
+      "title": "FONBET и КХЛ представили совместный стенд на форуме «Россия — спортивная держава»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9058551",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.10 13:19",
+      "parsed_at": "2026-10-23T13:19:08.522348"
+    },
     {
       "id": "ba1b95afabe9",
       "title": "Урожай картофеля в России снизился на 8,7%",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 04:10",
       "parsed_at": "2026-10-21T04:10:08.253739"
-    },
-    {
-      "id": "a872c32146f0",
-      "title": "Консервативное ускорение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043232",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253727"
-    },
-    {
-      "id": "fb82f05fcaa8",
-      "title": "Продукты пришли к консолидации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043258",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253715"
-    },
-    {
-      "id": "f892fd3bbc26",
-      "title": "Переход на столичности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043262",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253705"
-    },
-    {
-      "id": "1f32c25361f8",
-      "title": "Минздрав сообщил о росте среднего возраста выявления рака в России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043342",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253695"
-    },
-    {
-      "id": "2d2be4092907",
-      "title": "Маск назвал ИИ и роботов единственным способом решения проблемы госдолга США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043346",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253682"
-    },
-    {
-      "id": "60ab674eb2e3",
-      "title": "Суд Норвегии арестовал российское имущество в Осло по требованию «Нафтогаза»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043347",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "21.10 04:10",
-      "parsed_at": "2026-10-21T04:10:08.253656"
-    },
-    {
-      "id": "2f4eb12bd046",
-      "title": "«Мы должны набраться смелости»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9026166",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 01:51",
-      "parsed_at": "2026-10-21T01:51:32.981993"
     }
   ]
 }
