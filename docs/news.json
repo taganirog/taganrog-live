@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-24T12:41:04.169299",
+  "last_updated": "2026-10-24T16:45:38.492483",
   "stats": {
     "zhkh": 2,
-    "mchs": 3,
+    "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 112,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "a8faa1932f4a",
+      "title": "Роспотребнадзор не выявил загрязнения воздуха после удара по предприятию в Орле",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059852",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114642"
+    },
+    {
+      "id": "1fa7c818164f",
+      "title": "Минэнерго России подтвердило информацию об отключениях света на юге",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059854",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": true,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114626"
+    },
+    {
+      "id": "16f3cdf2f04b",
+      "title": "Гуменник выиграл короткую программу на этапе Гран-при России в Санкт-Петербурге",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059855",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114616"
+    },
+    {
+      "id": "959dc189c984",
+      "title": "Сюжет для небольшого кошмара",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059279",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114601"
+    },
+    {
+      "id": "e49e07c94639",
+      "title": "Еще один пожарный застрял под завалами при тушении горящей усадьбы в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059860",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114586"
+    },
+    {
+      "id": "99abd3653fde",
+      "title": "Хоценко: силы ПВО отражают налет БПЛА на Омскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059861",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114573"
+    },
+    {
+      "id": "3f57cba9fc0d",
+      "title": "Мерц признал наличие проблем в экономике ФРГ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059862",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114556"
+    },
+    {
+      "id": "2e6b133a260c",
+      "title": "«Акрон» выключил лидера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059845",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 16:45",
+      "parsed_at": "2026-10-24T16:45:37.114524"
+    },
     {
       "id": "4df8bf1007cc",
       "title": "Грушко: России не важна личность переговорщика от Европы, главное — его позиция",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.10 16:58",
       "parsed_at": "2026-10-22T16:58:01.624231"
-    },
-    {
-      "id": "fe9c3369e2cc",
-      "title": "Правительство одобрило законопроект об ужесточении наказания за езду без прав",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045043",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624202"
-    },
-    {
-      "id": "6e67bf218f76",
-      "title": "При взрыве газа в Северной Осетии пострадали шесть человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044572",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594339"
-    },
-    {
-      "id": "ed66cb85e72f",
-      "title": "Коллекторское агентство «ЭОС» отменило незаконную смену руководства",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044542",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594323"
-    },
-    {
-      "id": "8496f723cf56",
-      "title": "Путин назначил Юрия Трутнева своим помощником",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044578",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594297"
-    },
-    {
-      "id": "7c70a00dce6a",
-      "title": "Путин назначил Дмитрия Ядрова главой Минтранса",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044579",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594280"
-    },
-    {
-      "id": "ebad1e4751d7",
-      "title": "Путин утвердил назначение Силуанова и Никитина вице-премьерами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044582",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594262"
-    },
-    {
-      "id": "d20ca0e2c542",
-      "title": "Путин снял Дмитрия Григоренко с поста вице-премьера — главы аппарата кабмина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044584",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594243"
-    },
-    {
-      "id": "956b9e8b7f7f",
-      "title": "Перемирие с оглядкой на выборы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044583",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 11:10",
-      "parsed_at": "2026-10-22T11:10:42.594223"
     }
   ]
 }
