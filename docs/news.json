@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T20:07:54.870193",
+  "last_updated": "2026-10-24T22:37:14.232321",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,72 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "9d8c2e25de3c",
+      "title": "Пусть всегда будет биосолнце",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059284",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750206"
+    },
+    {
+      "id": "0a35e4344e06",
+      "title": "Axios: советники Трампа считают поражение Нетаньяху на выборах выгодным для США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059908",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750189"
+    },
+    {
+      "id": "c4a58683bb4d",
+      "title": "Над Россией сбили 125 беспилотников за день",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059909",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750168"
+    },
+    {
+      "id": "d75946671fae",
+      "title": "Хуситы отчитались об ударах по аэропортам в Саудовской Аравии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059912",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750151"
+    },
+    {
+      "id": "e625873e3b3c",
+      "title": "Трое пострадали при падении дрона во дворе многоэтажного дома в Шебекино",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059915",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750133"
+    },
+    {
+      "id": "8562f7fab21f",
+      "title": "Маск: ВСУ нарушали условия использования Starlink",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059918",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 22:37",
+      "parsed_at": "2026-10-24T22:37:12.750103"
+    },
     {
       "id": "9d73b33c62de",
       "title": "В Темрюкском районе Краснодарского края восстановили электроснабжение",
@@ -1262,72 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.10 21:19",
       "parsed_at": "2026-10-22T21:19:25.860879"
-    },
-    {
-      "id": "b2ef173cc204",
-      "title": "Путин наградил Российское театральное общество орденом за заслуги в культуре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045206",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860862"
-    },
-    {
-      "id": "ea8b4e5767c1",
-      "title": "Приморье получило преемника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045189",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860842"
-    },
-    {
-      "id": "074a62f95187",
-      "title": "Тайное станет явным автоматически",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045194",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860823"
-    },
-    {
-      "id": "ea9a84ed842d",
-      "title": "Медведев предложил регионам вести учет мигрантов через приложение «Амина»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045225",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860793"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:24.034494"
-    },
-    {
-      "id": "78e2aab39e5e",
-      "title": "Li Auto раскрыла оснащение и цены российских версий гибридного кроссовера L8",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9044998",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624389"
     }
   ]
 }
