@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T22:37:14.232321",
+  "last_updated": "2026-10-25T01:10:01.340813",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,83 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "5f0d989f8aae",
+      "title": "В Риме протестующие попытались проникнуть в Колизей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059919",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524478"
+    },
+    {
+      "id": "f6e6d6fc78dc",
+      "title": "Турист погиб после падения в каньон в Адыгее",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059920",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524464"
+    },
+    {
+      "id": "6d6d82bc238a",
+      "title": "Во Франции на протестах арестовали почти тысячу человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059921",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524449"
+    },
+    {
+      "id": "c39d143f3a54",
+      "title": "В аэропорту Домодедово ввели ограничения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059922",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524436"
+    },
+    {
+      "id": "aa61214655a8",
+      "title": "Трамп обсудил с Маском ситуацию на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059924",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524421"
+    },
+    {
+      "id": "21d0403e1ca4",
+      "title": "В Липецке обломки БПЛА упали на припаркованные машины возле жилых домов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059926",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:59.524398"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 01:09",
+      "parsed_at": "2026-10-25T01:09:58.812655"
+    },
     {
       "id": "9d8c2e25de3c",
       "title": "Пусть всегда будет биосолнце",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 00:48",
       "parsed_at": "2026-10-23T00:48:39.309654"
-    },
-    {
-      "id": "f9395164836e",
-      "title": "РБК: ФСБ рекомендовала отключать сайты из-за уязвимости в PHP",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045269",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309633"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:35.871497"
-    },
-    {
-      "id": "9f15e7855ac3",
-      "title": "Минэнерго предложило повысить цены на АЗС на 2,1 руб. для поддержки импорта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045193",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860959"
-    },
-    {
-      "id": "a0e3bd1b1dee",
-      "title": "Шуховскую башню в Москве начнут разбирать в начале 2027 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045166",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860941"
-    },
-    {
-      "id": "e0820e85e1ae",
-      "title": "«Единичный пропуск вовсе не означает провала»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044736",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860921"
-    },
-    {
-      "id": "81b470dffe8d",
-      "title": "Власти Энергодара заявили, что город находится на грани гуманитарной катастрофы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045175",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860903"
-    },
-    {
-      "id": "f207092135ba",
-      "title": "Главу КПРФ в Коми Михайлова арестовали на два месяца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045201",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 21:19",
-      "parsed_at": "2026-10-22T21:19:25.860879"
     }
   ]
 }
