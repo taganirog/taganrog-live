@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T03:55:03.650625",
+  "last_updated": "2026-10-24T08:16:13.546765",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "a304a6c45afd",
+      "title": "Британский пенсионер нашел карточки Pokemon на £1,5 млн",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059180",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034935"
+    },
+    {
+      "id": "f72893729221",
+      "title": "Один человек погиб и более 500 получили травмы на Тайване от тайфуна «Чампи»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059703",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034917"
+    },
+    {
+      "id": "dbe3d0a7b714",
+      "title": "Юношеская сборная России выступит на турнире FIFA впервые с 2022 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059704",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034898"
+    },
+    {
+      "id": "c8441e515eac",
+      "title": "В Рязани отменяют продажу топлива по номерам машин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059705",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034880"
+    },
+    {
+      "id": "b3209495c5e7",
+      "title": "Главные новости к утру 24 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059706",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034863"
+    },
+    {
+      "id": "83222a77d773",
+      "title": "В Баварии загорелся бывший чайный домик Гитлера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059709",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034845"
+    },
+    {
+      "id": "ee67f9d76e32",
+      "title": "В Ростовской области при ударе БПЛА по подстанции были обесточены 172 дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059710",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034827"
+    },
+    {
+      "id": "11a14996e5dd",
+      "title": "Polo Ralph Lauren показал коллекцию из старой одежды, переделанной японскими мастерами",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9058979",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034808"
+    },
+    {
+      "id": "091a78d75fbe",
+      "title": "С кислинкой и чудинкой",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059411",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034786"
+    },
+    {
+      "id": "9442ba188d63",
+      "title": "Китай призвал отказаться от гонки вооружений в космосе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059713",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 08:16",
+      "parsed_at": "2026-10-24T08:16:12.034760"
+    },
     {
       "id": "ccc3f6d94011",
       "title": "В Крыму и Севастополе произошел блэкаут из-за удара ВСУ по энергоинфраструктуре",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.10 02:50",
       "parsed_at": "2026-10-22T02:50:46.637446"
-    },
-    {
-      "id": "dcc64ff76d94",
-      "title": "Акции Berkshire Hathaway установили новый исторический максимум",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044298",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637433"
-    },
-    {
-      "id": "daadec00774c",
-      "title": "Семь человек погибли в ДТП в Тюменской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044399",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637418"
-    },
-    {
-      "id": "9a7da47e1275",
-      "title": "Госминистр ОАЭ Лана Заки Нуссейбе выдвинулась на пост генсека ООН",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044398",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637406"
-    },
-    {
-      "id": "668e8b07221e",
-      "title": "Цены принимают товарный вид",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044192",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637391"
-    },
-    {
-      "id": "b7e573bb039d",
-      "title": "В Белоруссии появится более тысячи отрядов народного ополчения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044394",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637380"
-    },
-    {
-      "id": "084ea858e61b",
-      "title": "Гарри Кейн показал весь арсенал",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044400",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637366"
-    },
-    {
-      "id": "b19d688709fd",
-      "title": "В ИКИ РАН назвали дату пика звездопада Ориониды",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044401",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637352"
-    },
-    {
-      "id": "404a20abec0b",
-      "title": "Мужчина ранен при ударе БПЛА по жилому дому в Липецкой области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044405",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 02:50",
-      "parsed_at": "2026-10-22T02:50:46.637330"
-    },
-    {
-      "id": "7206ea3fda0e",
-      "title": "Российско-африканское сотрудничество: практический вектор",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044162",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794528"
-    },
-    {
-      "id": "24d66db936e0",
-      "title": "Лихачев предрек выход КНР на второе место по выработке электроэнергии в мире",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044281",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794511"
     }
   ]
 }
