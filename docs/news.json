@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T01:27:12.904334",
+  "last_updated": "2026-10-24T03:55:03.650625",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,61 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "ccc3f6d94011",
+      "title": "В Крыму и Севастополе произошел блэкаут из-за удара ВСУ по энергоинфраструктуре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059695",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 03:55",
+      "parsed_at": "2026-10-24T03:55:02.123736"
+    },
+    {
+      "id": "ad2a4898ab6a",
+      "title": "Макрон назвал теракт в пригороде Парижа переломным моментом для Франции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059696",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 03:55",
+      "parsed_at": "2026-10-24T03:55:02.123715"
+    },
+    {
+      "id": "0dd832834e4f",
+      "title": "Хегсет: Китай тайно внедрял пропагандистские ячейки в вузы США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059697",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 03:55",
+      "parsed_at": "2026-10-24T03:55:02.123664"
+    },
+    {
+      "id": "4010af2eb013",
+      "title": "В Конгресс США внесли еще один законопроект об отмене дизельной сделки с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059698",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 03:55",
+      "parsed_at": "2026-10-24T03:55:02.123632"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 03:54",
+      "parsed_at": "2026-10-24T03:54:58.794482"
+    },
     {
       "id": "1d5500edb1bd",
       "title": "Russ выиграл аукцион за право управлять сетью рекламных конструкций мэрии Москвы",
@@ -1273,61 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.10 23:48",
       "parsed_at": "2026-10-21T23:48:24.794511"
-    },
-    {
-      "id": "67875cd5c991",
-      "title": "Reuters: США планируют эвакуацию из посольств в странах Персидского залива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044283",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794493"
-    },
-    {
-      "id": "9797ffe482f9",
-      "title": "В США запрещенную Meta оштрафовали на $25 млрд за ложь про конфиденциальность данных",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044277",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794474"
-    },
-    {
-      "id": "16163d42e787",
-      "title": "Двое погибли при ударе по нефтяному месторождению Шайба в Саудовской Аравии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044286",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794455"
-    },
-    {
-      "id": "823b377413a8",
-      "title": "Иранские СМИ сообщили о взрывах в городе Сирик",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044289",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794436"
-    },
-    {
-      "id": "17978f21eece",
-      "title": "Лидера КПРФ в Коми Михайлова задержали по делу об оправдании терроризма",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044291",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.10 23:48",
-      "parsed_at": "2026-10-21T23:48:24.794418"
     }
   ]
 }
