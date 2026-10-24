@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-24T16:45:38.492483",
+  "last_updated": "2026-10-24T20:07:54.870193",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 4,
     "works": 2,
     "events": 1,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "9d73b33c62de",
+      "title": "В Темрюкском районе Краснодарского края восстановили электроснабжение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059883",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524612"
+    },
+    {
+      "id": "faad175b121c",
+      "title": "Квадратные метры за ВНЖ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059882",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524602"
+    },
+    {
+      "id": "cae28109182f",
+      "title": "Чикмарева и Янченков выиграли короткую программу на Гран-при России в Петербурге",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059891",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524590"
+    },
+    {
+      "id": "dd29837238ac",
+      "title": "ВСУ атаковали логистический центр Ozon в Омске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059892",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524575"
+    },
+    {
+      "id": "fd34c750d576",
+      "title": "Лантратова: Украина прекратит огонь в Алешках в ночь на 27 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059897",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524559"
+    },
+    {
+      "id": "943cce56628d",
+      "title": "Посольства США на Ближнем Востоке обновили правила безопасности из-за хуситов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059900",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524545"
+    },
+    {
+      "id": "daffc028117b",
+      "title": "МВД Франции: свыше 400 тыс. человек вышли на протесты по всей стране",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059901",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524528"
+    },
+    {
+      "id": "5b9cfabee9c2",
+      "title": "Один погиб и четверо пострадали при ударах ВСУ в Брянской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059903",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.10 20:07",
+      "parsed_at": "2026-10-24T20:07:48.524506"
+    },
     {
       "id": "a8faa1932f4a",
       "title": "Роспотребнадзор не выявил загрязнения воздуха после удара по предприятию в Орле",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.10 16:58",
       "parsed_at": "2026-10-22T16:58:01.624389"
-    },
-    {
-      "id": "2e0ca79dd01d",
-      "title": "РФС ведет переговоры о товарищеском матче сборных России и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045014",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624370"
-    },
-    {
-      "id": "29b7c377462c",
-      "title": "Выдачи кредитов в автосалонах могут сократиться в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044996",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624352"
-    },
-    {
-      "id": "868934e620ab",
-      "title": "Европа признала отставание от США и Китая в доведении разработок до рынка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044978",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624334"
-    },
-    {
-      "id": "88c6b76223b3",
-      "title": "Дроны налетели на экспертизу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044980",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624306"
-    },
-    {
-      "id": "4569ebbc5a7c",
-      "title": "Barbie и театр «Ла Скала» объединились к 25-летию «Барби и Щелкунчика»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9044671",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624289"
-    },
-    {
-      "id": "e915a448338e",
-      "title": "МТС привлекла 30 млрд руб. через флоатер с офертой через два года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045031",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624270"
-    },
-    {
-      "id": "8f136bf14cda",
-      "title": "В поисках переговорщика",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045024",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624250"
-    },
-    {
-      "id": "d2cf6920e4c4",
-      "title": "Иран угрожает соседям войной на суше",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044995",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.10 16:58",
-      "parsed_at": "2026-10-22T16:58:01.624231"
     }
   ]
 }
