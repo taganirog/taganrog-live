@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-25T01:10:01.340813",
+  "last_updated": "2026-10-25T03:25:54.045697",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
-    "works": 2,
+    "works": 1,
     "events": 1,
-    "news": 110,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "4ebf56335c0e",
+      "title": "При ударе по автобусу в Брянской области погибли два человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059927",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388713"
+    },
+    {
+      "id": "ae10a7521419",
+      "title": "Петр Ян перетерпел грузина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059928",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388702"
+    },
+    {
+      "id": "11f51a4581e9",
+      "title": "Оперштаб сообщил о массированном налете БПЛА на Белгород",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059929",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388691"
+    },
+    {
+      "id": "acde9eab6185",
+      "title": "Аэропорт Эр-Рияда возобновляет работу после угроз и ударов хуситов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059930",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388681"
+    },
+    {
+      "id": "18a47538f401",
+      "title": "Один человек погиб и десять пострадали при массированной атаке БПЛА на Белгород",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059931",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388669"
+    },
+    {
+      "id": "50ffb11c6e82",
+      "title": "Петр Ян перетерпел грузина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059925",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:52.388650"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 03:25",
+      "parsed_at": "2026-10-25T03:25:50.710712"
+    },
     {
       "id": "5f0d989f8aae",
       "title": "В Риме протестующие попытались проникнуть в Колизей",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 03:17",
       "parsed_at": "2026-10-23T03:17:55.578744"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:54.931064"
-    },
-    {
-      "id": "27826e96139f",
-      "title": "Технология в экспортной упаковке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044847",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309720"
-    },
-    {
-      "id": "d58588703349",
-      "title": "Дорогое правосудие и дешевые долги",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044848",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309709"
-    },
-    {
-      "id": "406166ece50d",
-      "title": "Профессионализм на экспорт",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044850",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309693"
-    },
-    {
-      "id": "83d693af9d90",
-      "title": "Бизнес и фриланс ищут баланс",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044853",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309682"
-    },
-    {
-      "id": "3054e2cae81e",
-      "title": "Когда закон не требует",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309670"
-    },
-    {
-      "id": "b01c885d1b97",
-      "title": "Объем чистых инвестиций в лизинг и активов в операционной аренде снизился на 14%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045241",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 00:48",
-      "parsed_at": "2026-10-23T00:48:39.309654"
     }
   ]
 }
