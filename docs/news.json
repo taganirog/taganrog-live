@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T03:25:54.045697",
+  "last_updated": "2026-10-25T08:02:03.400330",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "c3b078c90c90",
+      "title": "Мэр заявил о разрушении жилых домов в центре Белгорода из-за атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059936",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254307"
+    },
+    {
+      "id": "6daae2a3393d",
+      "title": "Ученые создали систему, которая передает запахи по сети",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9059309",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254291"
+    },
+    {
+      "id": "2ef70c16a391",
+      "title": "Audi построит свой первый завод в США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059937",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254278"
+    },
+    {
+      "id": "319b2e88a30d",
+      "title": "Трамп сообщил о планах вести дела с Россией и Украиной после окончания конфликта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059938",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254265"
+    },
+    {
+      "id": "514ecc7cd101",
+      "title": "Axios: Вашингтон устал от апокалиптических прогнозов лидеров ИИ-индустрии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059940",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254251"
+    },
+    {
+      "id": "e7873a968e94",
+      "title": "Главные новости к утру 25 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059941",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254234"
+    },
+    {
+      "id": "aee00bd532ce",
+      "title": "Три человека пострадали при атаке на Омск в субботу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059942",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254222"
+    },
+    {
+      "id": "c3c906a71cea",
+      "title": "При стрельбе у университета во Флориде пострадали 12 человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059945",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254207"
+    },
+    {
+      "id": "b5147e88e350",
+      "title": "Ученые связали «Звездную ночь» Ван Гога с реальным ночным небом 1889 года",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9058963",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:02",
+      "parsed_at": "2026-10-25T08:02:02.254171"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 08:01",
+      "parsed_at": "2026-10-25T08:01:59.296150"
+    },
     {
       "id": "4ebf56335c0e",
       "title": "При ударе по автобусу в Брянской области погибли два человека",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 08:07",
       "parsed_at": "2026-10-23T08:07:44.681097"
-    },
-    {
-      "id": "6eb8b68a3558",
-      "title": "Собянин: в сторону Москвы ночью летели 155 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045330",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681074"
-    },
-    {
-      "id": "e6c3a5f16752",
-      "title": "Топ-менеджер поделился рудой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9044869",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578863"
-    },
-    {
-      "id": "b4686f7e873d",
-      "title": "Россия и Украина снова обменялись телами погибших военных",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045140",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578847"
-    },
-    {
-      "id": "469363031479",
-      "title": "У промышленников подрос оптимизм, но не планы выпуска",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045146",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578835"
-    },
-    {
-      "id": "74665ecf8b39",
-      "title": "Моногородам хотят добавить срок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045188",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578822"
-    },
-    {
-      "id": "616b5b585e9c",
-      "title": "Франция притормаживает",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045204",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578810"
-    },
-    {
-      "id": "7ed6864538ef",
-      "title": "Структуры «Ареал» вошли в золотодобывающий проект в Карелии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045249",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578796"
-    },
-    {
-      "id": "0e2beb1bbeac",
-      "title": "Глава «Росатома» допустил остановку проекта АЭС «Пакш-2»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045287",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578783"
-    },
-    {
-      "id": "9296a6533d7a",
-      "title": "Вэнс отверг заявления о манипуляциях России в отношении Трампа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045290",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578768"
-    },
-    {
-      "id": "7f5e9afd8d17",
-      "title": "В центральных районах Парижа продлили комендантский час",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045289",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 03:17",
-      "parsed_at": "2026-10-23T03:17:55.578744"
     }
   ]
 }
