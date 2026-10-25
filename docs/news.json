@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T12:58:37.815918",
+  "last_updated": "2026-10-25T17:08:14.316221",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "719070af8921",
+      "title": "FT: капитализация ведущих производителей люкса упала на €251 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060107",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212537"
+    },
+    {
+      "id": "70bc19c5fbe4",
+      "title": "Липецкий губернатор сообщил об одном погибшем при ударе ВСУ по промзоне в Ельце",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060128",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212519"
+    },
+    {
+      "id": "82672baaab01",
+      "title": "Техас подал в суд на OpenAI за недостаточную защиту от рисков ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060121",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212499"
+    },
+    {
+      "id": "4048c7f81a3f",
+      "title": "Карлос Пратес и Майкл Моралес разыграют право встретиться с Исламом Махачевым",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212474"
+    },
+    {
+      "id": "9a4595fa74dd",
+      "title": "Депутат «Единой России» Глухенко погиб в Херсонской области при подрыве на мине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060145",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212451"
+    },
+    {
+      "id": "db079b3b467d",
+      "title": "IKEA продлила действие товарного знака в России до 2036 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060144",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212430"
+    },
+    {
+      "id": "46bc3df81cfc",
+      "title": "Мигрантов по весне считают",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059774",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212408"
+    },
+    {
+      "id": "ab87553def44",
+      "title": "Миллениалы диктуют моду",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060146",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 17:08",
+      "parsed_at": "2026-10-25T17:08:12.212381"
+    },
     {
       "id": "40ff3c341a12",
       "title": "Минобороны РФ сообщило об уничтожении за сутки более 1 тыс. беспилотников ВСУ",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 18:17",
       "parsed_at": "2026-10-23T18:17:15.384071"
-    },
-    {
-      "id": "4809b1ffb6f1",
-      "title": "В Найроби обрушилось строящееся 18-этажное здание",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059275",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384044"
-    },
-    {
-      "id": "2e3fbd39c5f6",
-      "title": "EQT приобретет производителя диагностических систем Qiagen за €9,6 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045070",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522439"
-    },
-    {
-      "id": "76e083eb41b3",
-      "title": "Merck и Moderna представили вакцину, снижающую риск смерти от рака кожи на 42%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9055225",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522427"
-    },
-    {
-      "id": "993f0e16f468",
-      "title": "Песков: трехсторонние переговоры по Украине пройдут в Абу-Даби в начале ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9058730",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522415"
-    },
-    {
-      "id": "ad8f1593baac",
-      "title": "Песков опроверг данные об обмене американца Хаббарда на автора «Рыбаря» Звинчука",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9058911",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522398"
-    },
-    {
-      "id": "fd6da7b9a004",
-      "title": "Бывшего советника Трампа Кушнера обвинили в лоббировании интересов ОАЭ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9058590",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522386"
-    },
-    {
-      "id": "00a808144802",
-      "title": "При атаке БПЛА на судно в Черном море погиб человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9058922",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522369"
-    },
-    {
-      "id": "4e8500bdd3e1",
-      "title": "FONBET и КХЛ представили совместный стенд на форуме «Россия — спортивная держава»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9058551",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 13:19",
-      "parsed_at": "2026-10-23T13:19:08.522348"
     }
   ]
 }
