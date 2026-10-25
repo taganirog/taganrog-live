@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-25T20:43:54.769538",
+  "last_updated": "2026-10-25T23:13:10.364396",
   "stats": {
-    "zhkh": 3,
-    "mchs": 3,
+    "zhkh": 2,
+    "mchs": 4,
     "works": 0,
     "events": 0,
     "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "60d846713451",
+      "title": "Умер поэт Евгений Чигрин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060259",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551745"
+    },
+    {
+      "id": "2c47c35d72d4",
+      "title": "Лидер венесуэльской оппозиции Мачадо вернулась в страну",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060226",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551731"
+    },
+    {
+      "id": "0b56b3a82fb2",
+      "title": "В Москве эвакуировали «Театр на Юго-Западе» из-за пожара",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060260",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551712"
+    },
+    {
+      "id": "6a1b991d6a88",
+      "title": "При ракетном ударе ВСУ по промзоне Ельца погиб один человек и шестеро пострадали",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060262",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551697"
+    },
+    {
+      "id": "5bc98efedd4f",
+      "title": "Россия завоевала четыре медали на чемпионате мира по спортивной гимнастике",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060243",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551681"
+    },
+    {
+      "id": "b11f906f2401",
+      "title": "В Сербии задержали подозреваемого в нападении на мать Вучича",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060268",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551663"
+    },
+    {
+      "id": "86ec94cc0316",
+      "title": "Экзит-полы: Йотова лидирует в первом туре выборов президента Болгарии с 35,3%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060269",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551643"
+    },
+    {
+      "id": "2af424c92fc7",
+      "title": "Хуситы заявили об ударе по аэропорту Эр-Рияда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060270",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:08.551614"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "25.10 23:13",
+      "parsed_at": "2026-10-25T23:13:04.079424"
+    },
     {
       "id": "cdf4826a4761",
       "title": "Трамп анонсировал трехсторонние переговоры по Украине в ближайшее время",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 22:23",
       "parsed_at": "2026-10-23T22:23:48.080813"
-    },
-    {
-      "id": "46850631de7e",
-      "title": "Набиуллина заявила об отсутствии угроз финансовой стабильности России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059393",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080802"
-    },
-    {
-      "id": "e8164c4b50cb",
-      "title": "Путин поручил выделить 1,2 млрд руб. на субсидии на газовое оборудование",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059391",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080791"
-    },
-    {
-      "id": "152d2cf0bc10",
-      "title": "Мосбиржа нашла нарушения в корпоративном управлении «Самолета»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059396",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080781"
-    },
-    {
-      "id": "8ddaecfc3981",
-      "title": "Золото впервые с конца июля упало ниже $4000 за унцию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059397",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080762"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493423"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493258"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493246"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493232"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493213"
     }
   ]
 }
