@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-25T08:02:03.400330",
+  "last_updated": "2026-10-25T12:58:37.815918",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
-    "works": 1,
+    "works": 0,
     "events": 1,
-    "news": 111,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "40ff3c341a12",
+      "title": "Минобороны РФ сообщило об уничтожении за сутки более 1 тыс. беспилотников ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060020",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275641"
+    },
+    {
+      "id": "a179a576eeaa",
+      "title": "Протестующие провели «субботник»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060016",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275623"
+    },
+    {
+      "id": "664de6544c83",
+      "title": "Ушаков: Россия готова возобновить переговоры по Украине после 4 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060023",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275605"
+    },
+    {
+      "id": "7060e24b9e8d",
+      "title": "Отъявленная парижанка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060012",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275575"
+    },
+    {
+      "id": "9659edaa253f",
+      "title": "Умер автор сценария мультфильма «Бабка Ежка и другие» Михаил Липскеров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060030",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275559"
+    },
+    {
+      "id": "bca89592c832",
+      "title": "Ушаков допустил неформальное общение Путина и Трампа на саммите АТЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060037",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275540"
+    },
+    {
+      "id": "6ca6ecedc267",
+      "title": "За журналиста отсидели половину",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059975",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275519"
+    },
+    {
+      "id": "a6739b4b01d8",
+      "title": "Ушаков заявил о подготовке трехстороннего саммита лидеров Китая, России и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060035",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 12:58",
+      "parsed_at": "2026-10-25T12:58:36.275491"
+    },
     {
       "id": "c3b078c90c90",
       "title": "Мэр заявил о разрушении жилых домов в центре Белгорода из-за атаки БПЛА",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 13:19",
       "parsed_at": "2026-10-23T13:19:08.522348"
-    },
-    {
-      "id": "ba1b95afabe9",
-      "title": "Урожай картофеля в России снизился на 8,7%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045243",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681188"
-    },
-    {
-      "id": "0dc67371770e",
-      "title": "Главные новости к утру 23 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045310",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681176"
-    },
-    {
-      "id": "cdac5c29c8df",
-      "title": "Маск пожертвовал $440 млн на поддержку республиканцев перед промежуточными выборами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045316",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681165"
-    },
-    {
-      "id": "96f6b18a021d",
-      "title": "В российском МИД оценили перспективы возможной встречи лидеров РФ, КНР и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045319",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681152"
-    },
-    {
-      "id": "3a8c4a0a7fa7",
-      "title": "Умер писатель Рю Мураками",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045326",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681139"
-    },
-    {
-      "id": "ca42905fdf56",
-      "title": "МИД России: между Москвой и НАТО существует канал связи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045324",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681124"
-    },
-    {
-      "id": "5149014e38f5",
-      "title": "В Шанхае появилась волна Lego из 380 тыс. цветов",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9045089",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681112"
-    },
-    {
-      "id": "26a7f86cb75a",
-      "title": "Продажи товаров для ремонта сократились на 4,7%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045235",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "23.10 08:07",
-      "parsed_at": "2026-10-23T08:07:44.681097"
     }
   ]
 }
