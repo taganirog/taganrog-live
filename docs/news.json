@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-25T17:08:14.316221",
+  "last_updated": "2026-10-25T20:43:54.769538",
   "stats": {
     "zhkh": 3,
-    "mchs": 4,
+    "mchs": 3,
     "works": 0,
-    "events": 1,
-    "news": 112,
+    "events": 0,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "cdf4826a4761",
+      "title": "Трамп анонсировал трехсторонние переговоры по Украине в ближайшее время",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060223",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785136"
+    },
+    {
+      "id": "3af67c196eec",
+      "title": "Перестраху натерпелись",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060095",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785121"
+    },
+    {
+      "id": "4ee45fe40976",
+      "title": "В Израиле начали писать свиток Торы для русскоязычных еврейских общин всего мира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060220",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785108"
+    },
+    {
+      "id": "0247cf43cad2",
+      "title": "Минобрнауки сокращает списки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060214",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785094"
+    },
+    {
+      "id": "4b95d4ef21e1",
+      "title": "Туристы свернули не туда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060167",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785082"
+    },
+    {
+      "id": "8c44a14ccafc",
+      "title": "Трамп высоко оценил дизельную сделку с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060235",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785069"
+    },
+    {
+      "id": "1d3ff56f1817",
+      "title": "В Брянской области при ударе БПЛА по грузовому поезду погиб машинист",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060237",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785056"
+    },
+    {
+      "id": "4510144bc74b",
+      "title": "Сергей Найдин взял бронзу чемпионата мира по спортивной гимнастике",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060239",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785040"
+    },
+    {
+      "id": "8d8beb1e1973",
+      "title": "Явка на досрочных парламентских выборах в Сербии достигла 56%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060242",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.785024"
+    },
+    {
+      "id": "1d9df74ee383",
+      "title": "Чемпионат мира по гимнастике",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9042192",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.10 20:43",
+      "parsed_at": "2026-10-25T20:43:52.784986"
+    },
     {
       "id": "719070af8921",
       "title": "FT: капитализация ведущих производителей люкса упала на €251 млрд",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.10 22:23",
       "parsed_at": "2026-10-23T22:23:44.493213"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:44.493188"
-    },
-    {
-      "id": "ba9608e5517f",
-      "title": "Минюст объявил журналиста Максима Курникова иностранным агентом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059177",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384214"
-    },
-    {
-      "id": "86f983f46333",
-      "title": "ПВЗ нагружают налоговой базой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059167",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384196"
-    },
-    {
-      "id": "06a4484b614e",
-      "title": "Набиуллина: ЦБ не ожидает волны дефолтов по бондам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059185",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384181"
-    },
-    {
-      "id": "542b1699f790",
-      "title": "Страховщик возместит Алеф-банку выплату по гарантии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059190",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384165"
-    },
-    {
-      "id": "50f5ac4d5239",
-      "title": "Шесть человек погибли при стрельбе в Иордании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059178",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384148"
-    },
-    {
-      "id": "80696f63872e",
-      "title": "ФК «Зенит» привлекли к тяжбе о возврате денег за билеты на концерт Канье Уэста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059216",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384130"
-    },
-    {
-      "id": "589d48d91769",
-      "title": "Минздрав обновил рекомендации по лечению ДЦП впервые за десять лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9045493",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384109"
-    },
-    {
-      "id": "5153cebdf90a",
-      "title": "«АвтоВАЗ» спрогнозировал снижение продаж новых Lada в октябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059272",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384090"
-    },
-    {
-      "id": "03dbde275a95",
-      "title": "Экс-судья не смогла пересчитать доходы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059183",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 18:17",
-      "parsed_at": "2026-10-23T18:17:15.384071"
     }
   ]
 }
