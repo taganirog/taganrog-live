@@ -1,14 +1,157 @@
 {
-  "last_updated": "2026-10-25T23:13:10.364396",
+  "last_updated": "2026-10-26T01:42:33.525150",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
-    "works": 0,
+    "works": 1,
     "events": 0,
-    "news": 114,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "28099e8d4632",
+      "title": "Голосование на выборах президента Бразилии продлили на два часа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060272",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915157"
+    },
+    {
+      "id": "e9430a47e025",
+      "title": "Три аэропорта Москвы приостанавливали работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060271",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915148"
+    },
+    {
+      "id": "7d0716583986",
+      "title": "Вучич заявил о поражении своей коалиции на выборах в парламент Сербии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060273",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915139"
+    },
+    {
+      "id": "170c5c4945db",
+      "title": "Дороги «Автодора» переходят на зимний скоростной режим",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060140",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915129"
+    },
+    {
+      "id": "74ef3c2a0591",
+      "title": "Вучич: победивший на выборах в Сербии «Студенческий список» введет санкции против РФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060274",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915119"
+    },
+    {
+      "id": "519298e61604",
+      "title": "Fox News: Пентагон готовит военные базы к 90 дням полной изоляции на случай войны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060276",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915109"
+    },
+    {
+      "id": "b0a8fb75b6a3",
+      "title": "Трамп ожидает прогресса в вопросе урегулирования конфликта на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060291",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915097"
+    },
+    {
+      "id": "c1884ca6f672",
+      "title": "Глава МИД Словакии прибыл в Москву для участия в заседании межправкомиссии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060290",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:31.915078"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:27.188615"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:27.188470"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:27.188458"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:27.188444"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 01:42",
+      "parsed_at": "2026-10-26T01:42:27.188426"
+    },
     {
       "id": "60d846713451",
       "title": "Умер поэт Евгений Чигрин",
@@ -1185,149 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 01:27",
       "parsed_at": "2026-10-24T01:27:10.702828"
-    },
-    {
-      "id": "d1111ca33d14",
-      "title": "Минобрнауки предложило минимальные баллы ЕГЭ для поступления в вузы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059401",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702815"
-    },
-    {
-      "id": "dbd13155a5ee",
-      "title": "Выбор в пользу регионов и репутации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9043918",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702803"
-    },
-    {
-      "id": "93b074c3a4df",
-      "title": "Российская гимнастка Рощина завоевала серебро в личном многоборье на ЧМ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059410",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702791"
-    },
-    {
-      "id": "75ed25b5740a",
-      "title": "Чистая прибыль «Фосагро» снизилась в три раза за девять месяцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059412",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702776"
-    },
-    {
-      "id": "287bc897448f",
-      "title": "Итальянцы вернули потерянное кольцо туристу в костюмах хоббитов",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059308",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702761"
-    },
-    {
-      "id": "1a98b0d9c482",
-      "title": "Новак сообщил об отправке первых танкеров с российским дизелем в сторону США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059691",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702746"
-    },
-    {
-      "id": "b4d14d5e2990",
-      "title": "В Брянской области погибла женщина при ударе ВСУ по ехавшему из Москвы автобусу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059693",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702731"
-    },
-    {
-      "id": "e225654835f4",
-      "title": "ТАСС: Саудовская Аравия не проведет «Интервидение» в этом году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059694",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702709"
-    },
-    {
-      "id": "a064895c3b33",
-      "title": "Путин поручил правительству закрыть кадровый дефицит ветеранами СВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059374",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080853"
-    },
-    {
-      "id": "29e4c7274753",
-      "title": "Минфин рассмотрит риски банкротства компаний при введении налога на сверхдоходы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059375",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080845"
-    },
-    {
-      "id": "094b88c5217c",
-      "title": "WB Банк продлил кредитные каникулы для продавцов Wildberries",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059382",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080832"
-    },
-    {
-      "id": "53393e107f5f",
-      "title": "ЦБ установил курс доллара ниже 81 руб. впервые с августа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059389",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080823"
-    },
-    {
-      "id": "be7c4fc88dbf",
-      "title": "При ракетном ударе ВСУ по заводу в Орле пострадали восемь человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059394",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.10 22:23",
-      "parsed_at": "2026-10-23T22:23:48.080813"
     }
   ]
 }
