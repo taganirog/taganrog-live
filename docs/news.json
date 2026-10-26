@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-26T14:59:58.670761",
+  "last_updated": "2026-10-26T21:31:58.583398",
   "stats": {
-    "zhkh": 4,
-    "mchs": 5,
+    "zhkh": 3,
+    "mchs": 4,
     "works": 1,
     "events": 0,
-    "news": 110,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "7160ca422fd1",
+      "title": "CNBC: Microsoft предложила 60 тыс. сотрудников программу добровольного увольнения с компенсацией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061136",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394134"
+    },
+    {
+      "id": "b4881e8044f4",
+      "title": "Минпромторг порекомендовал ввести «русский завтрак» по аналогии с «английским»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061137",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394116"
+    },
+    {
+      "id": "910d131f199d",
+      "title": "Кино аморального беспокойства",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060940",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394098"
+    },
+    {
+      "id": "61d65bf3fdc7",
+      "title": "Мощности особого значения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061148",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394081"
+    },
+    {
+      "id": "16dd93545306",
+      "title": "Надзор спросил с надзора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061056",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394061"
+    },
+    {
+      "id": "74d7f24ef041",
+      "title": "Минобрнауки распределит платные места вузам по новым правилам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061127",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394045"
+    },
+    {
+      "id": "29e6722542c4",
+      "title": "Умер сыгравший Павла Чехова в оригинальном «Стартреке» Уолтер Кениг",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061167",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394027"
+    },
+    {
+      "id": "59c09bbf30d0",
+      "title": "Минцифры предупредило о возможных ограничениях мобильного интернета в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061171",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.394007"
+    },
+    {
+      "id": "0f238c700e7a",
+      "title": "И Африка щедро приехала к нам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060922",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 21:31",
+      "parsed_at": "2026-10-26T21:31:57.393978"
+    },
     {
       "id": "356c575fe67e",
       "title": "«Экология может быть выгодной»",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 20:07",
       "parsed_at": "2026-10-24T20:07:48.524528"
-    },
-    {
-      "id": "5b9cfabee9c2",
-      "title": "Один погиб и четверо пострадали при ударах ВСУ в Брянской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059903",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524506"
-    },
-    {
-      "id": "a8faa1932f4a",
-      "title": "Роспотребнадзор не выявил загрязнения воздуха после удара по предприятию в Орле",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059852",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114642"
-    },
-    {
-      "id": "1fa7c818164f",
-      "title": "Минэнерго России подтвердило информацию об отключениях света на юге",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059854",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": true,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114626"
-    },
-    {
-      "id": "16f3cdf2f04b",
-      "title": "Гуменник выиграл короткую программу на этапе Гран-при России в Санкт-Петербурге",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114616"
-    },
-    {
-      "id": "959dc189c984",
-      "title": "Сюжет для небольшого кошмара",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059279",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114601"
-    },
-    {
-      "id": "e49e07c94639",
-      "title": "Еще один пожарный застрял под завалами при тушении горящей усадьбы в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059860",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114586"
-    },
-    {
-      "id": "99abd3653fde",
-      "title": "Хоценко: силы ПВО отражают налет БПЛА на Омскую область",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059861",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114573"
-    },
-    {
-      "id": "3f57cba9fc0d",
-      "title": "Мерц признал наличие проблем в экономике ФРГ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059862",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114556"
-    },
-    {
-      "id": "2e6b133a260c",
-      "title": "«Акрон» выключил лидера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059845",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 16:45",
-      "parsed_at": "2026-10-24T16:45:37.114524"
     }
   ]
 }
