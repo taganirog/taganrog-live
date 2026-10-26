@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-10-26T03:54:40.343860",
+  "last_updated": "2026-10-26T08:39:59.808311",
   "stats": {
-    "zhkh": 2,
-    "mchs": 4,
+    "zhkh": 3,
+    "mchs": 5,
     "works": 1,
     "events": 0,
-    "news": 113,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "b00327fe6a2a",
+      "title": "Главы ЕК и Евросовета поздравили оппозицию Сербии с победой на выборах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060332",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721333"
+    },
+    {
+      "id": "a1d800747484",
+      "title": "Песков: Россия готова обсуждать поставки газа Европе при наличии интереса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060328",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721314"
+    },
+    {
+      "id": "5c5ab81b2385",
+      "title": "Нейросеть проанализировала более 90 тысяч снимков в поисках Усольцевых",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060344",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721298"
+    },
+    {
+      "id": "8838e7838a1e",
+      "title": "Потребители не выдержали цены",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059384",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721281"
+    },
+    {
+      "id": "ecca97d6b64f",
+      "title": "Посол России: РФ и Алжир планируют возобновить прямое авиасообщение в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060356",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721264"
+    },
+    {
+      "id": "5939b47c0161",
+      "title": "Axios: Нетаньяху просил Трампа поддержать его перед выборами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060351",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721246"
+    },
+    {
+      "id": "12d7bcedf8e2",
+      "title": "МИД России: Запад услышал сигнал Москвы об ответе на задержание судов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721228"
+    },
+    {
+      "id": "be7a5e8ba2ae",
+      "title": "Пожар после схода вагонов в Свердловской области локализован на 1,5 тыс. кв. м",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060357",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721209"
+    },
+    {
+      "id": "140e6265d52a",
+      "title": "Три человека пострадали при атаке БПЛА в Мелитополе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060365",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721189"
+    },
+    {
+      "id": "5d8710c6fc62",
+      "title": "Наценка без взаимности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060165",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:57.721159"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 08:39",
+      "parsed_at": "2026-10-26T08:39:54.176356"
+    },
     {
       "id": "6f055b33897b",
       "title": "Девелоперы осваивают Поволжье",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 12:41",
       "parsed_at": "2026-10-24T12:41:02.308771"
-    },
-    {
-      "id": "b57eeebbc524",
-      "title": "«Кевин» перестал быть мемом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059788",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308750"
-    },
-    {
-      "id": "7bcc368aa265",
-      "title": "В Югре ввели режим беспилотной опасности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059795",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308722"
-    },
-    {
-      "id": "a304a6c45afd",
-      "title": "Британский пенсионер нашел карточки Pokemon на £1,5 млн",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059180",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034935"
-    },
-    {
-      "id": "f72893729221",
-      "title": "Один человек погиб и более 500 получили травмы на Тайване от тайфуна «Чампи»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059703",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034917"
-    },
-    {
-      "id": "dbe3d0a7b714",
-      "title": "Юношеская сборная России выступит на турнире FIFA впервые с 2022 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059704",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034898"
-    },
-    {
-      "id": "c8441e515eac",
-      "title": "В Рязани отменяют продажу топлива по номерам машин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059705",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034880"
-    },
-    {
-      "id": "b3209495c5e7",
-      "title": "Главные новости к утру 24 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059706",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034863"
-    },
-    {
-      "id": "83222a77d773",
-      "title": "В Баварии загорелся бывший чайный домик Гитлера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059709",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034845"
-    },
-    {
-      "id": "ee67f9d76e32",
-      "title": "В Ростовской области при ударе БПЛА по подстанции были обесточены 172 дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059710",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034827"
-    },
-    {
-      "id": "11a14996e5dd",
-      "title": "Polo Ralph Lauren показал коллекцию из старой одежды, переделанной японскими мастерами",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9058979",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034808"
-    },
-    {
-      "id": "091a78d75fbe",
-      "title": "С кислинкой и чудинкой",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059411",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034786"
     }
   ]
 }
