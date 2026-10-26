@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-26T08:39:59.808311",
+  "last_updated": "2026-10-26T14:59:58.670761",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 5,
     "works": 1,
     "events": 0,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "356c575fe67e",
+      "title": "«Экология может быть выгодной»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060655",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747287"
+    },
+    {
+      "id": "3f47b01b4268",
+      "title": "Эксперты проверили динамику кроссовера Volga K40",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9060831",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747269"
+    },
+    {
+      "id": "0cb19467eb51",
+      "title": "Парки Six Flags вводят на аттракционах ремни безопасности после гибели посетителя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060826",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747249"
+    },
+    {
+      "id": "f29c447b9415",
+      "title": "Рособрнадзор вынес предостережение Томскому госуниверситету",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060837",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747231"
+    },
+    {
+      "id": "e828e4d6d058",
+      "title": "Отличники международного масштаба",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060729",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747214"
+    },
+    {
+      "id": "8e9036732eba",
+      "title": "Российские Ту-95МС выполнили полет над водами Берингова и Чукотского морей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060838",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747196"
+    },
+    {
+      "id": "3d1220e6cfb3",
+      "title": "В поселке Майна в Хакасии выявили псевдочуму птиц",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060843",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747178"
+    },
+    {
+      "id": "dc72d4edbfd3",
+      "title": "Венесуэльская нефть открыла границу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060814",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 14:59",
+      "parsed_at": "2026-10-26T14:59:56.747149"
+    },
     {
       "id": "b00327fe6a2a",
       "title": "Главы ЕК и Евросовета поздравили оппозицию Сербии с победой на выборах",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 16:45",
       "parsed_at": "2026-10-24T16:45:37.114524"
-    },
-    {
-      "id": "4df8bf1007cc",
-      "title": "Грушко: России не важна личность переговорщика от Европы, главное — его позиция",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059775",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308899"
-    },
-    {
-      "id": "38e50a8e0f29",
-      "title": "Пятеро пострадавших при ударе ВСУ по предприятию в Орле находятся в реанимации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059777",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308881"
-    },
-    {
-      "id": "11cf3fbebadf",
-      "title": "Посольство РФ в Италии рекомендовало россиянам избегать мест беспорядков",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059780",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308863"
-    },
-    {
-      "id": "449da96f2884",
-      "title": "В «Художественном» покажут фильмы с «Маяка»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059179",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308846"
-    },
-    {
-      "id": "088efeec18ab",
-      "title": "В Карелии сняли ограничения на продажу топлива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059783",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308829"
-    },
-    {
-      "id": "e6690636cb52",
-      "title": "Минобороны РФ сообщило об уничтожении 1 297 беспилотников и пяти ракет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059786",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308810"
-    },
-    {
-      "id": "aaf5f8bd70af",
-      "title": "Алешкам обещали тишину",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059787",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308789"
-    },
-    {
-      "id": "e742359adc39",
-      "title": "Число погибших при стрельбе в Иордании выросло до восьми",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059789",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 12:41",
-      "parsed_at": "2026-10-24T12:41:02.308771"
     }
   ]
 }
