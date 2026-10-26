@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-26T21:31:58.583398",
+  "last_updated": "2026-10-27T01:58:09.393716",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 2,
     "mchs": 4,
     "works": 1,
     "events": 0,
-    "news": 112,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "a1b9a00a64f6",
+      "title": "Луис де ла Фуэнте стал лучшим тренером года по версии France Football",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061219",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999722"
+    },
+    {
+      "id": "6d31d16de6dd",
+      "title": "Apple представила новый iPad mini",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061201",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999703"
+    },
+    {
+      "id": "2e423fb149c6",
+      "title": "Унаи Симон опередил Матвея Сафонова и взял приз лучшему футбольному вратарю года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061221",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999686"
+    },
+    {
+      "id": "d99c4583d556",
+      "title": "Грызлов: западные границы Союзного государства находятся под растущей угрозой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061218",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999667"
+    },
+    {
+      "id": "1e0180195804",
+      "title": "Футболист Букайо Сака получил «Приз Сократеса» за гуманитарную деятельность",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061223",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999646"
+    },
+    {
+      "id": "2af2467c729d",
+      "title": "Толпа ворвалась в редакцию сербского телеканала Informer TV",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061222",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999626"
+    },
+    {
+      "id": "00ec8b1c3f5a",
+      "title": "ПСЖ признан лучшим футбольным клубом года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061224",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999605"
+    },
+    {
+      "id": "f20f9a5ae4ae",
+      "title": "Алексия Путельяс в третий раз выиграла «Золотой мяч»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061228",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999586"
+    },
+    {
+      "id": "1286c2df20f4",
+      "title": "Стубб: мы находимся в «эпохе тьмы» и переломном моменте для мира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061217",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999566"
+    },
+    {
+      "id": "0f2f4d9af3eb",
+      "title": "Гарри Кейн выиграл «Золотой мяч»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061229",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 01:58",
+      "parsed_at": "2026-10-27T01:58:07.999534"
+    },
     {
       "id": "7160ca422fd1",
       "title": "CNBC: Microsoft предложила 60 тыс. сотрудников программу добровольного увольнения с компенсацией",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 22:37",
       "parsed_at": "2026-10-24T22:37:12.750168"
-    },
-    {
-      "id": "d75946671fae",
-      "title": "Хуситы отчитались об ударах по аэропортам в Саудовской Аравии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059912",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750151"
-    },
-    {
-      "id": "e625873e3b3c",
-      "title": "Трое пострадали при падении дрона во дворе многоэтажного дома в Шебекино",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059915",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750133"
-    },
-    {
-      "id": "8562f7fab21f",
-      "title": "Маск: ВСУ нарушали условия использования Starlink",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059918",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750103"
-    },
-    {
-      "id": "9d73b33c62de",
-      "title": "В Темрюкском районе Краснодарского края восстановили электроснабжение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059883",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524612"
-    },
-    {
-      "id": "faad175b121c",
-      "title": "Квадратные метры за ВНЖ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059882",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524602"
-    },
-    {
-      "id": "cae28109182f",
-      "title": "Чикмарева и Янченков выиграли короткую программу на Гран-при России в Петербурге",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059891",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524590"
-    },
-    {
-      "id": "dd29837238ac",
-      "title": "ВСУ атаковали логистический центр Ozon в Омске",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059892",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524575"
-    },
-    {
-      "id": "fd34c750d576",
-      "title": "Лантратова: Украина прекратит огонь в Алешках в ночь на 27 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059897",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524559"
-    },
-    {
-      "id": "943cce56628d",
-      "title": "Посольства США на Ближнем Востоке обновили правила безопасности из-за хуситов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059900",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524545"
-    },
-    {
-      "id": "daffc028117b",
-      "title": "МВД Франции: свыше 400 тыс. человек вышли на протесты по всей стране",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059901",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 20:07",
-      "parsed_at": "2026-10-24T20:07:48.524528"
     }
   ]
 }
