@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:42:33.525150",
+  "last_updated": "2026-10-26T03:54:40.343860",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
@@ -9,6 +9,83 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "6f055b33897b",
+      "title": "Девелоперы осваивают Поволжье",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059168",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565893"
+    },
+    {
+      "id": "b9de1fc328eb",
+      "title": "От кредиторов к бюджету и штрафам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060171",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565876"
+    },
+    {
+      "id": "ebc3d353f60b",
+      "title": "Рост предложения валюты поддерживает рубль",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060172",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565863"
+    },
+    {
+      "id": "6e6c0e96bf96",
+      "title": "Инвестиции не лечатся",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060229",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565848"
+    },
+    {
+      "id": "40b8637387f5",
+      "title": "Reuters: победа демократов на выборах в США позволит утвердить помощь Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060296",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565836"
+    },
+    {
+      "id": "119117eb2e24",
+      "title": "Лула да Силва победил на выборах президента Бразилии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060298",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565819"
+    },
+    {
+      "id": "4077f6f8d7ba",
+      "title": "WSJ: США предложили кандидатуру Орбана на пост генерального секретаря ООН",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9060297",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.10 03:54",
+      "parsed_at": "2026-10-26T03:54:38.565797"
+    },
     {
       "id": "28099e8d4632",
       "title": "Голосование на выборах президента Бразилии продлили на два часа",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.10 08:16",
       "parsed_at": "2026-10-24T08:16:12.034786"
-    },
-    {
-      "id": "9442ba188d63",
-      "title": "Китай призвал отказаться от гонки вооружений в космосе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059713",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 08:16",
-      "parsed_at": "2026-10-24T08:16:12.034760"
-    },
-    {
-      "id": "ccc3f6d94011",
-      "title": "В Крыму и Севастополе произошел блэкаут из-за удара ВСУ по энергоинфраструктуре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059695",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 03:55",
-      "parsed_at": "2026-10-24T03:55:02.123736"
-    },
-    {
-      "id": "ad2a4898ab6a",
-      "title": "Макрон назвал теракт в пригороде Парижа переломным моментом для Франции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059696",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 03:55",
-      "parsed_at": "2026-10-24T03:55:02.123715"
-    },
-    {
-      "id": "0dd832834e4f",
-      "title": "Хегсет: Китай тайно внедрял пропагандистские ячейки в вузы США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059697",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 03:55",
-      "parsed_at": "2026-10-24T03:55:02.123664"
-    },
-    {
-      "id": "4010af2eb013",
-      "title": "В Конгресс США внесли еще один законопроект об отмене дизельной сделки с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059698",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 03:55",
-      "parsed_at": "2026-10-24T03:55:02.123632"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 03:54",
-      "parsed_at": "2026-10-24T03:54:58.794482"
-    },
-    {
-      "id": "1d5500edb1bd",
-      "title": "Russ выиграл аукцион за право управлять сетью рекламных конструкций мэрии Москвы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059398",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 01:27",
-      "parsed_at": "2026-10-24T01:27:10.702828"
     }
   ]
 }
