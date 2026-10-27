@@ -1,14 +1,146 @@
 {
-  "last_updated": "2026-10-27T10:08:49.494652",
+  "last_updated": "2026-10-27T16:26:23.913572",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
-    "works": 1,
+    "works": 3,
     "events": 0,
-    "news": 112,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "3c60f59eeef9",
+      "title": "Earn-out без конфликтов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061873",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531859"
+    },
+    {
+      "id": "43cd532f2e3f",
+      "title": "Украина оспорит решение о проведении ЧМ по тяжелой атлетике в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061904",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531843"
+    },
+    {
+      "id": "a50b8f4ee8a6",
+      "title": "«Без цифровых сервисов цивилизованная автомобильная жизнь просто невозможна»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061861",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531825"
+    },
+    {
+      "id": "3d41f0377a5f",
+      "title": "Бренд Volga поделился подробностями своей программы «Помощь на дорогах»",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061907",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531806"
+    },
+    {
+      "id": "4ef115d4cbaa",
+      "title": "ДоброFON передал книги библиотекам Брянской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061878",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531788"
+    },
+    {
+      "id": "e87dd8fd720e",
+      "title": "Роскомнадзор не предлагал запретить детям до 14 лет пользоваться интернетом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061906",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531771"
+    },
+    {
+      "id": "f405faae73e0",
+      "title": "Премьер Норвегии заявил о тщательной подготовке России к переговорам в Абу-Даби",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061914",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531753"
+    },
+    {
+      "id": "98fde8cbae17",
+      "title": "Reuters: китайский ИИ-пузырь начал лопаться",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061900",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531734"
+    },
+    {
+      "id": "224b615c12a4",
+      "title": "«Если Лувр не отремонтировать, его придется закрыть»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061905",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531714"
+    },
+    {
+      "id": "898bc91f2a6f",
+      "title": "Сергей Емелин завоевал бронзу на ЧМ по борьбе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061941",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:22.531686"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:21.772299"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 16:26",
+      "parsed_at": "2026-10-27T16:26:21.772266"
+    },
     {
       "id": "87f664a4391d",
       "title": "Саудовская Аравия сбила четыре БПЛА и три ракеты хуситов",
@@ -1196,138 +1328,6 @@
       "is_urgent": false,
       "published_at": "25.10 12:58",
       "parsed_at": "2026-10-25T12:58:36.275575"
-    },
-    {
-      "id": "9659edaa253f",
-      "title": "Умер автор сценария мультфильма «Бабка Ежка и другие» Михаил Липскеров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060030",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 12:58",
-      "parsed_at": "2026-10-25T12:58:36.275559"
-    },
-    {
-      "id": "bca89592c832",
-      "title": "Ушаков допустил неформальное общение Путина и Трампа на саммите АТЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060037",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 12:58",
-      "parsed_at": "2026-10-25T12:58:36.275540"
-    },
-    {
-      "id": "6ca6ecedc267",
-      "title": "За журналиста отсидели половину",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059975",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 12:58",
-      "parsed_at": "2026-10-25T12:58:36.275519"
-    },
-    {
-      "id": "a6739b4b01d8",
-      "title": "Ушаков заявил о подготовке трехстороннего саммита лидеров Китая, России и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060035",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 12:58",
-      "parsed_at": "2026-10-25T12:58:36.275491"
-    },
-    {
-      "id": "c3b078c90c90",
-      "title": "Мэр заявил о разрушении жилых домов в центре Белгорода из-за атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059936",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254307"
-    },
-    {
-      "id": "6daae2a3393d",
-      "title": "Ученые создали систему, которая передает запахи по сети",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059309",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254291"
-    },
-    {
-      "id": "2ef70c16a391",
-      "title": "Audi построит свой первый завод в США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059937",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254278"
-    },
-    {
-      "id": "319b2e88a30d",
-      "title": "Трамп сообщил о планах вести дела с Россией и Украиной после окончания конфликта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059938",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254265"
-    },
-    {
-      "id": "514ecc7cd101",
-      "title": "Axios: Вашингтон устал от апокалиптических прогнозов лидеров ИИ-индустрии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059940",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254251"
-    },
-    {
-      "id": "e7873a968e94",
-      "title": "Главные новости к утру 25 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059941",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254234"
-    },
-    {
-      "id": "aee00bd532ce",
-      "title": "Три человека пострадали при атаке на Омск в субботу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059942",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254222"
-    },
-    {
-      "id": "c3c906a71cea",
-      "title": "При стрельбе у университета во Флориде пострадали 12 человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059945",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254207"
     }
   ]
 }
