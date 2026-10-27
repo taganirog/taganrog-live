@@ -1,14 +1,91 @@
 {
-  "last_updated": "2026-10-27T21:49:16.822405",
+  "last_updated": "2026-10-28T01:47:14.434876",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 4,
     "works": 3,
     "events": 0,
-    "news": 110,
+    "news": 109,
     "total": 120
   },
   "items": [
+    {
+      "id": "4d9954b8e115",
+      "title": "Часы Geneva Watch Days",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059211",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084285"
+    },
+    {
+      "id": "4c9d72083a1f",
+      "title": "По счастливой случайности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059218",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084269"
+    },
+    {
+      "id": "47cfc62d59af",
+      "title": "Узлы нежной привязанности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9059221",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084256"
+    },
+    {
+      "id": "b51064bca854",
+      "title": "Во исполнение национальной трансмиссии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062108",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084238"
+    },
+    {
+      "id": "3e7fa3de1273",
+      "title": "Ozon предложил выплаты за товары после атаки БПЛА в Махачкале",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062322",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084225"
+    },
+    {
+      "id": "7610b2528af6",
+      "title": "Путин предупредил о последствиях исключения России с газового рынка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062328",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084209"
+    },
+    {
+      "id": "3afff46b1da8",
+      "title": "Apple представила обновленные iMac и MacBook Pro",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062329",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 01:47",
+      "parsed_at": "2026-10-28T01:47:13.084186"
+    },
     {
       "id": "83f91ec48671",
       "title": "Меркачева: использование VPN чаще становится аргументом при ходатайстве об аресте",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "25.10 20:43",
       "parsed_at": "2026-10-25T20:43:52.785069"
-    },
-    {
-      "id": "1d3ff56f1817",
-      "title": "В Брянской области при ударе БПЛА по грузовому поезду погиб машинист",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060237",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785056"
-    },
-    {
-      "id": "4510144bc74b",
-      "title": "Сергей Найдин взял бронзу чемпионата мира по спортивной гимнастике",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060239",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785040"
-    },
-    {
-      "id": "8d8beb1e1973",
-      "title": "Явка на досрочных парламентских выборах в Сербии достигла 56%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060242",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785024"
-    },
-    {
-      "id": "1d9df74ee383",
-      "title": "Чемпионат мира по гимнастике",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9042192",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.784986"
-    },
-    {
-      "id": "719070af8921",
-      "title": "FT: капитализация ведущих производителей люкса упала на €251 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060107",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 17:08",
-      "parsed_at": "2026-10-25T17:08:12.212537"
-    },
-    {
-      "id": "70bc19c5fbe4",
-      "title": "Липецкий губернатор сообщил об одном погибшем при ударе ВСУ по промзоне в Ельце",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060128",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 17:08",
-      "parsed_at": "2026-10-25T17:08:12.212519"
-    },
-    {
-      "id": "82672baaab01",
-      "title": "Техас подал в суд на OpenAI за недостаточную защиту от рисков ИИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060121",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 17:08",
-      "parsed_at": "2026-10-25T17:08:12.212499"
     }
   ]
 }
