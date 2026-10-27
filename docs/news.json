@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T04:49:52.095925",
+  "last_updated": "2026-10-27T10:08:49.494652",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "87f664a4391d",
+      "title": "Саудовская Аравия сбила четыре БПЛА и три ракеты хуситов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061331",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939537"
+    },
+    {
+      "id": "1c3b828c9e9a",
+      "title": "Минобороны России сообщило об ударе по мосту «Южный» в Киеве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061346",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939519"
+    },
+    {
+      "id": "c6c7758715e2",
+      "title": "Сотрудника московского ресторана Claudia обвинили в терроризме",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061355",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939500"
+    },
+    {
+      "id": "a7903cb5adc6",
+      "title": "В МВД предупредили о мошенничестве с помощью ИИ-роликов со знаменитостями",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061376",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939481"
+    },
+    {
+      "id": "71142fcf943d",
+      "title": "Археолог вычислил старейший паб Англии по деревянным балкам",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9060917",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939460"
+    },
+    {
+      "id": "b08aefb0cc32",
+      "title": "Квартирам надбавили за габариты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061183",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939436"
+    },
+    {
+      "id": "13d37fd79aa9",
+      "title": "«Русская рулетка» для сербов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061364",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939418"
+    },
+    {
+      "id": "1761a322b8a8",
+      "title": "Прокуратура Забайкалья проверит данные о вспышке кишечного заболевания на горном комбинате",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061385",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939397"
+    },
+    {
+      "id": "6359ec4970c3",
+      "title": "В Конгрессе США пригрозили тюремным сроком за покупку российского дизеля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061372",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:47.939366"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 10:08",
+      "parsed_at": "2026-10-27T10:08:46.825787"
+    },
     {
       "id": "fa2cd4716bb7",
       "title": "Учащиеся во Франции призвали к новым акциям протеста",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "25.10 08:02",
       "parsed_at": "2026-10-25T08:02:02.254207"
-    },
-    {
-      "id": "b5147e88e350",
-      "title": "Ученые связали «Звездную ночь» Ван Гога с реальным ночным небом 1889 года",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9058963",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:02",
-      "parsed_at": "2026-10-25T08:02:02.254171"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 08:01",
-      "parsed_at": "2026-10-25T08:01:59.296150"
-    },
-    {
-      "id": "4ebf56335c0e",
-      "title": "При ударе по автобусу в Брянской области погибли два человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059927",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388713"
-    },
-    {
-      "id": "ae10a7521419",
-      "title": "Петр Ян перетерпел грузина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059928",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388702"
-    },
-    {
-      "id": "11f51a4581e9",
-      "title": "Оперштаб сообщил о массированном налете БПЛА на Белгород",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059929",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388691"
-    },
-    {
-      "id": "acde9eab6185",
-      "title": "Аэропорт Эр-Рияда возобновляет работу после угроз и ударов хуситов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059930",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388681"
-    },
-    {
-      "id": "18a47538f401",
-      "title": "Один человек погиб и десять пострадали при массированной атаке БПЛА на Белгород",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059931",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388669"
-    },
-    {
-      "id": "50ffb11c6e82",
-      "title": "Петр Ян перетерпел грузина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059925",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:52.388650"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 03:25",
-      "parsed_at": "2026-10-25T03:25:50.710712"
-    },
-    {
-      "id": "5f0d989f8aae",
-      "title": "В Риме протестующие попытались проникнуть в Колизей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059919",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524478"
     }
   ]
 }
