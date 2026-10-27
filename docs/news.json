@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-27T01:58:09.393716",
+  "last_updated": "2026-10-27T04:49:52.095925",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 4,
     "works": 1,
     "events": 0,
-    "news": 113,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "fa2cd4716bb7",
+      "title": "Учащиеся во Франции призвали к новым акциям протеста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061226",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.817005"
+    },
+    {
+      "id": "5f5a95798afb",
+      "title": "Коммуналке повышают привлекательность",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061106",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816989"
+    },
+    {
+      "id": "29e79bdcdeae",
+      "title": "В финансировании науки — без перемен",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061152",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816977"
+    },
+    {
+      "id": "2366d341460a",
+      "title": "Директорам добавили покрытия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061157",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816962"
+    },
+    {
+      "id": "25fd7a9d9590",
+      "title": "Путин поручил обеспечить доступ граждан к электронным семейным архивам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061227",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816947"
+    },
+    {
+      "id": "b515eb2f94ae",
+      "title": "Трамп усомнился в легитимности победы Лулы да Силвы на выборах в Бразилии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061230",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816931"
+    },
+    {
+      "id": "a772a0ca116b",
+      "title": "Сирия закрыла единственный КПП на границе с Иорданией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061231",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816911"
+    },
+    {
+      "id": "fb1264b5ed66",
+      "title": "Whoosh переведет сотрудников на четырехдневку и сократит зарплаты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061233",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816894"
+    },
+    {
+      "id": "e8a5882b86f2",
+      "title": "В районе Алешек начал действовать «режим тишины»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061235",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.10 04:49",
+      "parsed_at": "2026-10-27T04:49:50.816867"
+    },
     {
       "id": "a1b9a00a64f6",
       "title": "Луис де ла Фуэнте стал лучшим тренером года по версии France Football",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "25.10 01:09",
       "parsed_at": "2026-10-25T01:09:59.524478"
-    },
-    {
-      "id": "f6e6d6fc78dc",
-      "title": "Турист погиб после падения в каньон в Адыгее",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059920",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524464"
-    },
-    {
-      "id": "6d6d82bc238a",
-      "title": "Во Франции на протестах арестовали почти тысячу человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059921",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524449"
-    },
-    {
-      "id": "c39d143f3a54",
-      "title": "В аэропорту Домодедово ввели ограничения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059922",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524436"
-    },
-    {
-      "id": "aa61214655a8",
-      "title": "Трамп обсудил с Маском ситуацию на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059924",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524421"
-    },
-    {
-      "id": "21d0403e1ca4",
-      "title": "В Липецке обломки БПЛА упали на припаркованные машины возле жилых домов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059926",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:59.524398"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 01:09",
-      "parsed_at": "2026-10-25T01:09:58.812655"
-    },
-    {
-      "id": "9d8c2e25de3c",
-      "title": "Пусть всегда будет биосолнце",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9059284",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750206"
-    },
-    {
-      "id": "0a35e4344e06",
-      "title": "Axios: советники Трампа считают поражение Нетаньяху на выборах выгодным для США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059908",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750189"
-    },
-    {
-      "id": "c4a58683bb4d",
-      "title": "Над Россией сбили 125 беспилотников за день",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059909",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.10 22:37",
-      "parsed_at": "2026-10-24T22:37:12.750168"
     }
   ]
 }
