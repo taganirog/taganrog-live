@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-28T01:47:14.434876",
+  "last_updated": "2026-10-28T04:56:42.143949",
   "stats": {
     "zhkh": 4,
-    "mchs": 4,
+    "mchs": 3,
     "works": 3,
     "events": 0,
-    "news": 109,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "a9f5f8c0e88e",
+      "title": "Музыку подключили к экранам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062115",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740839"
+    },
+    {
+      "id": "3a88c38bc145",
+      "title": "Частный спрос продолжает слабеть",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062124",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740823"
+    },
+    {
+      "id": "2fff1201cd8e",
+      "title": "Продвижение широкими шагами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062260",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740807"
+    },
+    {
+      "id": "0f48598aefff",
+      "title": "Инвесторы не отпускают металл",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062264",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740792"
+    },
+    {
+      "id": "ffad1b065ab8",
+      "title": "Дальнему Востоку напомнили о малом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062283",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740776"
+    },
+    {
+      "id": "458112c1dc60",
+      "title": "Forbes: Минцифры может ввести лимиты на зарубежный интернет-трафик в России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062344",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740759"
+    },
+    {
+      "id": "997ad08c7723",
+      "title": "Ла Лига извинилась за слова Мбаппе о меме с Мао Цзэдуном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062346",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740741"
+    },
+    {
+      "id": "2238fbe94b24",
+      "title": "CNN: Трамп одобрил въезд в США проигравшего выборы в Бразилии Болсонару",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062347",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740723"
+    },
+    {
+      "id": "4056b3394493",
+      "title": "Правительство уточнило, что подпадает под запрет на публикацию сведений о ТЭК",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062348",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740703"
+    },
+    {
+      "id": "c60df399276f",
+      "title": "В МХТ имени Чехова сменился первый заместитель Хабенского",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062349",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 04:56",
+      "parsed_at": "2026-10-28T04:56:38.740673"
+    },
     {
       "id": "4d9954b8e115",
       "title": "Часы Geneva Watch Days",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "25.10 23:13",
       "parsed_at": "2026-10-25T23:13:08.551681"
-    },
-    {
-      "id": "b11f906f2401",
-      "title": "В Сербии задержали подозреваемого в нападении на мать Вучича",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060268",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551663"
-    },
-    {
-      "id": "86ec94cc0316",
-      "title": "Экзит-полы: Йотова лидирует в первом туре выборов президента Болгарии с 35,3%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060269",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551643"
-    },
-    {
-      "id": "2af424c92fc7",
-      "title": "Хуситы заявили об ударе по аэропорту Эр-Рияда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060270",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551614"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:04.079424"
-    },
-    {
-      "id": "cdf4826a4761",
-      "title": "Трамп анонсировал трехсторонние переговоры по Украине в ближайшее время",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060223",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785136"
-    },
-    {
-      "id": "3af67c196eec",
-      "title": "Перестраху натерпелись",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060095",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785121"
-    },
-    {
-      "id": "4ee45fe40976",
-      "title": "В Израиле начали писать свиток Торы для русскоязычных еврейских общин всего мира",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060220",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785108"
-    },
-    {
-      "id": "0247cf43cad2",
-      "title": "Минобрнауки сокращает списки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060214",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785094"
-    },
-    {
-      "id": "4b95d4ef21e1",
-      "title": "Туристы свернули не туда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060167",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785082"
-    },
-    {
-      "id": "8c44a14ccafc",
-      "title": "Трамп высоко оценил дизельную сделку с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060235",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 20:43",
-      "parsed_at": "2026-10-25T20:43:52.785069"
     }
   ]
 }
