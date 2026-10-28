@@ -1,14 +1,80 @@
 {
-  "last_updated": "2026-10-28T23:00:16.170656",
+  "last_updated": "2026-10-29T02:57:19.762559",
   "stats": {
-    "zhkh": 5,
+    "zhkh": 3,
     "mchs": 2,
     "works": 3,
     "events": 0,
-    "news": 110,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "a69e54749e41",
+      "title": "Число сбитых вблизи Москвы БПЛА увеличилось до 57",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063250",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034422"
+    },
+    {
+      "id": "9001678f24bd",
+      "title": "Суд в Москве заочно арестовал главу футбольного клуба «Химки» по делу о взятке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063249",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034405"
+    },
+    {
+      "id": "c57d5cf95a6c",
+      "title": "Ввод жилья в сентябре ушел в минус",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063140",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034381"
+    },
+    {
+      "id": "953eb1ef28fe",
+      "title": "Экономика сбавляет ход",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063191",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034357"
+    },
+    {
+      "id": "e44f754fa743",
+      "title": "Эфиопия хочет увеличить экспорт товаров в Россию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063251",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034336"
+    },
+    {
+      "id": "c0a2d4032d62",
+      "title": "Число сбитых вблизи Москвы БПЛА увеличилось до 111",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063254",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 02:57",
+      "parsed_at": "2026-10-29T02:57:18.034308"
+    },
     {
       "id": "9a7e2e1dbeed",
       "title": "Средний размер пенсий в сентябре вырос на 8,3% за год",
@@ -1262,72 +1328,6 @@
       "is_urgent": false,
       "published_at": "26.10 14:59",
       "parsed_at": "2026-10-26T14:59:56.747231"
-    },
-    {
-      "id": "e828e4d6d058",
-      "title": "Отличники международного масштаба",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060729",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747214"
-    },
-    {
-      "id": "8e9036732eba",
-      "title": "Российские Ту-95МС выполнили полет над водами Берингова и Чукотского морей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060838",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747196"
-    },
-    {
-      "id": "3d1220e6cfb3",
-      "title": "В поселке Майна в Хакасии выявили псевдочуму птиц",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060843",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747178"
-    },
-    {
-      "id": "dc72d4edbfd3",
-      "title": "Венесуэльская нефть открыла границу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060814",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747149"
-    },
-    {
-      "id": "b00327fe6a2a",
-      "title": "Главы ЕК и Евросовета поздравили оппозицию Сербии с победой на выборах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060332",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721333"
-    },
-    {
-      "id": "a1d800747484",
-      "title": "Песков: Россия готова обсуждать поставки газа Европе при наличии интереса",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060328",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721314"
     }
   ]
 }
