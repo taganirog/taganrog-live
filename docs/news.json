@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T17:44:37.599577",
+  "last_updated": "2026-10-28T23:00:16.170656",
   "stats": {
     "zhkh": 5,
     "mchs": 2,
@@ -9,6 +9,160 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "9a7e2e1dbeed",
+      "title": "Средний размер пенсий в сентябре вырос на 8,3% за год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063205",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990336"
+    },
+    {
+      "id": "bb05ca5b1038",
+      "title": "ФРС сохранила ставку на уровне 3,75-4% годовых",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063206",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990323"
+    },
+    {
+      "id": "3b92a7dd0232",
+      "title": "Минобороны РФ отчиталось об ударах по электростанциям в Луцке и Ковеле",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063198",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990311"
+    },
+    {
+      "id": "797d51da7dfb",
+      "title": "Умер поэт и сооснователь СМОГа Владимир Алейников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063218",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990296"
+    },
+    {
+      "id": "096c96540096",
+      "title": "Если в Африку сгрудились малые",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990283"
+    },
+    {
+      "id": "3fb6e44c105b",
+      "title": "В Кремле поддержали продолжение диалога с Финляндией и Норвегией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063222",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990271"
+    },
+    {
+      "id": "c3a00ee36647",
+      "title": "Путин дал торжественный прием для участников саммита Россия — Африка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063223",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990249"
+    },
+    {
+      "id": "160cb137d8b8",
+      "title": "Минфин США добавил 10 физлиц и одну организацию в санкционные списки по КНДР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063226",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990233"
+    },
+    {
+      "id": "9353375be124",
+      "title": "На подлете к Москве сбили 20 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063227",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:13.990201"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:09.952168"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:09.951982"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:09.951968"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:09.951950"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 23:00",
+      "parsed_at": "2026-10-28T23:00:09.951927"
+    },
     {
       "id": "e53665c9d50c",
       "title": "Скелет динозавра ушел с аукциона Sotheby’s за $47,3 млн",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "26.10 08:39",
       "parsed_at": "2026-10-26T08:39:57.721314"
-    },
-    {
-      "id": "5c5ab81b2385",
-      "title": "Нейросеть проанализировала более 90 тысяч снимков в поисках Усольцевых",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060344",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721298"
-    },
-    {
-      "id": "8838e7838a1e",
-      "title": "Потребители не выдержали цены",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059384",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721281"
-    },
-    {
-      "id": "ecca97d6b64f",
-      "title": "Посол России: РФ и Алжир планируют возобновить прямое авиасообщение в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060356",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721264"
-    },
-    {
-      "id": "5939b47c0161",
-      "title": "Axios: Нетаньяху просил Трампа поддержать его перед выборами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060351",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721246"
-    },
-    {
-      "id": "12d7bcedf8e2",
-      "title": "МИД России: Запад услышал сигнал Москвы об ответе на задержание судов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060361",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721228"
-    },
-    {
-      "id": "be7a5e8ba2ae",
-      "title": "Пожар после схода вагонов в Свердловской области локализован на 1,5 тыс. кв. м",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060357",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721209"
-    },
-    {
-      "id": "140e6265d52a",
-      "title": "Три человека пострадали при атаке БПЛА в Мелитополе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060365",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721189"
-    },
-    {
-      "id": "5d8710c6fc62",
-      "title": "Наценка без взаимности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060165",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:57.721159"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 08:39",
-      "parsed_at": "2026-10-26T08:39:54.176356"
-    },
-    {
-      "id": "6f055b33897b",
-      "title": "Девелоперы осваивают Поволжье",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059168",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565893"
-    },
-    {
-      "id": "b9de1fc328eb",
-      "title": "От кредиторов к бюджету и штрафам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060171",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565876"
-    },
-    {
-      "id": "ebc3d353f60b",
-      "title": "Рост предложения валюты поддерживает рубль",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060172",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565863"
-    },
-    {
-      "id": "6e6c0e96bf96",
-      "title": "Инвестиции не лечатся",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060229",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565848"
-    },
-    {
-      "id": "40b8637387f5",
-      "title": "Reuters: победа демократов на выборах в США позволит утвердить помощь Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060296",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565836"
     }
   ]
 }
