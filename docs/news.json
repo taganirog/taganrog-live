@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-28T04:56:42.143949",
+  "last_updated": "2026-10-28T10:52:24.609649",
   "stats": {
     "zhkh": 4,
-    "mchs": 3,
-    "works": 3,
+    "mchs": 2,
+    "works": 4,
     "events": 0,
     "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "2dabfac7a893",
+      "title": "Акции «Займера» выросли более чем на 4,5% после рекомендации по дивидендам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062492",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.226068"
+    },
+    {
+      "id": "2ed138cdd78d",
+      "title": "В Курске после атаки БПЛА загорелось здание с серверами здравоохранения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062489",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.226050"
+    },
+    {
+      "id": "5dc28144235f",
+      "title": "В Белграде застрелили напавшего на охрану посольства Израиля подростка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062508",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.226032"
+    },
+    {
+      "id": "13ccf232e6a1",
+      "title": "Т-Банк: мошенники пугают россиян «прослушкой» телефона для кражи денег",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062469",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.226015"
+    },
+    {
+      "id": "2102bcebd609",
+      "title": "В МВД назвали отсутствие военного билета основанием для отказа в загранпаспорте",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062520",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.225997"
+    },
+    {
+      "id": "01691e876409",
+      "title": "В Праге загорелся дом владельца компании STV, поставляющей оружие Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062510",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.225978"
+    },
+    {
+      "id": "706338101332",
+      "title": "Европа вышла на связь",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062516",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.225960"
+    },
+    {
+      "id": "52baf37caf7b",
+      "title": "Рябков рассказал о продолжающейся подготовке к переговорам по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.225938"
+    },
+    {
+      "id": "d74c7f5aec6e",
+      "title": "Инновациям обозначили дорогу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9061835",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:23.225907"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "28.10 10:52",
+      "parsed_at": "2026-10-28T10:52:20.856867"
+    },
     {
       "id": "a9f5f8c0e88e",
       "title": "Музыку подключили к экранам",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "26.10 01:42",
       "parsed_at": "2026-10-26T01:42:31.915078"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:27.188615"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:27.188470"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:27.188458"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:27.188444"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:27.188426"
-    },
-    {
-      "id": "60d846713451",
-      "title": "Умер поэт Евгений Чигрин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060259",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551745"
-    },
-    {
-      "id": "2c47c35d72d4",
-      "title": "Лидер венесуэльской оппозиции Мачадо вернулась в страну",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060226",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551731"
-    },
-    {
-      "id": "0b56b3a82fb2",
-      "title": "В Москве эвакуировали «Театр на Юго-Западе» из-за пожара",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060260",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551712"
-    },
-    {
-      "id": "6a1b991d6a88",
-      "title": "При ракетном ударе ВСУ по промзоне Ельца погиб один человек и шестеро пострадали",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060262",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551697"
-    },
-    {
-      "id": "5bc98efedd4f",
-      "title": "Россия завоевала четыре медали на чемпионате мира по спортивной гимнастике",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060243",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "25.10 23:13",
-      "parsed_at": "2026-10-25T23:13:08.551681"
     }
   ]
 }
