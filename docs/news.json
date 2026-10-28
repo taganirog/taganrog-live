@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-28T10:52:24.609649",
+  "last_updated": "2026-10-28T17:44:37.599577",
   "stats": {
-    "zhkh": 4,
+    "zhkh": 5,
     "mchs": 2,
-    "works": 4,
+    "works": 3,
     "events": 0,
     "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "e53665c9d50c",
+      "title": "Скелет динозавра ушел с аукциона Sotheby’s за $47,3 млн",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9062788",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526672"
+    },
+    {
+      "id": "8732d093b2fb",
+      "title": "Ушаков предложил ЕС «купить билет» за стол переговоров по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063013",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526649"
+    },
+    {
+      "id": "d0cf13b16399",
+      "title": "Всемирный банк предупредил о росте цен в Европе из-за отказа от российского газа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062963",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526632"
+    },
+    {
+      "id": "b53a4a077b3b",
+      "title": "Даниил Медведев с победы стартовал на турнире ATP 500 в Вене",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063029",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526616"
+    },
+    {
+      "id": "2d601720d1a1",
+      "title": "Верховный суд защитил покупателя квартиры со скрытым обременением",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062998",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526598"
+    },
+    {
+      "id": "227970748099",
+      "title": "Одна голова хорошо, а три плохо",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062906",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526579"
+    },
+    {
+      "id": "cc39f72b75de",
+      "title": "«Элемент формирования новой архитектуры миропорядка»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062954",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526554"
+    },
+    {
+      "id": "de2ec329e286",
+      "title": "Российские креативные проекты представят зарубежным экспертам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063006",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526535"
+    },
+    {
+      "id": "abfdf29b01bf",
+      "title": "В «Пятерочках» начали устанавливать стойки с аптечными товарами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9062543",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526513"
+    },
+    {
+      "id": "a23a75f8758c",
+      "title": "CBS News: из опубликованных файлов Эпштейна изъяли часть засекреченных страниц",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063014",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.10 17:44",
+      "parsed_at": "2026-10-28T17:44:33.526465"
+    },
     {
       "id": "2dabfac7a893",
       "title": "Акции «Займера» выросли более чем на 4,5% после рекомендации по дивидендам",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "26.10 03:54",
       "parsed_at": "2026-10-26T03:54:38.565836"
-    },
-    {
-      "id": "119117eb2e24",
-      "title": "Лула да Силва победил на выборах президента Бразилии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060298",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565819"
-    },
-    {
-      "id": "4077f6f8d7ba",
-      "title": "WSJ: США предложили кандидатуру Орбана на пост генерального секретаря ООН",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060297",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 03:54",
-      "parsed_at": "2026-10-26T03:54:38.565797"
-    },
-    {
-      "id": "28099e8d4632",
-      "title": "Голосование на выборах президента Бразилии продлили на два часа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060272",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915157"
-    },
-    {
-      "id": "e9430a47e025",
-      "title": "Три аэропорта Москвы приостанавливали работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060271",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915148"
-    },
-    {
-      "id": "7d0716583986",
-      "title": "Вучич заявил о поражении своей коалиции на выборах в парламент Сербии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060273",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915139"
-    },
-    {
-      "id": "170c5c4945db",
-      "title": "Дороги «Автодора» переходят на зимний скоростной режим",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060140",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915129"
-    },
-    {
-      "id": "74ef3c2a0591",
-      "title": "Вучич: победивший на выборах в Сербии «Студенческий список» введет санкции против РФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060274",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915119"
-    },
-    {
-      "id": "519298e61604",
-      "title": "Fox News: Пентагон готовит военные базы к 90 дням полной изоляции на случай войны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060276",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915109"
-    },
-    {
-      "id": "b0a8fb75b6a3",
-      "title": "Трамп ожидает прогресса в вопросе урегулирования конфликта на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060291",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915097"
-    },
-    {
-      "id": "c1884ca6f672",
-      "title": "Глава МИД Словакии прибыл в Москву для участия в заседании межправкомиссии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060290",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 01:42",
-      "parsed_at": "2026-10-26T01:42:31.915078"
     }
   ]
 }
