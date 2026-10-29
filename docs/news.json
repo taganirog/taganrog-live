@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T02:57:19.762559",
+  "last_updated": "2026-10-29T07:24:18.976112",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "0fe340589051",
+      "title": "Проектное финансирование выходит из строя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063155",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847107"
+    },
+    {
+      "id": "155ffa0a88f6",
+      "title": "Трамп отказался вмешиваться в ситуацию с экс-кандидатом в президенты Болсонару",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063261",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847091"
+    },
+    {
+      "id": "4d935bfe7aca",
+      "title": "Ушаков: Стубб и Стёре не рассматриваются как переговорщики от Европы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063259",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847071"
+    },
+    {
+      "id": "3359d7772052",
+      "title": "Министр обороны Австралии призвал союзников сплотиться для сдерживания Китая",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063274",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847052"
+    },
+    {
+      "id": "bae38f2acfcf",
+      "title": "Главные новости к утру 29 октября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063283",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847031"
+    },
+    {
+      "id": "e558c316e550",
+      "title": "Число сбитых вблизи Москвы БПЛА достигло 231",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063287",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.847013"
+    },
+    {
+      "id": "dfcbe9c56f1b",
+      "title": "Число самоубийств в Германии достигло максимума за 25 лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063278",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.846994"
+    },
+    {
+      "id": "7125a04f0572",
+      "title": "Болсонару больше не называет себя законным президентом Бразилии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063291",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:16.846964"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 07:24",
+      "parsed_at": "2026-10-29T07:24:13.345197"
+    },
     {
       "id": "a69e54749e41",
       "title": "Число сбитых вблизи Москвы БПЛА увеличилось до 57",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "26.10 21:31",
       "parsed_at": "2026-10-26T21:31:57.394081"
-    },
-    {
-      "id": "16dd93545306",
-      "title": "Надзор спросил с надзора",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061056",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394061"
-    },
-    {
-      "id": "74d7f24ef041",
-      "title": "Минобрнауки распределит платные места вузам по новым правилам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061127",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394045"
-    },
-    {
-      "id": "29e6722542c4",
-      "title": "Умер сыгравший Павла Чехова в оригинальном «Стартреке» Уолтер Кениг",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061167",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394027"
-    },
-    {
-      "id": "59c09bbf30d0",
-      "title": "Минцифры предупредило о возможных ограничениях мобильного интернета в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061171",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394007"
-    },
-    {
-      "id": "0f238c700e7a",
-      "title": "И Африка щедро приехала к нам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060922",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.393978"
-    },
-    {
-      "id": "356c575fe67e",
-      "title": "«Экология может быть выгодной»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060655",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747287"
-    },
-    {
-      "id": "3f47b01b4268",
-      "title": "Эксперты проверили динамику кроссовера Volga K40",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9060831",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747269"
-    },
-    {
-      "id": "0cb19467eb51",
-      "title": "Парки Six Flags вводят на аттракционах ремни безопасности после гибели посетителя",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060826",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747249"
-    },
-    {
-      "id": "f29c447b9415",
-      "title": "Рособрнадзор вынес предостережение Томскому госуниверситету",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060837",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 14:59",
-      "parsed_at": "2026-10-26T14:59:56.747231"
     }
   ]
 }
