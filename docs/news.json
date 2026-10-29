@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-29T20:21:06.155956",
+  "last_updated": "2026-10-30T00:54:58.273294",
   "stats": {
-    "zhkh": 4,
+    "zhkh": 3,
     "mchs": 2,
-    "works": 3,
+    "works": 4,
     "events": 1,
     "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "e6f22a39cf2a",
+      "title": "Сделки M&A, значимые для российского рынка в 2026 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063896",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176810"
+    },
+    {
+      "id": "9fafd406c454",
+      "title": "Инструмент для UHNW-клиентов оказался нужен наемному менеджменту",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063899",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176798"
+    },
+    {
+      "id": "bed82534d04f",
+      "title": "Как покупают бизнес в условиях «дорогих» денег",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063900",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176785"
+    },
+    {
+      "id": "668817d7d8b4",
+      "title": "Почему права на код определяют цену технологической компании сильнее, чем ее выручка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063901",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176759"
+    },
+    {
+      "id": "f0956ea91ad2",
+      "title": "Как в технологическом M&A покупают завтрашний бизнес",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063902",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176746"
+    },
+    {
+      "id": "f409ac41261c",
+      "title": "Как прекратить опцион иностранного акционера на обратный выкуп",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063903",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176734"
+    },
+    {
+      "id": "d1e3c7bfda6e",
+      "title": "Особенности M&A технологических компаний",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063904",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176722"
+    },
+    {
+      "id": "ba5fad25935e",
+      "title": "Как изменилась логика корпоративных сделок",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063905",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176709"
+    },
+    {
+      "id": "108431996ed5",
+      "title": "«Студенческий список» потребовал отставки руководства спецслужб и полиции Сербии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064221",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176695"
+    },
+    {
+      "id": "4ae5b8b7376a",
+      "title": "Основатель криптобиржи Binance заявил о хакерском взломе платформы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064257",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 00:54",
+      "parsed_at": "2026-10-30T00:54:56.176673"
+    },
     {
       "id": "658fbaa2b85e",
       "title": "На процессе по делу бывшего зампреда ВЭБа вспомнили про срок давности",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "27.10 10:08",
       "parsed_at": "2026-10-27T10:08:47.939500"
-    },
-    {
-      "id": "a7903cb5adc6",
-      "title": "В МВД предупредили о мошенничестве с помощью ИИ-роликов со знаменитостями",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061376",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939481"
-    },
-    {
-      "id": "71142fcf943d",
-      "title": "Археолог вычислил старейший паб Англии по деревянным балкам",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9060917",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939460"
-    },
-    {
-      "id": "b08aefb0cc32",
-      "title": "Квартирам надбавили за габариты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061183",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939436"
-    },
-    {
-      "id": "13d37fd79aa9",
-      "title": "«Русская рулетка» для сербов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061364",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939418"
-    },
-    {
-      "id": "1761a322b8a8",
-      "title": "Прокуратура Забайкалья проверит данные о вспышке кишечного заболевания на горном комбинате",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061385",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939397"
-    },
-    {
-      "id": "6359ec4970c3",
-      "title": "В Конгрессе США пригрозили тюремным сроком за покупку российского дизеля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061372",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939366"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:46.825787"
-    },
-    {
-      "id": "fa2cd4716bb7",
-      "title": "Учащиеся во Франции призвали к новым акциям протеста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061226",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.817005"
-    },
-    {
-      "id": "5f5a95798afb",
-      "title": "Коммуналке повышают привлекательность",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061106",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816989"
-    },
-    {
-      "id": "29e79bdcdeae",
-      "title": "В финансировании науки — без перемен",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061152",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816977"
     }
   ]
 }
