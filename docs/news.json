@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T13:59:51.084076",
+  "last_updated": "2026-10-29T20:21:06.155956",
   "stats": {
     "zhkh": 4,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "658fbaa2b85e",
+      "title": "На процессе по делу бывшего зампреда ВЭБа вспомнили про срок давности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064039",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105256"
+    },
+    {
+      "id": "86917c27e620",
+      "title": "Как застройщики жилья оказались в эпицентре финансовых проблем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063909",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105239"
+    },
+    {
+      "id": "d4b58b644bdd",
+      "title": "Каждый десятый российский застройщик столкнулся с финансовыми трудностями",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064017",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105223"
+    },
+    {
+      "id": "0591f481f444",
+      "title": "Лагард объяснила решение уйти из ЕЦБ жесткими правилами нейтралитета",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064087",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105207"
+    },
+    {
+      "id": "8def0ddac24c",
+      "title": "Лантратова сообщила о соблюдении режима тишины в Алешках",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064103",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105190"
+    },
+    {
+      "id": "fc57043dd3c1",
+      "title": "Минюст хочет изменить порядок регистрации детей при домашних родах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063930",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105173"
+    },
+    {
+      "id": "e8016aceec80",
+      "title": "В Минфине РФ сочли нецелесообразными менять налогообложение в нефтяной отрасли",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064127",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105153"
+    },
+    {
+      "id": "36845d896488",
+      "title": "Компания пересматривает процессы поддержки и работы с данными",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064060",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105129"
+    },
+    {
+      "id": "40b198cd87d8",
+      "title": "Путин объявил о завершении саммита Россия — Африка в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064135",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105109"
+    },
+    {
+      "id": "aa9fd9163593",
+      "title": "Созданное в 1887 году новостное агентство Финляндии STT прекратит работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064117",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 20:21",
+      "parsed_at": "2026-10-29T20:21:04.105082"
+    },
     {
       "id": "952671fd0d01",
       "title": "Владимир Осипов — о том, как Джон Макинрой превратил истерики в имидж",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "27.10 04:49",
       "parsed_at": "2026-10-27T04:49:50.816977"
-    },
-    {
-      "id": "2366d341460a",
-      "title": "Директорам добавили покрытия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061157",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816962"
-    },
-    {
-      "id": "25fd7a9d9590",
-      "title": "Путин поручил обеспечить доступ граждан к электронным семейным архивам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061227",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816947"
-    },
-    {
-      "id": "b515eb2f94ae",
-      "title": "Трамп усомнился в легитимности победы Лулы да Силвы на выборах в Бразилии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061230",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816931"
-    },
-    {
-      "id": "a772a0ca116b",
-      "title": "Сирия закрыла единственный КПП на границе с Иорданией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061231",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816911"
-    },
-    {
-      "id": "fb1264b5ed66",
-      "title": "Whoosh переведет сотрудников на четырехдневку и сократит зарплаты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061233",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816894"
-    },
-    {
-      "id": "e8a5882b86f2",
-      "title": "В районе Алешек начал действовать «режим тишины»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061235",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 04:49",
-      "parsed_at": "2026-10-27T04:49:50.816867"
-    },
-    {
-      "id": "a1b9a00a64f6",
-      "title": "Луис де ла Фуэнте стал лучшим тренером года по версии France Football",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061219",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999722"
-    },
-    {
-      "id": "6d31d16de6dd",
-      "title": "Apple представила новый iPad mini",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061201",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999703"
-    },
-    {
-      "id": "2e423fb149c6",
-      "title": "Унаи Симон опередил Матвея Сафонова и взял приз лучшему футбольному вратарю года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061221",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999686"
-    },
-    {
-      "id": "d99c4583d556",
-      "title": "Грызлов: западные границы Союзного государства находятся под растущей угрозой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061218",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999667"
     }
   ]
 }
