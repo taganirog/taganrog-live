@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-29T07:24:18.976112",
+  "last_updated": "2026-10-29T13:59:51.084076",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 2,
     "works": 3,
-    "events": 0,
-    "news": 112,
+    "events": 1,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "952671fd0d01",
+      "title": "Владимир Осипов — о том, как Джон Макинрой превратил истерики в имидж",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063525",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968407"
+    },
+    {
+      "id": "e4f738aaa07b",
+      "title": "«Газпром-медиа» рассчитывает увеличить рекламную выручку Rutube в 3,5 раза в 2026 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063641",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968390"
+    },
+    {
+      "id": "1f0501b8d750",
+      "title": "Катастрофа в Испании омрачает шансы Педро Санчеса на переизбрание",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063621",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968375"
+    },
+    {
+      "id": "3ca7c5067d18",
+      "title": "Елена Рыбакина завершит сезон в качестве первой ракетки мира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063645",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968357"
+    },
+    {
+      "id": "47e938f35b27",
+      "title": "Чистая прибыль X5 по МСФО снизилась на 16,5% за девять месяцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063608",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968340"
+    },
+    {
+      "id": "4be90e472894",
+      "title": "СМИ подали в суд на Трампа из-за приказа не пускать их в самолет президента",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063603",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968322"
+    },
+    {
+      "id": "c826823772e5",
+      "title": "По делу банды спецназовцев поменяли присяжных, судью и усилили обвинение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063609",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968303"
+    },
+    {
+      "id": "2ea9bd8e8ea2",
+      "title": "В Сербии проведут повторное голосование на 53 избирательных участках",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063650",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968285"
+    },
+    {
+      "id": "d616d15cce31",
+      "title": "Дмитрий Буткевич — о театральной выставке в петербургском «Манеже»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063526",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968265"
+    },
+    {
+      "id": "3ecee713992c",
+      "title": "Секреты коньячного дела — от его мастера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063414",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "29.10 13:59",
+      "parsed_at": "2026-10-29T13:59:48.968236"
+    },
     {
       "id": "0fe340589051",
       "title": "Проектное финансирование выходит из строя",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "27.10 01:58",
       "parsed_at": "2026-10-27T01:58:07.999667"
-    },
-    {
-      "id": "1e0180195804",
-      "title": "Футболист Букайо Сака получил «Приз Сократеса» за гуманитарную деятельность",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061223",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999646"
-    },
-    {
-      "id": "2af2467c729d",
-      "title": "Толпа ворвалась в редакцию сербского телеканала Informer TV",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061222",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999626"
-    },
-    {
-      "id": "00ec8b1c3f5a",
-      "title": "ПСЖ признан лучшим футбольным клубом года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061224",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999605"
-    },
-    {
-      "id": "f20f9a5ae4ae",
-      "title": "Алексия Путельяс в третий раз выиграла «Золотой мяч»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061228",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999586"
-    },
-    {
-      "id": "1286c2df20f4",
-      "title": "Стубб: мы находимся в «эпохе тьмы» и переломном моменте для мира",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061217",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999566"
-    },
-    {
-      "id": "0f2f4d9af3eb",
-      "title": "Гарри Кейн выиграл «Золотой мяч»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061229",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 01:58",
-      "parsed_at": "2026-10-27T01:58:07.999534"
-    },
-    {
-      "id": "7160ca422fd1",
-      "title": "CNBC: Microsoft предложила 60 тыс. сотрудников программу добровольного увольнения с компенсацией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061136",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394134"
-    },
-    {
-      "id": "b4881e8044f4",
-      "title": "Минпромторг порекомендовал ввести «русский завтрак» по аналогии с «английским»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061137",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394116"
-    },
-    {
-      "id": "910d131f199d",
-      "title": "Кино аморального беспокойства",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9060940",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394098"
-    },
-    {
-      "id": "61d65bf3fdc7",
-      "title": "Мощности особого значения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061148",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "26.10 21:31",
-      "parsed_at": "2026-10-26T21:31:57.394081"
     }
   ]
 }
