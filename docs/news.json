@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-10-30T00:54:58.273294",
+  "last_updated": "2026-10-30T04:29:00.351566",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
-    "works": 4,
+    "works": 3,
     "events": 1,
-    "news": 110,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "81753c96d1a1",
+      "title": "Как помочь детям, перенесшим инсульт",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063170",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123841"
+    },
+    {
+      "id": "f99f846e5929",
+      "title": "Манго в рознице подорожало на 13% за год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063976",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123826"
+    },
+    {
+      "id": "064bd0aaa6a5",
+      "title": "В третьем квартале 2026 года страховые компании получили убыток",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063991",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123809"
+    },
+    {
+      "id": "5cbe887fdb79",
+      "title": "Конституционный суд снова вступился за добросовестных приобретателей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064070",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123792"
+    },
+    {
+      "id": "c2702fa66d24",
+      "title": "Коммунисты и эсеры воздержались при голосовании за бюджет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064084",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123772"
+    },
+    {
+      "id": "f6c747fa37fd",
+      "title": "Мониторинг рынка труда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064091",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123741"
+    },
+    {
+      "id": "9d2b0e5ae7d6",
+      "title": "Акционеры «Русала» начинают новое разбирательство в Высоком суде Лондона",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064115",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123725"
+    },
+    {
+      "id": "ff498aa5dca1",
+      "title": "В Ормузском проливе загорелось судно у берегов Омана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064278",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123706"
+    },
+    {
+      "id": "8516ef56393d",
+      "title": "Рядом с Москвой сбили 37 БПЛА за ночь",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064279",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123686"
+    },
+    {
+      "id": "945bdb5d3242",
+      "title": "Биржа Binance приостановила все транзакции после сообщения о взломе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064280",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:58.123656"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 04:28",
+      "parsed_at": "2026-10-30T04:28:57.097245"
+    },
     {
       "id": "e6f22a39cf2a",
       "title": "Сделки M&A, значимые для российского рынка в 2026 году",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "27.10 16:26",
       "parsed_at": "2026-10-27T16:26:22.531806"
-    },
-    {
-      "id": "4ef115d4cbaa",
-      "title": "ДоброFON передал книги библиотекам Брянской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061878",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531788"
-    },
-    {
-      "id": "e87dd8fd720e",
-      "title": "Роскомнадзор не предлагал запретить детям до 14 лет пользоваться интернетом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061906",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531771"
-    },
-    {
-      "id": "f405faae73e0",
-      "title": "Премьер Норвегии заявил о тщательной подготовке России к переговорам в Абу-Даби",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061914",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531753"
-    },
-    {
-      "id": "98fde8cbae17",
-      "title": "Reuters: китайский ИИ-пузырь начал лопаться",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061900",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531734"
-    },
-    {
-      "id": "224b615c12a4",
-      "title": "«Если Лувр не отремонтировать, его придется закрыть»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061905",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531714"
-    },
-    {
-      "id": "898bc91f2a6f",
-      "title": "Сергей Емелин завоевал бронзу на ЧМ по борьбе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061941",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531686"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:21.772299"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:21.772266"
-    },
-    {
-      "id": "87f664a4391d",
-      "title": "Саудовская Аравия сбила четыре БПЛА и три ракеты хуситов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061331",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939537"
-    },
-    {
-      "id": "1c3b828c9e9a",
-      "title": "Минобороны России сообщило об ударе по мосту «Южный» в Киеве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061346",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939519"
-    },
-    {
-      "id": "c6c7758715e2",
-      "title": "Сотрудника московского ресторана Claudia обвинили в терроризме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061355",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 10:08",
-      "parsed_at": "2026-10-27T10:08:47.939500"
     }
   ]
 }
