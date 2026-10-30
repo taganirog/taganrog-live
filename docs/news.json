@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-30T10:36:19.722733",
+  "last_updated": "2026-10-30T17:43:45.372418",
   "stats": {
-    "zhkh": 4,
+    "zhkh": 3,
     "mchs": 2,
     "works": 2,
-    "events": 1,
-    "news": 111,
+    "events": 3,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "b2ce82ff6a34",
+      "title": "Вышел новый альбом Queens Of The Stone Age",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077598",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166640"
+    },
+    {
+      "id": "3900cccfd398",
+      "title": "Мэр Новокубанска арестован на два месяца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077651",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166622"
+    },
+    {
+      "id": "90b1fc00fcf0",
+      "title": "В Музее русского импрессионизма показывают выставку о послевоенном директоре Петергофа",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9064035",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166605"
+    },
+    {
+      "id": "bb50ae7cab22",
+      "title": "Глава СПЧ пояснил, зачем нужно перенести Соловецкий камень с Лубянки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077671",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166585"
+    },
+    {
+      "id": "dc8867df9f01",
+      "title": "Euroclear в 2026 году получил доход €3,6 млрд от замороженных активов России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077682",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166563"
+    },
+    {
+      "id": "078755f50071",
+      "title": "В Музее архитектуры прошла выставка «АЗС. Архитектура заправочных станций»",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061790",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166544"
+    },
+    {
+      "id": "2b941c81b6f8",
+      "title": "Путеводитель от издания Weekend и проекта «Гении мест»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9063398",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166525"
+    },
+    {
+      "id": "9e8fdd556f6b",
+      "title": "Путин провел встречу с президентом переходного периода Мали",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077685",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166505"
+    },
+    {
+      "id": "b766a131f245",
+      "title": "Даниил Медведев квалифицировался на Итоговый турнир ATP",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077693",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 17:43",
+      "parsed_at": "2026-10-30T17:43:43.166477"
+    },
     {
       "id": "d418ecf02f2f",
       "title": "«Новая газета»* объявила о прекращении работы",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.10 04:56",
       "parsed_at": "2026-10-28T04:56:38.740703"
-    },
-    {
-      "id": "c60df399276f",
-      "title": "В МХТ имени Чехова сменился первый заместитель Хабенского",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062349",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740673"
-    },
-    {
-      "id": "4d9954b8e115",
-      "title": "Часы Geneva Watch Days",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059211",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084285"
-    },
-    {
-      "id": "4c9d72083a1f",
-      "title": "По счастливой случайности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059218",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084269"
-    },
-    {
-      "id": "47cfc62d59af",
-      "title": "Узлы нежной привязанности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9059221",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084256"
-    },
-    {
-      "id": "b51064bca854",
-      "title": "Во исполнение национальной трансмиссии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062108",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084238"
-    },
-    {
-      "id": "3e7fa3de1273",
-      "title": "Ozon предложил выплаты за товары после атаки БПЛА в Махачкале",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062322",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084225"
-    },
-    {
-      "id": "7610b2528af6",
-      "title": "Путин предупредил о последствиях исключения России с газового рынка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062328",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084209"
-    },
-    {
-      "id": "3afff46b1da8",
-      "title": "Apple представила обновленные iMac и MacBook Pro",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062329",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 01:47",
-      "parsed_at": "2026-10-28T01:47:13.084186"
-    },
-    {
-      "id": "83f91ec48671",
-      "title": "Меркачева: использование VPN чаще становится аргументом при ходатайстве об аресте",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062271",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382394"
     }
   ]
 }
