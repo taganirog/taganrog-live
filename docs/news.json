@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T17:43:45.372418",
+  "last_updated": "2026-10-30T22:47:47.633018",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "9153d4bd2272",
+      "title": "Минюст объявил нежелательной платформу для диалога с оппозицией РФ при ПАСЕ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077809",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448949"
+    },
+    {
+      "id": "3867fc4a37a9",
+      "title": "Лавров поговорил с министром иностранных дел Японии в Атланте",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077810",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448932"
+    },
+    {
+      "id": "ae538bd10306",
+      "title": "Пожар на объекте оборонного концерна Rheinmetall может быть диверсией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077796",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448913"
+    },
+    {
+      "id": "c71a72dce1f1",
+      "title": "За день над Россией сбили 113 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077811",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448897"
+    },
+    {
+      "id": "716aadf4ef82",
+      "title": "Перед Владимиром Путиным в Кремле за несколько дней прошло множество знакомых, незнакомых и всегда невероятных африканских лиц",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077793",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448879"
+    },
+    {
+      "id": "a3ea71d49117",
+      "title": "Эвакуированных из Алешек жителей привезли в Симферополь",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077812",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448851"
+    },
+    {
+      "id": "eda819ca1de9",
+      "title": "Путин обсудил с главой правительства Того развитие экономических связей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077816",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448834"
+    },
+    {
+      "id": "bfc4c61deb1e",
+      "title": "США призвали не занятых в ЧС госслужащих покинуть Саудовскую Аравию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077819",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448816"
+    },
+    {
+      "id": "39b6d52a613b",
+      "title": "Reuters: Пакистан смотрит с «оптимизмом» на урегулирование конфликта США и Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077813",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448795"
+    },
+    {
+      "id": "e3d841e9e001",
+      "title": "Госдепартамент США одобрил возможную продажу Украине 500 ракет для Patriot",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077822",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 22:47",
+      "parsed_at": "2026-10-30T22:47:46.448765"
+    },
     {
       "id": "b2ce82ff6a34",
       "title": "Вышел новый альбом Queens Of The Stone Age",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.10 10:52",
       "parsed_at": "2026-10-28T10:52:23.225907"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:20.856867"
-    },
-    {
-      "id": "a9f5f8c0e88e",
-      "title": "Музыку подключили к экранам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062115",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740839"
-    },
-    {
-      "id": "3a88c38bc145",
-      "title": "Частный спрос продолжает слабеть",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062124",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740823"
-    },
-    {
-      "id": "2fff1201cd8e",
-      "title": "Продвижение широкими шагами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062260",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740807"
-    },
-    {
-      "id": "0f48598aefff",
-      "title": "Инвесторы не отпускают металл",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062264",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740792"
-    },
-    {
-      "id": "ffad1b065ab8",
-      "title": "Дальнему Востоку напомнили о малом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062283",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740776"
-    },
-    {
-      "id": "458112c1dc60",
-      "title": "Forbes: Минцифры может ввести лимиты на зарубежный интернет-трафик в России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062344",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740759"
-    },
-    {
-      "id": "997ad08c7723",
-      "title": "Ла Лига извинилась за слова Мбаппе о меме с Мао Цзэдуном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062346",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740741"
-    },
-    {
-      "id": "2238fbe94b24",
-      "title": "CNN: Трамп одобрил въезд в США проигравшего выборы в Бразилии Болсонару",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062347",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740723"
-    },
-    {
-      "id": "4056b3394493",
-      "title": "Правительство уточнило, что подпадает под запрет на публикацию сведений о ТЭК",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062348",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 04:56",
-      "parsed_at": "2026-10-28T04:56:38.740703"
     }
   ]
 }
