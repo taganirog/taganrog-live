@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-10-30T22:47:47.633018",
+  "last_updated": "2026-10-31T02:24:18.526874",
   "stats": {
     "zhkh": 3,
-    "mchs": 2,
-    "works": 2,
+    "mchs": 3,
+    "works": 1,
     "events": 3,
     "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "ffd46e16a524",
+      "title": "Мнения и прогнозы аналитиков о том, как будет вести себя рубль",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077827",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858251"
+    },
+    {
+      "id": "577d4433d7aa",
+      "title": "МИД РФ: встреча Лаврова с Мотэги произошла по инициативе японской стороны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077826",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858233"
+    },
+    {
+      "id": "4e37886161d2",
+      "title": "Председатель трибунала Польши заявил о попытке госпереворота",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077829",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858216"
+    },
+    {
+      "id": "d3e9f820f46f",
+      "title": "Нина Берберова и Владислав Ходасевич: история одного бегства",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9063726",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858198"
+    },
+    {
+      "id": "b9fa090a7ef8",
+      "title": "Канада выделит на поддержку Украины €500 млн",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077831",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858180"
+    },
+    {
+      "id": "e2b597b639fe",
+      "title": "Лавров призвал Зеленского приехать в Москву на переговоры с Путиным",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078104",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858162"
+    },
+    {
+      "id": "17e6b1a3683b",
+      "title": "Посол Польши в Китае подал в отставку из-за судебного кризиса в Варшаве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078105",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858143"
+    },
+    {
+      "id": "746b91234558",
+      "title": "Трамп: глупые люди требуют санкции против России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078107",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:16.858113"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "31.10 02:24",
+      "parsed_at": "2026-10-31T02:24:13.757481"
+    },
     {
       "id": "9153d4bd2272",
       "title": "Минюст объявил нежелательной платформу для диалога с оппозицией РФ при ПАСЕ",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.10 17:44",
       "parsed_at": "2026-10-28T17:44:33.526465"
-    },
-    {
-      "id": "2dabfac7a893",
-      "title": "Акции «Займера» выросли более чем на 4,5% после рекомендации по дивидендам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062492",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.226068"
-    },
-    {
-      "id": "2ed138cdd78d",
-      "title": "В Курске после атаки БПЛА загорелось здание с серверами здравоохранения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062489",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.226050"
-    },
-    {
-      "id": "5dc28144235f",
-      "title": "В Белграде застрелили напавшего на охрану посольства Израиля подростка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062508",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.226032"
-    },
-    {
-      "id": "13ccf232e6a1",
-      "title": "Т-Банк: мошенники пугают россиян «прослушкой» телефона для кражи денег",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062469",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.226015"
-    },
-    {
-      "id": "2102bcebd609",
-      "title": "В МВД назвали отсутствие военного билета основанием для отказа в загранпаспорте",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062520",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.225997"
-    },
-    {
-      "id": "01691e876409",
-      "title": "В Праге загорелся дом владельца компании STV, поставляющей оружие Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062510",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.225978"
-    },
-    {
-      "id": "706338101332",
-      "title": "Европа вышла на связь",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062516",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.225960"
-    },
-    {
-      "id": "52baf37caf7b",
-      "title": "Рябков рассказал о продолжающейся подготовке к переговорам по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.225938"
-    },
-    {
-      "id": "d74c7f5aec6e",
-      "title": "Инновациям обозначили дорогу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061835",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "28.10 10:52",
-      "parsed_at": "2026-10-28T10:52:23.225907"
     }
   ]
 }
