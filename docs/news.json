@@ -1,14 +1,146 @@
 {
-  "last_updated": "2026-10-30T04:29:00.351566",
+  "last_updated": "2026-10-30T10:36:19.722733",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 2,
-    "works": 3,
+    "works": 2,
     "events": 1,
     "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "d418ecf02f2f",
+      "title": "«Новая газета»* объявила о прекращении работы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064374",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037385"
+    },
+    {
+      "id": "869476faed29",
+      "title": "NYT: администрация Трампа ожидает запроса на грин-карту от Болсонару",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064375",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037369"
+    },
+    {
+      "id": "7577b5b51648",
+      "title": "Долю креативных индустрий в ВВП России планируют увеличить до 7,7% к 2036 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063882",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037351"
+    },
+    {
+      "id": "ec339d57b732",
+      "title": "Поставки российской пшеницы за рубеж в июле—октябре сократились на 39,6%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064207",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037331"
+    },
+    {
+      "id": "0b3e879f9426",
+      "title": "Прибыль ВТБ с начала года превысила 400 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064148",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037303"
+    },
+    {
+      "id": "d2d6ad259620",
+      "title": "Исполнилось 90 лет одному из самых странных автомобилей",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9064363",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037259"
+    },
+    {
+      "id": "e7ef2a78328d",
+      "title": "За ночь над регионами России сбили более 1 тыс. беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064410",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037241"
+    },
+    {
+      "id": "46174e5d075d",
+      "title": "ВТБ не хочет получать акции «Самолета» после санации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064139",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037223"
+    },
+    {
+      "id": "c610fb917c63",
+      "title": "Какими будут последствия взлома криптобиржи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064403",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037205"
+    },
+    {
+      "id": "87ce0ec54e83",
+      "title": "ВТБ не закроет сделку с «Вайлдберриз» в октябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9064126",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:18.037178"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:17.520332"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "30.10 10:36",
+      "parsed_at": "2026-10-30T10:36:17.520298"
+    },
     {
       "id": "81753c96d1a1",
       "title": "Как помочь детям, перенесшим инсульт",
@@ -1196,138 +1328,6 @@
       "is_urgent": false,
       "published_at": "27.10 21:49",
       "parsed_at": "2026-10-27T21:49:15.382394"
-    },
-    {
-      "id": "3e8555e204ef",
-      "title": "Прекращение огня у Алешек продлится до конца недели",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062125",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382373"
-    },
-    {
-      "id": "28148e7194e1",
-      "title": "В 2026 году частные вузы получили менее 0,5% бюджетных мест",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062062",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382357"
-    },
-    {
-      "id": "fb51195574ff",
-      "title": "Путин встретился с эмиром Катара в Кремле",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062280",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382340"
-    },
-    {
-      "id": "cddcfdcf91f0",
-      "title": "Инвесторы подключились к переговорам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062063",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382323"
-    },
-    {
-      "id": "7efaa35be96e",
-      "title": "Двух мелитопольцев приговорили к 24 и 23 годам за взрывы на референдуме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062281",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382306"
-    },
-    {
-      "id": "a37cecb12b00",
-      "title": "Проигравший выборы Флавио Болсонару сбежал из Бразилии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062294",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382287"
-    },
-    {
-      "id": "9b63ef5fc046",
-      "title": "NYT: администрация Трампа рассматривает снятие санкций с РФПИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062300",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382267"
-    },
-    {
-      "id": "322e4e9057ab",
-      "title": "Путин провел переговоры с президентом Мозамбика",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062306",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 21:49",
-      "parsed_at": "2026-10-27T21:49:15.382241"
-    },
-    {
-      "id": "3c60f59eeef9",
-      "title": "Earn-out без конфликтов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061873",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531859"
-    },
-    {
-      "id": "43cd532f2e3f",
-      "title": "Украина оспорит решение о проведении ЧМ по тяжелой атлетике в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061904",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531843"
-    },
-    {
-      "id": "a50b8f4ee8a6",
-      "title": "«Без цифровых сервисов цивилизованная автомобильная жизнь просто невозможна»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9061861",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531825"
-    },
-    {
-      "id": "3d41f0377a5f",
-      "title": "Бренд Volga поделился подробностями своей программы «Помощь на дорогах»",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9061907",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "27.10 16:26",
-      "parsed_at": "2026-10-27T16:26:22.531806"
     }
   ]
 }
