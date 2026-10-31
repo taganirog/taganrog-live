@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-10-31T22:25:53.845360",
+  "last_updated": "2026-11-01T01:39:41.521104",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 2,
     "mchs": 3,
     "works": 2,
     "events": 2,
-    "news": 110,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "d8a223435a2e",
+      "title": "Глава Совбеза Ирана заявил об изменившемся «тоне» США в диалоге с республикой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078346",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643900"
+    },
+    {
+      "id": "e90bfa69d57f",
+      "title": "В Ленобласти загорелся торговый центр",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078349",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643889"
+    },
+    {
+      "id": "20ad9476a52b",
+      "title": "«Краснодар» уступил дебютанту премьер-лиги и продлил серию без побед до семи матчей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078347",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643874"
+    },
+    {
+      "id": "56050057aa4d",
+      "title": "Премьер Польши обратился к народу после событий в Конституционном трибунале",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078351",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643863"
+    },
+    {
+      "id": "fc2ba02474ad",
+      "title": "Туск заявил о поддержке польской оппозиции со стороны «армии российских ботов»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078353",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643849"
+    },
+    {
+      "id": "a8a05c526a90",
+      "title": "Нефтяной танкер подорвался на минах в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078354",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643838"
+    },
+    {
+      "id": "b819dddf58aa",
+      "title": "ФБР обвинило северокорейскую группировку в атаке на криптобиржу Binance",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078355",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643826"
+    },
+    {
+      "id": "ccf74a67fb19",
+      "title": "Работу аэропорта Домодедово ограничили",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078356",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 01:39",
+      "parsed_at": "2026-11-01T01:39:38.643803"
+    },
     {
       "id": "7ba9282e06ec",
       "title": "Volga K50 и нетривиальные достопримечательности русла Волги",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "29.10 20:21",
       "parsed_at": "2026-10-29T20:21:04.105109"
-    },
-    {
-      "id": "aa9fd9163593",
-      "title": "Созданное в 1887 году новостное агентство Финляндии STT прекратит работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064117",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105082"
-    },
-    {
-      "id": "952671fd0d01",
-      "title": "Владимир Осипов — о том, как Джон Макинрой превратил истерики в имидж",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063525",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968407"
-    },
-    {
-      "id": "e4f738aaa07b",
-      "title": "«Газпром-медиа» рассчитывает увеличить рекламную выручку Rutube в 3,5 раза в 2026 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063641",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968390"
-    },
-    {
-      "id": "1f0501b8d750",
-      "title": "Катастрофа в Испании омрачает шансы Педро Санчеса на переизбрание",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063621",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968375"
-    },
-    {
-      "id": "3ca7c5067d18",
-      "title": "Елена Рыбакина завершит сезон в качестве первой ракетки мира",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063645",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968357"
-    },
-    {
-      "id": "47e938f35b27",
-      "title": "Чистая прибыль X5 по МСФО снизилась на 16,5% за девять месяцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063608",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968340"
-    },
-    {
-      "id": "4be90e472894",
-      "title": "СМИ подали в суд на Трампа из-за приказа не пускать их в самолет президента",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063603",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968322"
-    },
-    {
-      "id": "c826823772e5",
-      "title": "По делу банды спецназовцев поменяли присяжных, судью и усилили обвинение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063609",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968303"
     }
   ]
 }
