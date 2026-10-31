@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-10-31T12:08:26.182512",
+  "last_updated": "2026-10-31T18:26:23.152990",
   "stats": {
     "zhkh": 3,
-    "mchs": 2,
-    "works": 1,
+    "mchs": 3,
+    "works": 2,
     "events": 3,
-    "news": 111,
+    "news": 109,
     "total": 120
   },
   "items": [
+    {
+      "id": "a64072a0c77f",
+      "title": "Смогут ли 90-минутные Features конкурировать с YouTube",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078295",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504990"
+    },
+    {
+      "id": "cf53fff56f06",
+      "title": "Россиянин Ибрагимов взял золото на чемпионате мира по борьбе в Астане",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078306",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504977"
+    },
+    {
+      "id": "02cc945f125c",
+      "title": "Минобороны России сообщило об ударе по сухогрузу в 40 км от Одессы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078310",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504964"
+    },
+    {
+      "id": "db2ebf1d15bd",
+      "title": "На подлете к Москве сбили еще четыре беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078311",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504950"
+    },
+    {
+      "id": "c3711d200e57",
+      "title": "В Польше созвали собрание судей после скандала вокруг Конституционного трибунала",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078308",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504937"
+    },
+    {
+      "id": "223e8a4dfb91",
+      "title": "Почему и как дважды хоронили Сталина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063656",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504924"
+    },
+    {
+      "id": "242f32f2955d",
+      "title": "Главком НАТО: войны с Россией можно избежать",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078318",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504912"
+    },
+    {
+      "id": "6dcbf78cca85",
+      "title": "ФСБ получила от США данные о подготовке теракта в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078320",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504900"
+    },
+    {
+      "id": "97b9de55581e",
+      "title": "По всей Германии начались молодежные протесты с требованием отставки Мерца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078315",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504886"
+    },
+    {
+      "id": "e21e6265b5ac",
+      "title": "Венгрия сократит почти на €90 млн расходы на строительство АЭС «Пакш-2»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078322",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:21.504862"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:17.312667"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:17.312480"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:17.312465"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:17.312446"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 18:26",
+      "parsed_at": "2026-10-31T18:26:17.312423"
+    },
     {
       "id": "5e4832452e28",
       "title": "В Японии поезд сошел с рельсов после столкновения с медведем",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "29.10 07:24",
       "parsed_at": "2026-10-29T07:24:16.846994"
-    },
-    {
-      "id": "7125a04f0572",
-      "title": "Болсонару больше не называет себя законным президентом Бразилии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063291",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.846964"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:13.345197"
-    },
-    {
-      "id": "a69e54749e41",
-      "title": "Число сбитых вблизи Москвы БПЛА увеличилось до 57",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063250",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034422"
-    },
-    {
-      "id": "9001678f24bd",
-      "title": "Суд в Москве заочно арестовал главу футбольного клуба «Химки» по делу о взятке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063249",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034405"
-    },
-    {
-      "id": "c57d5cf95a6c",
-      "title": "Ввод жилья в сентябре ушел в минус",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063140",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034381"
-    },
-    {
-      "id": "953eb1ef28fe",
-      "title": "Экономика сбавляет ход",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063191",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034357"
-    },
-    {
-      "id": "e44f754fa743",
-      "title": "Эфиопия хочет увеличить экспорт товаров в Россию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063251",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034336"
-    },
-    {
-      "id": "c0a2d4032d62",
-      "title": "Число сбитых вблизи Москвы БПЛА увеличилось до 111",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063254",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 02:57",
-      "parsed_at": "2026-10-29T02:57:18.034308"
-    },
-    {
-      "id": "9a7e2e1dbeed",
-      "title": "Средний размер пенсий в сентябре вырос на 8,3% за год",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063205",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990336"
-    },
-    {
-      "id": "bb05ca5b1038",
-      "title": "ФРС сохранила ставку на уровне 3,75-4% годовых",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063206",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990323"
-    },
-    {
-      "id": "3b92a7dd0232",
-      "title": "Минобороны РФ отчиталось об ударах по электростанциям в Луцке и Ковеле",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063198",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990311"
-    },
-    {
-      "id": "797d51da7dfb",
-      "title": "Умер поэт и сооснователь СМОГа Владимир Алейников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063218",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990296"
-    },
-    {
-      "id": "096c96540096",
-      "title": "Если в Африку сгрудились малые",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990283"
-    },
-    {
-      "id": "3fb6e44c105b",
-      "title": "В Кремле поддержали продолжение диалога с Финляндией и Норвегией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063222",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990271"
-    },
-    {
-      "id": "c3a00ee36647",
-      "title": "Путин дал торжественный прием для участников саммита Россия — Африка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063223",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990249"
     }
   ]
 }
