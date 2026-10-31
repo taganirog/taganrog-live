@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-31T05:36:27.735062",
+  "last_updated": "2026-10-31T12:08:26.182512",
   "stats": {
     "zhkh": 3,
-    "mchs": 3,
+    "mchs": 2,
     "works": 1,
     "events": 3,
-    "news": 110,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "5e4832452e28",
+      "title": "В Японии поезд сошел с рельсов после столкновения с медведем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078199",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992430"
+    },
+    {
+      "id": "84554eb06940",
+      "title": "«Аль-Араби»: делегация США присоединится к переговорам по Ирану в Дохе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078197",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992409"
+    },
+    {
+      "id": "787729743535",
+      "title": "Россия и Мозамбик обсуждают запуск прямых рейсов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078203",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992393"
+    },
+    {
+      "id": "c20f125b5300",
+      "title": "Хватит ли России топливных мощностей для поставок по сделке с США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078200",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992378"
+    },
+    {
+      "id": "8ed1ad078059",
+      "title": "В РАПУ допустили рост выпуска калийных удобрений на 1 млн тонн в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078207",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992361"
+    },
+    {
+      "id": "6060ddf6ac73",
+      "title": "Минобороны России сообщило об ударе по транспортной инфраструктуре на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992345"
+    },
+    {
+      "id": "1aa69da3282b",
+      "title": "Что пишут о Volga зарубежные СМИ?",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9078209",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992328"
+    },
+    {
+      "id": "15c56e3f3c0b",
+      "title": "По игре PUBG снимут сериал с Дональдом Гловером в главной роли",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9077389",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992312"
+    },
+    {
+      "id": "005b8e3be12d",
+      "title": "На подлете к Москве сбили шесть беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992293"
+    },
+    {
+      "id": "b3a7a4da8fc4",
+      "title": "В Калининградской области восстановили электроснабжение после аварии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078211",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "31.10 12:08",
+      "parsed_at": "2026-10-31T12:08:23.992263"
+    },
     {
       "id": "7fd732ef7276",
       "title": "Евросоюз и Канада объявили о создании альянса",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.10 23:00",
       "parsed_at": "2026-10-28T23:00:13.990249"
-    },
-    {
-      "id": "160cb137d8b8",
-      "title": "Минфин США добавил 10 физлиц и одну организацию в санкционные списки по КНДР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063226",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990233"
-    },
-    {
-      "id": "9353375be124",
-      "title": "На подлете к Москве сбили 20 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063227",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:13.990201"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:09.952168"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:09.951982"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:09.951968"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:09.951950"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 23:00",
-      "parsed_at": "2026-10-28T23:00:09.951927"
-    },
-    {
-      "id": "e53665c9d50c",
-      "title": "Скелет динозавра ушел с аукциона Sotheby’s за $47,3 млн",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9062788",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526672"
-    },
-    {
-      "id": "8732d093b2fb",
-      "title": "Ушаков предложил ЕС «купить билет» за стол переговоров по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063013",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526649"
-    },
-    {
-      "id": "d0cf13b16399",
-      "title": "Всемирный банк предупредил о росте цен в Европе из-за отказа от российского газа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062963",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526632"
     }
   ]
 }
