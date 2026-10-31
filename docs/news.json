@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-10-31T18:26:23.152990",
+  "last_updated": "2026-10-31T22:25:53.845360",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
     "works": 2,
-    "events": 3,
-    "news": 109,
+    "events": 2,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "7ba9282e06ec",
+      "title": "Volga K50 и нетривиальные достопримечательности русла Волги",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9078328",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690961"
+    },
+    {
+      "id": "0a90c176a59d",
+      "title": "Рубио сообщил о предложении Турции по судоходству в Черном море",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078333",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690948"
+    },
+    {
+      "id": "d7be08b311f3",
+      "title": "Рубио и Лавров обсудили возможную встречу Путина и Трампа на саммите АТЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078334",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690938"
+    },
+    {
+      "id": "5ce48cdad43c",
+      "title": "Россия на СМИДе G20 назвала санкции и аресты активов подрывом мировой торговли",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078336",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690928"
+    },
+    {
+      "id": "5bba82b687f6",
+      "title": "В лесу Брянской области мужчина подорвался на взрывном устройстве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078338",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690917"
+    },
+    {
+      "id": "e33cf6977f8c",
+      "title": "Протесты «поколения Z» в городах Германии переросли в беспорядки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690906"
+    },
+    {
+      "id": "f17dbe2346d7",
+      "title": "«Яндекс» заявил о планах обновить прогнозы показателей в феврале 2027 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078339",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690894"
+    },
+    {
+      "id": "2a24ca913b2e",
+      "title": "Рубио: Трамп не принимал решения о возобновлении боевых действий против Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078343",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690882"
+    },
+    {
+      "id": "edf698f5130d",
+      "title": "Преступления, которых могло бы не быть, если бы не книги",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077719",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690871"
+    },
+    {
+      "id": "03f684ae5a52",
+      "title": "Орбан и Вучич встретились в Белграде и пообещали вернуться в политику",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078344",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 22:25",
+      "parsed_at": "2026-10-31T22:25:51.690853"
+    },
     {
       "id": "a64072a0c77f",
       "title": "Смогут ли 90-минутные Features конкурировать с YouTube",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "29.10 13:59",
       "parsed_at": "2026-10-29T13:59:48.968303"
-    },
-    {
-      "id": "2ea9bd8e8ea2",
-      "title": "В Сербии проведут повторное голосование на 53 избирательных участках",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063650",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968285"
-    },
-    {
-      "id": "d616d15cce31",
-      "title": "Дмитрий Буткевич — о театральной выставке в петербургском «Манеже»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063526",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968265"
-    },
-    {
-      "id": "3ecee713992c",
-      "title": "Секреты коньячного дела — от его мастера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063414",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 13:59",
-      "parsed_at": "2026-10-29T13:59:48.968236"
-    },
-    {
-      "id": "0fe340589051",
-      "title": "Проектное финансирование выходит из строя",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063155",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847107"
-    },
-    {
-      "id": "155ffa0a88f6",
-      "title": "Трамп отказался вмешиваться в ситуацию с экс-кандидатом в президенты Болсонару",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063261",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847091"
-    },
-    {
-      "id": "4d935bfe7aca",
-      "title": "Ушаков: Стубб и Стёре не рассматриваются как переговорщики от Европы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063259",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847071"
-    },
-    {
-      "id": "3359d7772052",
-      "title": "Министр обороны Австралии призвал союзников сплотиться для сдерживания Китая",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063274",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847052"
-    },
-    {
-      "id": "bae38f2acfcf",
-      "title": "Главные новости к утру 29 октября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063283",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847031"
-    },
-    {
-      "id": "e558c316e550",
-      "title": "Число сбитых вблизи Москвы БПЛА достигло 231",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063287",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.847013"
-    },
-    {
-      "id": "dfcbe9c56f1b",
-      "title": "Число самоубийств в Германии достигло максимума за 25 лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063278",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 07:24",
-      "parsed_at": "2026-10-29T07:24:16.846994"
     }
   ]
 }
