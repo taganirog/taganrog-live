@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T02:24:18.526874",
+  "last_updated": "2026-10-31T05:36:27.735062",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
@@ -9,6 +9,83 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "7fd732ef7276",
+      "title": "Евросоюз и Канада объявили о создании альянса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078108",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.181040"
+    },
+    {
+      "id": "ce038aed94dc",
+      "title": "Госдеп одобрил продажу Украине ракет для систем Patriot",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078109",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.181023"
+    },
+    {
+      "id": "c739c84a4bae",
+      "title": "Судебный кризис и попытка госпереворота: что происходит в Польше. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078106",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.181004"
+    },
+    {
+      "id": "c97c03009fff",
+      "title": "Навроцкий срочно вернулся в Польшу из-за скандала вокруг Конституционного суда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078110",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.180981"
+    },
+    {
+      "id": "494476ae0a46",
+      "title": "В Калининграде произошел блэкаут из-за аварии на ТЭЦ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078111",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.180961"
+    },
+    {
+      "id": "2b2609b087d0",
+      "title": "На встрече глав МИД G20 отменили общее фото из-за Лаврова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078112",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.180941"
+    },
+    {
+      "id": "17c39725d4d5",
+      "title": "Binance планирует возобновить транзакции после рекордной хакерской атаки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078113",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "31.10 05:36",
+      "parsed_at": "2026-10-31T05:36:23.180909"
+    },
     {
       "id": "ffd46e16a524",
       "title": "Мнения и прогнозы аналитиков о том, как будет вести себя рубль",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "28.10 17:44",
       "parsed_at": "2026-10-28T17:44:33.526632"
-    },
-    {
-      "id": "b53a4a077b3b",
-      "title": "Даниил Медведев с победы стартовал на турнире ATP 500 в Вене",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063029",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526616"
-    },
-    {
-      "id": "2d601720d1a1",
-      "title": "Верховный суд защитил покупателя квартиры со скрытым обременением",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062998",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526598"
-    },
-    {
-      "id": "227970748099",
-      "title": "Одна голова хорошо, а три плохо",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062906",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526579"
-    },
-    {
-      "id": "cc39f72b75de",
-      "title": "«Элемент формирования новой архитектуры миропорядка»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062954",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526554"
-    },
-    {
-      "id": "de2ec329e286",
-      "title": "Российские креативные проекты представят зарубежным экспертам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063006",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526535"
-    },
-    {
-      "id": "abfdf29b01bf",
-      "title": "В «Пятерочках» начали устанавливать стойки с аптечными товарами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9062543",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526513"
-    },
-    {
-      "id": "a23a75f8758c",
-      "title": "CBS News: из опубликованных файлов Эпштейна изъяли часть засекреченных страниц",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063014",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "28.10 17:44",
-      "parsed_at": "2026-10-28T17:44:33.526465"
     }
   ]
 }
