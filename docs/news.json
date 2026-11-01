@@ -1,14 +1,146 @@
 {
-  "last_updated": "2026-11-01T22:50:30.183855",
+  "last_updated": "2026-11-02T02:15:51.371957",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 1,
     "mchs": 3,
     "works": 1,
-    "events": 3,
-    "news": 111,
+    "events": 2,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "e25e933acf72",
+      "title": "Крупный IT-бизнес выступил против ограничения простых электронных подписей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078427",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388242"
+    },
+    {
+      "id": "282a131b5268",
+      "title": "Доля сделок built-to-suit со складами в регионах выросла с 57% до 76%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078520",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388224"
+    },
+    {
+      "id": "5fdd8e7d2f05",
+      "title": "«Авито» запустило собственную рекламную сеть",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078535",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388207"
+    },
+    {
+      "id": "a069b2a56035",
+      "title": "En+ откажется от модернизации Иркутской ТЭЦ-10",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078550",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388191"
+    },
+    {
+      "id": "25d4dad0d1a4",
+      "title": "Освобождение импорта из Белоруссии от авансового платежа продлено до середины 2027 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078552",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388174"
+    },
+    {
+      "id": "73e02fd8e0e2",
+      "title": "Продажи высокопротеиновой продукции выросли в несколько раз",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078585",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388155"
+    },
+    {
+      "id": "5817e749851c",
+      "title": "Как депутаты Госдумы отметят 4 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078608",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388131"
+    },
+    {
+      "id": "b8e6c0b1bc6c",
+      "title": "Наказание за вывод на рынок дженериков в нарушение патента предложено ужесточить",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078609",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388114"
+    },
+    {
+      "id": "ccda2a6d7598",
+      "title": "Бизнес-джет упал на жилой квартал во Флориде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078663",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388092"
+    },
+    {
+      "id": "b8b414a6b806",
+      "title": "Антонелли стал самым молодым чемпионом в истории «Формулы-1»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078664",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:49.388065"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:48.675921"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 02:15",
+      "parsed_at": "2026-11-02T02:15:48.675888"
+    },
     {
       "id": "2b3676241a81",
       "title": "На чемпионате мира по спортивной борьбе сборная России завоевала 14 медалей",
@@ -1196,138 +1328,6 @@
       "is_urgent": false,
       "published_at": "30.10 17:43",
       "parsed_at": "2026-10-30T17:43:43.166605"
-    },
-    {
-      "id": "bb50ae7cab22",
-      "title": "Глава СПЧ пояснил, зачем нужно перенести Соловецкий камень с Лубянки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077671",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166585"
-    },
-    {
-      "id": "dc8867df9f01",
-      "title": "Euroclear в 2026 году получил доход €3,6 млрд от замороженных активов России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077682",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166563"
-    },
-    {
-      "id": "078755f50071",
-      "title": "В Музее архитектуры прошла выставка «АЗС. Архитектура заправочных станций»",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9061790",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166544"
-    },
-    {
-      "id": "2b941c81b6f8",
-      "title": "Путеводитель от издания Weekend и проекта «Гении мест»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9063398",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166525"
-    },
-    {
-      "id": "9e8fdd556f6b",
-      "title": "Путин провел встречу с президентом переходного периода Мали",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077685",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166505"
-    },
-    {
-      "id": "b766a131f245",
-      "title": "Даниил Медведев квалифицировался на Итоговый турнир ATP",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077693",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166477"
-    },
-    {
-      "id": "d418ecf02f2f",
-      "title": "«Новая газета»* объявила о прекращении работы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064374",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037385"
-    },
-    {
-      "id": "869476faed29",
-      "title": "NYT: администрация Трампа ожидает запроса на грин-карту от Болсонару",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064375",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037369"
-    },
-    {
-      "id": "7577b5b51648",
-      "title": "Долю креативных индустрий в ВВП России планируют увеличить до 7,7% к 2036 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063882",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037351"
-    },
-    {
-      "id": "ec339d57b732",
-      "title": "Поставки российской пшеницы за рубеж в июле—октябре сократились на 39,6%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064207",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037331"
-    },
-    {
-      "id": "0b3e879f9426",
-      "title": "Прибыль ВТБ с начала года превысила 400 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064148",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037303"
-    },
-    {
-      "id": "d2d6ad259620",
-      "title": "Исполнилось 90 лет одному из самых странных автомобилей",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9064363",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037259"
     }
   ]
 }
