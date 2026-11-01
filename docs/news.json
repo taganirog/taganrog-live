@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T01:39:41.521104",
+  "last_updated": "2026-11-01T04:44:01.463332",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,61 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "5a8c1f30d3d0",
+      "title": "В Черногории вступил в силу визовый режим для россиян",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078357",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 04:43",
+      "parsed_at": "2026-11-01T04:43:59.797436"
+    },
+    {
+      "id": "a826013b7154",
+      "title": "КНДР заявила об испытаниях баллистической ракеты с кассетной боеголовкой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078358",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 04:43",
+      "parsed_at": "2026-11-01T04:43:59.797424"
+    },
+    {
+      "id": "0758fbc8a722",
+      "title": "TV4: спецназ Швеции провел рейд на сухогруз с российским экипажем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078359",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 04:43",
+      "parsed_at": "2026-11-01T04:43:59.797413"
+    },
+    {
+      "id": "332bff437e01",
+      "title": "В Париже протестующие забросали полицию коктейлями Молотова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078360",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 04:43",
+      "parsed_at": "2026-11-01T04:43:59.797402"
+    },
+    {
+      "id": "16ebab1444ee",
+      "title": "Трамп оспорил выводы ФБР о причастности КНДР к взлому криптобиржи Binance",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 04:43",
+      "parsed_at": "2026-11-01T04:43:59.797381"
+    },
     {
       "id": "d8a223435a2e",
       "title": "Глава Совбеза Ирана заявил об изменившемся «тоне» США в диалоге с республикой",
@@ -1273,61 +1328,6 @@
       "is_urgent": false,
       "published_at": "29.10 20:21",
       "parsed_at": "2026-10-29T20:21:04.105207"
-    },
-    {
-      "id": "8def0ddac24c",
-      "title": "Лантратова сообщила о соблюдении режима тишины в Алешках",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064103",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105190"
-    },
-    {
-      "id": "fc57043dd3c1",
-      "title": "Минюст хочет изменить порядок регистрации детей при домашних родах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063930",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105173"
-    },
-    {
-      "id": "e8016aceec80",
-      "title": "В Минфине РФ сочли нецелесообразными менять налогообложение в нефтяной отрасли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064127",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105153"
-    },
-    {
-      "id": "36845d896488",
-      "title": "Компания пересматривает процессы поддержки и работы с данными",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064060",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105129"
-    },
-    {
-      "id": "40b198cd87d8",
-      "title": "Путин объявил о завершении саммита Россия — Африка в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064135",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105109"
     }
   ]
 }
