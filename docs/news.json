@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-01T04:44:01.463332",
+  "last_updated": "2026-11-01T11:30:10.564789",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
     "works": 2,
-    "events": 2,
-    "news": 111,
+    "events": 3,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "218658712b9f",
+      "title": "Некрасовка проведет фестиваль археологии «Открытый лист»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9077536",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807556"
+    },
+    {
+      "id": "51da2b91bda9",
+      "title": "На русский перевели книгу «Праведники: Невоспетые герои Холокоста» Мартина Гилберта",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9062034",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807544"
+    },
+    {
+      "id": "ce4628ca6ceb",
+      "title": "Матвиенко посетит Китай с официальным визитом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078383",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807531"
+    },
+    {
+      "id": "9f91ead9ad94",
+      "title": "Самые известные в мире русские кладбища",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9063810",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807519"
+    },
+    {
+      "id": "c06643603f25",
+      "title": "Nakilat подтвердила данные об атаке танкера Al Mayeda в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078386",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807507"
+    },
+    {
+      "id": "db00824c68cb",
+      "title": "СКР возбудил дело о теракте после ударов ВСУ по Нижегородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078392",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807494"
+    },
+    {
+      "id": "0cbb4a532087",
+      "title": "Гробовщики Европы разоряются из-за дешевых китайских аналогов",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9077625",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807479"
+    },
+    {
+      "id": "361768ed41ee",
+      "title": "Празднование Хэллоуина в Цюрихе переросло в массовые беспорядки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078400",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807464"
+    },
+    {
+      "id": "91586ec73926",
+      "title": "Росстат прокомментировал кибератаку на сайт",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078405",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:06.807442"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 11:30",
+      "parsed_at": "2026-11-01T11:30:02.563470"
+    },
     {
       "id": "5a8c1f30d3d0",
       "title": "В Черногории вступил в силу визовый режим для россиян",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "30.10 00:54",
       "parsed_at": "2026-10-30T00:54:56.176759"
-    },
-    {
-      "id": "f0956ea91ad2",
-      "title": "Как в технологическом M&A покупают завтрашний бизнес",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063902",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176746"
-    },
-    {
-      "id": "f409ac41261c",
-      "title": "Как прекратить опцион иностранного акционера на обратный выкуп",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063903",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176734"
-    },
-    {
-      "id": "d1e3c7bfda6e",
-      "title": "Особенности M&A технологических компаний",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063904",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176722"
-    },
-    {
-      "id": "ba5fad25935e",
-      "title": "Как изменилась логика корпоративных сделок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063905",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176709"
-    },
-    {
-      "id": "108431996ed5",
-      "title": "«Студенческий список» потребовал отставки руководства спецслужб и полиции Сербии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064221",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176695"
-    },
-    {
-      "id": "4ae5b8b7376a",
-      "title": "Основатель криптобиржи Binance заявил о хакерском взломе платформы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064257",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176673"
-    },
-    {
-      "id": "658fbaa2b85e",
-      "title": "На процессе по делу бывшего зампреда ВЭБа вспомнили про срок давности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064039",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105256"
-    },
-    {
-      "id": "86917c27e620",
-      "title": "Как застройщики жилья оказались в эпицентре финансовых проблем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063909",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105239"
-    },
-    {
-      "id": "d4b58b644bdd",
-      "title": "Каждый десятый российский застройщик столкнулся с финансовыми трудностями",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064017",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105223"
-    },
-    {
-      "id": "0591f481f444",
-      "title": "Лагард объяснила решение уйти из ЕЦБ жесткими правилами нейтралитета",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064087",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "29.10 20:21",
-      "parsed_at": "2026-10-29T20:21:04.105207"
     }
   ]
 }
