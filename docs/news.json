@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T18:24:44.266694",
+  "last_updated": "2026-11-01T22:50:30.183855",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,127 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "2b3676241a81",
+      "title": "На чемпионате мира по спортивной борьбе сборная России завоевала 14 медалей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078612",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941344"
+    },
+    {
+      "id": "866e6b7f14b9",
+      "title": "«Почта России» выставила здание Главпочтамта на аукцион за 7,7 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078624",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941331"
+    },
+    {
+      "id": "fa1c79dd4ffd",
+      "title": "Работы Серова и Коровина показывают в KGallery",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078575",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941318"
+    },
+    {
+      "id": "d62ff3a77093",
+      "title": "Дональд Трамп пообещал стать «мистером Вето» в случае победы демократов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078620",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941306"
+    },
+    {
+      "id": "bda0fd1944d0",
+      "title": "Взлом Binance не прошел бесследно для котировок ведущей криптовалюты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078580",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941293"
+    },
+    {
+      "id": "2e2b05eb7d45",
+      "title": "Финляндия предложила запретить российским спортсменам въезд в Шенгенскую зону",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078629",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941280"
+    },
+    {
+      "id": "247bb8118afc",
+      "title": "В судно в Ормузском проливе попал неизвестный снаряд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078630",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941267"
+    },
+    {
+      "id": "b8c900252983",
+      "title": "Вышел новый альбом Муси Тотибадзе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078588",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941254"
+    },
+    {
+      "id": "1f943db0984f",
+      "title": "В Германии допустили отказ от проведения ЧМ-2027 по хоккею из-за допуска России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078636",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941240"
+    },
+    {
+      "id": "ed167345d29c",
+      "title": "«Спартак» одержал разгромную победу в матче премьер-лиги с «Локомотивом»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078634",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.941218"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 22:50",
+      "parsed_at": "2026-11-01T22:50:28.160639"
+    },
     {
       "id": "78d9ceb3337f",
       "title": "Bloomberg: состояние богатейших россиян в 2026 году сократилось на $24 млрд",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "30.10 10:36",
       "parsed_at": "2026-10-30T10:36:18.037259"
-    },
-    {
-      "id": "e7ef2a78328d",
-      "title": "За ночь над регионами России сбили более 1 тыс. беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064410",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037241"
-    },
-    {
-      "id": "46174e5d075d",
-      "title": "ВТБ не хочет получать акции «Самолета» после санации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064139",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037223"
-    },
-    {
-      "id": "c610fb917c63",
-      "title": "Какими будут последствия взлома криптобиржи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064403",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037205"
-    },
-    {
-      "id": "87ce0ec54e83",
-      "title": "ВТБ не закроет сделку с «Вайлдберриз» в октябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064126",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:18.037178"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:17.520332"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 10:36",
-      "parsed_at": "2026-10-30T10:36:17.520298"
-    },
-    {
-      "id": "81753c96d1a1",
-      "title": "Как помочь детям, перенесшим инсульт",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063170",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123841"
-    },
-    {
-      "id": "f99f846e5929",
-      "title": "Манго в рознице подорожало на 13% за год",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063976",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123826"
-    },
-    {
-      "id": "064bd0aaa6a5",
-      "title": "В третьем квартале 2026 года страховые компании получили убыток",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063991",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123809"
-    },
-    {
-      "id": "5cbe887fdb79",
-      "title": "Конституционный суд снова вступился за добросовестных приобретателей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064070",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123792"
-    },
-    {
-      "id": "c2702fa66d24",
-      "title": "Коммунисты и эсеры воздержались при голосовании за бюджет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064084",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123772"
     }
   ]
 }
