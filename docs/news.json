@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-01T11:30:10.564789",
+  "last_updated": "2026-11-01T18:24:44.266694",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
-    "works": 2,
+    "works": 1,
     "events": 3,
-    "news": 110,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "78d9ceb3337f",
+      "title": "Bloomberg: состояние богатейших россиян в 2026 году сократилось на $24 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078527",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752988"
+    },
+    {
+      "id": "f9e8e50d0c85",
+      "title": "SCMP: Китай активнее поставляет в Африку более современные виды вооружений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078519",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752971"
+    },
+    {
+      "id": "ef8a656e3ce8",
+      "title": "В Тверской области при крушении самодельного воздушного судна погиб мужчина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078533",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752953"
+    },
+    {
+      "id": "cb419801bc39",
+      "title": "Дизель отпустят с исключениями",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078518",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752934"
+    },
+    {
+      "id": "cf642138ec48",
+      "title": "ОПЕК+ сохраняет квоты на добычу четвертый месяц подряд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078517",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752918"
+    },
+    {
+      "id": "f454cd35c764",
+      "title": "Российский боец Гаджимагомедов выиграл чемпионат мира по вольной борьбе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078543",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752900"
+    },
+    {
+      "id": "bf3d2b24ca5f",
+      "title": "Запоминающиеся кадры месяца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077348",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752882"
+    },
+    {
+      "id": "0987fef9445f",
+      "title": "Почему снизился спрос на программы бизнес-образования",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078547",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752865"
+    },
+    {
+      "id": "79e0dde29fab",
+      "title": "ВТБ завершает санацию БМ-банка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752845"
+    },
+    {
+      "id": "be5793c0958a",
+      "title": "Утвержден приговор бывшей сотруднице центра «Абрау-Дюрсо»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078542",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "01.11 18:24",
+      "parsed_at": "2026-11-01T18:24:42.752818"
+    },
     {
       "id": "218658712b9f",
       "title": "Некрасовка проведет фестиваль археологии «Открытый лист»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "30.10 04:28",
       "parsed_at": "2026-10-30T04:28:58.123772"
-    },
-    {
-      "id": "f6c747fa37fd",
-      "title": "Мониторинг рынка труда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064091",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123741"
-    },
-    {
-      "id": "9d2b0e5ae7d6",
-      "title": "Акционеры «Русала» начинают новое разбирательство в Высоком суде Лондона",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064115",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123725"
-    },
-    {
-      "id": "ff498aa5dca1",
-      "title": "В Ормузском проливе загорелось судно у берегов Омана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064278",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123706"
-    },
-    {
-      "id": "8516ef56393d",
-      "title": "Рядом с Москвой сбили 37 БПЛА за ночь",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064279",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123686"
-    },
-    {
-      "id": "945bdb5d3242",
-      "title": "Биржа Binance приостановила все транзакции после сообщения о взломе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9064280",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:58.123656"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 04:28",
-      "parsed_at": "2026-10-30T04:28:57.097245"
-    },
-    {
-      "id": "e6f22a39cf2a",
-      "title": "Сделки M&A, значимые для российского рынка в 2026 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063896",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176810"
-    },
-    {
-      "id": "9fafd406c454",
-      "title": "Инструмент для UHNW-клиентов оказался нужен наемному менеджменту",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063899",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176798"
-    },
-    {
-      "id": "bed82534d04f",
-      "title": "Как покупают бизнес в условиях «дорогих» денег",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063900",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176785"
-    },
-    {
-      "id": "668817d7d8b4",
-      "title": "Почему права на код определяют цену технологической компании сильнее, чем ее выручка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063901",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 00:54",
-      "parsed_at": "2026-10-30T00:54:56.176759"
     }
   ]
 }
