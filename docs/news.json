@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-02T05:39:15.528462",
+  "last_updated": "2026-11-02T13:23:03.088906",
   "stats": {
-    "zhkh": 1,
-    "mchs": 5,
+    "zhkh": 2,
+    "mchs": 3,
     "works": 1,
     "events": 1,
-    "news": 112,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "66c111722141",
+      "title": "Песков раскрыл повестку встречи Путина и Си Цзиньпина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078960",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743423"
+    },
+    {
+      "id": "447a6fda43ac",
+      "title": "Песков усомнился в возобновлении транзита газа через Украину",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078954",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743414"
+    },
+    {
+      "id": "e201b7a9bc3f",
+      "title": "Atlantic: Трамп начал искать виновных в затяжной войне с Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078945",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743406"
+    },
+    {
+      "id": "3253fec43ca9",
+      "title": "Офисный квартал STONE Калужская взял высоту 100 метров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078914",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743396"
+    },
+    {
+      "id": "b62303af24cf",
+      "title": "Karma выпустила эксклюзивный седан Eximius 1 мощностью 1195 л.с.",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9078965",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743377"
+    },
+    {
+      "id": "c97c212ca5c3",
+      "title": "В Польше 3 ноября начнут процедуру лишения иммунитета главы КТ Свенчковского",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078975",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743367"
+    },
+    {
+      "id": "cabd5b0637dc",
+      "title": "Россия и Украина подписали соглашение о гуманитарной миссии в Алешках",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078985",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743356"
+    },
+    {
+      "id": "12e49941f488",
+      "title": "Михаил Баскаков оспорил изъятие «Сирены-Трэвел»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078992",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743345"
+    },
+    {
+      "id": "bea909a15cf4",
+      "title": "Песков: Путин и Трамп так или иначе пообщаются на саммите АТЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078990",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743335"
+    },
+    {
+      "id": "5a693d5938e0",
+      "title": "Российское пылеугольное топливо в Китае начало дешеветь",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078491",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 13:23",
+      "parsed_at": "2026-11-02T13:23:00.743314"
+    },
     {
       "id": "b3ee98f2e640",
       "title": "В Binance опровергли слухи о романе их инженера со шпионкой из КНДР",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "31.10 02:24",
       "parsed_at": "2026-10-31T02:24:16.858198"
-    },
-    {
-      "id": "b9fa090a7ef8",
-      "title": "Канада выделит на поддержку Украины €500 млн",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077831",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858180"
-    },
-    {
-      "id": "e2b597b639fe",
-      "title": "Лавров призвал Зеленского приехать в Москву на переговоры с Путиным",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078104",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858162"
-    },
-    {
-      "id": "17e6b1a3683b",
-      "title": "Посол Польши в Китае подал в отставку из-за судебного кризиса в Варшаве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078105",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858143"
-    },
-    {
-      "id": "746b91234558",
-      "title": "Трамп: глупые люди требуют санкции против России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078107",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858113"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:13.757481"
-    },
-    {
-      "id": "9153d4bd2272",
-      "title": "Минюст объявил нежелательной платформу для диалога с оппозицией РФ при ПАСЕ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077809",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448949"
-    },
-    {
-      "id": "3867fc4a37a9",
-      "title": "Лавров поговорил с министром иностранных дел Японии в Атланте",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077810",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448932"
-    },
-    {
-      "id": "ae538bd10306",
-      "title": "Пожар на объекте оборонного концерна Rheinmetall может быть диверсией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077796",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448913"
-    },
-    {
-      "id": "c71a72dce1f1",
-      "title": "За день над Россией сбили 113 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077811",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448897"
-    },
-    {
-      "id": "716aadf4ef82",
-      "title": "Перед Владимиром Путиным в Кремле за несколько дней прошло множество знакомых, незнакомых и всегда невероятных африканских лиц",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077793",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448879"
     }
   ]
 }
