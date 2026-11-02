@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-02T13:23:03.088906",
+  "last_updated": "2026-11-02T23:27:21.495684",
   "stats": {
     "zhkh": 2,
-    "mchs": 3,
+    "mchs": 4,
     "works": 1,
     "events": 1,
-    "news": 113,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "7f23688bcdc4",
+      "title": "Экспорт ароматических углеводородов из России ограничили на три месяца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079390",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516474"
+    },
+    {
+      "id": "e60844d31863",
+      "title": "Ролан Гусев назначен главным тренером «Ахмата»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079420",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516455"
+    },
+    {
+      "id": "08babadc88dd",
+      "title": "Трамп пообещал защитить Маска и союзников от демократов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079397",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516438"
+    },
+    {
+      "id": "3fed36b1bd4a",
+      "title": "Лавров прибыл в Минск для участия в конференции по евразийской безопасности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079421",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516422"
+    },
+    {
+      "id": "74525c3f0335",
+      "title": "Путин установил порядок передачи выморочных вкладов государству",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079422",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516405"
+    },
+    {
+      "id": "41892dccca31",
+      "title": "Трамп допустил заключение сделки с Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079424",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516386"
+    },
+    {
+      "id": "1cbb5c882553",
+      "title": "Полиция Польши объявила о начале спецоперации у границ России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079425",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516366"
+    },
+    {
+      "id": "03de540a81ac",
+      "title": "Один человек погиб и восемь ранены при ударе ВСУ по рейсовому автобусу в ЛНР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079427",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516326"
+    },
+    {
+      "id": "595bfef31749",
+      "title": "Чем обернутся новые штрафы за нарушение интеллектуальных прав",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9077686",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516305"
+    },
+    {
+      "id": "42df57fbf37e",
+      "title": "Вблизи Москвы сбиты 18 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079433",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:19.516272"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "02.11 23:27",
+      "parsed_at": "2026-11-02T23:27:16.111917"
+    },
     {
       "id": "66c111722141",
       "title": "Песков раскрыл повестку встречи Путина и Си Цзиньпина",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "31.10 12:08",
       "parsed_at": "2026-10-31T12:08:23.992263"
-    },
-    {
-      "id": "7fd732ef7276",
-      "title": "Евросоюз и Канада объявили о создании альянса",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078108",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.181040"
-    },
-    {
-      "id": "ce038aed94dc",
-      "title": "Госдеп одобрил продажу Украине ракет для систем Patriot",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078109",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.181023"
-    },
-    {
-      "id": "c739c84a4bae",
-      "title": "Судебный кризис и попытка госпереворота: что происходит в Польше. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078106",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.181004"
-    },
-    {
-      "id": "c97c03009fff",
-      "title": "Навроцкий срочно вернулся в Польшу из-за скандала вокруг Конституционного суда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078110",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.180981"
-    },
-    {
-      "id": "494476ae0a46",
-      "title": "В Калининграде произошел блэкаут из-за аварии на ТЭЦ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078111",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.180961"
-    },
-    {
-      "id": "2b2609b087d0",
-      "title": "На встрече глав МИД G20 отменили общее фото из-за Лаврова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078112",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.180941"
-    },
-    {
-      "id": "17c39725d4d5",
-      "title": "Binance планирует возобновить транзакции после рекордной хакерской атаки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078113",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 05:36",
-      "parsed_at": "2026-10-31T05:36:23.180909"
-    },
-    {
-      "id": "ffd46e16a524",
-      "title": "Мнения и прогнозы аналитиков о том, как будет вести себя рубль",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077827",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858251"
-    },
-    {
-      "id": "577d4433d7aa",
-      "title": "МИД РФ: встреча Лаврова с Мотэги произошла по инициативе японской стороны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077826",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858233"
-    },
-    {
-      "id": "4e37886161d2",
-      "title": "Председатель трибунала Польши заявил о попытке госпереворота",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077829",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858216"
-    },
-    {
-      "id": "d3e9f820f46f",
-      "title": "Нина Берберова и Владислав Ходасевич: история одного бегства",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9063726",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 02:24",
-      "parsed_at": "2026-10-31T02:24:16.858198"
     }
   ]
 }
