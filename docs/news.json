@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-11-02T02:15:51.371957",
+  "last_updated": "2026-11-02T05:39:15.528462",
   "stats": {
     "zhkh": 1,
-    "mchs": 3,
+    "mchs": 5,
     "works": 1,
-    "events": 2,
-    "news": 113,
+    "events": 1,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "b3ee98f2e640",
+      "title": "В Binance опровергли слухи о романе их инженера со шпионкой из КНДР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078665",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683602"
+    },
+    {
+      "id": "9e6952a7cc74",
+      "title": "После крушения самодельного гирокоптера в Тверской области возбудили дело",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078667",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683588"
+    },
+    {
+      "id": "ecab423393fd",
+      "title": "Избирательная комиссия Сербии огласила итоговый результат парламентских выборов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078668",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683573"
+    },
+    {
+      "id": "df0dbe60e772",
+      "title": "Кими Антонелли стал самым молодым в истории чемпионом мира «Формулы-1»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078666",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683556"
+    },
+    {
+      "id": "bcb6dd9a7328",
+      "title": "Хакеры взломали приложение МЧС и соцсети региональных оперштабов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078670",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683540"
+    },
+    {
+      "id": "0414d7d7321e",
+      "title": "КСИР заявил о подрыве двух танкеров в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078671",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683527"
+    },
+    {
+      "id": "b373c7bb9d87",
+      "title": "Минфин готовит автоперевод пенсионных накоплений в долгосрочные сбережения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078669",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683509"
+    },
+    {
+      "id": "0b09c0d684c3",
+      "title": "МЧС: хакеры не взломали сирены и другие системы оповещения страны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9078673",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "02.11 05:39",
+      "parsed_at": "2026-11-02T05:39:13.683482"
+    },
     {
       "id": "e25e933acf72",
       "title": "Крупный IT-бизнес выступил против ограничения простых электронных подписей",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "30.10 22:47",
       "parsed_at": "2026-10-30T22:47:46.448879"
-    },
-    {
-      "id": "a3ea71d49117",
-      "title": "Эвакуированных из Алешек жителей привезли в Симферополь",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077812",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448851"
-    },
-    {
-      "id": "eda819ca1de9",
-      "title": "Путин обсудил с главой правительства Того развитие экономических связей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077816",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448834"
-    },
-    {
-      "id": "bfc4c61deb1e",
-      "title": "США призвали не занятых в ЧС госслужащих покинуть Саудовскую Аравию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077819",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448816"
-    },
-    {
-      "id": "39b6d52a613b",
-      "title": "Reuters: Пакистан смотрит с «оптимизмом» на урегулирование конфликта США и Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077813",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448795"
-    },
-    {
-      "id": "e3d841e9e001",
-      "title": "Госдепартамент США одобрил возможную продажу Украине 500 ракет для Patriot",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077822",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 22:47",
-      "parsed_at": "2026-10-30T22:47:46.448765"
-    },
-    {
-      "id": "b2ce82ff6a34",
-      "title": "Вышел новый альбом Queens Of The Stone Age",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077598",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166640"
-    },
-    {
-      "id": "3900cccfd398",
-      "title": "Мэр Новокубанска арестован на два месяца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077651",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166622"
-    },
-    {
-      "id": "90b1fc00fcf0",
-      "title": "В Музее русского импрессионизма показывают выставку о послевоенном директоре Петергофа",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9064035",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "30.10 17:43",
-      "parsed_at": "2026-10-30T17:43:43.166605"
     }
   ]
 }
