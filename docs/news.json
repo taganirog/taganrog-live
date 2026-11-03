@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-11-03T13:20:49.227372",
+  "last_updated": "2026-11-03T20:57:20.691792",
   "stats": {
     "zhkh": 2,
-    "mchs": 3,
+    "mchs": 4,
     "works": 0,
     "events": 1,
-    "news": 114,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "0106cc116d22",
+      "title": "Корреспондент «Ъ» побывал в рейде по выявлению водителей, не желающих платить на трассе М-12",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080061",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576232"
+    },
+    {
+      "id": "85cb14dfb179",
+      "title": "Захарова: выход из конвенции против пыток не освобождает Россию от обязательств",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080073",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576220"
+    },
+    {
+      "id": "22dff2c49db7",
+      "title": "Российский букмекер готов заместить чешскую структуру в качестве спонсора IIHF",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080062",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576209"
+    },
+    {
+      "id": "64b04a7eb8e3",
+      "title": "Джош О’Коннор прокомментировал слухи о номинации на роль Джеймса Бонда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080069",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576199"
+    },
+    {
+      "id": "9646f7239c6e",
+      "title": "Парламент Гренландии одобрил соглашение о безопасности с США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080078",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576188"
+    },
+    {
+      "id": "cd3fb0cff4e1",
+      "title": "На «Госуслугах» появилась возможность смены оператора мобильной связи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080083",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576178"
+    },
+    {
+      "id": "58df2a77152f",
+      "title": "На новых объектах в комфортных условиях смогут заниматься спортом люди с ограниченными возможностями здоровья и все желающие.",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080052",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576168"
+    },
+    {
+      "id": "2aad77e12a38",
+      "title": "Фигуристы поддержали благотворительную инициативу на этапе Гран-при в Красноярске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080045",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576156"
+    },
+    {
+      "id": "4f2627a2ac86",
+      "title": "Число банкротств физлиц в России сократилось впервые с 2015 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080079",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576141"
+    },
+    {
+      "id": "38d2fffae265",
+      "title": "МИД РФ выразил протест поверенному Норвегии из-за ареста «Профессора Молчанова»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080090",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:18.576120"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:14.113144"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:14.112985"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:14.112974"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:14.112958"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 20:57",
+      "parsed_at": "2026-11-03T20:57:14.112938"
+    },
     {
       "id": "39aacb3632dc",
       "title": "Российский спортивный фонд заработал на процентных ставках 2,5 млрд рублей",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "01.11 01:39",
       "parsed_at": "2026-11-01T01:39:38.643803"
-    },
-    {
-      "id": "7ba9282e06ec",
-      "title": "Volga K50 и нетривиальные достопримечательности русла Волги",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9078328",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690961"
-    },
-    {
-      "id": "0a90c176a59d",
-      "title": "Рубио сообщил о предложении Турции по судоходству в Черном море",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078333",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690948"
-    },
-    {
-      "id": "d7be08b311f3",
-      "title": "Рубио и Лавров обсудили возможную встречу Путина и Трампа на саммите АТЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078334",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690938"
-    },
-    {
-      "id": "5ce48cdad43c",
-      "title": "Россия на СМИДе G20 назвала санкции и аресты активов подрывом мировой торговли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078336",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690928"
-    },
-    {
-      "id": "5bba82b687f6",
-      "title": "В лесу Брянской области мужчина подорвался на взрывном устройстве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078338",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690917"
-    },
-    {
-      "id": "e33cf6977f8c",
-      "title": "Протесты «поколения Z» в городах Германии переросли в беспорядки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078341",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690906"
-    },
-    {
-      "id": "f17dbe2346d7",
-      "title": "«Яндекс» заявил о планах обновить прогнозы показателей в феврале 2027 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078339",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690894"
-    },
-    {
-      "id": "2a24ca913b2e",
-      "title": "Рубио: Трамп не принимал решения о возобновлении боевых действий против Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078343",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690882"
-    },
-    {
-      "id": "edf698f5130d",
-      "title": "Преступления, которых могло бы не быть, если бы не книги",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077719",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690871"
-    },
-    {
-      "id": "03f684ae5a52",
-      "title": "Орбан и Вучич встретились в Белграде и пообещали вернуться в политику",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078344",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 22:25",
-      "parsed_at": "2026-10-31T22:25:51.690853"
-    },
-    {
-      "id": "a64072a0c77f",
-      "title": "Смогут ли 90-минутные Features конкурировать с YouTube",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078295",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504990"
-    },
-    {
-      "id": "cf53fff56f06",
-      "title": "Россиянин Ибрагимов взял золото на чемпионате мира по борьбе в Астане",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078306",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504977"
-    },
-    {
-      "id": "02cc945f125c",
-      "title": "Минобороны России сообщило об ударе по сухогрузу в 40 км от Одессы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078310",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504964"
-    },
-    {
-      "id": "db2ebf1d15bd",
-      "title": "На подлете к Москве сбили еще четыре беспилотника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078311",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504950"
-    },
-    {
-      "id": "c3711d200e57",
-      "title": "В Польше созвали собрание судей после скандала вокруг Конституционного трибунала",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078308",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504937"
     }
   ]
 }
