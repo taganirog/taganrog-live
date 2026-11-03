@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-02T23:27:21.495684",
+  "last_updated": "2026-11-03T05:31:24.226877",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 1,
     "mchs": 4,
     "works": 1,
     "events": 1,
-    "news": 112,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "cb65d3c8baa5",
+      "title": "Перепроизводство в КНР пугает партнеров по торговле, но не Пекин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079398",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303575"
+    },
+    {
+      "id": "d85cfcca7113",
+      "title": "Трамп: по просьбе Тегерана мы не будем убивать иранских лидеров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079451",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303556"
+    },
+    {
+      "id": "edd53b821f14",
+      "title": "Власти КНДР назвали провокацией обвинения в причастности к взлому Binance",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079455",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303532"
+    },
+    {
+      "id": "dc7aacb52c33",
+      "title": "Переговоры России и Украины в Абу-Даби пройдут 10 и 11 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079457",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303515"
+    },
+    {
+      "id": "543c2d7a24e7",
+      "title": "Число сбитых вблизи Москвы БПЛА достигло 69",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079458",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303498"
+    },
+    {
+      "id": "db91eebd4a73",
+      "title": "Власти Казахстана заявили о предотвращении попытки госпереворота",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079456",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303481"
+    },
+    {
+      "id": "fc48b6ccbf8f",
+      "title": "Вэнс заявил об отсутствии дедлайнов по новым ударам по Ирану",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079459",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303463"
+    },
+    {
+      "id": "a428cb2bcfe8",
+      "title": "В Латвии объявляли воздушную тревогу из-за падения объекта у границы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079460",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303444"
+    },
+    {
+      "id": "3fc3e805e6bd",
+      "title": "Bloomberg: США попросят НАТО выделить больше денег на оружие для Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079462",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303422"
+    },
+    {
+      "id": "333a78b68129",
+      "title": "Правительство рассмотрит расширение полномочий Минцифры по координации ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079464",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 05:31",
+      "parsed_at": "2026-11-03T05:31:22.303394"
+    },
     {
       "id": "7f23688bcdc4",
       "title": "Экспорт ароматических углеводородов из России ограничили на три месяца",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "31.10 18:26",
       "parsed_at": "2026-10-31T18:26:17.312423"
-    },
-    {
-      "id": "5e4832452e28",
-      "title": "В Японии поезд сошел с рельсов после столкновения с медведем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078199",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992430"
-    },
-    {
-      "id": "84554eb06940",
-      "title": "«Аль-Араби»: делегация США присоединится к переговорам по Ирану в Дохе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078197",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992409"
-    },
-    {
-      "id": "787729743535",
-      "title": "Россия и Мозамбик обсуждают запуск прямых рейсов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078203",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992393"
-    },
-    {
-      "id": "c20f125b5300",
-      "title": "Хватит ли России топливных мощностей для поставок по сделке с США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078200",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992378"
-    },
-    {
-      "id": "8ed1ad078059",
-      "title": "В РАПУ допустили рост выпуска калийных удобрений на 1 млн тонн в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078207",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992361"
-    },
-    {
-      "id": "6060ddf6ac73",
-      "title": "Минобороны России сообщило об ударе по транспортной инфраструктуре на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992345"
-    },
-    {
-      "id": "1aa69da3282b",
-      "title": "Что пишут о Volga зарубежные СМИ?",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9078209",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992328"
-    },
-    {
-      "id": "15c56e3f3c0b",
-      "title": "По игре PUBG снимут сериал с Дональдом Гловером в главной роли",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9077389",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992312"
-    },
-    {
-      "id": "005b8e3be12d",
-      "title": "На подлете к Москве сбили шесть беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992293"
-    },
-    {
-      "id": "b3a7a4da8fc4",
-      "title": "В Калининградской области восстановили электроснабжение после аварии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078211",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "31.10 12:08",
-      "parsed_at": "2026-10-31T12:08:23.992263"
     }
   ]
 }
