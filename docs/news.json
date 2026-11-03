@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T20:57:20.691792",
+  "last_updated": "2026-11-04T01:54:56.156792",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "89989a833e24",
+      "title": "Аэропорт Краснодара приостановил прием и выпуск рейсов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080111",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949299"
+    },
+    {
+      "id": "cb55993a92c6",
+      "title": "Россиянин Алексей Батраков забил в третьем матче Лиги чемпионов подряд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080109",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949283"
+    },
+    {
+      "id": "545c5c5f8f4a",
+      "title": "Бывшему пресс-секретарю Зеленского Мендель предъявили обвинения в госизмене",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080112",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949266"
+    },
+    {
+      "id": "feeb38737040",
+      "title": "Триумфальную арку Трампа не успеют достроить до конца его президентского срока",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080114",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949247"
+    },
+    {
+      "id": "711e484e57eb",
+      "title": "Россия потребовала от Норвегии соблюдения Договора о Шпицбергене",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080116",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949230"
+    },
+    {
+      "id": "5bc1658c3cea",
+      "title": "Вблизи Москвы сбиты пять беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080124",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949212"
+    },
+    {
+      "id": "bcea6ed631fe",
+      "title": "Минюст подал в суд иск о ликвидации благотворительного фонда Исинбаевой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080121",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949192"
+    },
+    {
+      "id": "98e3d2c8ed85",
+      "title": "NYT: Израиль передал США данные о планах Ирана использовать химическое оружие",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080126",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949175"
+    },
+    {
+      "id": "3380e09368f8",
+      "title": "Минтруд предложил учитывать обороты по счетам при назначении единого пособия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080131",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949156"
+    },
+    {
+      "id": "7dea11e1035a",
+      "title": "Новые власти Сербии будут стремиться в ЕС без введения санкций против России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080133",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 01:54",
+      "parsed_at": "2026-11-04T01:54:51.949125"
+    },
     {
       "id": "0106cc116d22",
       "title": "Корреспондент «Ъ» побывал в рейде по выявлению водителей, не желающих платить на трассе М-12",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "01.11 04:43",
       "parsed_at": "2026-11-01T04:43:59.797413"
-    },
-    {
-      "id": "332bff437e01",
-      "title": "В Париже протестующие забросали полицию коктейлями Молотова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078360",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 04:43",
-      "parsed_at": "2026-11-01T04:43:59.797402"
-    },
-    {
-      "id": "16ebab1444ee",
-      "title": "Трамп оспорил выводы ФБР о причастности КНДР к взлому криптобиржи Binance",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078361",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 04:43",
-      "parsed_at": "2026-11-01T04:43:59.797381"
-    },
-    {
-      "id": "d8a223435a2e",
-      "title": "Глава Совбеза Ирана заявил об изменившемся «тоне» США в диалоге с республикой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078346",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643900"
-    },
-    {
-      "id": "e90bfa69d57f",
-      "title": "В Ленобласти загорелся торговый центр",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078349",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643889"
-    },
-    {
-      "id": "20ad9476a52b",
-      "title": "«Краснодар» уступил дебютанту премьер-лиги и продлил серию без побед до семи матчей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078347",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643874"
-    },
-    {
-      "id": "56050057aa4d",
-      "title": "Премьер Польши обратился к народу после событий в Конституционном трибунале",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078351",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643863"
-    },
-    {
-      "id": "fc2ba02474ad",
-      "title": "Туск заявил о поддержке польской оппозиции со стороны «армии российских ботов»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078353",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643849"
-    },
-    {
-      "id": "a8a05c526a90",
-      "title": "Нефтяной танкер подорвался на минах в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078354",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643838"
-    },
-    {
-      "id": "b819dddf58aa",
-      "title": "ФБР обвинило северокорейскую группировку в атаке на криптобиржу Binance",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078355",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643826"
-    },
-    {
-      "id": "ccf74a67fb19",
-      "title": "Работу аэропорта Домодедово ограничили",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078356",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 01:39",
-      "parsed_at": "2026-11-01T01:39:38.643803"
     }
   ]
 }
