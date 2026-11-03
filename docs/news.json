@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-03T05:31:24.226877",
+  "last_updated": "2026-11-03T13:20:49.227372",
   "stats": {
-    "zhkh": 1,
-    "mchs": 4,
-    "works": 1,
+    "zhkh": 2,
+    "mchs": 3,
+    "works": 0,
     "events": 1,
-    "news": 113,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "39aacb3632dc",
+      "title": "Российский спортивный фонд заработал на процентных ставках 2,5 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079695",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079475"
+    },
+    {
+      "id": "b06e74f4255a",
+      "title": "Посещаемость продуктовых магазинов за год снизилась на 2–7%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079454",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079457"
+    },
+    {
+      "id": "db68004e9a4f",
+      "title": "Силы ПВО сбили за сутки 1,2 тыс. дронов и четыре ракеты ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079703",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079441"
+    },
+    {
+      "id": "bbe7c46fa529",
+      "title": "Мосбиржа провела дискретный аукцион по акциям МГКЛ после снижения цены на 20%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079733",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079424"
+    },
+    {
+      "id": "5a3eb37e175c",
+      "title": "Песков: полностью защитить объекты энергетики от ударов ВСУ невозможно",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079732",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079405"
+    },
+    {
+      "id": "ecdfcbac1c3a",
+      "title": "Лавров: Россия не намерена втягиваться в гонку вооружений с ЕС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079716",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079387"
+    },
+    {
+      "id": "18a4382ef898",
+      "title": "Volga снизила цены на кроссовер K50 при оплате наличными",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9079740",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079368"
+    },
+    {
+      "id": "75c480b360b2",
+      "title": "«Новая Опера» представляет постановку с премьерами Большого и Мариинского театров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079707",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079348"
+    },
+    {
+      "id": "3b2fc2ff0f0b",
+      "title": "Кремль пообещал заняться проблемой с жилищными сертификатами в Курской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079743",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079326"
+    },
+    {
+      "id": "930d777258c9",
+      "title": "За что в США критикуют республиканцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079679",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "03.11 13:20",
+      "parsed_at": "2026-11-03T13:20:47.079293"
+    },
     {
       "id": "cb65d3c8baa5",
       "title": "Перепроизводство в КНР пугает партнеров по торговле, но не Пекин",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "31.10 18:26",
       "parsed_at": "2026-10-31T18:26:21.504937"
-    },
-    {
-      "id": "223e8a4dfb91",
-      "title": "Почему и как дважды хоронили Сталина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063656",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504924"
-    },
-    {
-      "id": "242f32f2955d",
-      "title": "Главком НАТО: войны с Россией можно избежать",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078318",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504912"
-    },
-    {
-      "id": "6dcbf78cca85",
-      "title": "ФСБ получила от США данные о подготовке теракта в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078320",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504900"
-    },
-    {
-      "id": "97b9de55581e",
-      "title": "По всей Германии начались молодежные протесты с требованием отставки Мерца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078315",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504886"
-    },
-    {
-      "id": "e21e6265b5ac",
-      "title": "Венгрия сократит почти на €90 млн расходы на строительство АЭС «Пакш-2»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078322",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:21.504862"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:17.312667"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:17.312480"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:17.312465"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:17.312446"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "31.10 18:26",
-      "parsed_at": "2026-10-31T18:26:17.312423"
     }
   ]
 }
