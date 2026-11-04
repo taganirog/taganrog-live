@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-04T05:50:45.342158",
+  "last_updated": "2026-11-04T13:14:31.579078",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
     "works": 0,
-    "events": 1,
-    "news": 113,
+    "events": 0,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "944d1b79f3b1",
+      "title": "Более 30 россиянок задержали в ночных клубах Турции за «нарушение морали»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080263",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722383"
+    },
+    {
+      "id": "7aafb271b4a7",
+      "title": "Alpine A310 Vision: видение будущего спорткупе",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061754",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722366"
+    },
+    {
+      "id": "89bb82dcda6b",
+      "title": "Политолог Андрей Кортунов — о значении выборов в Конгресс США для России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080232",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722350"
+    },
+    {
+      "id": "94205f023ef6",
+      "title": "СК провел обыски в домах лидеров партии «Сильная Армения»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080259",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722332"
+    },
+    {
+      "id": "d262d4d70cc8",
+      "title": "Что продажа пакета акций «Совкомфлота» означает для инвесторов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080110",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722315"
+    },
+    {
+      "id": "103ab2781b27",
+      "title": "Казахстан ждет от России ответа по возобновлению поставок нефти по «Дружбе»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080271",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722296"
+    },
+    {
+      "id": "ecb7ccc5c0b7",
+      "title": "В США завершились промежуточные выборы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079967",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722276"
+    },
+    {
+      "id": "3aa2e3c98c64",
+      "title": "Вратарь «Адмирала» Никита Бояркин стал автором гола в матче КХЛ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080278",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722250"
+    },
+    {
+      "id": "ee6e9bcba5c9",
+      "title": "Смогут ли застройщики отказывать в компенсации за недочеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080266",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722229"
+    },
+    {
+      "id": "eec75d8aa518",
+      "title": "Предприниматели — о выходном дне посреди недели",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080280",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:29.722201"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 13:14",
+      "parsed_at": "2026-11-04T13:14:25.301044"
+    },
     {
       "id": "7e551480237b",
       "title": "Беспилотники атаковали логистический центр Ozon в Адыгейске",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "01.11 18:24",
       "parsed_at": "2026-11-01T18:24:42.752953"
-    },
-    {
-      "id": "cb419801bc39",
-      "title": "Дизель отпустят с исключениями",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078518",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752934"
-    },
-    {
-      "id": "cf642138ec48",
-      "title": "ОПЕК+ сохраняет квоты на добычу четвертый месяц подряд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078517",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752918"
-    },
-    {
-      "id": "f454cd35c764",
-      "title": "Российский боец Гаджимагомедов выиграл чемпионат мира по вольной борьбе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078543",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752900"
-    },
-    {
-      "id": "bf3d2b24ca5f",
-      "title": "Запоминающиеся кадры месяца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9077348",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752882"
-    },
-    {
-      "id": "0987fef9445f",
-      "title": "Почему снизился спрос на программы бизнес-образования",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078547",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752865"
-    },
-    {
-      "id": "79e0dde29fab",
-      "title": "ВТБ завершает санацию БМ-банка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752845"
-    },
-    {
-      "id": "be5793c0958a",
-      "title": "Утвержден приговор бывшей сотруднице центра «Абрау-Дюрсо»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078542",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752818"
-    },
-    {
-      "id": "218658712b9f",
-      "title": "Некрасовка проведет фестиваль археологии «Открытый лист»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9077536",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807556"
-    },
-    {
-      "id": "51da2b91bda9",
-      "title": "На русский перевели книгу «Праведники: Невоспетые герои Холокоста» Мартина Гилберта",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9062034",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807544"
-    },
-    {
-      "id": "ce4628ca6ceb",
-      "title": "Матвиенко посетит Китай с официальным визитом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078383",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807531"
-    },
-    {
-      "id": "9f91ead9ad94",
-      "title": "Самые известные в мире русские кладбища",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9063810",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807519"
     }
   ]
 }
