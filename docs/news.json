@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:54:56.156792",
+  "last_updated": "2026-11-04T05:50:45.342158",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "7e551480237b",
+      "title": "Беспилотники атаковали логистический центр Ozon в Адыгейске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080137",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203398"
+    },
+    {
+      "id": "1b3170b892f5",
+      "title": "На выборах в Конгресс США закрылись первые избирательные участки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080138",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203381"
+    },
+    {
+      "id": "4c32034436ec",
+      "title": "Губернатор Нью-Джерси пригрозила портам штрафами за прием дизеля из России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080134",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203364"
+    },
+    {
+      "id": "f6ea6a2f9cd0",
+      "title": "Ozon скроет товары с атакованного БПЛА склада в Адыгейске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080141",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203345"
+    },
+    {
+      "id": "6bc0b4118538",
+      "title": "Российский футболист Батраков стал одним из главных героев тура в Лиге чемпионов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080135",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203323"
+    },
+    {
+      "id": "fd7195c4579c",
+      "title": "Президент Польши обвинил Туска в кризисе вокруг Конституционного суда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080139",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203304"
+    },
+    {
+      "id": "3bab5d5091cc",
+      "title": "Трамп: Россия и Украина близки к заключению соглашения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080144",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203285"
+    },
+    {
+      "id": "4afce1c9d216",
+      "title": "Канада откажет в визах спортсменам из России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080145",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203265"
+    },
+    {
+      "id": "d2916133b707",
+      "title": "Министр транспорта Испании ушел в отставку из-за аварии с поездами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080146",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 05:50",
+      "parsed_at": "2026-11-04T05:50:43.203238"
+    },
     {
       "id": "89989a833e24",
       "title": "Аэропорт Краснодара приостановил прием и выпуск рейсов",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "01.11 11:30",
       "parsed_at": "2026-11-01T11:30:06.807519"
-    },
-    {
-      "id": "c06643603f25",
-      "title": "Nakilat подтвердила данные об атаке танкера Al Mayeda в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078386",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807507"
-    },
-    {
-      "id": "db00824c68cb",
-      "title": "СКР возбудил дело о теракте после ударов ВСУ по Нижегородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078392",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807494"
-    },
-    {
-      "id": "0cbb4a532087",
-      "title": "Гробовщики Европы разоряются из-за дешевых китайских аналогов",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9077625",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807479"
-    },
-    {
-      "id": "361768ed41ee",
-      "title": "Празднование Хэллоуина в Цюрихе переросло в массовые беспорядки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078400",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807464"
-    },
-    {
-      "id": "91586ec73926",
-      "title": "Росстат прокомментировал кибератаку на сайт",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078405",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:06.807442"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 11:30",
-      "parsed_at": "2026-11-01T11:30:02.563470"
-    },
-    {
-      "id": "5a8c1f30d3d0",
-      "title": "В Черногории вступил в силу визовый режим для россиян",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078357",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 04:43",
-      "parsed_at": "2026-11-01T04:43:59.797436"
-    },
-    {
-      "id": "a826013b7154",
-      "title": "КНДР заявила об испытаниях баллистической ракеты с кассетной боеголовкой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078358",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 04:43",
-      "parsed_at": "2026-11-01T04:43:59.797424"
-    },
-    {
-      "id": "0758fbc8a722",
-      "title": "TV4: спецназ Швеции провел рейд на сухогруз с российским экипажем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078359",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 04:43",
-      "parsed_at": "2026-11-01T04:43:59.797413"
     }
   ]
 }
