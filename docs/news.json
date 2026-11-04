@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-04T13:14:31.579078",
+  "last_updated": "2026-11-04T21:08:04.454231",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 4,
     "works": 0,
-    "events": 0,
-    "news": 114,
+    "events": 1,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "b95641b3d660",
+      "title": "Сотрудница ЗАЭС и мирный житель погибли после атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080431",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555942"
+    },
+    {
+      "id": "11bcb4d2caa2",
+      "title": "Украинские БПЛА нарушили электроснабжение Запорожской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080422",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555933"
+    },
+    {
+      "id": "e448a7ac3f4a",
+      "title": "Как в России отметили праздник",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080420",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555926"
+    },
+    {
+      "id": "6d06be4d86ce",
+      "title": "Нефть Brent подешевела более чем на $4 за баррель в течение дня",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080449",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555917"
+    },
+    {
+      "id": "14d5e1f861f0",
+      "title": "Президент поручил усилить наставничество в школах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080351",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555907"
+    },
+    {
+      "id": "88445d062d2a",
+      "title": "Над российскими регионами сбили 46 БПЛА за день",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080455",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555898"
+    },
+    {
+      "id": "fde9b620ea56",
+      "title": "В Театре оперетты показывают новый мюзикл о Франкенштейне",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080421",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555888"
+    },
+    {
+      "id": "7a49534e82b6",
+      "title": "Суд отказал в выселении компаний из адлерского центра Plaza",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080384",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555870"
+    },
+    {
+      "id": "0c31e196dc7d",
+      "title": "Захарова обвинила Канаду в нарушении Олимпийской хартии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080460",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555858"
+    },
+    {
+      "id": "325433e29ea7",
+      "title": "Глава Карелии Артур Парфенчиков может уйти в отставку",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080445",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "04.11 21:08",
+      "parsed_at": "2026-11-04T21:08:02.555840"
+    },
     {
       "id": "944d1b79f3b1",
       "title": "Более 30 россиянок задержали в ночных клубах Турции за «нарушение морали»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "01.11 22:50",
       "parsed_at": "2026-11-01T22:50:28.941306"
-    },
-    {
-      "id": "bda0fd1944d0",
-      "title": "Взлом Binance не прошел бесследно для котировок ведущей криптовалюты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078580",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941293"
-    },
-    {
-      "id": "2e2b05eb7d45",
-      "title": "Финляндия предложила запретить российским спортсменам въезд в Шенгенскую зону",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078629",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941280"
-    },
-    {
-      "id": "247bb8118afc",
-      "title": "В судно в Ормузском проливе попал неизвестный снаряд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078630",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941267"
-    },
-    {
-      "id": "b8c900252983",
-      "title": "Вышел новый альбом Муси Тотибадзе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078588",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941254"
-    },
-    {
-      "id": "1f943db0984f",
-      "title": "В Германии допустили отказ от проведения ЧМ-2027 по хоккею из-за допуска России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078636",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941240"
-    },
-    {
-      "id": "ed167345d29c",
-      "title": "«Спартак» одержал разгромную победу в матче премьер-лиги с «Локомотивом»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078634",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941218"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.160639"
-    },
-    {
-      "id": "78d9ceb3337f",
-      "title": "Bloomberg: состояние богатейших россиян в 2026 году сократилось на $24 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078527",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752988"
-    },
-    {
-      "id": "f9e8e50d0c85",
-      "title": "SCMP: Китай активнее поставляет в Африку более современные виды вооружений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078519",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752971"
-    },
-    {
-      "id": "ef8a656e3ce8",
-      "title": "В Тверской области при крушении самодельного воздушного судна погиб мужчина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078533",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 18:24",
-      "parsed_at": "2026-11-01T18:24:42.752953"
     }
   ]
 }
