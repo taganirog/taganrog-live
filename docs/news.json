@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-04T21:08:04.454231",
+  "last_updated": "2026-11-05T02:49:56.048582",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
-    "works": 0,
-    "events": 1,
-    "news": 112,
+    "works": 1,
+    "events": 2,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "104035d11315",
+      "title": "Оппозиция Армении объявила об объединении сил",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080487",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638301"
+    },
+    {
+      "id": "aba5e6a7a419",
+      "title": "Банки крови во Франции подверглись кибератаке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080489",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638283"
+    },
+    {
+      "id": "c3588564cfc5",
+      "title": "Reuters: в Google расширили программу добровольных увольнений сотрудников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080490",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638245"
+    },
+    {
+      "id": "fa60051a7978",
+      "title": "Умер шведский дирижер Герберт Блумстедт",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080504",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638226"
+    },
+    {
+      "id": "b85f008cbb5c",
+      "title": "«Фенербахче» победил одного из лидеров Лиги чемпионов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080505",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638201"
+    },
+    {
+      "id": "48f08e5a22d7",
+      "title": "В России раскупают самые дешевые и самые дорогие телевизоры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9079317",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638184"
+    },
+    {
+      "id": "c4647aa3f8a7",
+      "title": "Основатель школы «Сколка» Андрей Комаров о подготовке специалистов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080314",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638167"
+    },
+    {
+      "id": "d98b6410f58f",
+      "title": "В России выросли продажи билетов на стадионные концерты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080377",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638147"
+    },
+    {
+      "id": "12efe42b4084",
+      "title": "En+ хочет взыскать с «Суал Партнерс» расходы за процесс в Лондоне",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080424",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638125"
+    },
+    {
+      "id": "e4be4bbce021",
+      "title": "Кушнер: США сосредоточены на создании новой архитектуры безопасности в Европе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080506",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:54.638095"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 02:49",
+      "parsed_at": "2026-11-05T02:49:53.677950"
+    },
     {
       "id": "b95641b3d660",
       "title": "Сотрудница ЗАЭС и мирный житель погибли после атаки БПЛА",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "02.11 02:15",
       "parsed_at": "2026-11-02T02:15:49.388174"
-    },
-    {
-      "id": "73e02fd8e0e2",
-      "title": "Продажи высокопротеиновой продукции выросли в несколько раз",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078585",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388155"
-    },
-    {
-      "id": "5817e749851c",
-      "title": "Как депутаты Госдумы отметят 4 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078608",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388131"
-    },
-    {
-      "id": "b8e6c0b1bc6c",
-      "title": "Наказание за вывод на рынок дженериков в нарушение патента предложено ужесточить",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078609",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388114"
-    },
-    {
-      "id": "ccda2a6d7598",
-      "title": "Бизнес-джет упал на жилой квартал во Флориде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078663",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388092"
-    },
-    {
-      "id": "b8b414a6b806",
-      "title": "Антонелли стал самым молодым чемпионом в истории «Формулы-1»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078664",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388065"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:48.675921"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:48.675888"
-    },
-    {
-      "id": "2b3676241a81",
-      "title": "На чемпионате мира по спортивной борьбе сборная России завоевала 14 медалей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078612",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941344"
-    },
-    {
-      "id": "866e6b7f14b9",
-      "title": "«Почта России» выставила здание Главпочтамта на аукцион за 7,7 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078624",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941331"
-    },
-    {
-      "id": "fa1c79dd4ffd",
-      "title": "Работы Серова и Коровина показывают в KGallery",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078575",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941318"
-    },
-    {
-      "id": "d62ff3a77093",
-      "title": "Дональд Трамп пообещал стать «мистером Вето» в случае победы демократов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078620",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "01.11 22:50",
-      "parsed_at": "2026-11-01T22:50:28.941306"
     }
   ]
 }
