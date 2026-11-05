@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-05T07:32:22.092875",
+  "last_updated": "2026-11-05T15:52:23.432293",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 2,
     "mchs": 2,
     "works": 1,
-    "events": 2,
+    "events": 3,
     "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "569110ebec2a",
+      "title": "Южная Корея перенесет зону борьбы с пиратами ближе к Ормузскому проливу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080917",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454478"
+    },
+    {
+      "id": "a2775595e684",
+      "title": "Федерация футбола Португалии организует прощальное мероприятие в честь Роналду",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080960",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454462"
+    },
+    {
+      "id": "b86450641d20",
+      "title": "Axios: Вэнс предупреждал о поражении республиканцев при продолжении ударов по Ирану",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080966",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454445"
+    },
+    {
+      "id": "d05686e96514",
+      "title": "Конституционный суд обязал предоставлять инвалидам комфортное жилье",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080955",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454428"
+    },
+    {
+      "id": "4d0b61e65282",
+      "title": "Осужден участник хищения средств Тембанка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080944",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454411"
+    },
+    {
+      "id": "ee1dcc4547c5",
+      "title": "Республиканцы признали, что к поражению их привела иранская кампания",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080927",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454393"
+    },
+    {
+      "id": "795c3dbf8745",
+      "title": "Установлен рекорд по количеству красных карточек, показанных за один матч",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080965",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454373"
+    },
+    {
+      "id": "7669827ae019",
+      "title": "Politico: спор о статусе Канады в ЕС выявил раскол между Мерцем и фон дер Ляйен",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080981",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454355"
+    },
+    {
+      "id": "f150d73e488f",
+      "title": "Экстрадированный из Марокко «шариатский судья» у террористов получил десять лет строгого режима",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080988",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454335"
+    },
+    {
+      "id": "dc51ae4797ca",
+      "title": "Бывшего боттлера Coca-Cola в России просят передать во внешнее управление",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080987",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 15:52",
+      "parsed_at": "2026-11-05T15:52:21.454306"
+    },
     {
       "id": "4eebbad599fc",
       "title": "Скупкой драгметаллов можно будет заниматься через автоматы по пассивной франшизе",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "02.11 13:23",
       "parsed_at": "2026-11-02T13:23:00.743423"
-    },
-    {
-      "id": "447a6fda43ac",
-      "title": "Песков усомнился в возобновлении транзита газа через Украину",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078954",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743414"
-    },
-    {
-      "id": "e201b7a9bc3f",
-      "title": "Atlantic: Трамп начал искать виновных в затяжной войне с Ираном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078945",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743406"
-    },
-    {
-      "id": "3253fec43ca9",
-      "title": "Офисный квартал STONE Калужская взял высоту 100 метров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078914",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743396"
-    },
-    {
-      "id": "b62303af24cf",
-      "title": "Karma выпустила эксклюзивный седан Eximius 1 мощностью 1195 л.с.",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9078965",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743377"
-    },
-    {
-      "id": "c97c212ca5c3",
-      "title": "В Польше 3 ноября начнут процедуру лишения иммунитета главы КТ Свенчковского",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078975",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743367"
-    },
-    {
-      "id": "cabd5b0637dc",
-      "title": "Россия и Украина подписали соглашение о гуманитарной миссии в Алешках",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078985",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743356"
-    },
-    {
-      "id": "12e49941f488",
-      "title": "Михаил Баскаков оспорил изъятие «Сирены-Трэвел»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078992",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743345"
-    },
-    {
-      "id": "bea909a15cf4",
-      "title": "Песков: Путин и Трамп так или иначе пообщаются на саммите АТЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078990",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743335"
-    },
-    {
-      "id": "5a693d5938e0",
-      "title": "Российское пылеугольное топливо в Китае начало дешеветь",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078491",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 13:23",
-      "parsed_at": "2026-11-02T13:23:00.743314"
-    },
-    {
-      "id": "b3ee98f2e640",
-      "title": "В Binance опровергли слухи о романе их инженера со шпионкой из КНДР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078665",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683602"
     }
   ]
 }
