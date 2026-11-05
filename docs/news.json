@@ -1,14 +1,146 @@
 {
-  "last_updated": "2026-11-05T02:49:56.048582",
+  "last_updated": "2026-11-05T07:32:22.092875",
   "stats": {
     "zhkh": 3,
-    "mchs": 4,
+    "mchs": 2,
     "works": 1,
     "events": 2,
-    "news": 110,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "4eebbad599fc",
+      "title": "Скупкой драгметаллов можно будет заниматься через автоматы по пассивной франшизе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294343"
+    },
+    {
+      "id": "6576520c9ec2",
+      "title": "Bild: Министр экономики Баварии найден мертвым в отеле в Берлине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080515",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294325"
+    },
+    {
+      "id": "0767fe1b59d4",
+      "title": "КНДР отчиталась об испытании нового комплекса ПВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080518",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294302"
+    },
+    {
+      "id": "09dd1f24f774",
+      "title": "Атлантическая сельдь за год подорожала на 40,7%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080415",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294286"
+    },
+    {
+      "id": "a27f70d8f2c5",
+      "title": "Папа Римский Лев XIV встретился в Ватикане с Бобом Диланом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080516",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294269"
+    },
+    {
+      "id": "31fd3347beeb",
+      "title": "Продажи новых машин в октябре обновили рекорд 2026 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080352",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294252"
+    },
+    {
+      "id": "3d7ed8d4e55a",
+      "title": "Главные новости к утру 5 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080520",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294235"
+    },
+    {
+      "id": "2b8d702930f9",
+      "title": "Книга об Александре Македонском получила премию Бейли Гиффорда за нон-фикшн",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080526",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294218"
+    },
+    {
+      "id": "0d5476385fe9",
+      "title": "Чиновники, депутаты и эксперты по-разному оценили предложенные Минтрансом изменения в ПДД",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080444",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294198"
+    },
+    {
+      "id": "5b619cfa2e62",
+      "title": "WS: Посла США в Индии Серджио Гора рассматривают на пост главы Госдепа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080533",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:20.294168"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:19.251505"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "05.11 07:32",
+      "parsed_at": "2026-11-05T07:32:19.251471"
+    },
     {
       "id": "104035d11315",
       "title": "Оппозиция Армении объявила об объединении сил",
@@ -1196,138 +1328,6 @@
       "is_urgent": false,
       "published_at": "02.11 05:39",
       "parsed_at": "2026-11-02T05:39:13.683602"
-    },
-    {
-      "id": "9e6952a7cc74",
-      "title": "После крушения самодельного гирокоптера в Тверской области возбудили дело",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078667",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683588"
-    },
-    {
-      "id": "ecab423393fd",
-      "title": "Избирательная комиссия Сербии огласила итоговый результат парламентских выборов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078668",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683573"
-    },
-    {
-      "id": "df0dbe60e772",
-      "title": "Кими Антонелли стал самым молодым в истории чемпионом мира «Формулы-1»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078666",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683556"
-    },
-    {
-      "id": "bcb6dd9a7328",
-      "title": "Хакеры взломали приложение МЧС и соцсети региональных оперштабов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078670",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683540"
-    },
-    {
-      "id": "0414d7d7321e",
-      "title": "КСИР заявил о подрыве двух танкеров в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078671",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683527"
-    },
-    {
-      "id": "b373c7bb9d87",
-      "title": "Минфин готовит автоперевод пенсионных накоплений в долгосрочные сбережения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078669",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683509"
-    },
-    {
-      "id": "0b09c0d684c3",
-      "title": "МЧС: хакеры не взломали сирены и другие системы оповещения страны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078673",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "02.11 05:39",
-      "parsed_at": "2026-11-02T05:39:13.683482"
-    },
-    {
-      "id": "e25e933acf72",
-      "title": "Крупный IT-бизнес выступил против ограничения простых электронных подписей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078427",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388242"
-    },
-    {
-      "id": "282a131b5268",
-      "title": "Доля сделок built-to-suit со складами в регионах выросла с 57% до 76%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078520",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388224"
-    },
-    {
-      "id": "5fdd8e7d2f05",
-      "title": "«Авито» запустило собственную рекламную сеть",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078535",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388207"
-    },
-    {
-      "id": "a069b2a56035",
-      "title": "En+ откажется от модернизации Иркутской ТЭЦ-10",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078550",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388191"
-    },
-    {
-      "id": "25d4dad0d1a4",
-      "title": "Освобождение импорта из Белоруссии от авансового платежа продлено до середины 2027 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9078552",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 02:15",
-      "parsed_at": "2026-11-02T02:15:49.388174"
     }
   ]
 }
