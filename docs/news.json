@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-06T10:49:29.209795",
+  "last_updated": "2026-11-06T18:30:25.235865",
   "stats": {
     "zhkh": 2,
-    "mchs": 1,
+    "mchs": 0,
     "works": 1,
     "events": 3,
-    "news": 113,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "0254fb44e1dc",
+      "title": "Правительство вводит новые форматы продажи лекарств в сельской местности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091427",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573339"
+    },
+    {
+      "id": "02dca0200c84",
+      "title": "Путин утвердил состав комиссии по временным ограничительным мерам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091452",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573319"
+    },
+    {
+      "id": "bc2089367f71",
+      "title": "Иноагенты Дудь, Быков и Гудков внесены в реестр лиц под временными ограничениями",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091455",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573300"
+    },
+    {
+      "id": "b512c68ce0e1",
+      "title": "Верховный суд отказался пересматривать дело о вывозе дочери Тишковой в Россию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091450",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573282"
+    },
+    {
+      "id": "22523560fb97",
+      "title": "«Политическую партию \"Рассвет\"» Екатериной Дунцовой* объявили иноагентом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091460",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573264"
+    },
+    {
+      "id": "7a5bd36499aa",
+      "title": "Почему маркетплейсам и продавцам нечем удивить покупателей в 2026 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091390",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573247"
+    },
+    {
+      "id": "b0663e3c676b",
+      "title": "Лидера кенийской секты приговорили к 200 годам тюрьмы за убийство 191 человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091456",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573227"
+    },
+    {
+      "id": "474ff68cb071",
+      "title": "ЕС обвинил TikTok в создании вызывающих зависимость алгоритмов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091463",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573207"
+    },
+    {
+      "id": "14a1a4640458",
+      "title": "Netflix анонсировал приквел «Очень странных дел»",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091479",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573185"
+    },
+    {
+      "id": "b24d74a38eae",
+      "title": "Бывшего чиновника Москвы обвинили в растрате",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091474",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 18:30",
+      "parsed_at": "2026-11-06T18:30:23.573157"
+    },
     {
       "id": "2d913bfee1ec",
       "title": "«Нишевый» или «прайм»: «Грамота.ру» опубликовала список претендентов на звание слова года",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "03.11 20:57",
       "parsed_at": "2026-11-03T20:57:18.576168"
-    },
-    {
-      "id": "2aad77e12a38",
-      "title": "Фигуристы поддержали благотворительную инициативу на этапе Гран-при в Красноярске",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080045",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576156"
-    },
-    {
-      "id": "4f2627a2ac86",
-      "title": "Число банкротств физлиц в России сократилось впервые с 2015 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080079",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576141"
-    },
-    {
-      "id": "38d2fffae265",
-      "title": "МИД РФ выразил протест поверенному Норвегии из-за ареста «Профессора Молчанова»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080090",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576120"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:14.113144"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:14.112985"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:14.112974"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:14.112958"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:14.112938"
-    },
-    {
-      "id": "39aacb3632dc",
-      "title": "Российский спортивный фонд заработал на процентных ставках 2,5 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079695",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 13:20",
-      "parsed_at": "2026-11-03T13:20:47.079475"
-    },
-    {
-      "id": "b06e74f4255a",
-      "title": "Посещаемость продуктовых магазинов за год снизилась на 2–7%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079454",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "03.11 13:20",
-      "parsed_at": "2026-11-03T13:20:47.079457"
     }
   ]
 }
