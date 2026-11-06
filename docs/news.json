@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T23:25:40.154061",
+  "last_updated": "2026-11-06T04:00:22.761310",
   "stats": {
     "zhkh": 2,
     "mchs": 1,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "ed1d4d28347a",
+      "title": "Алешу Зверева спасет этапная хирургия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9080372",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658550"
+    },
+    {
+      "id": "a51a0684c658",
+      "title": "Разработчик систем безопасности приобрел офис на западе Москвы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081031",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658538"
+    },
+    {
+      "id": "b2d6194461fb",
+      "title": "Компании сокращают программы долгосрочной мотивации работников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081112",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658525"
+    },
+    {
+      "id": "665ba0477b47",
+      "title": "Инвесторы подключились к фондам денежного рынка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081189",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658512"
+    },
+    {
+      "id": "4faa07e2f859",
+      "title": "Мониторинг мировой экономики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081198",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658499"
+    },
+    {
+      "id": "5bd68ab64834",
+      "title": "Первую акцию к юбилею «Единой России» посвятили женщинам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081209",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658487"
+    },
+    {
+      "id": "7f2c5ed9b068",
+      "title": "Профильный комитет рекомендовал отклонить программные избирательные инициативы КПРФ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658473"
+    },
+    {
+      "id": "f0495ffcc68c",
+      "title": "Белый дом смягчает правила распоряжения участками на территориях опережающего развития",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081246",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658459"
+    },
+    {
+      "id": "c62ff9b728bf",
+      "title": "Конгресс Парагвая не собрал кворум для отставки президента",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081321",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658444"
+    },
+    {
+      "id": "7858de04696d",
+      "title": "Госсекретарь США Рубио опроверг сообщения о своей отставке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9081322",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "06.11 04:00",
+      "parsed_at": "2026-11-06T04:00:20.658422"
+    },
     {
       "id": "0700d3b36899",
       "title": "Владимир Путин, привившись, намерен увлечь за собой всю страну и кабинет министров тем более",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "03.11 05:31",
       "parsed_at": "2026-11-03T05:31:22.303556"
-    },
-    {
-      "id": "edd53b821f14",
-      "title": "Власти КНДР назвали провокацией обвинения в причастности к взлому Binance",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079455",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303532"
-    },
-    {
-      "id": "dc7aacb52c33",
-      "title": "Переговоры России и Украины в Абу-Даби пройдут 10 и 11 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079457",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303515"
-    },
-    {
-      "id": "543c2d7a24e7",
-      "title": "Число сбитых вблизи Москвы БПЛА достигло 69",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079458",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303498"
-    },
-    {
-      "id": "db91eebd4a73",
-      "title": "Власти Казахстана заявили о предотвращении попытки госпереворота",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079456",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303481"
-    },
-    {
-      "id": "fc48b6ccbf8f",
-      "title": "Вэнс заявил об отсутствии дедлайнов по новым ударам по Ирану",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079459",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303463"
-    },
-    {
-      "id": "a428cb2bcfe8",
-      "title": "В Латвии объявляли воздушную тревогу из-за падения объекта у границы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079460",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303444"
-    },
-    {
-      "id": "3fc3e805e6bd",
-      "title": "Bloomberg: США попросят НАТО выделить больше денег на оружие для Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079462",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303422"
-    },
-    {
-      "id": "333a78b68129",
-      "title": "Правительство рассмотрит расширение полномочий Минцифры по координации ИИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079464",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 05:31",
-      "parsed_at": "2026-11-03T05:31:22.303394"
-    },
-    {
-      "id": "7f23688bcdc4",
-      "title": "Экспорт ароматических углеводородов из России ограничили на три месяца",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079390",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 23:27",
-      "parsed_at": "2026-11-02T23:27:19.516474"
-    },
-    {
-      "id": "e60844d31863",
-      "title": "Ролан Гусев назначен главным тренером «Ахмата»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079420",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "02.11 23:27",
-      "parsed_at": "2026-11-02T23:27:19.516455"
     }
   ]
 }
