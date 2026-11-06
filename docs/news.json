@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T18:30:25.235865",
+  "last_updated": "2026-11-07T00:11:26.703127",
   "stats": {
     "zhkh": 2,
     "mchs": 0,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "805e88c8a91e",
+      "title": "Минюст разъяснил механизм работы комиссии по временным ограничительным мерам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091582",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754863"
+    },
+    {
+      "id": "276c658f7885",
+      "title": "«Локомотив» уступил «Рубину» в последнем матче под руководством Михаила Галактионова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091578",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754846"
+    },
+    {
+      "id": "db204f415338",
+      "title": "Трамп сменил главу аппарата Белого дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091585",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754821"
+    },
+    {
+      "id": "cb6181c00868",
+      "title": "Умер режиссер «Фантастической женщины» Себастьян Лелио",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091586",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754804"
+    },
+    {
+      "id": "f2c05ed8bb02",
+      "title": "Галактионов покинул пост главного тренера «Локомотива»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091588",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754787"
+    },
+    {
+      "id": "d2316734e66c",
+      "title": "FT: в Европе обеспокоены из-за заявления США о новой архитектуре безопасности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091589",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754769"
+    },
+    {
+      "id": "20fe60b16e99",
+      "title": "WSJ: хуситы начали контролировать трафик судов в Красном море",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091591",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754749"
+    },
+    {
+      "id": "a371a2b1b263",
+      "title": "В России увеличили число автомобильных пунктов пропуска по электронной визе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091592",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754730"
+    },
+    {
+      "id": "85d7757e36ff",
+      "title": "США ввели санкции против восьми канадских компаний за связи с Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091594",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754711"
+    },
+    {
+      "id": "a0e28e1a3086",
+      "title": "После поражения от «Рубина» «Локомотив» расстался с главным тренером",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091593",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 00:11",
+      "parsed_at": "2026-11-07T00:11:24.754684"
+    },
     {
       "id": "0254fb44e1dc",
       "title": "Правительство вводит новые форматы продажи лекарств в сельской местности",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "04.11 01:54",
       "parsed_at": "2026-11-04T01:54:51.949192"
-    },
-    {
-      "id": "98e3d2c8ed85",
-      "title": "NYT: Израиль передал США данные о планах Ирана использовать химическое оружие",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080126",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 01:54",
-      "parsed_at": "2026-11-04T01:54:51.949175"
-    },
-    {
-      "id": "3380e09368f8",
-      "title": "Минтруд предложил учитывать обороты по счетам при назначении единого пособия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080131",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 01:54",
-      "parsed_at": "2026-11-04T01:54:51.949156"
-    },
-    {
-      "id": "7dea11e1035a",
-      "title": "Новые власти Сербии будут стремиться в ЕС без введения санкций против России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080133",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 01:54",
-      "parsed_at": "2026-11-04T01:54:51.949125"
-    },
-    {
-      "id": "0106cc116d22",
-      "title": "Корреспондент «Ъ» побывал в рейде по выявлению водителей, не желающих платить на трассе М-12",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080061",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576232"
-    },
-    {
-      "id": "85cb14dfb179",
-      "title": "Захарова: выход из конвенции против пыток не освобождает Россию от обязательств",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080073",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576220"
-    },
-    {
-      "id": "22dff2c49db7",
-      "title": "Российский букмекер готов заместить чешскую структуру в качестве спонсора IIHF",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080062",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576209"
-    },
-    {
-      "id": "64b04a7eb8e3",
-      "title": "Джош О’Коннор прокомментировал слухи о номинации на роль Джеймса Бонда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080069",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576199"
-    },
-    {
-      "id": "9646f7239c6e",
-      "title": "Парламент Гренландии одобрил соглашение о безопасности с США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080078",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576188"
-    },
-    {
-      "id": "cd3fb0cff4e1",
-      "title": "На «Госуслугах» появилась возможность смены оператора мобильной связи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080083",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576178"
-    },
-    {
-      "id": "58df2a77152f",
-      "title": "На новых объектах в комфортных условиях смогут заниматься спортом люди с ограниченными возможностями здоровья и все желающие.",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080052",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "03.11 20:57",
-      "parsed_at": "2026-11-03T20:57:18.576168"
     }
   ]
 }
