@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T21:57:23.248849",
+  "last_updated": "2026-11-08T01:28:52.849675",
   "stats": {
     "zhkh": 2,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "3fd376d0e511",
+      "title": "Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092014",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662960"
+    },
+    {
+      "id": "45c5491518d9",
+      "title": "Более 300 тысяч абонентов остались без электричества после атаки БПЛА по ЛНР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092016",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662950"
+    },
+    {
+      "id": "776d728ebf53",
+      "title": "«Краснодар» обыграл ЦСКА после семи матчей без побед в чемпионате",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092015",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662940"
+    },
+    {
+      "id": "cda9fe8cfcc4",
+      "title": "В Польше объявят общенациональный траур по жертвам стрельбы в Кракове",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092018",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662930"
+    },
+    {
+      "id": "3699509170d1",
+      "title": "Президент Израиля поручит лидеру оппозиции Айзенкоту сформировать правительство",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092020",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662919"
+    },
+    {
+      "id": "6e976188dcfe",
+      "title": "Хуситы заявили о гибели 27 человек при ударе Саудовской Аравии по Йемену",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092022",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662908"
+    },
+    {
+      "id": "53cc7584ea7f",
+      "title": "«РИА Новости»: при стрельбе в Кракове был ранен один россиянин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092011",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662897"
+    },
+    {
+      "id": "5a44d70bf1aa",
+      "title": "Полиция нашла трех мертвых людей в доме устроившего стрельбу в Кракове",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092024",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662885"
+    },
+    {
+      "id": "a5aee3166ee6",
+      "title": "МВД сообщило о профилактических рейдах в центре Москвы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092025",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:50.662865"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 01:28",
+      "parsed_at": "2026-11-08T01:28:49.601402"
+    },
     {
       "id": "cc46ab19a1a1",
       "title": "«РИА Новости»: стрельбу в Кракове устроили два человека",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "05.11 07:32",
       "parsed_at": "2026-11-05T07:32:20.294269"
-    },
-    {
-      "id": "31fd3347beeb",
-      "title": "Продажи новых машин в октябре обновили рекорд 2026 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080352",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294252"
-    },
-    {
-      "id": "3d7ed8d4e55a",
-      "title": "Главные новости к утру 5 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080520",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294235"
-    },
-    {
-      "id": "2b8d702930f9",
-      "title": "Книга об Александре Македонском получила премию Бейли Гиффорда за нон-фикшн",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080526",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294218"
-    },
-    {
-      "id": "0d5476385fe9",
-      "title": "Чиновники, депутаты и эксперты по-разному оценили предложенные Минтрансом изменения в ПДД",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080444",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294198"
-    },
-    {
-      "id": "5b619cfa2e62",
-      "title": "WS: Посла США в Индии Серджио Гора рассматривают на пост главы Госдепа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080533",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294168"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:19.251505"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:19.251471"
-    },
-    {
-      "id": "104035d11315",
-      "title": "Оппозиция Армении объявила об объединении сил",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080487",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638301"
-    },
-    {
-      "id": "aba5e6a7a419",
-      "title": "Банки крови во Франции подверглись кибератаке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080489",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638283"
-    },
-    {
-      "id": "c3588564cfc5",
-      "title": "Reuters: в Google расширили программу добровольных увольнений сотрудников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080490",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638245"
     }
   ]
 }
