@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T04:00:38.023149",
+  "last_updated": "2026-11-07T10:28:03.798794",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "64d581c096bf",
+      "title": "Дело мужа Блиновской прекратили из-за его участия в СВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091831",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.560072"
+    },
+    {
+      "id": "076013765d7b",
+      "title": "Над регионами России за ночь сбили 411 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091832",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.560054"
+    },
+    {
+      "id": "43a347c27df2",
+      "title": "США выплатят до $20 млн за данные о ядерной программе Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091836",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.560037"
+    },
+    {
+      "id": "4380fddab6ca",
+      "title": "Трамп подтвердил перестановки в администрации после поражения на выборах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091846",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.560019"
+    },
+    {
+      "id": "ea68b007009e",
+      "title": "Что известно об Огюсте Маке — главном соавторе Александра Дюма",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091272",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559994"
+    },
+    {
+      "id": "2481f04ae741",
+      "title": "Чем запомнилась неделя 2–7 ноября: цифры, цитаты и факты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091516",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559976"
+    },
+    {
+      "id": "4ca6e930e8cf",
+      "title": "Володин: 17 российских регионов ввели запрет на продажу вейпов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091855",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559954"
+    },
+    {
+      "id": "1f3d6d30c29a",
+      "title": "Минобороны сообщило об ударах по объектам в Киеве и области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091856",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559920"
+    },
+    {
+      "id": "e1ece5c51e39",
+      "title": "Годовая инфляция в России замедлилась до 6,95%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091862",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559898"
+    },
+    {
+      "id": "9d16b2e4cf3d",
+      "title": "В Орле повреждены производственные помещения после атаки ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091863",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 10:28",
+      "parsed_at": "2026-11-07T10:28:02.559867"
+    },
     {
       "id": "eaffec1e8c49",
       "title": "Мелания Трамп заявила об укреплении доверия между Россией, США и Украиной",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "04.11 13:14",
       "parsed_at": "2026-11-04T13:14:29.722350"
-    },
-    {
-      "id": "94205f023ef6",
-      "title": "СК провел обыски в домах лидеров партии «Сильная Армения»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080259",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722332"
-    },
-    {
-      "id": "d262d4d70cc8",
-      "title": "Что продажа пакета акций «Совкомфлота» означает для инвесторов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080110",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722315"
-    },
-    {
-      "id": "103ab2781b27",
-      "title": "Казахстан ждет от России ответа по возобновлению поставок нефти по «Дружбе»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080271",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722296"
-    },
-    {
-      "id": "ecb7ccc5c0b7",
-      "title": "В США завершились промежуточные выборы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079967",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722276"
-    },
-    {
-      "id": "3aa2e3c98c64",
-      "title": "Вратарь «Адмирала» Никита Бояркин стал автором гола в матче КХЛ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080278",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722250"
-    },
-    {
-      "id": "ee6e9bcba5c9",
-      "title": "Смогут ли застройщики отказывать в компенсации за недочеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080266",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722229"
-    },
-    {
-      "id": "eec75d8aa518",
-      "title": "Предприниматели — о выходном дне посреди недели",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080280",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722201"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:25.301044"
-    },
-    {
-      "id": "7e551480237b",
-      "title": "Беспилотники атаковали логистический центр Ozon в Адыгейске",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080137",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 05:50",
-      "parsed_at": "2026-11-04T05:50:43.203398"
-    },
-    {
-      "id": "1b3170b892f5",
-      "title": "На выборах в Конгресс США закрылись первые избирательные участки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080138",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 05:50",
-      "parsed_at": "2026-11-04T05:50:43.203381"
     }
   ]
 }
