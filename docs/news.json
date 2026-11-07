@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-07T10:28:03.798794",
+  "last_updated": "2026-11-07T17:16:17.195691",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
     "works": 1,
-    "events": 3,
-    "news": 111,
+    "events": 2,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "0acc9961d51f",
+      "title": "В МИД России оценили шансы на разрешение конфликта с Украиной через переговоры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091952",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697288"
+    },
+    {
+      "id": "f5a358be7a30",
+      "title": "На Солнце за два дня произошло 35 вспышек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091956",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697270"
+    },
+    {
+      "id": "06b4b0002f80",
+      "title": "Белоруссия рассмотрит возможность обращения в CAS из-за недопуска на ЧМ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091962",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697254"
+    },
+    {
+      "id": "7847cebaaf6b",
+      "title": "Чем займется Илон Маск после закрытия производства электропикапов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091954",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697235"
+    },
+    {
+      "id": "673cc5dc4449",
+      "title": "Умерла Лидия Федосеева-Шукшина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091949",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697217"
+    },
+    {
+      "id": "bcbcd93e0a11",
+      "title": "В Москве на проспекте Буденного грузовик въехал в трамвай",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091959",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697195"
+    },
+    {
+      "id": "4c264ea026db",
+      "title": "Минобороны РФ сообщило о запуске ракеты «Союз-2.1б» с космодрома Плесецк",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091966",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697177"
+    },
+    {
+      "id": "debff233552c",
+      "title": "Московское «Динамо» победило «Факел» и вышло в лидеры РПЛ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091968",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697157"
+    },
+    {
+      "id": "d5bc89d6a063",
+      "title": "Московское «Динамо» вырвало победу у аутсайдера Российской премьер-лиги",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091960",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697121"
+    },
+    {
+      "id": "fb876ee6cc92",
+      "title": "Сикорский: Польша восстановит отношения с Россией после завершения СВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091970",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:15.697093"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 17:16",
+      "parsed_at": "2026-11-07T17:16:11.850163"
+    },
     {
       "id": "64d581c096bf",
       "title": "Дело мужа Блиновской прекратили из-за его участия в СВО",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "04.11 21:08",
       "parsed_at": "2026-11-04T21:08:02.555933"
-    },
-    {
-      "id": "e448a7ac3f4a",
-      "title": "Как в России отметили праздник",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080420",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555926"
-    },
-    {
-      "id": "6d06be4d86ce",
-      "title": "Нефть Brent подешевела более чем на $4 за баррель в течение дня",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080449",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555917"
-    },
-    {
-      "id": "14d5e1f861f0",
-      "title": "Президент поручил усилить наставничество в школах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080351",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555907"
-    },
-    {
-      "id": "88445d062d2a",
-      "title": "Над российскими регионами сбили 46 БПЛА за день",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080455",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555898"
-    },
-    {
-      "id": "fde9b620ea56",
-      "title": "В Театре оперетты показывают новый мюзикл о Франкенштейне",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080421",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555888"
-    },
-    {
-      "id": "7a49534e82b6",
-      "title": "Суд отказал в выселении компаний из адлерского центра Plaza",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080384",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555870"
-    },
-    {
-      "id": "0c31e196dc7d",
-      "title": "Захарова обвинила Канаду в нарушении Олимпийской хартии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080460",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555858"
-    },
-    {
-      "id": "325433e29ea7",
-      "title": "Глава Карелии Артур Парфенчиков может уйти в отставку",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080445",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555840"
-    },
-    {
-      "id": "944d1b79f3b1",
-      "title": "Более 30 россиянок задержали в ночных клубах Турции за «нарушение морали»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080263",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722383"
-    },
-    {
-      "id": "7aafb271b4a7",
-      "title": "Alpine A310 Vision: видение будущего спорткупе",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9061754",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722366"
-    },
-    {
-      "id": "89bb82dcda6b",
-      "title": "Политолог Андрей Кортунов — о значении выборов в Конгресс США для России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080232",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 13:14",
-      "parsed_at": "2026-11-04T13:14:29.722350"
     }
   ]
 }
