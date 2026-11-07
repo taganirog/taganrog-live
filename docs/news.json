@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-07T17:16:17.195691",
+  "last_updated": "2026-11-07T21:57:23.248849",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 2,
     "mchs": 2,
-    "works": 1,
-    "events": 2,
-    "news": 112,
+    "works": 0,
+    "events": 1,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "cc46ab19a1a1",
+      "title": "«РИА Новости»: стрельбу в Кракове устроили два человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091995",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971605"
+    },
+    {
+      "id": "71d8186b1a78",
+      "title": "Полиция Польши опровергла информацию о двух стрелках в центре Кракова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091997",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971588"
+    },
+    {
+      "id": "4076679c7b6d",
+      "title": "Актрисе Эмме Стоун исполнилось 38 лет",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091431",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971572"
+    },
+    {
+      "id": "c7e834fbcfa5",
+      "title": "Стрельба в центре Кракова. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091993",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971557"
+    },
+    {
+      "id": "28acf53f791b",
+      "title": "Число погибших при стрельбе в Кракове выросло до шести",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092000",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971541"
+    },
+    {
+      "id": "3ed522f8636c",
+      "title": "В реестр британских объектов под угрозой добавили 197 новых мест",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091383",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971525"
+    },
+    {
+      "id": "38218f9fc102",
+      "title": "Сборная России по дзюдо победила на чемпионате Европы впервые за семь лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092001",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971508"
+    },
+    {
+      "id": "2f960a4a71d9",
+      "title": "На протесты во Франции вышли более 146 тысяч человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092005",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971490"
+    },
+    {
+      "id": "1d06f5a59d29",
+      "title": "Эрдоган пообещал Трампу и дальше помогать в урегулировании конфликта на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092006",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971471"
+    },
+    {
+      "id": "4b1b089452e8",
+      "title": "После стрельбы в Кракове 12 пострадавших госпитализировали в тяжелом состоянии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092008",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "07.11 21:57",
+      "parsed_at": "2026-11-07T21:57:18.971443"
+    },
     {
       "id": "0acc9961d51f",
       "title": "В МИД России оценили шансы на разрешение конфликта с Украиной через переговоры",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "05.11 02:49",
       "parsed_at": "2026-11-05T02:49:54.638245"
-    },
-    {
-      "id": "fa60051a7978",
-      "title": "Умер шведский дирижер Герберт Блумстедт",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080504",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638226"
-    },
-    {
-      "id": "b85f008cbb5c",
-      "title": "«Фенербахче» победил одного из лидеров Лиги чемпионов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080505",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638201"
-    },
-    {
-      "id": "48f08e5a22d7",
-      "title": "В России раскупают самые дешевые и самые дорогие телевизоры",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079317",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638184"
-    },
-    {
-      "id": "c4647aa3f8a7",
-      "title": "Основатель школы «Сколка» Андрей Комаров о подготовке специалистов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080314",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638167"
-    },
-    {
-      "id": "d98b6410f58f",
-      "title": "В России выросли продажи билетов на стадионные концерты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080377",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638147"
-    },
-    {
-      "id": "12efe42b4084",
-      "title": "En+ хочет взыскать с «Суал Партнерс» расходы за процесс в Лондоне",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080424",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638125"
-    },
-    {
-      "id": "e4be4bbce021",
-      "title": "Кушнер: США сосредоточены на создании новой архитектуры безопасности в Европе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080506",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:54.638095"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 02:49",
-      "parsed_at": "2026-11-05T02:49:53.677950"
-    },
-    {
-      "id": "b95641b3d660",
-      "title": "Сотрудница ЗАЭС и мирный житель погибли после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080431",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555942"
-    },
-    {
-      "id": "11bcb4d2caa2",
-      "title": "Украинские БПЛА нарушили электроснабжение Запорожской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080422",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "04.11 21:08",
-      "parsed_at": "2026-11-04T21:08:02.555933"
     }
   ]
 }
