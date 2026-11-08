@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-08T18:27:28.774569",
+  "last_updated": "2026-11-08T22:52:06.409996",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 5,
     "mchs": 2,
     "works": 0,
     "events": 0,
-    "news": 115,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "13858119410b",
+      "title": "В Минобороны Израиля заявили о намерении продолжать операцию против Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092306",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847087"
+    },
+    {
+      "id": "e362ee23c036",
+      "title": "На Запорожской АЭС восстановлено внешнее электроснабжение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092312",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847074"
+    },
+    {
+      "id": "160319e78883",
+      "title": "Трамп назвал маловероятными новые удары по Ирану при прогрессе в переговорах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092324",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847064"
+    },
+    {
+      "id": "c8cd3691b4f3",
+      "title": "Санду заявила о полном отказе Молдавии от российского газа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092334",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847052"
+    },
+    {
+      "id": "5a1a6d7909fb",
+      "title": "Поделив очки с «Зенитом», он лишил его единоличного лидерства в чемпионате России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092302",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847041"
+    },
+    {
+      "id": "d7677438770b",
+      "title": "Трамп оценил сохранившиеся мощности Ирана по производству ракет и БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092338",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847028"
+    },
+    {
+      "id": "4d0bb9128c6c",
+      "title": "CNN: социальное жилье обрушилось при землетрясении в Венесуэле из-за дефектов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092335",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847014"
+    },
+    {
+      "id": "95e826de6023",
+      "title": "Жители 12 сел в Дагестане остались без электричества из-за аварий на ЛЭП",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.847001"
+    },
+    {
+      "id": "3979693e8732",
+      "title": "Россиянка стала чемпионкой мира по шахматам среди юниоров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092340",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.846986"
+    },
+    {
+      "id": "054dc0fdd93a",
+      "title": "Аракчи сообщил о паузе в контактах с США из-за выборов в Конгресс",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092342",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 22:52",
+      "parsed_at": "2026-11-08T22:52:04.846965"
+    },
     {
       "id": "9cfcb1a9d8b3",
       "title": "Кто может стать исполнителем роли агента 007",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "06.11 04:00",
       "parsed_at": "2026-11-06T04:00:20.658550"
-    },
-    {
-      "id": "a51a0684c658",
-      "title": "Разработчик систем безопасности приобрел офис на западе Москвы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081031",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658538"
-    },
-    {
-      "id": "b2d6194461fb",
-      "title": "Компании сокращают программы долгосрочной мотивации работников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081112",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658525"
-    },
-    {
-      "id": "665ba0477b47",
-      "title": "Инвесторы подключились к фондам денежного рынка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081189",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658512"
-    },
-    {
-      "id": "4faa07e2f859",
-      "title": "Мониторинг мировой экономики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081198",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658499"
-    },
-    {
-      "id": "5bd68ab64834",
-      "title": "Первую акцию к юбилею «Единой России» посвятили женщинам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081209",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658487"
-    },
-    {
-      "id": "7f2c5ed9b068",
-      "title": "Профильный комитет рекомендовал отклонить программные избирательные инициативы КПРФ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658473"
-    },
-    {
-      "id": "f0495ffcc68c",
-      "title": "Белый дом смягчает правила распоряжения участками на территориях опережающего развития",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081246",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658459"
-    },
-    {
-      "id": "c62ff9b728bf",
-      "title": "Конгресс Парагвая не собрал кворум для отставки президента",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081321",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658444"
-    },
-    {
-      "id": "7858de04696d",
-      "title": "Госсекретарь США Рубио опроверг сообщения о своей отставке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081322",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658422"
-    },
-    {
-      "id": "0700d3b36899",
-      "title": "Владимир Путин, привившись, намерен увлечь за собой всю страну и кабинет министров тем более",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081213",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955338"
     }
   ]
 }
