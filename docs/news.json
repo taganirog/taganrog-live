@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T01:28:52.849675",
+  "last_updated": "2026-11-08T04:42:57.405018",
   "stats": {
     "zhkh": 2,
     "mchs": 2,
@@ -9,6 +9,83 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "705a65782da6",
+      "title": "Посольство РФ сообщило о ранении россиянки при стрельбе в Кракове",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092026",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:55.256756"
+    },
+    {
+      "id": "1dc19155fa42",
+      "title": "CNN: глава UFC отказался от предложения Трампа стать пресс-секретарем Белого дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092027",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:55.256743"
+    },
+    {
+      "id": "4224ee13a737",
+      "title": "Reuters: Вэнс закладывает основу для участия в президентских выборах 2028 года в США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092028",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:55.256729"
+    },
+    {
+      "id": "1adeba4af6e3",
+      "title": "Оппозиция Польши отменила протесты у Конституционного трибунала из-за траура",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092029",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:55.256713"
+    },
+    {
+      "id": "f3c5cff5cff1",
+      "title": "В Парагвае арестовали отправленного в отставку экс-президента страны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092030",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:55.256690"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:54.143429"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 04:42",
+      "parsed_at": "2026-11-08T04:42:54.143405"
+    },
     {
       "id": "3fd376d0e511",
       "title": "Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
@@ -1251,83 +1328,6 @@
       "is_urgent": false,
       "published_at": "05.11 15:52",
       "parsed_at": "2026-11-05T15:52:21.454355"
-    },
-    {
-      "id": "f150d73e488f",
-      "title": "Экстрадированный из Марокко «шариатский судья» у террористов получил десять лет строгого режима",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080988",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454335"
-    },
-    {
-      "id": "dc51ae4797ca",
-      "title": "Бывшего боттлера Coca-Cola в России просят передать во внешнее управление",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080987",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454306"
-    },
-    {
-      "id": "4eebbad599fc",
-      "title": "Скупкой драгметаллов можно будет заниматься через автоматы по пассивной франшизе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080361",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294343"
-    },
-    {
-      "id": "6576520c9ec2",
-      "title": "Bild: Министр экономики Баварии найден мертвым в отеле в Берлине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080515",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294325"
-    },
-    {
-      "id": "0767fe1b59d4",
-      "title": "КНДР отчиталась об испытании нового комплекса ПВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080518",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294302"
-    },
-    {
-      "id": "09dd1f24f774",
-      "title": "Атлантическая сельдь за год подорожала на 40,7%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080415",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294286"
-    },
-    {
-      "id": "a27f70d8f2c5",
-      "title": "Папа Римский Лев XIV встретился в Ватикане с Бобом Диланом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080516",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 07:32",
-      "parsed_at": "2026-11-05T07:32:20.294269"
     }
   ]
 }
