@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T22:52:06.409996",
+  "last_updated": "2026-11-09T02:20:11.999016",
   "stats": {
     "zhkh": 5,
     "mchs": 2,
@@ -9,6 +9,94 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "72b0065ab043",
+      "title": "Команда Mercedes впервые с 2021 года выиграла Кубок конструкторов «Формулы-1»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092344",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752566"
+    },
+    {
+      "id": "71bc10ab0ccf",
+      "title": "Провайдеру Beget временно запретили регистрировать новые домены после кибератаки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092345",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752555"
+    },
+    {
+      "id": "74bd379897a6",
+      "title": "IRNA сообщило о новых ударах по иранскому острову Кешм в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092346",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752544"
+    },
+    {
+      "id": "ed262714418b",
+      "title": "В Москве ограничили работу аэропорта Домодедово",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092362",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752533"
+    },
+    {
+      "id": "56ab1078ce13",
+      "title": "В Кракове открыли Главную рыночную площадь после теракта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752521"
+    },
+    {
+      "id": "2402a2e19f73",
+      "title": "Глава Nvidia признался в измене с подозреваемой в шпионаже гражданкой КНР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092366",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752511"
+    },
+    {
+      "id": "b192fe3f6a45",
+      "title": "В Молдавии запустили новую линию электропередачи в обход Приднестровья",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092363",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752498"
+    },
+    {
+      "id": "259e3eabaceb",
+      "title": "Все самые вкусные новинки — в еженедельном гастрономическом обзоре «Коммерсантъ Стиль»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092364",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 02:20",
+      "parsed_at": "2026-11-09T02:20:10.752475"
+    },
     {
       "id": "13858119410b",
       "title": "В Минобороны Израиля заявили о намерении продолжать операцию против Ирана",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "06.11 10:49",
       "parsed_at": "2026-11-06T10:49:27.251443"
-    },
-    {
-      "id": "f86f60fbc9b0",
-      "title": "Премьер Молдавии допустил введение виз для россиян, белорусов и китайцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081455",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251426"
-    },
-    {
-      "id": "dd54edcf9416",
-      "title": "СВР: Украина обучает в Африке операторов дронов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081451",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251407"
-    },
-    {
-      "id": "09276d190588",
-      "title": "В Театре Труда поставили «Пилораму+»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9081144",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251387"
-    },
-    {
-      "id": "4853b92e62e9",
-      "title": "Правительство продлило квоты на вывоз минеральных удобрений до мая",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081470",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251361"
-    },
-    {
-      "id": "10cf29bff70f",
-      "title": "В Подмосковье выявили новый случай заражения оспой обезьян",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081466",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251343"
-    },
-    {
-      "id": "2ef324e8e949",
-      "title": "Правительство разрешило продажу лекарств в сельских почтовых отделениях",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251322"
-    },
-    {
-      "id": "7a08b938b6a9",
-      "title": "Россиянин осужден на 19 лет за подготовку теракта в Харьковской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081483",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251293"
-    },
-    {
-      "id": "ed1d4d28347a",
-      "title": "Алешу Зверева спасет этапная хирургия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080372",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 04:00",
-      "parsed_at": "2026-11-06T04:00:20.658550"
     }
   ]
 }
