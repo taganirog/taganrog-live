@@ -1,14 +1,102 @@
 {
-  "last_updated": "2026-11-08T04:42:57.405018",
+  "last_updated": "2026-11-08T11:24:12.382105",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 2,
     "works": 0,
-    "events": 1,
+    "events": 0,
     "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "57490df35d0c",
+      "title": "Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092074",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042210"
+    },
+    {
+      "id": "78d9c3c479d0",
+      "title": "Хинштейн: 267 беспилотников сбили за сутки в Курской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092077",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042192"
+    },
+    {
+      "id": "2678101ddafd",
+      "title": "Две крылатые ракеты хуситов перехватили над Эр-Риядом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092078",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042177"
+    },
+    {
+      "id": "c5b4b8b70594",
+      "title": "ВСУ атаковали два предприятия в Белгородской области за сутки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092081",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042162"
+    },
+    {
+      "id": "df2754b944fd",
+      "title": "Запорожская АЭС перешла на резервное электроснабжение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092082",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042140"
+    },
+    {
+      "id": "84c1a54cd2c2",
+      "title": "Люди становятся холоднее, показывают исследования",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091419",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042126"
+    },
+    {
+      "id": "37f926f368f2",
+      "title": "Space X анонсировала 15-й запуск Starship",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092085",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042108"
+    },
+    {
+      "id": "ceb21e9fb9a2",
+      "title": "Посольство РФ: политика Берна похоронила реноме Швейцарии как универсального посредника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092092",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 11:24",
+      "parsed_at": "2026-11-08T11:24:11.042083"
+    },
     {
       "id": "705a65782da6",
       "title": "Посольство РФ сообщило о ранении россиянки при стрельбе в Кракове",
@@ -1240,94 +1328,6 @@
       "is_urgent": false,
       "published_at": "05.11 23:25",
       "parsed_at": "2026-11-05T23:25:37.955127"
-    },
-    {
-      "id": "569110ebec2a",
-      "title": "Южная Корея перенесет зону борьбы с пиратами ближе к Ормузскому проливу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080917",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454478"
-    },
-    {
-      "id": "a2775595e684",
-      "title": "Федерация футбола Португалии организует прощальное мероприятие в честь Роналду",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080960",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454462"
-    },
-    {
-      "id": "b86450641d20",
-      "title": "Axios: Вэнс предупреждал о поражении республиканцев при продолжении ударов по Ирану",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080966",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454445"
-    },
-    {
-      "id": "d05686e96514",
-      "title": "Конституционный суд обязал предоставлять инвалидам комфортное жилье",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080955",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454428"
-    },
-    {
-      "id": "4d0b61e65282",
-      "title": "Осужден участник хищения средств Тембанка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080944",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454411"
-    },
-    {
-      "id": "ee1dcc4547c5",
-      "title": "Республиканцы признали, что к поражению их привела иранская кампания",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080927",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454393"
-    },
-    {
-      "id": "795c3dbf8745",
-      "title": "Установлен рекорд по количеству красных карточек, показанных за один матч",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080965",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454373"
-    },
-    {
-      "id": "7669827ae019",
-      "title": "Politico: спор о статусе Канады в ЕС выявил раскол между Мерцем и фон дер Ляйен",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9080981",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 15:52",
-      "parsed_at": "2026-11-05T15:52:21.454355"
     }
   ]
 }
