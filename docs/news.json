@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T11:24:12.382105",
+  "last_updated": "2026-11-08T18:27:28.774569",
   "stats": {
     "zhkh": 3,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "9cfcb1a9d8b3",
+      "title": "Кто может стать исполнителем роли агента 007",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092216",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495543"
+    },
+    {
+      "id": "71d3732f2caa",
+      "title": "Какие законопроекты Дума рассмотрит в ноябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092226",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495529"
+    },
+    {
+      "id": "8802781bc7dc",
+      "title": "Сеть АЗС «Трасса» прекратила работу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092228",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495517"
+    },
+    {
+      "id": "cf72ae90c516",
+      "title": "Объем операций домохозяйств с наличными сократился за месяц на 35%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092227",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495500"
+    },
+    {
+      "id": "340c5bc4dab7",
+      "title": "The Guardian: британские учреждения столкнулись с лавиной ИИ-жалоб и обращений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092230",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495488"
+    },
+    {
+      "id": "21159a5e91ab",
+      "title": "«Грамота.ру» отказала «сикс-севен» в статусе слова года",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9091462",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495475"
+    },
+    {
+      "id": "b700c82ba951",
+      "title": "В Красноярске полицейские застрелили агрессивного медведя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092241",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495462"
+    },
+    {
+      "id": "a478d109b768",
+      "title": "Эксперты оценили причины замедления российской экономики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092229",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495448"
+    },
+    {
+      "id": "8f459614bdf3",
+      "title": "В Карелии на заправках «Роснефти» ввели ограничения на отпуск топлива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092247",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "08.11 18:27",
+      "parsed_at": "2026-11-08T18:27:27.495426"
+    },
     {
       "id": "57490df35d0c",
       "title": "Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "05.11 23:25",
       "parsed_at": "2026-11-05T23:25:37.955338"
-    },
-    {
-      "id": "99d5e9620cfd",
-      "title": "Львова-Белова анонсировала воссоединение еще девяти украинских детей с семьями",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081270",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955319"
-    },
-    {
-      "id": "564c03fc9de9",
-      "title": "Генерал-лейтенант Кристиан Фройдинг станет новым командующим бундесвером",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081255",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955301"
-    },
-    {
-      "id": "4cc968fdef06",
-      "title": "Рынок кибербезопасности в 2026 году достигнет 455,4 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081170",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955284"
-    },
-    {
-      "id": "ffc938c41ef7",
-      "title": "Fox News узнал о планах Конгресса запустить процедуру импичмента главы Пентагона",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081276",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955265"
-    },
-    {
-      "id": "91637dc06c7f",
-      "title": "Путин встретился с Иерусалимским патриархом Феофилом III",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081281",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955242"
-    },
-    {
-      "id": "42fbed4e35e4",
-      "title": "США расширили санкции против энергетики Кубы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081289",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955195"
-    },
-    {
-      "id": "ed4277830e03",
-      "title": "Variety: крупнейший лейбл мира Warner Records массово увольняет топ-менеджеров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081287",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955176"
-    },
-    {
-      "id": "b9bdea8130c2",
-      "title": "Банк России отметил возвращение экономики к перегреву",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081290",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955156"
-    },
-    {
-      "id": "c29942e5aa10",
-      "title": "Pink Floyd анонсировала переиздание альбома Animals в честь 50-летия пластинки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081291",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "05.11 23:25",
-      "parsed_at": "2026-11-05T23:25:37.955127"
     }
   ]
 }
