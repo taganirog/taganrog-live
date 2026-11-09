@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T05:50:52.573611",
+  "last_updated": "2026-11-09T13:43:43.609215",
   "stats": {
     "zhkh": 6,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "912e02cdb49e",
+      "title": "В Кремле отказались публично обсуждать консультации в формате Россия — НАТО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092714",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801532"
+    },
+    {
+      "id": "384ca9a593f5",
+      "title": "Новый кабинет в Израиле сформирует лидер оппозиции: оценки СМИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092695",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801522"
+    },
+    {
+      "id": "f1c4b955b7f6",
+      "title": "МИД России: «Интервидение» пройдет в Саудовской Аравии осенью 2027 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092736",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801511"
+    },
+    {
+      "id": "61017f867202",
+      "title": "Забытую в шкафу картину оценили в $3 млн",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9092627",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801497"
+    },
+    {
+      "id": "e4b4c0a301da",
+      "title": "Кремлю неизвестно о просьбе передать активы Coca-Cola во временное управление",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092737",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801487"
+    },
+    {
+      "id": "865307e3235e",
+      "title": "Анна Кулецкая — о том, почему дурной пример заразителен",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092683",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801476"
+    },
+    {
+      "id": "1dc4e8ed28eb",
+      "title": "Восемь регионов планируют ограничить работу мигрантов в такси в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092726",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801466"
+    },
+    {
+      "id": "49f94ade8858",
+      "title": "Тюнинг-ателье West Coast Customs построило машины из GTA VI в реальности",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9092742",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801454"
+    },
+    {
+      "id": "fb53105aaf70",
+      "title": "Дмитрий Гронский — о премьере фильма «Мазерати» и новых концепт-карах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092740",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801441"
+    },
+    {
+      "id": "ba65f37b4adf",
+      "title": "Обзор зарубежной прессы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092715",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 13:43",
+      "parsed_at": "2026-11-09T13:43:14.801419"
+    },
     {
       "id": "34bf322d9767",
       "title": "Экспортная стоимость российской пшеницы упала на 7% за две с половиной недели",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "07.11 00:11",
       "parsed_at": "2026-11-07T00:11:24.754821"
-    },
-    {
-      "id": "cb6181c00868",
-      "title": "Умер режиссер «Фантастической женщины» Себастьян Лелио",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091586",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754804"
-    },
-    {
-      "id": "f2c05ed8bb02",
-      "title": "Галактионов покинул пост главного тренера «Локомотива»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091588",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754787"
-    },
-    {
-      "id": "d2316734e66c",
-      "title": "FT: в Европе обеспокоены из-за заявления США о новой архитектуре безопасности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091589",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754769"
-    },
-    {
-      "id": "20fe60b16e99",
-      "title": "WSJ: хуситы начали контролировать трафик судов в Красном море",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091591",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754749"
-    },
-    {
-      "id": "a371a2b1b263",
-      "title": "В России увеличили число автомобильных пунктов пропуска по электронной визе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091592",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754730"
-    },
-    {
-      "id": "85d7757e36ff",
-      "title": "США ввели санкции против восьми канадских компаний за связи с Ираном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091594",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754711"
-    },
-    {
-      "id": "a0e28e1a3086",
-      "title": "После поражения от «Рубина» «Локомотив» расстался с главным тренером",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091593",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754684"
-    },
-    {
-      "id": "0254fb44e1dc",
-      "title": "Правительство вводит новые форматы продажи лекарств в сельской местности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091427",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573339"
-    },
-    {
-      "id": "02dca0200c84",
-      "title": "Путин утвердил состав комиссии по временным ограничительным мерам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091452",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573319"
-    },
-    {
-      "id": "bc2089367f71",
-      "title": "Иноагенты Дудь, Быков и Гудков внесены в реестр лиц под временными ограничениями",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091455",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573300"
     }
   ]
 }
