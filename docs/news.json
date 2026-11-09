@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-09T02:20:11.999016",
+  "last_updated": "2026-11-09T05:50:52.573611",
   "stats": {
-    "zhkh": 5,
+    "zhkh": 6,
     "mchs": 2,
-    "works": 0,
+    "works": 1,
     "events": 0,
-    "news": 113,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "34bf322d9767",
+      "title": "Экспортная стоимость российской пшеницы упала на 7% за две с половиной недели",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092300",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087290"
+    },
+    {
+      "id": "b10d24d8808d",
+      "title": "В Анталье стартовала Конференция СОР31",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092323",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087272"
+    },
+    {
+      "id": "cfc17e72b712",
+      "title": "Рубио заявил о шансе добиться прогресса на предстоящих переговорах по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092369",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087254"
+    },
+    {
+      "id": "e9fc97d3f40f",
+      "title": "США начали операцию по перекрытию поставок оружия Ирану",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092370",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087236"
+    },
+    {
+      "id": "0a7c9fa24a82",
+      "title": "Трамп сообщил о планах встретиться с Путиным и Си в Китае",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092372",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087219"
+    },
+    {
+      "id": "2a18aa2397e5",
+      "title": "Над Ленинградской областью сбили 38 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092374",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087201"
+    },
+    {
+      "id": "b93537f17f83",
+      "title": "Добычу на газовом месторождении в Ираке остановили после удара БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092373",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087184"
+    },
+    {
+      "id": "94c60a6acbe0",
+      "title": "Венгрия обсудила с Румынией диверсификацию поставок газа из Черного моря",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092371",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087168"
+    },
+    {
+      "id": "c7f75bf4b4d8",
+      "title": "Осколки БПЛА попали в жилой дом в городе Кириши Ленинградской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092376",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087149"
+    },
+    {
+      "id": "dcd55607f907",
+      "title": "В Nvidia раскрыли детали внутреннего расследования в отношении своего гендиректора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092377",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "09.11 05:50",
+      "parsed_at": "2026-11-09T05:50:51.087120"
+    },
     {
       "id": "72b0065ab043",
       "title": "Команда Mercedes впервые с 2021 года выиграла Кубок конструкторов «Формулы-1»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "06.11 18:30",
       "parsed_at": "2026-11-06T18:30:23.573300"
-    },
-    {
-      "id": "b512c68ce0e1",
-      "title": "Верховный суд отказался пересматривать дело о вывозе дочери Тишковой в Россию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091450",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573282"
-    },
-    {
-      "id": "22523560fb97",
-      "title": "«Политическую партию \"Рассвет\"» Екатериной Дунцовой* объявили иноагентом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091460",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573264"
-    },
-    {
-      "id": "7a5bd36499aa",
-      "title": "Почему маркетплейсам и продавцам нечем удивить покупателей в 2026 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091390",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573247"
-    },
-    {
-      "id": "b0663e3c676b",
-      "title": "Лидера кенийской секты приговорили к 200 годам тюрьмы за убийство 191 человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091456",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573227"
-    },
-    {
-      "id": "474ff68cb071",
-      "title": "ЕС обвинил TikTok в создании вызывающих зависимость алгоритмов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091463",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573207"
-    },
-    {
-      "id": "14a1a4640458",
-      "title": "Netflix анонсировал приквел «Очень странных дел»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573185"
-    },
-    {
-      "id": "b24d74a38eae",
-      "title": "Бывшего чиновника Москвы обвинили в растрате",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091474",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 18:30",
-      "parsed_at": "2026-11-06T18:30:23.573157"
-    },
-    {
-      "id": "2d913bfee1ec",
-      "title": "«Нишевый» или «прайм»: «Грамота.ру» опубликовала список претендентов на звание слова года",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9081089",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251480"
-    },
-    {
-      "id": "460594c80ec4",
-      "title": "Как рынок краткосрочной аренды ищет новый баланс",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9079841",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251461"
-    },
-    {
-      "id": "5f5e5d38e4bc",
-      "title": "Дмитрий Дризе — о борьбе с «нетрадиционной» кухней",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9081432",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "06.11 10:49",
-      "parsed_at": "2026-11-06T10:49:27.251443"
     }
   ]
 }
