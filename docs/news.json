@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-09T13:43:43.609215",
+  "last_updated": "2026-11-10T00:14:03.471552",
   "stats": {
     "zhkh": 6,
-    "mchs": 2,
+    "mchs": 0,
     "works": 1,
     "events": 0,
-    "news": 111,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "d433eaa50d83",
+      "title": "Российская делегация прилетела в Абу-Даби",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093213",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040557"
+    },
+    {
+      "id": "4bb9b50f543d",
+      "title": "Резервные мощности дата-центров будут использовать для систем из «белого списка»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040543"
+    },
+    {
+      "id": "f4d0bbd628a4",
+      "title": "Выходец из Marvel будет руководить DC Studios",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093215",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040528"
+    },
+    {
+      "id": "9b0a72555d1d",
+      "title": "Пентагон объявил о завершении эпохи субсидирования обороны Европы со стороны США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093217",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040515"
+    },
+    {
+      "id": "23d4b34e0884",
+      "title": "Al Arabiya: США и Иран близки к сделке о снижении уровня обогащения урана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093219",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040499"
+    },
+    {
+      "id": "1614e5ea7d5e",
+      "title": "Илья Демуцкий положил на музыку ренессансные гравюры о любви",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9092956",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040484"
+    },
+    {
+      "id": "34264325c1df",
+      "title": "Трамп: встреча России и Украины в Абу-Даби дает шанс на прорыв в переговорах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093221",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040465"
+    },
+    {
+      "id": "f037f4c39448",
+      "title": "Глава МИД России Сергей Лавров — о мировой экономике и ее связях с международной безопасностью",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092933",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040450"
+    },
+    {
+      "id": "0f841e3d737a",
+      "title": "Лавров: ЕС взялся за открытый захват иностранных судов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093168",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040430"
+    },
+    {
+      "id": "051f6f4a41af",
+      "title": "Лавров: действия по захвату судов будут встречать зеркальную реакцию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093169",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 00:13",
+      "parsed_at": "2026-11-10T00:13:35.040406"
+    },
     {
       "id": "912e02cdb49e",
       "title": "В Кремле отказались публично обсуждать консультации в формате Россия — НАТО",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "07.11 04:00",
       "parsed_at": "2026-11-07T04:00:35.778402"
-    },
-    {
-      "id": "4db0c2442efc",
-      "title": "ВСУ ударили ракетами по предприятию в Орле",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091814",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778374"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.117217"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.116952"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.116931"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.116906"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.116873"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:31.116834"
-    },
-    {
-      "id": "805e88c8a91e",
-      "title": "Минюст разъяснил механизм работы комиссии по временным ограничительным мерам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091582",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754863"
-    },
-    {
-      "id": "276c658f7885",
-      "title": "«Локомотив» уступил «Рубину» в последнем матче под руководством Михаила Галактионова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091578",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754846"
-    },
-    {
-      "id": "db204f415338",
-      "title": "Трамп сменил главу аппарата Белого дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091585",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 00:11",
-      "parsed_at": "2026-11-07T00:11:24.754821"
     }
   ]
 }
