@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T14:59:15.721733",
+  "last_updated": "2026-11-10T22:26:43.316013",
   "stats": {
     "zhkh": 6,
     "mchs": 2,
@@ -9,6 +9,127 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "eacbf282c208",
+      "title": "Дума отклонила избирательные инициативы коммунистов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093947",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933991"
+    },
+    {
+      "id": "241c4ed59a37",
+      "title": "Новый глава профильного комитета Госдумы поделился планами на будущее",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093946",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933979"
+    },
+    {
+      "id": "7c518d6f27c3",
+      "title": "Минюст предложил повысить пороги крупного и особо крупного размера хищения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094044",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933966"
+    },
+    {
+      "id": "a4b2c3daa496",
+      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091425",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933952"
+    },
+    {
+      "id": "662d951543c0",
+      "title": "«Роскосмос» проведет закрытый набор космонавтов среди медиков ФМБА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094031",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933938"
+    },
+    {
+      "id": "3fb92efc641c",
+      "title": "Принят законопроект о статусе малоэтажных поселков",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093966",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933924"
+    },
+    {
+      "id": "a49c0025710e",
+      "title": "Умер бывший ректор РГИСИ Лев Сундстрем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094069",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933910"
+    },
+    {
+      "id": "e035c72b91ef",
+      "title": "Парламент Израиля 26-го созыва принес присягу и начал работу после выборов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094070",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933896"
+    },
+    {
+      "id": "9f7a0ce0a084",
+      "title": "Акции Nvidia упали на 6%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933879"
+    },
+    {
+      "id": "9778bd9423e3",
+      "title": "Минэнерго США пересмотрело прогноз по снижению спроса на нефть в 2026 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094085",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:14.933857"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 22:26",
+      "parsed_at": "2026-11-10T22:26:11.291011"
+    },
     {
       "id": "3769ffffd81b",
       "title": "Anthropic выпустила новые модели Claude и показала созданную ИИ операционную систему",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "07.11 21:57",
       "parsed_at": "2026-11-07T21:57:18.971605"
-    },
-    {
-      "id": "71d8186b1a78",
-      "title": "Полиция Польши опровергла информацию о двух стрелках в центре Кракова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091997",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971588"
-    },
-    {
-      "id": "4076679c7b6d",
-      "title": "Актрисе Эмме Стоун исполнилось 38 лет",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091431",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971572"
-    },
-    {
-      "id": "c7e834fbcfa5",
-      "title": "Стрельба в центре Кракова. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091993",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971557"
-    },
-    {
-      "id": "28acf53f791b",
-      "title": "Число погибших при стрельбе в Кракове выросло до шести",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092000",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971541"
-    },
-    {
-      "id": "3ed522f8636c",
-      "title": "В реестр британских объектов под угрозой добавили 197 новых мест",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091383",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971525"
-    },
-    {
-      "id": "38218f9fc102",
-      "title": "Сборная России по дзюдо победила на чемпионате Европы впервые за семь лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092001",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971508"
-    },
-    {
-      "id": "2f960a4a71d9",
-      "title": "На протесты во Франции вышли более 146 тысяч человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092005",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971490"
-    },
-    {
-      "id": "1d06f5a59d29",
-      "title": "Эрдоган пообещал Трампу и дальше помогать в урегулировании конфликта на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092006",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971471"
-    },
-    {
-      "id": "4b1b089452e8",
-      "title": "После стрельбы в Кракове 12 пострадавших госпитализировали в тяжелом состоянии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092008",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971443"
-    },
-    {
-      "id": "0acc9961d51f",
-      "title": "В МИД России оценили шансы на разрешение конфликта с Украиной через переговоры",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091952",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697288"
-    },
-    {
-      "id": "f5a358be7a30",
-      "title": "На Солнце за два дня произошло 35 вспышек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091956",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697270"
     }
   ]
 }
