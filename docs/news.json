@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T06:41:23.723284",
+  "last_updated": "2026-11-10T14:59:15.721733",
   "stats": {
     "zhkh": 6,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "3769ffffd81b",
+      "title": "Anthropic выпустила новые модели Claude и показала созданную ИИ операционную систему",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093679",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520464"
+    },
+    {
+      "id": "5a0ebf5e0717",
+      "title": "Sony представила новую PlayStation Portal с памятью и привязкой к Японии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093681",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520441"
+    },
+    {
+      "id": "b22f216f2539",
+      "title": "Владимир Осипов — об утере США лидирующих позиций в мире",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093585",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520408"
+    },
+    {
+      "id": "68e961ff41d1",
+      "title": "Суд в Москве оштрафовал Telegram на 3,8 млн рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093686",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520387"
+    },
+    {
+      "id": "d5b07821f6a3",
+      "title": "В Болгарии 12 человек погибли в ДТП с участием более 50 машин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093671",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520355"
+    },
+    {
+      "id": "729c30a1f899",
+      "title": "Молдавия пообещала оперативно выполнить все требования ЕС по санкциям",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093689",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520338"
+    },
+    {
+      "id": "303cba2c0aa1",
+      "title": "Дмитрий Гронский — о «китайском Rolls-Royce»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093584",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520321"
+    },
+    {
+      "id": "8b7338852480",
+      "title": "Совершавший «вечный круиз» лайнер Villa Vie Odyssey арестовали в Сингапуре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093622",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520304"
+    },
+    {
+      "id": "6bb2fc83f8f2",
+      "title": "«Роснефть» разместила 10-летние облигации на 750 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093708",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520284"
+    },
+    {
+      "id": "8debc27e6f9b",
+      "title": "Анна Кулецкая — о том, почему люди готовы покупать симуляцию катастроф",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093582",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 14:58",
+      "parsed_at": "2026-11-10T14:58:47.520256"
+    },
     {
       "id": "7a0a3fa93c5f",
       "title": "В Саудовской Аравии атакован нефтепровод «Восток — Запад»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "07.11 17:16",
       "parsed_at": "2026-11-07T17:16:15.697270"
-    },
-    {
-      "id": "06b4b0002f80",
-      "title": "Белоруссия рассмотрит возможность обращения в CAS из-за недопуска на ЧМ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091962",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697254"
-    },
-    {
-      "id": "7847cebaaf6b",
-      "title": "Чем займется Илон Маск после закрытия производства электропикапов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091954",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697235"
-    },
-    {
-      "id": "673cc5dc4449",
-      "title": "Умерла Лидия Федосеева-Шукшина",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091949",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697217"
-    },
-    {
-      "id": "bcbcd93e0a11",
-      "title": "В Москве на проспекте Буденного грузовик въехал в трамвай",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091959",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697195"
-    },
-    {
-      "id": "4c264ea026db",
-      "title": "Минобороны РФ сообщило о запуске ракеты «Союз-2.1б» с космодрома Плесецк",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091966",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697177"
-    },
-    {
-      "id": "debff233552c",
-      "title": "Московское «Динамо» победило «Факел» и вышло в лидеры РПЛ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091968",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697157"
-    },
-    {
-      "id": "d5bc89d6a063",
-      "title": "Московское «Динамо» вырвало победу у аутсайдера Российской премьер-лиги",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091960",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697121"
-    },
-    {
-      "id": "fb876ee6cc92",
-      "title": "Сикорский: Польша восстановит отношения с Россией после завершения СВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091970",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:15.697093"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 17:16",
-      "parsed_at": "2026-11-07T17:16:11.850163"
-    },
-    {
-      "id": "64d581c096bf",
-      "title": "Дело мужа Блиновской прекратили из-за его участия в СВО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091831",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.560072"
     }
   ]
 }
