@@ -1,14 +1,190 @@
 {
-  "last_updated": "2026-11-10T00:14:03.471552",
+  "last_updated": "2026-11-10T06:41:23.723284",
   "stats": {
     "zhkh": 6,
-    "mchs": 0,
+    "mchs": 2,
     "works": 1,
     "events": 0,
-    "news": 113,
+    "news": 111,
     "total": 120
   },
   "items": [
+    {
+      "id": "7a0a3fa93c5f",
+      "title": "В Саудовской Аравии атакован нефтепровод «Восток — Запад»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093237",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211547"
+    },
+    {
+      "id": "62d16361fe56",
+      "title": "Трамп заявил о позитивной динамике в решении конфликта с Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093239",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211534"
+    },
+    {
+      "id": "6f13d972a123",
+      "title": "Республиканец Мэсси вынес на голосование резолюцию об импичменте Хегсета",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093241",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211520"
+    },
+    {
+      "id": "d353c2672152",
+      "title": "Тело россиянки обнаружили на курорте в Сербии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093242",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211505"
+    },
+    {
+      "id": "7f7143cd7750",
+      "title": "Глава Nvidia потерял $7,4 млрд после начала расследования дела о шпионаже",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093243",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211493"
+    },
+    {
+      "id": "9d6362f38e01",
+      "title": "За €1 ищут спасителя для 800-летнего замка в Саксонии",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9092932",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211480"
+    },
+    {
+      "id": "050b696be1a4",
+      "title": "Банкиры предлагают отложить на год изменение налогообложения вкладов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093164",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211463"
+    },
+    {
+      "id": "c0759dbd7c1e",
+      "title": "FT: Нетаньяху ежедневно просит Трампа возобновить войну против Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093245",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211449"
+    },
+    {
+      "id": "f4c3d5cb41ee",
+      "title": "Франция пригрозила Ирану санкциями из-за взлома холодильников в магазинах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093247",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211434"
+    },
+    {
+      "id": "24d49a336b68",
+      "title": "Бывшая штаб-квартира владельца IKEA в России перешла к автопроизводителю",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093034",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:55.211413"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037341"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037145"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037126"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037108"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037085"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "10.11 06:40",
+      "parsed_at": "2026-11-10T06:40:52.037058"
+    },
     {
       "id": "d433eaa50d83",
       "title": "Российская делегация прилетела в Абу-Даби",
@@ -1152,182 +1328,6 @@
       "is_urgent": false,
       "published_at": "07.11 10:28",
       "parsed_at": "2026-11-07T10:28:02.560072"
-    },
-    {
-      "id": "076013765d7b",
-      "title": "Над регионами России за ночь сбили 411 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091832",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.560054"
-    },
-    {
-      "id": "43a347c27df2",
-      "title": "США выплатят до $20 млн за данные о ядерной программе Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091836",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.560037"
-    },
-    {
-      "id": "4380fddab6ca",
-      "title": "Трамп подтвердил перестановки в администрации после поражения на выборах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091846",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.560019"
-    },
-    {
-      "id": "ea68b007009e",
-      "title": "Что известно об Огюсте Маке — главном соавторе Александра Дюма",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091272",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559994"
-    },
-    {
-      "id": "2481f04ae741",
-      "title": "Чем запомнилась неделя 2–7 ноября: цифры, цитаты и факты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091516",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559976"
-    },
-    {
-      "id": "4ca6e930e8cf",
-      "title": "Володин: 17 российских регионов ввели запрет на продажу вейпов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091855",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559954"
-    },
-    {
-      "id": "1f3d6d30c29a",
-      "title": "Минобороны сообщило об ударах по объектам в Киеве и области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091856",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559920"
-    },
-    {
-      "id": "e1ece5c51e39",
-      "title": "Годовая инфляция в России замедлилась до 6,95%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091862",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559898"
-    },
-    {
-      "id": "9d16b2e4cf3d",
-      "title": "В Орле повреждены производственные помещения после атаки ВСУ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091863",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 10:28",
-      "parsed_at": "2026-11-07T10:28:02.559867"
-    },
-    {
-      "id": "eaffec1e8c49",
-      "title": "Мелания Трамп заявила об укреплении доверия между Россией, США и Украиной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091597",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778510"
-    },
-    {
-      "id": "465be71b3860",
-      "title": "Путин передал во временное управление еще три актива JTI",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091806",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778493"
-    },
-    {
-      "id": "d6a38bf22ff9",
-      "title": "Минфин зарегистрировал новые выпуски ОФЗ на 1,05 трлн рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091808",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778476"
-    },
-    {
-      "id": "1ecc50de8185",
-      "title": "Сенат Парагвая объявил импичмент президенту",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091809",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778458"
-    },
-    {
-      "id": "7c73baeb6d6a",
-      "title": "Минэнерго Турции: Анкара сокращает импорт газа из РФ из-за высоких цен",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091811",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778441"
-    },
-    {
-      "id": "e56e42c72c94",
-      "title": "Экс-президента Парагвая взяли под домашний арест сразу после импичмента",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091812",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778424"
-    },
-    {
-      "id": "ec2f509815de",
-      "title": "Беспилотник влетел в многоквартирный дом в Белгороде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091813",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 04:00",
-      "parsed_at": "2026-11-07T04:00:35.778402"
     }
   ]
 }
