@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T03:08:57.493570",
+  "last_updated": "2026-11-11T09:53:15.942417",
   "stats": {
     "zhkh": 6,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "26cca8c09247",
+      "title": "В Калининградской области задержаны двое предполагаемых агентов спецслужб Польши",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094235",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558266"
+    },
+    {
+      "id": "9fb542edbdde",
+      "title": "FT узнала об опасениях Франции получить ядерный ответ России из-за ракет ФРГ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094237",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558248"
+    },
+    {
+      "id": "2a832e1ce8c8",
+      "title": "Матвиенко посетит Вьетнам с официальным визитом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094253",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558231"
+    },
+    {
+      "id": "c82b71f1a5e9",
+      "title": "Дмитрий Дризе — об итогах первого дня переговоров в Абу-Даби",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094249",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558198"
+    },
+    {
+      "id": "f985bd7a8c10",
+      "title": "«МегаФон» и МТС пока не договорились о маркировке звонков с банками",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094260",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558181"
+    },
+    {
+      "id": "dc6608068060",
+      "title": "NYT: глава Минфина США переехал на военную базу после угроз со стороны Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094263",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558163"
+    },
+    {
+      "id": "5509cab1e9c1",
+      "title": "Финляндия и Литва вводили ограничения в небе из-за угрозы БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094265",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558144"
+    },
+    {
+      "id": "ea6ae9d9a2e5",
+      "title": "При атаке БПЛА в Адыгее загорелась кровля пятиэтажного дома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094272",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558123"
+    },
+    {
+      "id": "2da6542fd87c",
+      "title": "Почему компании все чаще выбирают маркетплейсы для корпоративных закупок",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092707",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:47.558092"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 09:52",
+      "parsed_at": "2026-11-11T09:52:46.562013"
+    },
     {
       "id": "37463394ba78",
       "title": "УК «Сибантрацит» арендовал офис в «Сколково Парке»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.11 11:24",
       "parsed_at": "2026-11-08T11:24:11.042108"
-    },
-    {
-      "id": "ceb21e9fb9a2",
-      "title": "Посольство РФ: политика Берна похоронила реноме Швейцарии как универсального посредника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092092",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042083"
-    },
-    {
-      "id": "705a65782da6",
-      "title": "Посольство РФ сообщило о ранении россиянки при стрельбе в Кракове",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092026",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:55.256756"
-    },
-    {
-      "id": "1dc19155fa42",
-      "title": "CNN: глава UFC отказался от предложения Трампа стать пресс-секретарем Белого дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092027",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:55.256743"
-    },
-    {
-      "id": "4224ee13a737",
-      "title": "Reuters: Вэнс закладывает основу для участия в президентских выборах 2028 года в США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092028",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:55.256729"
-    },
-    {
-      "id": "1adeba4af6e3",
-      "title": "Оппозиция Польши отменила протесты у Конституционного трибунала из-за траура",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092029",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:55.256713"
-    },
-    {
-      "id": "f3c5cff5cff1",
-      "title": "В Парагвае арестовали отправленного в отставку экс-президента страны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092030",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:55.256690"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:54.143429"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 04:42",
-      "parsed_at": "2026-11-08T04:42:54.143405"
-    },
-    {
-      "id": "3fd376d0e511",
-      "title": "Трамп предложил главе UFC Дэйне Уайту стать пресс-секретарем Белого дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092014",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662960"
-    },
-    {
-      "id": "45c5491518d9",
-      "title": "Более 300 тысяч абонентов остались без электричества после атаки БПЛА по ЛНР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092016",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662950"
     }
   ]
 }
