@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T17:51:51.296729",
+  "last_updated": "2026-11-12T00:41:07.405495",
   "stats": {
     "zhkh": 5,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "0ac90c7c289d",
+      "title": "Космонавты Чуб и Горбунов вошли в экипаж следующей экспедиции на МКС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095049",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984411"
+    },
+    {
+      "id": "3a8c4addd4ca",
+      "title": "Скоропостижно скончался посол РФ в США Александр Дарчиев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095044",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984396"
+    },
+    {
+      "id": "bc8096dd70f2",
+      "title": "Семь человек погибли в ДТП в Марий Эл",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095051",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984380"
+    },
+    {
+      "id": "4f4da41e8a5f",
+      "title": "Медведев: работа над бюджетом почти завершена",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095056",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984349"
+    },
+    {
+      "id": "b33985e900f9",
+      "title": "Президент Армении подписал закон о ратификации соглашения по «Маршруту Трампа»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095057",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984334"
+    },
+    {
+      "id": "bf7013e9d60a",
+      "title": "Донецк и Мариуполь частично обесточены",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095059",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984305"
+    },
+    {
+      "id": "506dba3bd066",
+      "title": "Axios: США предложили России подготовить соглашение о безопасности в Европе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095063",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984290"
+    },
+    {
+      "id": "08538dde276e",
+      "title": "Платформенные работники предлагают фиксировать их карьеру в цифровых паспортах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094712",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984270"
+    },
+    {
+      "id": "e088c2468ac9",
+      "title": "ТАСС: Усмана Нурмагомедова задержали в Абу-Даби",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095062",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 00:40",
+      "parsed_at": "2026-11-12T00:40:38.984243"
+    },
     {
       "id": "29843ccada69",
       "title": "Россия запретила въезд французским журналистам Полю Гого и Ариан Шиман",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.11 22:52",
       "parsed_at": "2026-11-08T22:52:04.847028"
-    },
-    {
-      "id": "4d0bb9128c6c",
-      "title": "CNN: социальное жилье обрушилось при землетрясении в Венесуэле из-за дефектов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092335",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847014"
-    },
-    {
-      "id": "95e826de6023",
-      "title": "Жители 12 сел в Дагестане остались без электричества из-за аварий на ЛЭП",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092341",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847001"
-    },
-    {
-      "id": "3979693e8732",
-      "title": "Россиянка стала чемпионкой мира по шахматам среди юниоров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092340",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.846986"
-    },
-    {
-      "id": "054dc0fdd93a",
-      "title": "Аракчи сообщил о паузе в контактах с США из-за выборов в Конгресс",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092342",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.846965"
-    },
-    {
-      "id": "9cfcb1a9d8b3",
-      "title": "Кто может стать исполнителем роли агента 007",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092216",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495543"
-    },
-    {
-      "id": "71d3732f2caa",
-      "title": "Какие законопроекты Дума рассмотрит в ноябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092226",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495529"
-    },
-    {
-      "id": "8802781bc7dc",
-      "title": "Сеть АЗС «Трасса» прекратила работу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092228",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495517"
-    },
-    {
-      "id": "cf72ae90c516",
-      "title": "Объем операций домохозяйств с наличными сократился за месяц на 35%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092227",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495500"
-    },
-    {
-      "id": "340c5bc4dab7",
-      "title": "The Guardian: британские учреждения столкнулись с лавиной ИИ-жалоб и обращений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092230",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495488"
     }
   ]
 }
