@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T22:26:43.316013",
+  "last_updated": "2026-11-11T03:08:57.493570",
   "stats": {
     "zhkh": 6,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "37463394ba78",
+      "title": "УК «Сибантрацит» арендовал офис в «Сколково Парке»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093872",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067437"
+    },
+    {
+      "id": "f93d7ebda5e1",
+      "title": "Будущим пенсионерам в ОЭСР рекомендовано увеличить взносы «на старость» на 10%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9093915",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067424"
+    },
+    {
+      "id": "4f29f91f0135",
+      "title": "Производство стали снова сократилось в октябре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094025",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067409"
+    },
+    {
+      "id": "726be3c47d02",
+      "title": "Резидентам Калининградской ОЭЗ дадут дополнительное время для инвестиций",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094026",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067381"
+    },
+    {
+      "id": "f62c661506b4",
+      "title": "Бывшие военачальники обсудили военно-морские перспективы России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094036",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067365"
+    },
+    {
+      "id": "47ec190e8f46",
+      "title": "Страховщики расширяют страхование электромобилей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094043",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067351"
+    },
+    {
+      "id": "7dfa42102a6a",
+      "title": "Мониторинг мировой экономики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094054",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067337"
+    },
+    {
+      "id": "4f1d9abbb132",
+      "title": "В верхней палате завершилось обновление после сентябрьских выборов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094056",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067322"
+    },
+    {
+      "id": "96158373c2eb",
+      "title": "В Литве объявили воздушную тревогу из-за неопознанного объекта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094118",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 03:08",
+      "parsed_at": "2026-11-11T03:08:29.067296"
+    },
     {
       "id": "eacbf282c208",
       "title": "Дума отклонила избирательные инициативы коммунистов",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.11 01:28",
       "parsed_at": "2026-11-08T01:28:50.662950"
-    },
-    {
-      "id": "776d728ebf53",
-      "title": "«Краснодар» обыграл ЦСКА после семи матчей без побед в чемпионате",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092015",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662940"
-    },
-    {
-      "id": "cda9fe8cfcc4",
-      "title": "В Польше объявят общенациональный траур по жертвам стрельбы в Кракове",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092018",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662930"
-    },
-    {
-      "id": "3699509170d1",
-      "title": "Президент Израиля поручит лидеру оппозиции Айзенкоту сформировать правительство",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092020",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662919"
-    },
-    {
-      "id": "6e976188dcfe",
-      "title": "Хуситы заявили о гибели 27 человек при ударе Саудовской Аравии по Йемену",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092022",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662908"
-    },
-    {
-      "id": "53cc7584ea7f",
-      "title": "«РИА Новости»: при стрельбе в Кракове был ранен один россиянин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092011",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662897"
-    },
-    {
-      "id": "5a44d70bf1aa",
-      "title": "Полиция нашла трех мертвых людей в доме устроившего стрельбу в Кракове",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092024",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662885"
-    },
-    {
-      "id": "a5aee3166ee6",
-      "title": "МВД сообщило о профилактических рейдах в центре Москвы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092025",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:50.662865"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 01:28",
-      "parsed_at": "2026-11-08T01:28:49.601402"
-    },
-    {
-      "id": "cc46ab19a1a1",
-      "title": "«РИА Новости»: стрельбу в Кракове устроили два человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091995",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "07.11 21:57",
-      "parsed_at": "2026-11-07T21:57:18.971605"
     }
   ]
 }
