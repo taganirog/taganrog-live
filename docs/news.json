@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-11T09:53:15.942417",
+  "last_updated": "2026-11-11T17:51:51.296729",
   "stats": {
-    "zhkh": 6,
+    "zhkh": 5,
     "mchs": 2,
     "works": 1,
     "events": 0,
-    "news": 111,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "29843ccada69",
+      "title": "Россия запретила въезд французским журналистам Полю Гого и Ариан Шиман",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094848",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087191"
+    },
+    {
+      "id": "b6ed24e00bd3",
+      "title": "Депутаты Кнессета приведены к присяге и готовятся к коалиционным переговорам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094746",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087174"
+    },
+    {
+      "id": "e421870808cc",
+      "title": "Армению лишили права голоса в ОДКБ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094859",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087157"
+    },
+    {
+      "id": "c2f223189299",
+      "title": "Александр Чачава продал My.Games топ-менеджменту компании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094805",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087125"
+    },
+    {
+      "id": "225ea1b13d59",
+      "title": "Бизнесмена отправили в колонию за хищение при рекультивации мусорного полигона",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094797",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087108"
+    },
+    {
+      "id": "c75eea4d167c",
+      "title": "На какие траты компаний на упрощенке обратила внимание ФНС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094778",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087087"
+    },
+    {
+      "id": "51c77169fe9a",
+      "title": "Гид Michelin раздал звезды и нашел первый ближневосточный ресторан с двумя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094493",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087070"
+    },
+    {
+      "id": "47c97c369ed8",
+      "title": "Разбирательство по делу о подрыве «Северных потоков» дошло до конкретики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094817",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087051"
+    },
+    {
+      "id": "1bdf94c01d91",
+      "title": "Сотни школ в Европе получили сообщения о минировании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094796",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:23.087022"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:19.999664"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "11.11 17:51",
+      "parsed_at": "2026-11-11T17:51:19.999633"
+    },
     {
       "id": "26cca8c09247",
       "title": "В Калининградской области задержаны двое предполагаемых агентов спецслужб Польши",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "08.11 18:27",
       "parsed_at": "2026-11-08T18:27:27.495488"
-    },
-    {
-      "id": "21159a5e91ab",
-      "title": "«Грамота.ру» отказала «сикс-севен» в статусе слова года",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091462",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495475"
-    },
-    {
-      "id": "b700c82ba951",
-      "title": "В Красноярске полицейские застрелили агрессивного медведя",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092241",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495462"
-    },
-    {
-      "id": "a478d109b768",
-      "title": "Эксперты оценили причины замедления российской экономики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092229",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495448"
-    },
-    {
-      "id": "8f459614bdf3",
-      "title": "В Карелии на заправках «Роснефти» ввели ограничения на отпуск топлива",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092247",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 18:27",
-      "parsed_at": "2026-11-08T18:27:27.495426"
-    },
-    {
-      "id": "57490df35d0c",
-      "title": "Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092074",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042210"
-    },
-    {
-      "id": "78d9c3c479d0",
-      "title": "Хинштейн: 267 беспилотников сбили за сутки в Курской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092077",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042192"
-    },
-    {
-      "id": "2678101ddafd",
-      "title": "Две крылатые ракеты хуситов перехватили над Эр-Риядом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092078",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042177"
-    },
-    {
-      "id": "c5b4b8b70594",
-      "title": "ВСУ атаковали два предприятия в Белгородской области за сутки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092081",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042162"
-    },
-    {
-      "id": "df2754b944fd",
-      "title": "Запорожская АЭС перешла на резервное электроснабжение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092082",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042140"
-    },
-    {
-      "id": "84c1a54cd2c2",
-      "title": "Люди становятся холоднее, показывают исследования",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9091419",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042126"
-    },
-    {
-      "id": "37f926f368f2",
-      "title": "Space X анонсировала 15-й запуск Starship",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092085",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 11:24",
-      "parsed_at": "2026-11-08T11:24:11.042108"
     }
   ]
 }
