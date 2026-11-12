@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-12T00:41:07.405495",
+  "last_updated": "2026-11-12T05:38:10.409907",
   "stats": {
-    "zhkh": 5,
+    "zhkh": 3,
     "mchs": 2,
     "works": 1,
     "events": 0,
-    "news": 112,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "a6486e86f5ba",
+      "title": "NYT: США не смогли убедить соседние с Ираном страны закрыть границы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095079",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532617"
+    },
+    {
+      "id": "c79ff2396277",
+      "title": "Машинист тепловоза погиб при атаке БПЛА в ДНР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095081",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532593"
+    },
+    {
+      "id": "5242d8df36db",
+      "title": "США и Китай считают важным проведение трехсторонних встреч с участием России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095083",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532578"
+    },
+    {
+      "id": "8f7e8c46d6b2",
+      "title": "Российская теннисистка Андреева досрочно вышла в полуфинал Итогового турнира WTA",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095084",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532542"
+    },
+    {
+      "id": "dd9d34b95cbe",
+      "title": "В Нью-Йорке один человек погиб и 12 пострадали при обрушении здания",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532524"
+    },
+    {
+      "id": "274798da0899",
+      "title": "Кушнер заявил о необходимости привлечь Европу к переговорам по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095085",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532507"
+    },
+    {
+      "id": "8cc705175d0a",
+      "title": "Вблизи Москвы сбиты еще три БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095086",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532488"
+    },
+    {
+      "id": "cf720928ab00",
+      "title": "WSJ: гендиректора Nvidia Дженсена Хуанга готовятся отстранить от должности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095087",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532468"
+    },
+    {
+      "id": "d81235005b03",
+      "title": "В Испании прошла первая с 2012 года общенациональная забастовка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095088",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 05:37",
+      "parsed_at": "2026-11-12T05:37:40.532437"
+    },
     {
       "id": "0ac90c7c289d",
       "title": "Космонавты Чуб и Горбунов вошли в экипаж следующей экспедиции на МКС",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.11 02:20",
       "parsed_at": "2026-11-09T02:20:10.752521"
-    },
-    {
-      "id": "2402a2e19f73",
-      "title": "Глава Nvidia признался в измене с подозреваемой в шпионаже гражданкой КНР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092366",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752511"
-    },
-    {
-      "id": "b192fe3f6a45",
-      "title": "В Молдавии запустили новую линию электропередачи в обход Приднестровья",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092363",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752498"
-    },
-    {
-      "id": "259e3eabaceb",
-      "title": "Все самые вкусные новинки — в еженедельном гастрономическом обзоре «Коммерсантъ Стиль»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092364",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752475"
-    },
-    {
-      "id": "13858119410b",
-      "title": "В Минобороны Израиля заявили о намерении продолжать операцию против Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092306",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847087"
-    },
-    {
-      "id": "e362ee23c036",
-      "title": "На Запорожской АЭС восстановлено внешнее электроснабжение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092312",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847074"
-    },
-    {
-      "id": "160319e78883",
-      "title": "Трамп назвал маловероятными новые удары по Ирану при прогрессе в переговорах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092324",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847064"
-    },
-    {
-      "id": "c8cd3691b4f3",
-      "title": "Санду заявила о полном отказе Молдавии от российского газа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092334",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847052"
-    },
-    {
-      "id": "5a1a6d7909fb",
-      "title": "Поделив очки с «Зенитом», он лишил его единоличного лидерства в чемпионате России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092302",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847041"
-    },
-    {
-      "id": "d7677438770b",
-      "title": "Трамп оценил сохранившиеся мощности Ирана по производству ракет и БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092338",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "08.11 22:52",
-      "parsed_at": "2026-11-08T22:52:04.847028"
     }
   ]
 }
