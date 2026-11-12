@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T21:40:24.482004",
+  "last_updated": "2026-11-13T02:56:48.012431",
   "stats": {
     "zhkh": 1,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "33a5d1885c82",
+      "title": "ГК «Элемент» может пересмотреть эффективность дочерних структур",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095856",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061916"
+    },
+    {
+      "id": "97376a1cd001",
+      "title": "От нового созыва Госдумы ждут «суверенного прагматизма»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095863",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061902"
+    },
+    {
+      "id": "e1b35fcde0e1",
+      "title": "В «Единой России» высоко оценили работу муниципалов на минувших выборах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095868",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061889"
+    },
+    {
+      "id": "c250244ca752",
+      "title": "Внесены законопроекты о корректировке процедур поставок государству и госкомпаниям",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095901",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061863"
+    },
+    {
+      "id": "640cfb17c040",
+      "title": "В Совфеде обсудили способы повысить привлекательность венчурных инвестиций",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095908",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061849"
+    },
+    {
+      "id": "d3e27513b141",
+      "title": "Отмена части пошлин ускорит ВВП страны",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095917",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061831"
+    },
+    {
+      "id": "3c8c4c14677f",
+      "title": "Уиткофф: эмиссары США сообщили Зеленскому о позитивных итогах встречи с Путиным",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095987",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061802"
+    },
+    {
+      "id": "5101daf49a96",
+      "title": "Reuters: в Белом доме обсуждают отставку министра торговли после скандала в Nvidia",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095984",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061787"
+    },
+    {
+      "id": "01213bbf36fa",
+      "title": "Binance возместила своим клиентам похищенные хакерами $6,3 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095989",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 02:56",
+      "parsed_at": "2026-11-13T02:56:19.061764"
+    },
     {
       "id": "91b2e11e324a",
       "title": "Сбербанк потратится на ИИ в необъявленных объемах",
@@ -1229,105 +1328,6 @@
       "is_urgent": true,
       "published_at": "10.11 00:13",
       "parsed_at": "2026-11-10T00:13:35.040450"
-    },
-    {
-      "id": "0f841e3d737a",
-      "title": "Лавров: ЕС взялся за открытый захват иностранных судов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093168",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040430"
-    },
-    {
-      "id": "051f6f4a41af",
-      "title": "Лавров: действия по захвату судов будут встречать зеркальную реакцию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093169",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040406"
-    },
-    {
-      "id": "912e02cdb49e",
-      "title": "В Кремле отказались публично обсуждать консультации в формате Россия — НАТО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092714",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801532"
-    },
-    {
-      "id": "384ca9a593f5",
-      "title": "Новый кабинет в Израиле сформирует лидер оппозиции: оценки СМИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092695",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801522"
-    },
-    {
-      "id": "f1c4b955b7f6",
-      "title": "МИД России: «Интервидение» пройдет в Саудовской Аравии осенью 2027 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092736",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801511"
-    },
-    {
-      "id": "61017f867202",
-      "title": "Забытую в шкафу картину оценили в $3 млн",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9092627",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801497"
-    },
-    {
-      "id": "e4b4c0a301da",
-      "title": "Кремлю неизвестно о просьбе передать активы Coca-Cola во временное управление",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092737",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801487"
-    },
-    {
-      "id": "865307e3235e",
-      "title": "Анна Кулецкая — о том, почему дурной пример заразителен",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092683",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801476"
-    },
-    {
-      "id": "1dc4e8ed28eb",
-      "title": "Восемь регионов планируют ограничить работу мигрантов в такси в 2027 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092726",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801466"
     }
   ]
 }
