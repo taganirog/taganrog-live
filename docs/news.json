@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-12T05:38:10.409907",
+  "last_updated": "2026-11-12T13:30:50.664784",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 1,
     "mchs": 2,
     "works": 1,
-    "events": 0,
-    "news": 114,
+    "events": 1,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "ea31e444862d",
+      "title": "ЕС и Британия отложат введение взаимных 10-процентных пошлин на электромобили",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095426",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496933"
+    },
+    {
+      "id": "fe9f4cd32f00",
+      "title": "Кроссовер Votour V6 встал на конвейер на заводе в Сестрорецке",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9095453",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496920"
+    },
+    {
+      "id": "1ac470ec1f19",
+      "title": "В Москве прошел первый Международный кинофестиваль «Автопилот»",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061769",
+      "source": "kommersant.ru",
+      "category": "events",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496908"
+    },
+    {
+      "id": "7bef152d41db",
+      "title": "Набиуллина связала замедление экономики с атаками БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095446",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496881"
+    },
+    {
+      "id": "fa4b9af629fc",
+      "title": "Новая система штрафов Ozon для селлеров приведет к росту цен на 3–5%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095225",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496861"
+    },
+    {
+      "id": "e61c352b0071",
+      "title": "Закулисье кинофестиваля про автокультуру",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061771",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496845"
+    },
+    {
+      "id": "fbdacadf1d83",
+      "title": "Предлагаемые инженерам зарплаты за год выросли на 60%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095374",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496833"
+    },
+    {
+      "id": "681edb0ff607",
+      "title": "Кто победил на кинофестивале «Автопилот»",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9061770",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496818"
+    },
+    {
+      "id": "52c50ef45be9",
+      "title": "Владимир Осипов — о быстрых взлете и падении ХК «Чикаго»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 13:30",
+      "parsed_at": "2026-11-12T13:30:22.496796"
+    },
     {
       "id": "a6486e86f5ba",
       "title": "NYT: США не смогли убедить соседние с Ираном страны закрыть границы",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.11 05:50",
       "parsed_at": "2026-11-09T05:50:51.087201"
-    },
-    {
-      "id": "b93537f17f83",
-      "title": "Добычу на газовом месторождении в Ираке остановили после удара БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092373",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087184"
-    },
-    {
-      "id": "94c60a6acbe0",
-      "title": "Венгрия обсудила с Румынией диверсификацию поставок газа из Черного моря",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092371",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087168"
-    },
-    {
-      "id": "c7f75bf4b4d8",
-      "title": "Осколки БПЛА попали в жилой дом в городе Кириши Ленинградской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092376",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087149"
-    },
-    {
-      "id": "dcd55607f907",
-      "title": "В Nvidia раскрыли детали внутреннего расследования в отношении своего гендиректора",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092377",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087120"
-    },
-    {
-      "id": "72b0065ab043",
-      "title": "Команда Mercedes впервые с 2021 года выиграла Кубок конструкторов «Формулы-1»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092344",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752566"
-    },
-    {
-      "id": "71bc10ab0ccf",
-      "title": "Провайдеру Beget временно запретили регистрировать новые домены после кибератаки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092345",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752555"
-    },
-    {
-      "id": "74bd379897a6",
-      "title": "IRNA сообщило о новых ударах по иранскому острову Кешм в Ормузском проливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092346",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752544"
-    },
-    {
-      "id": "ed262714418b",
-      "title": "В Москве ограничили работу аэропорта Домодедово",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092362",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752533"
-    },
-    {
-      "id": "56ab1078ce13",
-      "title": "В Кракове открыли Главную рыночную площадь после теракта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092361",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 02:20",
-      "parsed_at": "2026-11-09T02:20:10.752521"
     }
   ]
 }
