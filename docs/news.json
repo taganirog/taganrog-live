@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-12T13:30:50.664784",
+  "last_updated": "2026-11-12T21:40:24.482004",
   "stats": {
     "zhkh": 1,
     "mchs": 2,
-    "works": 1,
+    "works": 0,
     "events": 1,
-    "news": 115,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "91b2e11e324a",
+      "title": "Сбербанк потратится на ИИ в необъявленных объемах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095875",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806619"
+    },
+    {
+      "id": "72d4a3e257fc",
+      "title": "Минпромторг раскрыл условия господдержки клинических исследований лекарств",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095762",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806600"
+    },
+    {
+      "id": "1726863e889e",
+      "title": "Она одержала победу над узбекской командой, уступая 0:2",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095889",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806577"
+    },
+    {
+      "id": "f06552c64b1c",
+      "title": "Евразийская академия кинематографических искусств признала «Август» лучшим фильмом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095899",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806512"
+    },
+    {
+      "id": "a5e97626fe6c",
+      "title": "Псковский суд утвердил 11-летний приговор иноагенту Льву Шлосбергу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095912",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806491"
+    },
+    {
+      "id": "c9cdecd9ce2e",
+      "title": "Ушаков заявил о готовности РФ начать разминирование для миссии в Константиновке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095891",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806468"
+    },
+    {
+      "id": "50eb6fb79e65",
+      "title": "ВМС Британии сформировали первую эскадру безэкипажных катеров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095903",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806447"
+    },
+    {
+      "id": "837e40716597",
+      "title": "Путин пообещал через МИД проработать вопрос с визами в США для атлетов из России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095926",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806424"
+    },
+    {
+      "id": "29b90f70d682",
+      "title": "На подлете к Москве сбили пять беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095936",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "12.11 21:39",
+      "parsed_at": "2026-11-12T21:39:53.806389"
+    },
     {
       "id": "ea31e444862d",
       "title": "ЕС и Британия отложат введение взаимных 10-процентных пошлин на электромобили",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "09.11 13:43",
       "parsed_at": "2026-11-09T13:43:14.801466"
-    },
-    {
-      "id": "49f94ade8858",
-      "title": "Тюнинг-ателье West Coast Customs построило машины из GTA VI в реальности",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9092742",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801454"
-    },
-    {
-      "id": "fb53105aaf70",
-      "title": "Дмитрий Гронский — о премьере фильма «Мазерати» и новых концепт-карах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092740",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801441"
-    },
-    {
-      "id": "ba65f37b4adf",
-      "title": "Обзор зарубежной прессы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092715",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 13:43",
-      "parsed_at": "2026-11-09T13:43:14.801419"
-    },
-    {
-      "id": "34bf322d9767",
-      "title": "Экспортная стоимость российской пшеницы упала на 7% за две с половиной недели",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092300",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087290"
-    },
-    {
-      "id": "b10d24d8808d",
-      "title": "В Анталье стартовала Конференция СОР31",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092323",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087272"
-    },
-    {
-      "id": "cfc17e72b712",
-      "title": "Рубио заявил о шансе добиться прогресса на предстоящих переговорах по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092369",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087254"
-    },
-    {
-      "id": "e9fc97d3f40f",
-      "title": "США начали операцию по перекрытию поставок оружия Ирану",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092370",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087236"
-    },
-    {
-      "id": "0a7c9fa24a82",
-      "title": "Трамп сообщил о планах встретиться с Путиным и Си в Китае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092372",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087219"
-    },
-    {
-      "id": "2a18aa2397e5",
-      "title": "Над Ленинградской областью сбили 38 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092374",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "09.11 05:50",
-      "parsed_at": "2026-11-09T05:50:51.087201"
     }
   ]
 }
