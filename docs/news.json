@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-13T02:56:48.012431",
+  "last_updated": "2026-11-13T07:47:00.494695",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 1,
     "works": 0,
     "events": 1,
-    "news": 116,
+    "news": 117,
     "total": 120
   },
   "items": [
+    {
+      "id": "e047a82cdb66",
+      "title": "Иран ударил по объекту ПВО США в Бахрейне",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096011",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129244"
+    },
+    {
+      "id": "60dea67de3cf",
+      "title": "Власти Венесуэлы отчитались о направлении 99% нефтедоходов на зарплаты и пенсии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096020",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129226"
+    },
+    {
+      "id": "2d14c8e6e43a",
+      "title": "Скидки на Urals в российских портах стали рекордными с весны 2023 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095802",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129209"
+    },
+    {
+      "id": "005915e22060",
+      "title": "Главные новости к утру 13 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096025",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129175"
+    },
+    {
+      "id": "3c9a95bc4367",
+      "title": "Microsoft выступает против ограничений на китайское оборудование для дата-центров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096023",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129158"
+    },
+    {
+      "id": "dbed403fe468",
+      "title": "Кушнер заявил о подготовке крупнейшего обмена пленными между Россией и Украиной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096032",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129140"
+    },
+    {
+      "id": "2988028804a9",
+      "title": "Тарифы на страхование центров обработки данных от БПЛА выросли в сотню раз",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9095866",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129121"
+    },
+    {
+      "id": "63af8c9b5c60",
+      "title": "Трамп усомнился в необходимости отставки главы Nvidia из-за скандала с изменой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096013",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129100"
+    },
+    {
+      "id": "d07ec8aa0a7d",
+      "title": "Кассация утвердила 4,5 года колонии экс-зампреду правительства Приморья",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9096040",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 07:46",
+      "parsed_at": "2026-11-13T07:46:32.129072"
+    },
     {
       "id": "33a5d1885c82",
       "title": "ГК «Элемент» может пересмотреть эффективность дочерних структур",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.11 06:40",
       "parsed_at": "2026-11-10T06:40:52.037085"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037058"
-    },
-    {
-      "id": "d433eaa50d83",
-      "title": "Российская делегация прилетела в Абу-Даби",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093213",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040557"
-    },
-    {
-      "id": "4bb9b50f543d",
-      "title": "Резервные мощности дата-центров будут использовать для систем из «белого списка»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040543"
-    },
-    {
-      "id": "f4d0bbd628a4",
-      "title": "Выходец из Marvel будет руководить DC Studios",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093215",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040528"
-    },
-    {
-      "id": "9b0a72555d1d",
-      "title": "Пентагон объявил о завершении эпохи субсидирования обороны Европы со стороны США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093217",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040515"
-    },
-    {
-      "id": "23d4b34e0884",
-      "title": "Al Arabiya: США и Иран близки к сделке о снижении уровня обогащения урана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093219",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040499"
-    },
-    {
-      "id": "1614e5ea7d5e",
-      "title": "Илья Демуцкий положил на музыку ренессансные гравюры о любви",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9092956",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040484"
-    },
-    {
-      "id": "34264325c1df",
-      "title": "Трамп: встреча России и Украины в Абу-Даби дает шанс на прорыв в переговорах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093221",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040465"
-    },
-    {
-      "id": "f037f4c39448",
-      "title": "Глава МИД России Сергей Лавров — о мировой экономике и ее связях с международной безопасностью",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092933",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "10.11 00:13",
-      "parsed_at": "2026-11-10T00:13:35.040450"
     }
   ]
 }
