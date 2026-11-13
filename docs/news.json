@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-11-13T15:45:25.989454",
+  "last_updated": "2026-11-13T23:12:16.690643",
   "stats": {
     "zhkh": 0,
-    "mchs": 1,
+    "mchs": 2,
     "works": 0,
     "events": 1,
-    "news": 118,
+    "news": 117,
     "total": 120
   },
   "items": [
+    {
+      "id": "ddcedf815fca",
+      "title": "Bloomberg назвал пять европейских стран-участниц новых переговоров по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109206",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072346"
+    },
+    {
+      "id": "2d1d194c0a7a",
+      "title": "Премьера Венгрии обвинили в шантаже и домашнем насилии в отношении бывшей жены",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109202",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072329"
+    },
+    {
+      "id": "434e0cceef36",
+      "title": "The Hill: министр торговли США даст показания в Конгрессе по делу Дженсена Хуанга",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109207",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072304"
+    },
+    {
+      "id": "6981ae261159",
+      "title": "Bloomberg узнал о решении Трампа продлить послабления для морских перевозок",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109209",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072272"
+    },
+    {
+      "id": "765870ce8896",
+      "title": "В Казахстане обнаружили новый вид бабочек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072256"
+    },
+    {
+      "id": "6ee083ddda1a",
+      "title": "Шнайдер заменит Мухову и сыграет против Андреевой на Итоговом турнире WTA",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109213",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072239"
+    },
+    {
+      "id": "002402293b86",
+      "title": "Microsoft назвала причину масштабного сбоя в работе сервисов компании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109214",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072221"
+    },
+    {
+      "id": "b8a6412e9ff9",
+      "title": "ТАСС исключили из Европейского альянса информационных агентств",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109215",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072202"
+    },
+    {
+      "id": "892b5114bf9e",
+      "title": "Польша приостановила финансирование поставок вооружений США для Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109216",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:48.072174"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:44.473403"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:44.473162"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:44.473144"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:44.473122"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 23:11",
+      "parsed_at": "2026-11-13T23:11:44.473091"
+    },
     {
       "id": "a61599a7fee3",
       "title": "Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.11 14:58",
       "parsed_at": "2026-11-10T14:58:47.520464"
-    },
-    {
-      "id": "5a0ebf5e0717",
-      "title": "Sony представила новую PlayStation Portal с памятью и привязкой к Японии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093681",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520441"
-    },
-    {
-      "id": "b22f216f2539",
-      "title": "Владимир Осипов — об утере США лидирующих позиций в мире",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093585",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520408"
-    },
-    {
-      "id": "68e961ff41d1",
-      "title": "Суд в Москве оштрафовал Telegram на 3,8 млн рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093686",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520387"
-    },
-    {
-      "id": "d5b07821f6a3",
-      "title": "В Болгарии 12 человек погибли в ДТП с участием более 50 машин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093671",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520355"
-    },
-    {
-      "id": "729c30a1f899",
-      "title": "Молдавия пообещала оперативно выполнить все требования ЕС по санкциям",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093689",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520338"
-    },
-    {
-      "id": "303cba2c0aa1",
-      "title": "Дмитрий Гронский — о «китайском Rolls-Royce»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093584",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520321"
-    },
-    {
-      "id": "8b7338852480",
-      "title": "Совершавший «вечный круиз» лайнер Villa Vie Odyssey арестовали в Сингапуре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093622",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520304"
-    },
-    {
-      "id": "6bb2fc83f8f2",
-      "title": "«Роснефть» разместила 10-летние облигации на 750 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093708",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520284"
-    },
-    {
-      "id": "8debc27e6f9b",
-      "title": "Анна Кулецкая — о том, почему люди готовы покупать симуляцию катастроф",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093582",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520256"
-    },
-    {
-      "id": "7a0a3fa93c5f",
-      "title": "В Саудовской Аравии атакован нефтепровод «Восток — Запад»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093237",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211547"
-    },
-    {
-      "id": "62d16361fe56",
-      "title": "Трамп заявил о позитивной динамике в решении конфликта с Ираном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093239",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211534"
-    },
-    {
-      "id": "6f13d972a123",
-      "title": "Республиканец Мэсси вынес на голосование резолюцию об импичменте Хегсета",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093241",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211520"
-    },
-    {
-      "id": "d353c2672152",
-      "title": "Тело россиянки обнаружили на курорте в Сербии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093242",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211505"
-    },
-    {
-      "id": "7f7143cd7750",
-      "title": "Глава Nvidia потерял $7,4 млрд после начала расследования дела о шпионаже",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093243",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211493"
     }
   ]
 }
