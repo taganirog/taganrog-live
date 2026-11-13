@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-13T07:47:00.494695",
+  "last_updated": "2026-11-13T15:45:25.989454",
   "stats": {
-    "zhkh": 1,
+    "zhkh": 0,
     "mchs": 1,
     "works": 0,
     "events": 1,
-    "news": 117,
+    "news": 118,
     "total": 120
   },
   "items": [
+    {
+      "id": "a61599a7fee3",
+      "title": "Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108919",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121539"
+    },
+    {
+      "id": "edfd0bdacfb7",
+      "title": "Легенда о пальце императора и другие свершения выдающегося инженера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9092589",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121521"
+    },
+    {
+      "id": "34c4541e0872",
+      "title": "Мосбиржа с 19 ноября начнет торги фьючерсами на сою и кукурузу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108921",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121506"
+    },
+    {
+      "id": "3a157fc5ddb9",
+      "title": "Состояние экс-советника Азарова после покушения оценили как критическое",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108931",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121473"
+    },
+    {
+      "id": "eb069f25e582",
+      "title": "Во Франции арестовали особняк украинского миллиардера Жеваго",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108915",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121456"
+    },
+    {
+      "id": "6f2c54f6f0da",
+      "title": "Банк России повысил лимиты расходования наличных для МФО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108911",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121433"
+    },
+    {
+      "id": "7283b1b5c6fd",
+      "title": "Путин принял в Кремле главу Росимущества",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108841",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121417"
+    },
+    {
+      "id": "06b0bd0b59d7",
+      "title": "Токаев заявил о масштабной коррупции в госкомпаниях Казахстана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108900",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121401"
+    },
+    {
+      "id": "aab302511c91",
+      "title": "Правительство внесло в Госдуму проект о регулировании движения беспилотных авто",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108936",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:57.121374"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "13.11 15:44",
+      "parsed_at": "2026-11-13T15:44:53.004691"
+    },
     {
       "id": "e047a82cdb66",
       "title": "Иран ударил по объекту ПВО США в Бахрейне",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.11 06:40",
       "parsed_at": "2026-11-10T06:40:55.211493"
-    },
-    {
-      "id": "9d6362f38e01",
-      "title": "За €1 ищут спасителя для 800-летнего замка в Саксонии",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9092932",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211480"
-    },
-    {
-      "id": "050b696be1a4",
-      "title": "Банкиры предлагают отложить на год изменение налогообложения вкладов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093164",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211463"
-    },
-    {
-      "id": "c0759dbd7c1e",
-      "title": "FT: Нетаньяху ежедневно просит Трампа возобновить войну против Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093245",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211449"
-    },
-    {
-      "id": "f4c3d5cb41ee",
-      "title": "Франция пригрозила Ирану санкциями из-за взлома холодильников в магазинах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093247",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211434"
-    },
-    {
-      "id": "24d49a336b68",
-      "title": "Бывшая штаб-квартира владельца IKEA в России перешла к автопроизводителю",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093034",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:55.211413"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037341"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037145"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037126"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037108"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 06:40",
-      "parsed_at": "2026-11-10T06:40:52.037085"
     }
   ]
 }
