@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-13T23:12:16.690643",
+  "last_updated": "2026-11-14T03:57:14.016401",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
-    "works": 0,
+    "works": 1,
     "events": 1,
-    "news": 117,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "7032674676b4",
+      "title": "Кошта: в делегацию для переговоров по Украине от Европы войдет «коалиция желающих»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109491",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466560"
+    },
+    {
+      "id": "ea5d09f97c5d",
+      "title": "На авиабазе США в Великобритании объявили тревогу из-за налета неизвестных БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109492",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466545"
+    },
+    {
+      "id": "60713a247181",
+      "title": "В США временно запретили вылеты самолетов из всех аэропортов по требованию FAA",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109493",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466530"
+    },
+    {
+      "id": "6da223bb83e5",
+      "title": "Один человек погиб при ударе БПЛА по частному дому в Белгородской области",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109494",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466500"
+    },
+    {
+      "id": "e0cfa1d4a384",
+      "title": "В США проверяют связь сбоя авиасистем с внедренным в диспетчерские центры ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109495",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466485"
+    },
+    {
+      "id": "f67dbaef4555",
+      "title": "На подлете к Москве сбили три беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109496",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466469"
+    },
+    {
+      "id": "c02537287b71",
+      "title": "Началась подготовка к ремонту Дома-музея Максима Горького в Москве",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109179",
+      "source": "kommersant.ru",
+      "category": "works",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466455"
+    },
+    {
+      "id": "1ccad512156a",
+      "title": "Поезда в Архангельской области перевели на спецграфик после обрушения моста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109497",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466438"
+    },
+    {
+      "id": "842f2d9373bc",
+      "title": "В Белом доме анонсировали встречу Трампа, Путина и Си",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109498",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 03:56",
+      "parsed_at": "2026-11-14T03:56:45.466410"
+    },
     {
       "id": "ddcedf815fca",
       "title": "Bloomberg назвал пять европейских стран-участниц новых переговоров по Украине",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "10.11 22:26",
       "parsed_at": "2026-11-10T22:26:14.933966"
-    },
-    {
-      "id": "a4b2c3daa496",
-      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091425",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933952"
-    },
-    {
-      "id": "662d951543c0",
-      "title": "«Роскосмос» проведет закрытый набор космонавтов среди медиков ФМБА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094031",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933938"
-    },
-    {
-      "id": "3fb92efc641c",
-      "title": "Принят законопроект о статусе малоэтажных поселков",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093966",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933924"
-    },
-    {
-      "id": "a49c0025710e",
-      "title": "Умер бывший ректор РГИСИ Лев Сундстрем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094069",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933910"
-    },
-    {
-      "id": "e035c72b91ef",
-      "title": "Парламент Израиля 26-го созыва принес присягу и начал работу после выборов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094070",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933896"
-    },
-    {
-      "id": "9f7a0ce0a084",
-      "title": "Акции Nvidia упали на 6%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094082",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933879"
-    },
-    {
-      "id": "9778bd9423e3",
-      "title": "Минэнерго США пересмотрело прогноз по снижению спроса на нефть в 2026 году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094085",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933857"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:11.291011"
-    },
-    {
-      "id": "3769ffffd81b",
-      "title": "Anthropic выпустила новые модели Claude и показала созданную ИИ операционную систему",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093679",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 14:58",
-      "parsed_at": "2026-11-10T14:58:47.520464"
     }
   ]
 }
