@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T03:57:14.016401",
+  "last_updated": "2026-11-14T10:19:34.525480",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "0bfee652d468",
+      "title": "Путин помиловал Лерчек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109534",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350423"
+    },
+    {
+      "id": "561d8b4d34c2",
+      "title": "В Ростовской области обломки БПЛА повредили гостиницу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109544",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350412"
+    },
+    {
+      "id": "726183bbc99b",
+      "title": "Лучшие фотографии 9—11 ноября 2026 года",
+      "desc": "",
+      "url": "https://www.autopilot.ru/doc/9109093",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350399"
+    },
+    {
+      "id": "a4b2c3daa496",
+      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091425",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350386"
+    },
+    {
+      "id": "cbd1a4343cae",
+      "title": "Что известно о деле Лерчек и ее помиловании. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109211",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350367"
+    },
+    {
+      "id": "96be5eeae446",
+      "title": "Чем запомнилась неделя 9–13 ноября: цифры, цитаты и факты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109157",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350353"
+    },
+    {
+      "id": "84f8b33817be",
+      "title": "Персонаж из литературы и кино празднует 100-летие",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9108890",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350338"
+    },
+    {
+      "id": "821c1c825f99",
+      "title": "Лихачев сообщил о сохранении объема проектов «Росатома» на Западе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9108893",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350325"
+    },
+    {
+      "id": "c10f5487a80f",
+      "title": "Пашинян планирует посетить Россию 3, 11 и 22 декабря для переговоров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109545",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350311"
+    },
+    {
+      "id": "0bbe55ce24f0",
+      "title": "Мишустин перераспределил кураторов госпрограмм на уровне вице-премьеров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109548",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 10:19",
+      "parsed_at": "2026-11-14T10:19:06.350288"
+    },
     {
       "id": "7032674676b4",
       "title": "Кошта: в делегацию для переговоров по Украине от Европы войдет «коалиция желающих»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.11 03:08",
       "parsed_at": "2026-11-11T03:08:29.067424"
-    },
-    {
-      "id": "4f29f91f0135",
-      "title": "Производство стали снова сократилось в октябре",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094025",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067409"
-    },
-    {
-      "id": "726be3c47d02",
-      "title": "Резидентам Калининградской ОЭЗ дадут дополнительное время для инвестиций",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094026",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067381"
-    },
-    {
-      "id": "f62c661506b4",
-      "title": "Бывшие военачальники обсудили военно-морские перспективы России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094036",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067365"
-    },
-    {
-      "id": "47ec190e8f46",
-      "title": "Страховщики расширяют страхование электромобилей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094043",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067351"
-    },
-    {
-      "id": "7dfa42102a6a",
-      "title": "Мониторинг мировой экономики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094054",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067337"
-    },
-    {
-      "id": "4f1d9abbb132",
-      "title": "В верхней палате завершилось обновление после сентябрьских выборов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094056",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067322"
-    },
-    {
-      "id": "96158373c2eb",
-      "title": "В Литве объявили воздушную тревогу из-за неопознанного объекта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094118",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067296"
-    },
-    {
-      "id": "eacbf282c208",
-      "title": "Дума отклонила избирательные инициативы коммунистов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093947",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933991"
-    },
-    {
-      "id": "241c4ed59a37",
-      "title": "Новый глава профильного комитета Госдумы поделился планами на будущее",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093946",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933979"
-    },
-    {
-      "id": "7c518d6f27c3",
-      "title": "Минюст предложил повысить пороги крупного и особо крупного размера хищения",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094044",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "10.11 22:26",
-      "parsed_at": "2026-11-10T22:26:14.933966"
     }
   ]
 }
