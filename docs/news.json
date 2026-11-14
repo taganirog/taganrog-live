@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T17:23:16.796633",
+  "last_updated": "2026-11-14T22:20:34.027500",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "ce5455401729",
+      "title": "Christie’s выставит на аукцион коллекцию сумок Louis Vuitton, созданных с художниками",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9108824",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.604025"
+    },
+    {
+      "id": "bf11d1981e12",
+      "title": "Все что вы хотели знать о жидкости, которой многие боялись",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9094787",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.604008"
+    },
+    {
+      "id": "3f9e4ecdbfb3",
+      "title": "За день над регионами России сбили 39 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109709",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603991"
+    },
+    {
+      "id": "52f95ae57294",
+      "title": "Правительство Сербии выделило NIS 66 тыс. тонн нефти из резервов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109710",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603957"
+    },
+    {
+      "id": "d242a3f1e2f1",
+      "title": "Задержан подозреваемый в убийстве самбиста Вацилова Давудова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109711",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603939"
+    },
+    {
+      "id": "3ec456601a7d",
+      "title": "Двалишвилли попросил власти ОАЭ освободить Нурмагомедова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109712",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603922"
+    },
+    {
+      "id": "f0dde1e823c8",
+      "title": "Пентагон смягчил планы сокращения военного присутствия в Европе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109713",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603903"
+    },
+    {
+      "id": "802391f55e86",
+      "title": "Принцу Саудовской Аравии показали район имени Путина в Грозном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109715",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603882"
+    },
+    {
+      "id": "1afa3c0ef62b",
+      "title": "МИД: Россия выступает за общеконтинентальную систему безопасности в Евразии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109716",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:05.603853"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 22:20",
+      "parsed_at": "2026-11-14T22:20:03.025885"
+    },
     {
       "id": "0ae07a1e9549",
       "title": "Генпрокурор Казахстана потребовал проверить сбои в сервисах «Яндекса»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.11 17:51",
       "parsed_at": "2026-11-11T17:51:23.087157"
-    },
-    {
-      "id": "c2f223189299",
-      "title": "Александр Чачава продал My.Games топ-менеджменту компании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094805",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087125"
-    },
-    {
-      "id": "225ea1b13d59",
-      "title": "Бизнесмена отправили в колонию за хищение при рекультивации мусорного полигона",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094797",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087108"
-    },
-    {
-      "id": "c75eea4d167c",
-      "title": "На какие траты компаний на упрощенке обратила внимание ФНС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094778",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087087"
-    },
-    {
-      "id": "51c77169fe9a",
-      "title": "Гид Michelin раздал звезды и нашел первый ближневосточный ресторан с двумя",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094493",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087070"
-    },
-    {
-      "id": "47c97c369ed8",
-      "title": "Разбирательство по делу о подрыве «Северных потоков» дошло до конкретики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094817",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087051"
-    },
-    {
-      "id": "1bdf94c01d91",
-      "title": "Сотни школ в Европе получили сообщения о минировании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094796",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087022"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:19.999664"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:19.999633"
-    },
-    {
-      "id": "26cca8c09247",
-      "title": "В Калининградской области задержаны двое предполагаемых агентов спецслужб Польши",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094235",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558266"
-    },
-    {
-      "id": "9fb542edbdde",
-      "title": "FT узнала об опасениях Франции получить ядерный ответ России из-за ракет ФРГ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094237",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558248"
     }
   ]
 }
