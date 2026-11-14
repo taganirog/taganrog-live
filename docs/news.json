@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T10:19:34.525480",
+  "last_updated": "2026-11-14T17:23:16.796633",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "0ae07a1e9549",
+      "title": "Генпрокурор Казахстана потребовал проверить сбои в сервисах «Яндекса»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109667",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286225"
+    },
+    {
+      "id": "6866514e7204",
+      "title": "Юлию Галямину* задержали в Казани",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109666",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286213"
+    },
+    {
+      "id": "ca386bae0c1f",
+      "title": "Болгария вновь заявила о прекращении военной помощи Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109668",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286204"
+    },
+    {
+      "id": "9c3bde0889b0",
+      "title": "В Венгрии обнаружили почти 18 млн евро в лесу по делу экс-министра",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109675",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286181"
+    },
+    {
+      "id": "fe3f3af7d4b1",
+      "title": "Умер фольклорист Георгий Левинтон",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109674",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286170"
+    },
+    {
+      "id": "2f1b15dd5662",
+      "title": "Что обсудят лидеры России, Китая и США в Шэньчжэне",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109665",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286160"
+    },
+    {
+      "id": "8a540fc191c8",
+      "title": "Страны Персидского залива потребовали компенсации от Ирана за прилеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109676",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286150"
+    },
+    {
+      "id": "d31e98910814",
+      "title": "Фигурист Лазарев выиграл короткую программу на Гран-при России в Омске",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109678",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286136"
+    },
+    {
+      "id": "af132a7f27a5",
+      "title": "В Петербурге задержали преподавательницу ВШЭ за связь с несовершеннолетним",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109679",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:48.286114"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "14.11 17:22",
+      "parsed_at": "2026-11-14T17:22:42.866620"
+    },
     {
       "id": "0bfee652d468",
       "title": "Путин помиловал Лерчек",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "11.11 09:52",
       "parsed_at": "2026-11-11T09:52:47.558248"
-    },
-    {
-      "id": "2a832e1ce8c8",
-      "title": "Матвиенко посетит Вьетнам с официальным визитом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094253",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558231"
-    },
-    {
-      "id": "c82b71f1a5e9",
-      "title": "Дмитрий Дризе — об итогах первого дня переговоров в Абу-Даби",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094249",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558198"
-    },
-    {
-      "id": "f985bd7a8c10",
-      "title": "«МегаФон» и МТС пока не договорились о маркировке звонков с банками",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094260",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558181"
-    },
-    {
-      "id": "dc6608068060",
-      "title": "NYT: глава Минфина США переехал на военную базу после угроз со стороны Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094263",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558163"
-    },
-    {
-      "id": "5509cab1e9c1",
-      "title": "Финляндия и Литва вводили ограничения в небе из-за угрозы БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094265",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558144"
-    },
-    {
-      "id": "ea6ae9d9a2e5",
-      "title": "При атаке БПЛА в Адыгее загорелась кровля пятиэтажного дома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094272",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558123"
-    },
-    {
-      "id": "2da6542fd87c",
-      "title": "Почему компании все чаще выбирают маркетплейсы для корпоративных закупок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092707",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:47.558092"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 09:52",
-      "parsed_at": "2026-11-11T09:52:46.562013"
-    },
-    {
-      "id": "37463394ba78",
-      "title": "УК «Сибантрацит» арендовал офис в «Сколково Парке»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093872",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067437"
-    },
-    {
-      "id": "f93d7ebda5e1",
-      "title": "Будущим пенсионерам в ОЭСР рекомендовано увеличить взносы «на старость» на 10%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9093915",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 03:08",
-      "parsed_at": "2026-11-11T03:08:29.067424"
     }
   ]
 }
