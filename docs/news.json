@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T22:20:34.027500",
+  "last_updated": "2026-11-15T02:13:42.039110",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "3f4c250c19c9",
+      "title": "Сбой Microsoft привел к отравлению хлором в бассейне в Германии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109717",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026109"
+    },
+    {
+      "id": "daf053253203",
+      "title": "Правительство выделило 2,4 млрд руб. на льготный лизинг вертолетов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109718",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026098"
+    },
+    {
+      "id": "45a2025f79e8",
+      "title": "Россия обыграла Украину в финале ЧЕ по настольному теннису U-13",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109719",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026076"
+    },
+    {
+      "id": "aaa74b162dc4",
+      "title": "Более 200 человек задержали на митингах во Франции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109720",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026064"
+    },
+    {
+      "id": "ba0fc7412e7f",
+      "title": "Кушнер сообщил о появлении прорывных идей в диалоге по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109721",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026053"
+    },
+    {
+      "id": "ee1e769d7e16",
+      "title": "В МВД назвали фейком информацию о массовых задержаниях в центре Москвы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109723",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026042"
+    },
+    {
+      "id": "b7ed2ab50e8c",
+      "title": "SpaceX впервые в истории поймала космический корабль в воздухе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109724",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026029"
+    },
+    {
+      "id": "2eada82da076",
+      "title": "В Москву прибыла делегация КНДР по приглашению Медведева",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109725",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:12.026008"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:11.686414"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 02:13",
+      "parsed_at": "2026-11-15T02:13:11.686392"
+    },
     {
       "id": "ce5455401729",
       "title": "Christie’s выставит на аукцион коллекцию сумок Louis Vuitton, созданных с художниками",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.11 00:40",
       "parsed_at": "2026-11-12T00:40:38.984396"
-    },
-    {
-      "id": "bc8096dd70f2",
-      "title": "Семь человек погибли в ДТП в Марий Эл",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095051",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984380"
-    },
-    {
-      "id": "4f4da41e8a5f",
-      "title": "Медведев: работа над бюджетом почти завершена",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095056",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984349"
-    },
-    {
-      "id": "b33985e900f9",
-      "title": "Президент Армении подписал закон о ратификации соглашения по «Маршруту Трампа»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095057",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984334"
-    },
-    {
-      "id": "bf7013e9d60a",
-      "title": "Донецк и Мариуполь частично обесточены",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095059",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984305"
-    },
-    {
-      "id": "506dba3bd066",
-      "title": "Axios: США предложили России подготовить соглашение о безопасности в Европе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095063",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984290"
-    },
-    {
-      "id": "08538dde276e",
-      "title": "Платформенные работники предлагают фиксировать их карьеру в цифровых паспортах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094712",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984270"
-    },
-    {
-      "id": "e088c2468ac9",
-      "title": "ТАСС: Усмана Нурмагомедова задержали в Абу-Даби",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095062",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984243"
-    },
-    {
-      "id": "29843ccada69",
-      "title": "Россия запретила въезд французским журналистам Полю Гого и Ариан Шиман",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094848",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087191"
-    },
-    {
-      "id": "b6ed24e00bd3",
-      "title": "Депутаты Кнессета приведены к присяге и готовятся к коалиционным переговорам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094746",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087174"
-    },
-    {
-      "id": "e421870808cc",
-      "title": "Армению лишили права голоса в ОДКБ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094859",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "11.11 17:51",
-      "parsed_at": "2026-11-11T17:51:23.087157"
     }
   ]
 }
