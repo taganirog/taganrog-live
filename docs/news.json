@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T13:14:53.964733",
+  "last_updated": "2026-11-15T20:19:00.858149",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "07b2155cc5e4",
+      "title": "В Минобороны объяснили “Ъ” новый механизм сопровождения военного экспорта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109980",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.174084"
+    },
+    {
+      "id": "1367f7385fc2",
+      "title": "Минфин РФ предложил исключить из налога на сверхдоходы добычу марганца и хрома",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109995",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.174068"
+    },
+    {
+      "id": "b937a3507c6b",
+      "title": "СИБУР допускает оспаривание британских санкций",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109990",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.174051"
+    },
+    {
+      "id": "2d8af4c60e0f",
+      "title": "В Праге до 450 тысяч человек вышли на митинг в поддержу независимости СМИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110003",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.174017"
+    },
+    {
+      "id": "255f8bf95c45",
+      "title": "SpaceX впервые вернула с орбиты корабль Starship с помощью манипуляторов стартовой башни",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109994",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.174000"
+    },
+    {
+      "id": "f3346c36d2e8",
+      "title": "Блогера отправят на лечение в КНР, сохранив статус потерпевшей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109988",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.173983"
+    },
+    {
+      "id": "e6fd0ad0ca0a",
+      "title": "Beget заявил о восстановлении более 215 тысяч сайтов после DDoS-атаки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110009",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.173966"
+    },
+    {
+      "id": "3529aa443db0",
+      "title": "На подлете к Москве сбили четыре беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110010",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.173946"
+    },
+    {
+      "id": "a48fa159ce22",
+      "title": "Все больше стран ЕС заявляют, что больше не в состоянии финансировать Украину",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109946",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 20:18",
+      "parsed_at": "2026-11-15T20:18:32.173920"
+    },
     {
       "id": "b630f97fcd9a",
       "title": "Кого коснутся увольнения в 2027 году и стоит ли их ждать",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.11 21:39",
       "parsed_at": "2026-11-12T21:39:53.806600"
-    },
-    {
-      "id": "1726863e889e",
-      "title": "Она одержала победу над узбекской командой, уступая 0:2",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095889",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806577"
-    },
-    {
-      "id": "f06552c64b1c",
-      "title": "Евразийская академия кинематографических искусств признала «Август» лучшим фильмом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095899",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806512"
-    },
-    {
-      "id": "a5e97626fe6c",
-      "title": "Псковский суд утвердил 11-летний приговор иноагенту Льву Шлосбергу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095912",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806491"
-    },
-    {
-      "id": "c9cdecd9ce2e",
-      "title": "Ушаков заявил о готовности РФ начать разминирование для миссии в Константиновке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095891",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806468"
-    },
-    {
-      "id": "50eb6fb79e65",
-      "title": "ВМС Британии сформировали первую эскадру безэкипажных катеров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095903",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806447"
-    },
-    {
-      "id": "837e40716597",
-      "title": "Путин пообещал через МИД проработать вопрос с визами в США для атлетов из России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095926",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806424"
-    },
-    {
-      "id": "29b90f70d682",
-      "title": "На подлете к Москве сбили пять беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095936",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806389"
-    },
-    {
-      "id": "ea31e444862d",
-      "title": "ЕС и Британия отложат введение взаимных 10-процентных пошлин на электромобили",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095426",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 13:30",
-      "parsed_at": "2026-11-12T13:30:22.496933"
-    },
-    {
-      "id": "fe9f4cd32f00",
-      "title": "Кроссовер Votour V6 встал на конвейер на заводе в Сестрорецке",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9095453",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 13:30",
-      "parsed_at": "2026-11-12T13:30:22.496920"
     }
   ]
 }
