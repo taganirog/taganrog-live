@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-15T02:13:42.039110",
+  "last_updated": "2026-11-15T05:55:21.227634",
   "stats": {
-    "zhkh": 0,
+    "zhkh": 1,
     "mchs": 2,
     "works": 1,
     "events": 1,
-    "news": 116,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "83572e81af36",
+      "title": "Макрон назвал противников помощи Украине авторами «рецепта будущей войны»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109726",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855970"
+    },
+    {
+      "id": "39b625605cb7",
+      "title": "Мирра Андреева вышла в финал итогового турнира WTA, установив его рекорд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109714",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855958"
+    },
+    {
+      "id": "8571beb3d2a2",
+      "title": "В Ормузском проливе на минах подорвались два танкера",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109727",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855948"
+    },
+    {
+      "id": "d594b454eab7",
+      "title": "Israel Hayom: «Моссад» передала ЦРУ планы Ирана совершить покушение на Трампа",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109728",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855927"
+    },
+    {
+      "id": "b56566246936",
+      "title": "Песков: переговорщики от Европы пока не связывались с Россией по вопросу Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109729",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855916"
+    },
+    {
+      "id": "51766fe9d07c",
+      "title": "Кушнер: НАТО останется основой безопасности Европы после переговоров по Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109730",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855905"
+    },
+    {
+      "id": "c3b264b284a5",
+      "title": "Беспилотники ударили по Таганрогу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109731",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855894"
+    },
+    {
+      "id": "6cdee66fbeca",
+      "title": "Министр транспорта США назвал виновника общенационального сбоя в авиасообщении",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109732",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855883"
+    },
+    {
+      "id": "55e355abaab5",
+      "title": "ЦАХАЛ ликвидировала высокопоставленного командира «Хамаса» на юге Газы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109733",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "15.11 05:54",
+      "parsed_at": "2026-11-15T05:54:44.855862"
+    },
     {
       "id": "3f4c250c19c9",
       "title": "Сбой Microsoft привел к отравлению хлором в бассейне в Германии",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "12.11 05:37",
       "parsed_at": "2026-11-12T05:37:40.532593"
-    },
-    {
-      "id": "5242d8df36db",
-      "title": "США и Китай считают важным проведение трехсторонних встреч с участием России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095083",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532578"
-    },
-    {
-      "id": "8f7e8c46d6b2",
-      "title": "Российская теннисистка Андреева досрочно вышла в полуфинал Итогового турнира WTA",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095084",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532542"
-    },
-    {
-      "id": "dd9d34b95cbe",
-      "title": "В Нью-Йорке один человек погиб и 12 пострадали при обрушении здания",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095082",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532524"
-    },
-    {
-      "id": "274798da0899",
-      "title": "Кушнер заявил о необходимости привлечь Европу к переговорам по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095085",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532507"
-    },
-    {
-      "id": "8cc705175d0a",
-      "title": "Вблизи Москвы сбиты еще три БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095086",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532488"
-    },
-    {
-      "id": "cf720928ab00",
-      "title": "WSJ: гендиректора Nvidia Дженсена Хуанга готовятся отстранить от должности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095087",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532468"
-    },
-    {
-      "id": "d81235005b03",
-      "title": "В Испании прошла первая с 2012 года общенациональная забастовка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095088",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 05:37",
-      "parsed_at": "2026-11-12T05:37:40.532437"
-    },
-    {
-      "id": "0ac90c7c289d",
-      "title": "Космонавты Чуб и Горбунов вошли в экипаж следующей экспедиции на МКС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095049",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984411"
-    },
-    {
-      "id": "3a8c4addd4ca",
-      "title": "Скоропостижно скончался посол РФ в США Александр Дарчиев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095044",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 00:40",
-      "parsed_at": "2026-11-12T00:40:38.984396"
     }
   ]
 }
