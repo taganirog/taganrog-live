@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T20:19:00.858149",
+  "last_updated": "2026-11-16T00:56:57.372932",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "79f6d0484c13",
+      "title": "Международная федерация хоккея отказалась выполнять решение CAS, сославшись на позицию канадского правительства",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110033",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657242"
+    },
+    {
+      "id": "020cbe762dd3",
+      "title": "В Ростовской области восстановили движение пассажирских поездов после атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110038",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657223"
+    },
+    {
+      "id": "07ebcd73b58b",
+      "title": "FT узнала о возможном возвращении Хуанга на пост главы Nvidia",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110040",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657203"
+    },
+    {
+      "id": "917ee0693788",
+      "title": "МИД России проверит информацию о планах Эстонии закрыть все погранпереходы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110041",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657160"
+    },
+    {
+      "id": "04882b5dcd2f",
+      "title": "Хинштейн: ВСУ заминировали квартал в центре Рыльска с помощью БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110043",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657140"
+    },
+    {
+      "id": "433501a7e9d0",
+      "title": "За день рядом с Москвой сбили 82 беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110045",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657120"
+    },
+    {
+      "id": "5fd1f33713fa",
+      "title": "Цены на российскую сталь продолжат расти благодаря внутреннему спросу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109918",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657097"
+    },
+    {
+      "id": "634b59a2d8d0",
+      "title": "Дегтярев призвал пересмотреть право IIHF на проведение хоккейных турниров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110044",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657076"
+    },
+    {
+      "id": "800104b76a43",
+      "title": "На выборах главы Гагаузии лидируют пророссийские кандидаты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110050",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 00:56",
+      "parsed_at": "2026-11-16T00:56:28.657047"
+    },
     {
       "id": "07b2155cc5e4",
       "title": "В Минобороны объяснили “Ъ” новый механизм сопровождения военного экспорта",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.11 02:56",
       "parsed_at": "2026-11-13T02:56:19.061902"
-    },
-    {
-      "id": "e1b35fcde0e1",
-      "title": "В «Единой России» высоко оценили работу муниципалов на минувших выборах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095868",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061889"
-    },
-    {
-      "id": "c250244ca752",
-      "title": "Внесены законопроекты о корректировке процедур поставок государству и госкомпаниям",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095901",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061863"
-    },
-    {
-      "id": "640cfb17c040",
-      "title": "В Совфеде обсудили способы повысить привлекательность венчурных инвестиций",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095908",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061849"
-    },
-    {
-      "id": "d3e27513b141",
-      "title": "Отмена части пошлин ускорит ВВП страны",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095917",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061831"
-    },
-    {
-      "id": "3c8c4c14677f",
-      "title": "Уиткофф: эмиссары США сообщили Зеленскому о позитивных итогах встречи с Путиным",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095987",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061802"
-    },
-    {
-      "id": "5101daf49a96",
-      "title": "Reuters: в Белом доме обсуждают отставку министра торговли после скандала в Nvidia",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095984",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061787"
-    },
-    {
-      "id": "01213bbf36fa",
-      "title": "Binance возместила своим клиентам похищенные хакерами $6,3 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095989",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061764"
-    },
-    {
-      "id": "91b2e11e324a",
-      "title": "Сбербанк потратится на ИИ в необъявленных объемах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095875",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806619"
-    },
-    {
-      "id": "72d4a3e257fc",
-      "title": "Минпромторг раскрыл условия господдержки клинических исследований лекарств",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095762",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "12.11 21:39",
-      "parsed_at": "2026-11-12T21:39:53.806600"
     }
   ]
 }
