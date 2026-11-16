@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T00:56:57.372932",
+  "last_updated": "2026-11-16T04:32:48.327460",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "820a150a6272",
+      "title": "В закупки госкомпаний у МСП введен принцип соразмерности санкций для обеих сторон",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109952",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778926"
+    },
+    {
+      "id": "fe3dd0bd7ced",
+      "title": "Мировые инвесторы вложили в фонды акций США почти $64 млрд за неделю",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9109989",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778910"
+    },
+    {
+      "id": "08b80520684a",
+      "title": "Президенту Приднестровья запретят выезжать из Молдавии на пять лет",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110073",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778895"
+    },
+    {
+      "id": "0f8fc1e70014",
+      "title": "На подлете к Москве сбили 47 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110075",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778865"
+    },
+    {
+      "id": "fd5273f9f7fe",
+      "title": "Кремлевские куранты вновь заработали после техобслуживания",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110072",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778851"
+    },
+    {
+      "id": "318d60f95951",
+      "title": "Во второй тур выборов главы Гагаузии прошли пророссийские кандидаты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110078",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778836"
+    },
+    {
+      "id": "4ab090f0a2ce",
+      "title": "Впервые с 2004 года итоговый турнир WTA стал триумфом российской теннисистки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110079",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778821"
+    },
+    {
+      "id": "12d2fa02da69",
+      "title": "Жителей Рыльска призвали не выходить из дома из-за мин на улицах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110077",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778803"
+    },
+    {
+      "id": "d3582ed7d029",
+      "title": "Ракета Vulcan со спутниками Amazon потерпела аварию после старта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110080",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 04:32",
+      "parsed_at": "2026-11-16T04:32:19.778776"
+    },
     {
       "id": "79f6d0484c13",
       "title": "Международная федерация хоккея отказалась выполнять решение CAS, сославшись на позицию канадского правительства",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.11 07:46",
       "parsed_at": "2026-11-13T07:46:32.129226"
-    },
-    {
-      "id": "2d14c8e6e43a",
-      "title": "Скидки на Urals в российских портах стали рекордными с весны 2023 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095802",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129209"
-    },
-    {
-      "id": "005915e22060",
-      "title": "Главные новости к утру 13 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096025",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129175"
-    },
-    {
-      "id": "3c9a95bc4367",
-      "title": "Microsoft выступает против ограничений на китайское оборудование для дата-центров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096023",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129158"
-    },
-    {
-      "id": "dbed403fe468",
-      "title": "Кушнер заявил о подготовке крупнейшего обмена пленными между Россией и Украиной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096032",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129140"
-    },
-    {
-      "id": "2988028804a9",
-      "title": "Тарифы на страхование центров обработки данных от БПЛА выросли в сотню раз",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095866",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129121"
-    },
-    {
-      "id": "63af8c9b5c60",
-      "title": "Трамп усомнился в необходимости отставки главы Nvidia из-за скандала с изменой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096013",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129100"
-    },
-    {
-      "id": "d07ec8aa0a7d",
-      "title": "Кассация утвердила 4,5 года колонии экс-зампреду правительства Приморья",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096040",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129072"
-    },
-    {
-      "id": "33a5d1885c82",
-      "title": "ГК «Элемент» может пересмотреть эффективность дочерних структур",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095856",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061916"
-    },
-    {
-      "id": "97376a1cd001",
-      "title": "От нового созыва Госдумы ждут «суверенного прагматизма»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9095863",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 02:56",
-      "parsed_at": "2026-11-13T02:56:19.061902"
     }
   ]
 }
