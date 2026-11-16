@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-16T04:32:48.327460",
+  "last_updated": "2026-11-16T11:50:47.649865",
   "stats": {
     "zhkh": 1,
-    "mchs": 3,
+    "mchs": 2,
     "works": 1,
     "events": 0,
-    "news": 115,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "2ff2187d78b4",
+      "title": "Минтранс заявил об отсутствии пострадавших при ударе по Крымскому мосту",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292571"
+    },
+    {
+      "id": "77ca1522b028",
+      "title": "Мосбиржа 30 декабря прекратит торги акциями «Евротранса»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110345",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292554"
+    },
+    {
+      "id": "a7aabd77a6f0",
+      "title": "Фаворитом в борьбе за Белый дом в 2028 году стал демократ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110285",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292537"
+    },
+    {
+      "id": "9d6867bd3d76",
+      "title": "RuStore стал обязателен для предустановки на Smart TV",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110356",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292503"
+    },
+    {
+      "id": "9c45641558a4",
+      "title": "Что известно о повторной атаке на Beget и чем она грозит клиентам хостинга",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110359",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292485"
+    },
+    {
+      "id": "a7b2aa6c9f53",
+      "title": "Лантратова сообщила о подготовке к новому обмену военнопленными с Украиной",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110370",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292465"
+    },
+    {
+      "id": "df4f0fbb488e",
+      "title": "Что известно об атаках ВСУ на регионы России к утру 16 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110330",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292445"
+    },
+    {
+      "id": "9eb7389e66ba",
+      "title": "Суд прекратил производство по иску Crocus к «Ингосстраху» на 1,7 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110379",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292424"
+    },
+    {
+      "id": "469582fa5d69",
+      "title": "В Нижнекамске число пострадавших от атаки БПЛА выросло до семи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110265",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 11:50",
+      "parsed_at": "2026-11-16T11:50:19.292394"
+    },
     {
       "id": "820a150a6272",
       "title": "В закупки госкомпаний у МСП введен принцип соразмерности санкций для обеих сторон",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.11 15:44",
       "parsed_at": "2026-11-13T15:44:57.121506"
-    },
-    {
-      "id": "3a157fc5ddb9",
-      "title": "Состояние экс-советника Азарова после покушения оценили как критическое",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108931",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121473"
-    },
-    {
-      "id": "eb069f25e582",
-      "title": "Во Франции арестовали особняк украинского миллиардера Жеваго",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108915",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121456"
-    },
-    {
-      "id": "6f2c54f6f0da",
-      "title": "Банк России повысил лимиты расходования наличных для МФО",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108911",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121433"
-    },
-    {
-      "id": "7283b1b5c6fd",
-      "title": "Путин принял в Кремле главу Росимущества",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108841",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121417"
-    },
-    {
-      "id": "06b0bd0b59d7",
-      "title": "Токаев заявил о масштабной коррупции в госкомпаниях Казахстана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108900",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121401"
-    },
-    {
-      "id": "aab302511c91",
-      "title": "Правительство внесло в Госдуму проект о регулировании движения беспилотных авто",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108936",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121374"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:53.004691"
-    },
-    {
-      "id": "e047a82cdb66",
-      "title": "Иран ударил по объекту ПВО США в Бахрейне",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096011",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129244"
-    },
-    {
-      "id": "60dea67de3cf",
-      "title": "Власти Венесуэлы отчитались о направлении 99% нефтедоходов на зарплаты и пенсии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9096020",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 07:46",
-      "parsed_at": "2026-11-13T07:46:32.129226"
     }
   ]
 }
