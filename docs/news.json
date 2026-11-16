@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T11:50:47.649865",
+  "last_updated": "2026-11-16T22:07:42.468450",
   "stats": {
     "zhkh": 1,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "54722f32d3dd",
+      "title": "Суд Парагвая отправил экс-президента Пенью в военную тюрьму",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111068",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953791"
+    },
+    {
+      "id": "e9fb2389f58a",
+      "title": "Умер Михаил Полторанин",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111047",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953780"
+    },
+    {
+      "id": "87647bf853f3",
+      "title": "Лавров словами «ни шатко ни валко» описал переговоры России и США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111090",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953771"
+    },
+    {
+      "id": "9250f26a2418",
+      "title": "Как выглядят новые санкции ЕС против России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111087",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953745"
+    },
+    {
+      "id": "4fcc4b2f575d",
+      "title": "Что Сергей Шойгу делал в Абу-Даби",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111077",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953735"
+    },
+    {
+      "id": "58de9cdb0b30",
+      "title": "Экс-глава SEC Генслер: пузырь ИИ лопнет к 2028 году и вызовет рецессию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111081",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953724"
+    },
+    {
+      "id": "a8b025ef258b",
+      "title": "Норвегия ограничила въезд для спортсменов из России и Белоруссии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111102",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953712"
+    },
+    {
+      "id": "890355546180",
+      "title": "На подлете к Москве сбили еще 27 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111109",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953699"
+    },
+    {
+      "id": "b9a49ba21061",
+      "title": "Уиткофф и Кушнер обсудили с Ушаковым урегулирование на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111108",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:12.953679"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "16.11 22:07",
+      "parsed_at": "2026-11-16T22:07:10.712271"
+    },
     {
       "id": "2ff2187d78b4",
       "title": "Минтранс заявил об отсутствии пострадавших при ударе по Крымскому мосту",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "13.11 23:11",
       "parsed_at": "2026-11-13T23:11:48.072221"
-    },
-    {
-      "id": "b8a6412e9ff9",
-      "title": "ТАСС исключили из Европейского альянса информационных агентств",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109215",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072202"
-    },
-    {
-      "id": "892b5114bf9e",
-      "title": "Польша приостановила финансирование поставок вооружений США для Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109216",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072174"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:44.473403"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:44.473162"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:44.473144"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:44.473122"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:44.473091"
-    },
-    {
-      "id": "a61599a7fee3",
-      "title": "Маурисио Почеттино назначен главным тренером «Манчестер Юнайтед»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108919",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121539"
-    },
-    {
-      "id": "edfd0bdacfb7",
-      "title": "Легенда о пальце императора и другие свершения выдающегося инженера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9092589",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121521"
-    },
-    {
-      "id": "34c4541e0872",
-      "title": "Мосбиржа с 19 ноября начнет торги фьючерсами на сою и кукурузу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108921",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 15:44",
-      "parsed_at": "2026-11-13T15:44:57.121506"
     }
   ]
 }
