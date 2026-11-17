@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T22:07:42.468450",
+  "last_updated": "2026-11-17T05:33:26.392555",
   "stats": {
     "zhkh": 1,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "ff6c64b4c175",
+      "title": "Чиновники и эксперты обсудили состояние технологического экспорта",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111049",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703377"
+    },
+    {
+      "id": "7d77580a374e",
+      "title": "Ценовая поддержка платежного баланса остается неустойчивой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111067",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703367"
+    },
+    {
+      "id": "f02337d22d3b",
+      "title": "Вблизи Москвы за час сбиты еще 70 БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111153",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703357"
+    },
+    {
+      "id": "45892ebc6c81",
+      "title": "На Ближний Восток прибыл третий американский авианосец",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111151",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703338"
+    },
+    {
+      "id": "944307355834",
+      "title": "Глава IIHF поддержал возвращение российских хоккеистов «со спортивной точки зрения»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111155",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703328"
+    },
+    {
+      "id": "7dcc7bbe03c7",
+      "title": "Сбой в системе United Airlines привел к задержке авиарейсов в США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111154",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703314"
+    },
+    {
+      "id": "df31d5dcb1fd",
+      "title": "Первая группа персонала миссии ООН покинула Западную Сахару",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111157",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703304"
+    },
+    {
+      "id": "ab78c84f4618",
+      "title": "Лавров прибыл в Манилу на Восточноазиатский саммит",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111161",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703293"
+    },
+    {
+      "id": "a69f1f4f435b",
+      "title": "Структуры Porsche в России могут сменить собственника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111094",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 05:32",
+      "parsed_at": "2026-11-17T05:32:57.703273"
+    },
     {
       "id": "54722f32d3dd",
       "title": "Суд Парагвая отправил экс-президента Пенью в военную тюрьму",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.11 03:56",
       "parsed_at": "2026-11-14T03:56:45.466455"
-    },
-    {
-      "id": "1ccad512156a",
-      "title": "Поезда в Архангельской области перевели на спецграфик после обрушения моста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109497",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466438"
-    },
-    {
-      "id": "842f2d9373bc",
-      "title": "В Белом доме анонсировали встречу Трампа, Путина и Си",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109498",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466410"
-    },
-    {
-      "id": "ddcedf815fca",
-      "title": "Bloomberg назвал пять европейских стран-участниц новых переговоров по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109206",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072346"
-    },
-    {
-      "id": "2d1d194c0a7a",
-      "title": "Премьера Венгрии обвинили в шантаже и домашнем насилии в отношении бывшей жены",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109202",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072329"
-    },
-    {
-      "id": "434e0cceef36",
-      "title": "The Hill: министр торговли США даст показания в Конгрессе по делу Дженсена Хуанга",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109207",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072304"
-    },
-    {
-      "id": "6981ae261159",
-      "title": "Bloomberg узнал о решении Трампа продлить послабления для морских перевозок",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109209",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072272"
-    },
-    {
-      "id": "765870ce8896",
-      "title": "В Казахстане обнаружили новый вид бабочек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072256"
-    },
-    {
-      "id": "6ee083ddda1a",
-      "title": "Шнайдер заменит Мухову и сыграет против Андреевой на Итоговом турнире WTA",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109213",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072239"
-    },
-    {
-      "id": "002402293b86",
-      "title": "Microsoft назвала причину масштабного сбоя в работе сервисов компании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109214",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "13.11 23:11",
-      "parsed_at": "2026-11-13T23:11:48.072221"
     }
   ]
 }
