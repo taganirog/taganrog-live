@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T14:23:43.339895",
+  "last_updated": "2026-11-17T22:58:09.322482",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "62871ea8e0bd",
+      "title": "Про Кыштымского карлика Алешеньку выпустят документальную книгу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112066",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049397"
+    },
+    {
+      "id": "3fcbee8d2271",
+      "title": "Минобороны сообщило о гибели 19 человек при крушении Ан-12",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112079",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049385"
+    },
+    {
+      "id": "45984446cb4c",
+      "title": "В последнем матче года сборная России обыграла венесуэльцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112040",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049373"
+    },
+    {
+      "id": "a4b2c3daa496",
+      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091425",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049358"
+    },
+    {
+      "id": "1b9276fdb296",
+      "title": "Президент США впервые посетил саммит QUAD",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111760",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049346"
+    },
+    {
+      "id": "c0742126ed5b",
+      "title": "Армейцы одержали первую победу в Winline Basket Cup",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049335"
+    },
+    {
+      "id": "7203f719c67d",
+      "title": "Лукашенко выразил соболезнования Путину из-за крушения Ан-12",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112089",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049324"
+    },
+    {
+      "id": "d3ecf4cff030",
+      "title": "Die Welt: эксперты рекомендовали прекратить налоговое дело против Усманова",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112091",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049311"
+    },
+    {
+      "id": "16d0474849c4",
+      "title": "Белый Дом отрицает наличие достоверных данных об угрозах со стороны Ирана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112093",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049298"
+    },
+    {
+      "id": "064d7ae71975",
+      "title": "Сергей Овчинников стал тренером футбольного клуба «Локомотив» на ближайшие матчи",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112087",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 22:57",
+      "parsed_at": "2026-11-17T22:57:41.049278"
+    },
     {
       "id": "a5b1472cd922",
       "title": "При столкновении поездов в Праге пострадали 46 человек",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.11 17:22",
       "parsed_at": "2026-11-14T17:22:48.286204"
-    },
-    {
-      "id": "9c3bde0889b0",
-      "title": "В Венгрии обнаружили почти 18 млн евро в лесу по делу экс-министра",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109675",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286181"
-    },
-    {
-      "id": "fe3f3af7d4b1",
-      "title": "Умер фольклорист Георгий Левинтон",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109674",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286170"
-    },
-    {
-      "id": "2f1b15dd5662",
-      "title": "Что обсудят лидеры России, Китая и США в Шэньчжэне",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109665",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286160"
-    },
-    {
-      "id": "8a540fc191c8",
-      "title": "Страны Персидского залива потребовали компенсации от Ирана за прилеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109676",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286150"
-    },
-    {
-      "id": "d31e98910814",
-      "title": "Фигурист Лазарев выиграл короткую программу на Гран-при России в Омске",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109678",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286136"
-    },
-    {
-      "id": "af132a7f27a5",
-      "title": "В Петербурге задержали преподавательницу ВШЭ за связь с несовершеннолетним",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109679",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286114"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:42.866620"
-    },
-    {
-      "id": "0bfee652d468",
-      "title": "Путин помиловал Лерчек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109534",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350423"
-    },
-    {
-      "id": "561d8b4d34c2",
-      "title": "В Ростовской области обломки БПЛА повредили гостиницу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109544",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350412"
-    },
-    {
-      "id": "726183bbc99b",
-      "title": "Лучшие фотографии 9—11 ноября 2026 года",
-      "desc": "",
-      "url": "https://www.autopilot.ru/doc/9109093",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350399"
     }
   ]
 }
