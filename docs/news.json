@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-11-17T05:33:26.392555",
+  "last_updated": "2026-11-17T14:23:43.339895",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
-    "works": 1,
+    "mchs": 3,
+    "works": 0,
     "events": 0,
     "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "a5b1472cd922",
+      "title": "При столкновении поездов в Праге пострадали 46 человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111557",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785632"
+    },
+    {
+      "id": "ccf241f58311",
+      "title": "Госдума приняла закон о повышении штрафов за экономические преступления",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111583",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785618"
+    },
+    {
+      "id": "89932bda2aba",
+      "title": "Спецпосланник ЕС по санкциям О’Салливан объявил об отставке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111566",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785603"
+    },
+    {
+      "id": "cd3ce16adc65",
+      "title": "J&J покупает разработчика лекарств для глаз за $2,2 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110761",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785566"
+    },
+    {
+      "id": "309eae9db480",
+      "title": "Утечка 15 млн файлов Deutsche Bank вскрыла системные сбои в работе банка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111527",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785550"
+    },
+    {
+      "id": "1ee9ebf9f4c0",
+      "title": "Трамп хотел бы провести отдельную встречу с Путиным в Китае",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111593",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785535"
+    },
+    {
+      "id": "fb116c4b0210",
+      "title": "Российские пользователи пожаловались на сбои в работе Google",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111598",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785520"
+    },
+    {
+      "id": "754e66d73c06",
+      "title": "Павел Шинский — об истории Джимми Чу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111526",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785504"
+    },
+    {
+      "id": "e32d3d985ec4",
+      "title": "Лантратова сообщила о воссоединении 20 российских и украинских семей за полгода",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111582",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:14.785479"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:10.942372"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:10.942150"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:10.942132"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:10.942110"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "17.11 14:23",
+      "parsed_at": "2026-11-17T14:23:10.942083"
+    },
     {
       "id": "ff6c64b4c175",
       "title": "Чиновники и эксперты обсудили состояние технологического экспорта",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.11 10:19",
       "parsed_at": "2026-11-14T10:19:06.350399"
-    },
-    {
-      "id": "a4b2c3daa496",
-      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091425",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350386"
-    },
-    {
-      "id": "cbd1a4343cae",
-      "title": "Что известно о деле Лерчек и ее помиловании. Главное",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109211",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350367"
-    },
-    {
-      "id": "96be5eeae446",
-      "title": "Чем запомнилась неделя 9–13 ноября: цифры, цитаты и факты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109157",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350353"
-    },
-    {
-      "id": "84f8b33817be",
-      "title": "Персонаж из литературы и кино празднует 100-летие",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9108890",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350338"
-    },
-    {
-      "id": "821c1c825f99",
-      "title": "Лихачев сообщил о сохранении объема проектов «Росатома» на Западе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9108893",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350325"
-    },
-    {
-      "id": "c10f5487a80f",
-      "title": "Пашинян планирует посетить Россию 3, 11 и 22 декабря для переговоров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109545",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350311"
-    },
-    {
-      "id": "0bbe55ce24f0",
-      "title": "Мишустин перераспределил кураторов госпрограмм на уровне вице-премьеров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109548",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 10:19",
-      "parsed_at": "2026-11-14T10:19:06.350288"
-    },
-    {
-      "id": "7032674676b4",
-      "title": "Кошта: в делегацию для переговоров по Украине от Европы войдет «коалиция желающих»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109491",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466560"
-    },
-    {
-      "id": "ea5d09f97c5d",
-      "title": "На авиабазе США в Великобритании объявили тревогу из-за налета неизвестных БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109492",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466545"
-    },
-    {
-      "id": "60713a247181",
-      "title": "В США временно запретили вылеты самолетов из всех аэропортов по требованию FAA",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109493",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466530"
-    },
-    {
-      "id": "6da223bb83e5",
-      "title": "Один человек погиб при ударе БПЛА по частному дому в Белгородской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109494",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466500"
-    },
-    {
-      "id": "e0cfa1d4a384",
-      "title": "В США проверяют связь сбоя авиасистем с внедренным в диспетчерские центры ИИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109495",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466485"
-    },
-    {
-      "id": "f67dbaef4555",
-      "title": "На подлете к Москве сбили три беспилотника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109496",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466469"
-    },
-    {
-      "id": "c02537287b71",
-      "title": "Началась подготовка к ремонту Дома-музея Максима Горького в Москве",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109179",
-      "source": "kommersant.ru",
-      "category": "works",
-      "is_urgent": false,
-      "published_at": "14.11 03:56",
-      "parsed_at": "2026-11-14T03:56:45.466455"
     }
   ]
 }
