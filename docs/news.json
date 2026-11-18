@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T05:07:58.014317",
+  "last_updated": "2026-11-18T13:27:33.155637",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "a5cc74538bd3",
+      "title": "Стоматологи стали реже менять старые томографы на новые",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111413",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783979"
+    },
+    {
+      "id": "85d5cef87407",
+      "title": "Что говорил президент Путин на саммите АТЭС. Главное",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112433",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783957"
+    },
+    {
+      "id": "8d9eed05e663",
+      "title": "Ушаков анонсировал «полноценный разговор» Путина с Трампом на саммите АТЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112494",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783940"
+    },
+    {
+      "id": "fab0538fa7c8",
+      "title": "Московское «Динамо» расторгло контракт с отстраненным главным тренером Тамбиевым",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112512",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783904"
+    },
+    {
+      "id": "d991df734479",
+      "title": "Замороженная красная рыба за год подорожала в России на 21%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112509",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783884"
+    },
+    {
+      "id": "539a40f3e616",
+      "title": "Трамп и Си Цзиньпин обнялись при встрече в аэропорту Шэньчжэня",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112516",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783864"
+    },
+    {
+      "id": "04ffe65d0e6b",
+      "title": "Semafor: часть совета директоров Nvidia настаивает на возвращении Хуанга",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112504",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783847"
+    },
+    {
+      "id": "4d87f76e685e",
+      "title": "Прибыль Nvidia за третий квартал выросла на 105% год к году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112498",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783825"
+    },
+    {
+      "id": "93e890a78c9d",
+      "title": "Обзор иностранной прессы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112461",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.783798"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 13:27",
+      "parsed_at": "2026-11-18T13:27:04.098675"
+    },
     {
       "id": "75bc7e280431",
       "title": "Цифровая трансформация судебной системы должна пройти в сжатые сроки",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.11 02:13",
       "parsed_at": "2026-11-15T02:13:12.026076"
-    },
-    {
-      "id": "aaa74b162dc4",
-      "title": "Более 200 человек задержали на митингах во Франции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109720",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026064"
-    },
-    {
-      "id": "ba0fc7412e7f",
-      "title": "Кушнер сообщил о появлении прорывных идей в диалоге по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109721",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026053"
-    },
-    {
-      "id": "ee1e769d7e16",
-      "title": "В МВД назвали фейком информацию о массовых задержаниях в центре Москвы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109723",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026042"
-    },
-    {
-      "id": "b7ed2ab50e8c",
-      "title": "SpaceX впервые в истории поймала космический корабль в воздухе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109724",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026029"
-    },
-    {
-      "id": "2eada82da076",
-      "title": "В Москву прибыла делегация КНДР по приглашению Медведева",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109725",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026008"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:11.686414"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:11.686392"
-    },
-    {
-      "id": "ce5455401729",
-      "title": "Christie’s выставит на аукцион коллекцию сумок Louis Vuitton, созданных с художниками",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9108824",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.604025"
-    },
-    {
-      "id": "bf11d1981e12",
-      "title": "Все что вы хотели знать о жидкости, которой многие боялись",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9094787",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.604008"
-    },
-    {
-      "id": "3f9e4ecdbfb3",
-      "title": "За день над регионами России сбили 39 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109709",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603991"
     }
   ]
 }
