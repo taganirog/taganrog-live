@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:58:09.322482",
+  "last_updated": "2026-11-18T05:07:58.014317",
   "stats": {
     "zhkh": 1,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "75bc7e280431",
+      "title": "Цифровая трансформация судебной системы должна пройти в сжатые сроки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112035",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229884"
+    },
+    {
+      "id": "3c8c653362f8",
+      "title": "Bloomberg узнал о предстоящих переговорах США, Европы и Украины в Берлине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112119",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229873"
+    },
+    {
+      "id": "dd86ed816777",
+      "title": "Песков: часть встречи Путина, Трампа и Си может быть открыта для прессы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112120",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229863"
+    },
+    {
+      "id": "809c78360bc1",
+      "title": "Кингисеппский машзавод поставит детали для дизель-генераторов ЗАЭС на 1,42 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112122",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229839"
+    },
+    {
+      "id": "bd4452f760b4",
+      "title": "CNN: секретная внутренняя сеть Агентства нацбезопасности США перестала работать",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112123",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229829"
+    },
+    {
+      "id": "b15e98d29c18",
+      "title": "Совет директоров Nvidia отказался возвращать Хуанга на пост гендиректора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112126",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229818"
+    },
+    {
+      "id": "87e4eea5d99c",
+      "title": "«Ведомости»: прямая линия Владимира Путина состоится 10 декабря",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112128",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229807"
+    },
+    {
+      "id": "3db7fb37a0e5",
+      "title": "Как одна игровая серия научилась задавать правила не только внутри виртуального мира, но и за его пределами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9111548",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229795"
+    },
+    {
+      "id": "8b0bef28e6e1",
+      "title": "Армия Кувейта сообщила об отражении атаки БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112132",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:29.229772"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 05:07",
+      "parsed_at": "2026-11-18T05:07:25.668998"
+    },
     {
       "id": "62871ea8e0bd",
       "title": "Про Кыштымского карлика Алешеньку выпустят документальную книгу",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "14.11 22:20",
       "parsed_at": "2026-11-14T22:20:05.603991"
-    },
-    {
-      "id": "52f95ae57294",
-      "title": "Правительство Сербии выделило NIS 66 тыс. тонн нефти из резервов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109710",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603957"
-    },
-    {
-      "id": "d242a3f1e2f1",
-      "title": "Задержан подозреваемый в убийстве самбиста Вацилова Давудова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109711",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603939"
-    },
-    {
-      "id": "3ec456601a7d",
-      "title": "Двалишвилли попросил власти ОАЭ освободить Нурмагомедова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109712",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603922"
-    },
-    {
-      "id": "f0dde1e823c8",
-      "title": "Пентагон смягчил планы сокращения военного присутствия в Европе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109713",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603903"
-    },
-    {
-      "id": "802391f55e86",
-      "title": "Принцу Саудовской Аравии показали район имени Путина в Грозном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109715",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603882"
-    },
-    {
-      "id": "1afa3c0ef62b",
-      "title": "МИД: Россия выступает за общеконтинентальную систему безопасности в Евразии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109716",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:05.603853"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 22:20",
-      "parsed_at": "2026-11-14T22:20:03.025885"
-    },
-    {
-      "id": "0ae07a1e9549",
-      "title": "Генпрокурор Казахстана потребовал проверить сбои в сервисах «Яндекса»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109667",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286225"
-    },
-    {
-      "id": "6866514e7204",
-      "title": "Юлию Галямину* задержали в Казани",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109666",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286213"
-    },
-    {
-      "id": "ca386bae0c1f",
-      "title": "Болгария вновь заявила о прекращении военной помощи Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109668",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "14.11 17:22",
-      "parsed_at": "2026-11-14T17:22:48.286204"
     }
   ]
 }
