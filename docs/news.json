@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-18T13:27:33.155637",
+  "last_updated": "2026-11-18T21:58:01.156220",
   "stats": {
-    "zhkh": 1,
+    "zhkh": 0,
     "mchs": 3,
     "works": 0,
     "events": 0,
-    "news": 116,
+    "news": 117,
     "total": 120
   },
   "items": [
+    {
+      "id": "d0954968e55b",
+      "title": "И никто из семейства не оказался тем, кем, опасались, может оказаться",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113067",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.131055"
+    },
+    {
+      "id": "376408030ffc",
+      "title": "Судам дадут полгода на расставание со своим юридическим лицом",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112955",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.131043"
+    },
+    {
+      "id": "378886b46a48",
+      "title": "Госдума поддержала штрафы за демонстрацию дискредитирующих традиционные ценности фильмов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113041",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.131033"
+    },
+    {
+      "id": "22d1dea04fc2",
+      "title": "В Москве вручили юбилейную премию журнала «КиноРепортер»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113065",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.131010"
+    },
+    {
+      "id": "8c086fe542f3",
+      "title": "Мнения и прогнозы аналитиков о том, как будет вести себя рубль",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113091",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.130998"
+    },
+    {
+      "id": "9b93fd542fc3",
+      "title": "Библиотеки обязали маркировать книги иноагентов и не выдавать их несовершеннолетним",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.130987"
+    },
+    {
+      "id": "e32aec60e343",
+      "title": "Дуров сообщил о второй за год блокировке Telegram в Ираке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113094",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.130974"
+    },
+    {
+      "id": "75173ac9b4b6",
+      "title": "Акции разработчика GTA VI выросли на 7,6% в день выхода игры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113089",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.130958"
+    },
+    {
+      "id": "213cc991d7bc",
+      "title": "Из Крыма возобновили автобусные рейсы на материк и в Белоруссию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113045",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:32.130938"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:31.084599"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "18.11 21:57",
+      "parsed_at": "2026-11-18T21:57:31.084578"
+    },
     {
       "id": "a5cc74538bd3",
       "title": "Стоматологи стали реже менять старые томографы на новые",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.11 05:54",
       "parsed_at": "2026-11-15T05:54:44.855970"
-    },
-    {
-      "id": "39b625605cb7",
-      "title": "Мирра Андреева вышла в финал итогового турнира WTA, установив его рекорд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109714",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855958"
-    },
-    {
-      "id": "8571beb3d2a2",
-      "title": "В Ормузском проливе на минах подорвались два танкера",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109727",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855948"
-    },
-    {
-      "id": "d594b454eab7",
-      "title": "Israel Hayom: «Моссад» передала ЦРУ планы Ирана совершить покушение на Трампа",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109728",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855927"
-    },
-    {
-      "id": "b56566246936",
-      "title": "Песков: переговорщики от Европы пока не связывались с Россией по вопросу Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109729",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855916"
-    },
-    {
-      "id": "51766fe9d07c",
-      "title": "Кушнер: НАТО останется основой безопасности Европы после переговоров по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109730",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855905"
-    },
-    {
-      "id": "c3b264b284a5",
-      "title": "Беспилотники ударили по Таганрогу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109731",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855894"
-    },
-    {
-      "id": "6cdee66fbeca",
-      "title": "Министр транспорта США назвал виновника общенационального сбоя в авиасообщении",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109732",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855883"
-    },
-    {
-      "id": "55e355abaab5",
-      "title": "ЦАХАЛ ликвидировала высокопоставленного командира «Хамаса» на юге Газы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109733",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855862"
-    },
-    {
-      "id": "3f4c250c19c9",
-      "title": "Сбой Microsoft привел к отравлению хлором в бассейне в Германии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109717",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026109"
-    },
-    {
-      "id": "daf053253203",
-      "title": "Правительство выделило 2,4 млрд руб. на льготный лизинг вертолетов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109718",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026098"
-    },
-    {
-      "id": "45a2025f79e8",
-      "title": "Россия обыграла Украину в финале ЧЕ по настольному теннису U-13",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109719",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 02:13",
-      "parsed_at": "2026-11-15T02:13:12.026076"
     }
   ]
 }
