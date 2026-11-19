@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T20:30:37.866023",
+  "last_updated": "2026-11-20T02:44:21.621998",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "251b4a33169d",
+      "title": "Путин прилетел в Таджикистан",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114227",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473828"
+    },
+    {
+      "id": "4072418481b3",
+      "title": "14-летнюю девочку спасет операция на позвоночнике",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112810",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473810"
+    },
+    {
+      "id": "33950807760a",
+      "title": "Для спасения Любы Афониной не хватает 778 087 руб.",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112815",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473793"
+    },
+    {
+      "id": "2556d41bd2d8",
+      "title": "Москва ждет Костю Зотова в декабре",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112821",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473758"
+    },
+    {
+      "id": "f2bf47bace90",
+      "title": "«Русфонд.Навигатор» за 2025 год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113090",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473742"
+    },
+    {
+      "id": "80eb26c8f619",
+      "title": "Мониторинг мировой экономики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114032",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473725"
+    },
+    {
+      "id": "939102ff09ce",
+      "title": "Для 92% объектов КИИ переход на российское ПО отложен до 2036 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114155",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473707"
+    },
+    {
+      "id": "e3c392c589b7",
+      "title": "Минэкономики предлагает скорректировать подход к категорированию объектов контроля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114165",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473680"
+    },
+    {
+      "id": "1421c35ae9e3",
+      "title": "Иран отверг заявление Трампа о разработке химоружия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114226",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 02:43",
+      "parsed_at": "2026-11-20T02:43:53.473653"
+    },
     {
       "id": "24f728a7a23e",
       "title": "Очередной руководитель избиркома стал политическим вице-губернатором",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.11 11:50",
       "parsed_at": "2026-11-16T11:50:19.292394"
-    },
-    {
-      "id": "820a150a6272",
-      "title": "В закупки госкомпаний у МСП введен принцип соразмерности санкций для обеих сторон",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109952",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778926"
-    },
-    {
-      "id": "fe3dd0bd7ced",
-      "title": "Мировые инвесторы вложили в фонды акций США почти $64 млрд за неделю",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109989",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778910"
-    },
-    {
-      "id": "08b80520684a",
-      "title": "Президенту Приднестровья запретят выезжать из Молдавии на пять лет",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110073",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778895"
-    },
-    {
-      "id": "0f8fc1e70014",
-      "title": "На подлете к Москве сбили 47 БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110075",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778865"
-    },
-    {
-      "id": "fd5273f9f7fe",
-      "title": "Кремлевские куранты вновь заработали после техобслуживания",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110072",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778851"
-    },
-    {
-      "id": "318d60f95951",
-      "title": "Во второй тур выборов главы Гагаузии прошли пророссийские кандидаты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110078",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778836"
-    },
-    {
-      "id": "4ab090f0a2ce",
-      "title": "Впервые с 2004 года итоговый турнир WTA стал триумфом российской теннисистки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110079",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778821"
-    },
-    {
-      "id": "12d2fa02da69",
-      "title": "Жителей Рыльска призвали не выходить из дома из-за мин на улицах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110077",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778803"
-    },
-    {
-      "id": "d3582ed7d029",
-      "title": "Ракета Vulcan со спутниками Amazon потерпела аварию после старта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110080",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 04:32",
-      "parsed_at": "2026-11-16T04:32:19.778776"
     }
   ]
 }
