@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T11:24:50.941813",
+  "last_updated": "2026-11-19T20:30:37.866023",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "24f728a7a23e",
+      "title": "Очередной руководитель избиркома стал политическим вице-губернатором",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114052",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580662"
+    },
+    {
+      "id": "5f6e77dca4b0",
+      "title": "До 13 выросло число пострадавших при атаке ВСУ на Курскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114118",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580650"
+    },
+    {
+      "id": "149f5866e7a0",
+      "title": "Как Рособрнадзор хочет бороться со списыванием в вузах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114122",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580637"
+    },
+    {
+      "id": "a04e15223829",
+      "title": "Водители смогут оплачивать парковки со шлагбаумом без паркоматов и QR-кодов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113830",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580625"
+    },
+    {
+      "id": "b81da19aa89f",
+      "title": "Объем хищений со счетов юрлиц снизился впервые в истории наблюдений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114058",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580612"
+    },
+    {
+      "id": "913b1167bf3b",
+      "title": "Хакеры опубликовали данные тысяч клиентов Visa, Mastercard и JPMorgan",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114139",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580599"
+    },
+    {
+      "id": "7cfbabfb9c9d",
+      "title": "ВККС открыла две вакансии на должности зампредов Верховного суда",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114145",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580586"
+    },
+    {
+      "id": "02656f3f1e28",
+      "title": "Трамп оценил визит в Китай на 12 из 10",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114129",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580572"
+    },
+    {
+      "id": "438df82346de",
+      "title": "Бюджетный пакет принят во втором чтении",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114135",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580557"
+    },
+    {
+      "id": "aa08dba94bed",
+      "title": "ФАС потребовала от «Гротекса» перечислить в бюджет 2 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113961",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 20:30",
+      "parsed_at": "2026-11-19T20:30:09.580528"
+    },
     {
       "id": "6b211a935cfc",
       "title": "Преподаватели используют мемы для объяснения сложных тем",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.11 04:32",
       "parsed_at": "2026-11-16T04:32:19.778776"
-    },
-    {
-      "id": "79f6d0484c13",
-      "title": "Международная федерация хоккея отказалась выполнять решение CAS, сославшись на позицию канадского правительства",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110033",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657242"
-    },
-    {
-      "id": "020cbe762dd3",
-      "title": "В Ростовской области восстановили движение пассажирских поездов после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110038",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657223"
-    },
-    {
-      "id": "07ebcd73b58b",
-      "title": "FT узнала о возможном возвращении Хуанга на пост главы Nvidia",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110040",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657203"
-    },
-    {
-      "id": "917ee0693788",
-      "title": "МИД России проверит информацию о планах Эстонии закрыть все погранпереходы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110041",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657160"
-    },
-    {
-      "id": "04882b5dcd2f",
-      "title": "Хинштейн: ВСУ заминировали квартал в центре Рыльска с помощью БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110043",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657140"
-    },
-    {
-      "id": "433501a7e9d0",
-      "title": "За день рядом с Москвой сбили 82 беспилотника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110045",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657120"
-    },
-    {
-      "id": "5fd1f33713fa",
-      "title": "Цены на российскую сталь продолжат расти благодаря внутреннему спросу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109918",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657097"
-    },
-    {
-      "id": "634b59a2d8d0",
-      "title": "Дегтярев призвал пересмотреть право IIHF на проведение хоккейных турниров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110044",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657076"
-    },
-    {
-      "id": "800104b76a43",
-      "title": "На выборах главы Гагаузии лидируют пророссийские кандидаты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110050",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 00:56",
-      "parsed_at": "2026-11-16T00:56:28.657047"
-    },
-    {
-      "id": "07b2155cc5e4",
-      "title": "В Минобороны объяснили “Ъ” новый механизм сопровождения военного экспорта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109980",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.174084"
     }
   ]
 }
