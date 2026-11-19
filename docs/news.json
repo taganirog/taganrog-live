@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-18T21:58:01.156220",
+  "last_updated": "2026-11-19T03:58:04.839370",
   "stats": {
     "zhkh": 0,
-    "mchs": 3,
+    "mchs": 2,
     "works": 0,
     "events": 0,
-    "news": 117,
+    "news": 118,
     "total": 120
   },
   "items": [
+    {
+      "id": "6ad28fad4ab6",
+      "title": "Госдума ужесточает ответственность за нарушения на опасных производствах",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113004",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195823"
+    },
+    {
+      "id": "0f644ed6d65b",
+      "title": "Белый дом утвердил пакет законов о ЕТОР",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113010",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195807"
+    },
+    {
+      "id": "f550b535e095",
+      "title": "Мониторинг мировой экономики",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113037",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195778"
+    },
+    {
+      "id": "24b480c7f045",
+      "title": "Партийцы и эксперты обсудили настоящее и будущее политтехнологий",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113066",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195750"
+    },
+    {
+      "id": "73f7771a8304",
+      "title": "Северному завозу требуется обновление речного флота",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113097",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195729"
+    },
+    {
+      "id": "8e2139525b31",
+      "title": "Bloomberg узнал возможную цену акций Anthropic на IPO",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113140",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195715"
+    },
+    {
+      "id": "4b39c01868f1",
+      "title": "Судьи КС Польши лишили иммунитета и.о. председателя Богдана Свенчковского",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113146",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195701"
+    },
+    {
+      "id": "5c877b8e0dae",
+      "title": "Цивилева заявила об отсутствии очередей на протезирование в военных госпиталях",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113148",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195682"
+    },
+    {
+      "id": "80d8ec2017b7",
+      "title": "Трамп: США не будут просить у России и Китая помощи с Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113150",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 03:57",
+      "parsed_at": "2026-11-19T03:57:36.195655"
+    },
     {
       "id": "d0954968e55b",
       "title": "И никто из семейства не оказался тем, кем, опасались, может оказаться",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.11 13:14",
       "parsed_at": "2026-11-15T13:14:23.155161"
-    },
-    {
-      "id": "14ee93ca59ed",
-      "title": "Минобороны сообщило об ударах по военным объектам и инфраструктуре Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109827",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155149"
-    },
-    {
-      "id": "e628b848ac50",
-      "title": "Россия выразила недовольство председательством Швейцарии в ОБСЕ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109828",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155136"
-    },
-    {
-      "id": "4d413d8acc90",
-      "title": "Лидеры «Студенческого списка» встретились с представителями США, РФ и Европы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109805",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155111"
-    },
-    {
-      "id": "ba1d9bd5f5ef",
-      "title": "Лавров объяснил стремление Европы вернуться к переговорам по Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109830",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155098"
-    },
-    {
-      "id": "e1060a25dfa0",
-      "title": "В центре Москвы произошел пожар в строящемся здании",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109832",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155085"
-    },
-    {
-      "id": "85e98c2ac9e5",
-      "title": "Почему россияне стали модернизировать все подряд и как это остановить",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109813",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155074"
-    },
-    {
-      "id": "fa50719dd1ff",
-      "title": "Российский вратарь «Детройта» Тарасов признан третьей звездой дня в НХЛ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109842",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155058"
-    },
-    {
-      "id": "b8aa7fefe25a",
-      "title": "Индия сформирует отряды командос на границе с Китаем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109844",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155037"
-    },
-    {
-      "id": "83572e81af36",
-      "title": "Макрон назвал противников помощи Украине авторами «рецепта будущей войны»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109726",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 05:54",
-      "parsed_at": "2026-11-15T05:54:44.855970"
     }
   ]
 }
