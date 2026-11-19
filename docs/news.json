@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T03:58:04.839370",
+  "last_updated": "2026-11-19T11:24:50.941813",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "6b211a935cfc",
+      "title": "Преподаватели используют мемы для объяснения сложных тем",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112854",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557870"
+    },
+    {
+      "id": "71ea1a034e2f",
+      "title": "Въездной турпоток в РФ снизился на 12% за год",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113099",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557861"
+    },
+    {
+      "id": "61e0727333aa",
+      "title": "Производитель сигарет Winston спишет $8,9 млрд после утраты контроля в России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113389",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557852"
+    },
+    {
+      "id": "72a18f785081",
+      "title": "В Улан-Удэ временно введут проезд для льготников за 1 рубль",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113376",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557832"
+    },
+    {
+      "id": "231d42f32abc",
+      "title": "В Латвии рассмотрели «декларацию о дерусификации» для ограничения русского языка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113400",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557818"
+    },
+    {
+      "id": "c54ee0b0573a",
+      "title": "UniCredit договорился с властями Германии о покупке Commerzbank",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113361",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557804"
+    },
+    {
+      "id": "e8a3bea0e954",
+      "title": "ИИ-разработчик Anthropic провел крупнейшее в мире IPO",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113371",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557794"
+    },
+    {
+      "id": "fa7a9f7827ce",
+      "title": "Кушнер и Уиткофф обсудят с Зеленским «ключевые элементы мира» на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113396",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557783"
+    },
+    {
+      "id": "0624fa300935",
+      "title": "Зачем компании нанимают философов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110871",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "19.11 11:24",
+      "parsed_at": "2026-11-19T11:24:19.557764"
+    },
     {
       "id": "6ad28fad4ab6",
       "title": "Госдума ужесточает ответственность за нарушения на опасных производствах",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "15.11 20:18",
       "parsed_at": "2026-11-15T20:18:32.174084"
-    },
-    {
-      "id": "1367f7385fc2",
-      "title": "Минфин РФ предложил исключить из налога на сверхдоходы добычу марганца и хрома",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109995",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.174068"
-    },
-    {
-      "id": "b937a3507c6b",
-      "title": "СИБУР допускает оспаривание британских санкций",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109990",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.174051"
-    },
-    {
-      "id": "2d8af4c60e0f",
-      "title": "В Праге до 450 тысяч человек вышли на митинг в поддержу независимости СМИ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110003",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.174017"
-    },
-    {
-      "id": "255f8bf95c45",
-      "title": "SpaceX впервые вернула с орбиты корабль Starship с помощью манипуляторов стартовой башни",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109994",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.174000"
-    },
-    {
-      "id": "f3346c36d2e8",
-      "title": "Блогера отправят на лечение в КНР, сохранив статус потерпевшей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109988",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.173983"
-    },
-    {
-      "id": "e6fd0ad0ca0a",
-      "title": "Beget заявил о восстановлении более 215 тысяч сайтов после DDoS-атаки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110009",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.173966"
-    },
-    {
-      "id": "3529aa443db0",
-      "title": "На подлете к Москве сбили четыре беспилотника",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110010",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.173946"
-    },
-    {
-      "id": "a48fa159ce22",
-      "title": "Все больше стран ЕС заявляют, что больше не в состоянии финансировать Украину",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109946",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 20:18",
-      "parsed_at": "2026-11-15T20:18:32.173920"
-    },
-    {
-      "id": "b630f97fcd9a",
-      "title": "Кого коснутся увольнения в 2027 году и стоит ли их ждать",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9109810",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "15.11 13:14",
-      "parsed_at": "2026-11-15T13:14:23.155161"
     }
   ]
 }
