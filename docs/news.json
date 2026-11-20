@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T02:44:21.621998",
+  "last_updated": "2026-11-20T08:07:44.319755",
   "stats": {
     "zhkh": 0,
     "mchs": 2,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "bfb84b67d703",
+      "title": "Стоимость яблок в России за год упала на 16–33,7%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114023",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137591"
+    },
+    {
+      "id": "8fda765014b3",
+      "title": "У Пентагона нет долгосрочного плана по наращиванию объемов боеприпасов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114252",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": true,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137573"
+    },
+    {
+      "id": "962f535e7601",
+      "title": "СКР возбудил дело после массового отравления учеников школы на Камчатке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114263",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137560"
+    },
+    {
+      "id": "33c30e219e56",
+      "title": "NBC: технические сбои в сети АНБ США продолжаются три дня",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114273",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137535"
+    },
+    {
+      "id": "30c4fb876534",
+      "title": "Компании Китая опасаются ограничений доступа к чипам Nvidia со стороны США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114276",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137522"
+    },
+    {
+      "id": "a57ff042098f",
+      "title": "Виктор Достов о цифровых валютах в поиске специализации",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112485",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137509"
+    },
+    {
+      "id": "ddb4a064d1d1",
+      "title": "Гендиректор ассоциации «ФинТех» Максим Григорьев об операциях с новой формой рубля",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9112552",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137496"
+    },
+    {
+      "id": "528bdfe2fca4",
+      "title": "Сотрудники пересмотрели причины смены работы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9113968",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137481"
+    },
+    {
+      "id": "a31fa7d905da",
+      "title": "Как проходит внедрение цифрового рубля в крупных и малых банках",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9114124",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 08:07",
+      "parsed_at": "2026-11-20T08:07:16.137460"
+    },
     {
       "id": "251b4a33169d",
       "title": "Путин прилетел в Таджикистан",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.11 22:07",
       "parsed_at": "2026-11-16T22:07:10.712271"
-    },
-    {
-      "id": "2ff2187d78b4",
-      "title": "Минтранс заявил об отсутствии пострадавших при ударе по Крымскому мосту",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110341",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292571"
-    },
-    {
-      "id": "77ca1522b028",
-      "title": "Мосбиржа 30 декабря прекратит торги акциями «Евротранса»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110345",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292554"
-    },
-    {
-      "id": "a7aabd77a6f0",
-      "title": "Фаворитом в борьбе за Белый дом в 2028 году стал демократ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110285",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292537"
-    },
-    {
-      "id": "9d6867bd3d76",
-      "title": "RuStore стал обязателен для предустановки на Smart TV",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110356",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292503"
-    },
-    {
-      "id": "9c45641558a4",
-      "title": "Что известно о повторной атаке на Beget и чем она грозит клиентам хостинга",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110359",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292485"
-    },
-    {
-      "id": "a7b2aa6c9f53",
-      "title": "Лантратова сообщила о подготовке к новому обмену военнопленными с Украиной",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110370",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292465"
-    },
-    {
-      "id": "df4f0fbb488e",
-      "title": "Что известно об атаках ВСУ на регионы России к утру 16 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110330",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292445"
-    },
-    {
-      "id": "9eb7389e66ba",
-      "title": "Суд прекратил производство по иску Crocus к «Ингосстраху» на 1,7 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110379",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292424"
-    },
-    {
-      "id": "469582fa5d69",
-      "title": "В Нижнекамске число пострадавших от атаки БПЛА выросло до семи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110265",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 11:50",
-      "parsed_at": "2026-11-16T11:50:19.292394"
     }
   ]
 }
