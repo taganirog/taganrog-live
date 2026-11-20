@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-20T08:07:44.319755",
+  "last_updated": "2026-11-20T17:13:50.064401",
   "stats": {
     "zhkh": 0,
-    "mchs": 2,
+    "mchs": 1,
     "works": 0,
     "events": 0,
-    "news": 118,
+    "news": 119,
     "total": 120
   },
   "items": [
+    {
+      "id": "b4cf61640ddd",
+      "title": "Индия и США ликвидировали международную сеть наркоторговцев",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126502",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.697041"
+    },
+    {
+      "id": "7be142e4f7a8",
+      "title": "Крупные перевозчики предлагают включить частников в единый реестр",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126445",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.697023"
+    },
+    {
+      "id": "9e9d91ebb02b",
+      "title": "Джордж Лэзенби и Пирс Броснан поздравили Паттинсона с ролью агента 007",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9126478",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696990"
+    },
+    {
+      "id": "13dec065ccba",
+      "title": "VK требует от Apple выплатить более €31 млн и проценты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126517",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696956"
+    },
+    {
+      "id": "96fd7615adfd",
+      "title": "100 лет назад так было открыто новое месторождение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9110321",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696939"
+    },
+    {
+      "id": "cdd4052c4a9f",
+      "title": "Индексы РТС и Мосбиржи упали на 3%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126523",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696922"
+    },
+    {
+      "id": "a86a4c49d1ad",
+      "title": "Как драгметалл превратился из украшения в инвестиционный актив",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126490",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696905"
+    },
+    {
+      "id": "3e49624f483b",
+      "title": "Международный суд ООН впервые обвинил отдельную страну в геноциде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126500",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696884"
+    },
+    {
+      "id": "148213f20153",
+      "title": "Почему компании ищут замену привычному мессенджеру: исследование «Билайн бизнеса»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126364",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "20.11 17:13",
+      "parsed_at": "2026-11-20T17:13:21.696856"
+    },
     {
       "id": "bfb84b67d703",
       "title": "Стоимость яблок в России за год упала на 16–33,7%",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "16.11 22:07",
       "parsed_at": "2026-11-16T22:07:12.953791"
-    },
-    {
-      "id": "e9fb2389f58a",
-      "title": "Умер Михаил Полторанин",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111047",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953780"
-    },
-    {
-      "id": "87647bf853f3",
-      "title": "Лавров словами «ни шатко ни валко» описал переговоры России и США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111090",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953771"
-    },
-    {
-      "id": "9250f26a2418",
-      "title": "Как выглядят новые санкции ЕС против России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111087",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953745"
-    },
-    {
-      "id": "4fcc4b2f575d",
-      "title": "Что Сергей Шойгу делал в Абу-Даби",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111077",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953735"
-    },
-    {
-      "id": "58de9cdb0b30",
-      "title": "Экс-глава SEC Генслер: пузырь ИИ лопнет к 2028 году и вызовет рецессию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111081",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953724"
-    },
-    {
-      "id": "a8b025ef258b",
-      "title": "Норвегия ограничила въезд для спортсменов из России и Белоруссии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111102",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953712"
-    },
-    {
-      "id": "890355546180",
-      "title": "На подлете к Москве сбили еще 27 беспилотников",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111109",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953699"
-    },
-    {
-      "id": "b9a49ba21061",
-      "title": "Уиткофф и Кушнер обсудили с Ушаковым урегулирование на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111108",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:12.953679"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "16.11 22:07",
-      "parsed_at": "2026-11-16T22:07:10.712271"
     }
   ]
 }
