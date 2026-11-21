@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-21T00:54:45.397372",
+  "last_updated": "2026-11-21T05:56:46.252976",
   "stats": {
     "zhkh": 1,
-    "mchs": 2,
+    "mchs": 3,
     "works": 0,
     "events": 0,
-    "news": 117,
+    "news": 116,
     "total": 120
   },
   "items": [
+    {
+      "id": "b6e25f1dd973",
+      "title": "Еврокомиссия выделила €7,9 млрд Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126971",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586141"
+    },
+    {
+      "id": "ddafde93aa74",
+      "title": "Полиция США обратилась с предупреждениями к американцам после выхода GTA VI",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126972",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586129"
+    },
+    {
+      "id": "15b17e2d4f89",
+      "title": "Axios: посланники Трампа провели в Берлине секретные переговоры с Катаром по Ирану",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126974",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586119"
+    },
+    {
+      "id": "0ce644250b8b",
+      "title": "Власти США опубликовали отчеты о предполагаемых встречах со снежным человеком",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126975",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586093"
+    },
+    {
+      "id": "b182fb8f39cb",
+      "title": "Современное искусство как двигатель прогресса",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9114430",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586080"
+    },
+    {
+      "id": "f8c5320b74b2",
+      "title": "Советник Макрона назвал условие поездки европейцев на переговоры в Россию",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126976",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586068"
+    },
+    {
+      "id": "d7f1f31db128",
+      "title": "WP: Хегсет распорядился ограничить военные связи США с Канадой",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126978",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586054"
+    },
+    {
+      "id": "4bc02f456ce8",
+      "title": "Над Ленинградской областью сбили шесть БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126979",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586039"
+    },
+    {
+      "id": "c2408f808523",
+      "title": "Шторм на юге Бразилии разрушил около 5 тыс. домов, погибли три человека",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9126981",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "21.11 05:56",
+      "parsed_at": "2026-11-21T05:56:17.586017"
+    },
     {
       "id": "af508c4e5787",
       "title": "Трамп пригрозил компаниям с ЦОДами за рубежом огромным налогом",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.11 14:23",
       "parsed_at": "2026-11-17T14:23:14.785550"
-    },
-    {
-      "id": "1ee9ebf9f4c0",
-      "title": "Трамп хотел бы провести отдельную встречу с Путиным в Китае",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111593",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785535"
-    },
-    {
-      "id": "fb116c4b0210",
-      "title": "Российские пользователи пожаловались на сбои в работе Google",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111598",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785520"
-    },
-    {
-      "id": "754e66d73c06",
-      "title": "Павел Шинский — об истории Джимми Чу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111526",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785504"
-    },
-    {
-      "id": "e32d3d985ec4",
-      "title": "Лантратова сообщила о воссоединении 20 российских и украинских семей за полгода",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111582",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785479"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:10.942372"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:10.942150"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:10.942132"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:10.942110"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:10.942083"
     }
   ]
 }
