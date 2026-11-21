@@ -1,14 +1,168 @@
 {
-  "last_updated": "2026-11-21T05:56:46.252976",
+  "last_updated": "2026-11-21T13:35:21.608472",
   "stats": {
     "zhkh": 1,
-    "mchs": 3,
+    "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 116,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "533a49cd2218",
+      "title": "Почему раннее бронирование перестало быть выгодным",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127071",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341919"
+    },
+    {
+      "id": "5b801aced3fa",
+      "title": "Биткойн упал до $55 тыс. впервые с сентября 2024 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127070",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341908"
+    },
+    {
+      "id": "e984aa6586fa",
+      "title": "Суд признал законным заочный приговор основателю автодилера «Рольф» Петрову",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127074",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341897"
+    },
+    {
+      "id": "dafe4e6377d7",
+      "title": "Почему биткойн теряет позиции и как долго продлится падение",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127082",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341886"
+    },
+    {
+      "id": "d7dddb8b4fc3",
+      "title": "В России ограничат повышенные тарифы для детей в такси",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127084",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341862"
+    },
+    {
+      "id": "e3d2ef849d8b",
+      "title": "Минобороны России отчиталось об ударе по месту совещания командиров ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127087",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341847"
+    },
+    {
+      "id": "b191f0b75653",
+      "title": "Беспилотники ударили по шедшему в Калининград судну в Финском заливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127097",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341834"
+    },
+    {
+      "id": "bdc1b5db15af",
+      "title": "Замглавы Ростехнадзора утвердили заместителем гендиректора МАГАТЭ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127094",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341821"
+    },
+    {
+      "id": "a1096557f077",
+      "title": "На Пхукете задержали двоих россиян по делу о мошенничестве на 150 млн рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127102",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:53.341801"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:50.933114"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:50.932912"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:50.932899"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:50.932883"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 13:34",
+      "parsed_at": "2026-11-21T13:34:50.932860"
+    },
     {
       "id": "b6e25f1dd973",
       "title": "Еврокомиссия выделила €7,9 млрд Украине",
@@ -1174,160 +1328,6 @@
       "is_urgent": false,
       "published_at": "17.11 22:57",
       "parsed_at": "2026-11-17T22:57:41.049397"
-    },
-    {
-      "id": "3fcbee8d2271",
-      "title": "Минобороны сообщило о гибели 19 человек при крушении Ан-12",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112079",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049385"
-    },
-    {
-      "id": "45984446cb4c",
-      "title": "В последнем матче года сборная России обыграла венесуэльцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112040",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049373"
-    },
-    {
-      "id": "a4b2c3daa496",
-      "title": "«Азбука вкуса» — быстрая доставка на разные случаи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091425",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049358"
-    },
-    {
-      "id": "1b9276fdb296",
-      "title": "Президент США впервые посетил саммит QUAD",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111760",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049346"
-    },
-    {
-      "id": "c0742126ed5b",
-      "title": "Армейцы одержали первую победу в Winline Basket Cup",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112082",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049335"
-    },
-    {
-      "id": "7203f719c67d",
-      "title": "Лукашенко выразил соболезнования Путину из-за крушения Ан-12",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112089",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049324"
-    },
-    {
-      "id": "d3ecf4cff030",
-      "title": "Die Welt: эксперты рекомендовали прекратить налоговое дело против Усманова",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112091",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049311"
-    },
-    {
-      "id": "16d0474849c4",
-      "title": "Белый Дом отрицает наличие достоверных данных об угрозах со стороны Ирана",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112093",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049298"
-    },
-    {
-      "id": "064d7ae71975",
-      "title": "Сергей Овчинников стал тренером футбольного клуба «Локомотив» на ближайшие матчи",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112087",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049278"
-    },
-    {
-      "id": "a5b1472cd922",
-      "title": "При столкновении поездов в Праге пострадали 46 человек",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111557",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785632"
-    },
-    {
-      "id": "ccf241f58311",
-      "title": "Госдума приняла закон о повышении штрафов за экономические преступления",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111583",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785618"
-    },
-    {
-      "id": "89932bda2aba",
-      "title": "Спецпосланник ЕС по санкциям О’Салливан объявил об отставке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111566",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785603"
-    },
-    {
-      "id": "cd3ce16adc65",
-      "title": "J&J покупает разработчика лекарств для глаз за $2,2 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110761",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785566"
-    },
-    {
-      "id": "309eae9db480",
-      "title": "Утечка 15 млн файлов Deutsche Bank вскрыла системные сбои в работе банка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111527",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 14:23",
-      "parsed_at": "2026-11-17T14:23:14.785550"
     }
   ]
 }
