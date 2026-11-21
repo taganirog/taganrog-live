@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T13:35:21.608472",
+  "last_updated": "2026-11-21T20:51:01.525911",
   "stats": {
     "zhkh": 1,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "b27b89475d1f",
+      "title": "Трамп заявил, что никогда не думал о смене власти в Иране",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127188",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162257"
+    },
+    {
+      "id": "5fbe84976710",
+      "title": "Минобороны РФ отчиталось об ударе по объектам энергетики и сухогрузу Украины",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127190",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162241"
+    },
+    {
+      "id": "a218b897fa79",
+      "title": "Трамп предупредил об угрозе банкротства США из-за высокого госдолга",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127193",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162218"
+    },
+    {
+      "id": "c5754a598601",
+      "title": "В НАТО пообещали защищать «каждый дюйм» территории Польши после инцидента с ракетами",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127196",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162183"
+    },
+    {
+      "id": "91697bc50b2a",
+      "title": "Швейцария проведет референдум об ослаблении правил экспорта оружия",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127200",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162163"
+    },
+    {
+      "id": "5eb2a9a3f6d6",
+      "title": "В Финляндии допустили причастность Украины к удару дронами по российскому судну",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127192",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162142"
+    },
+    {
+      "id": "91e311e2cbdb",
+      "title": "Весь сарказм «Противоденствия» Томаса Пинчона — впервые на русском",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9126603",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162123"
+    },
+    {
+      "id": "eb1b48d77aaa",
+      "title": "В аэропорту Калининграда ввели временные ограничения на полеты",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127201",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162101"
+    },
+    {
+      "id": "781d84af65bf",
+      "title": "В Калининградской области сработала система оповещения о беспилотной опасности",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127202",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "21.11 20:50",
+      "parsed_at": "2026-11-21T20:50:33.162070"
+    },
     {
       "id": "533a49cd2218",
       "title": "Почему раннее бронирование перестало быть выгодным",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.11 05:07",
       "parsed_at": "2026-11-18T05:07:29.229873"
-    },
-    {
-      "id": "dd86ed816777",
-      "title": "Песков: часть встречи Путина, Трампа и Си может быть открыта для прессы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112120",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229863"
-    },
-    {
-      "id": "809c78360bc1",
-      "title": "Кингисеппский машзавод поставит детали для дизель-генераторов ЗАЭС на 1,42 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112122",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229839"
-    },
-    {
-      "id": "bd4452f760b4",
-      "title": "CNN: секретная внутренняя сеть Агентства нацбезопасности США перестала работать",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112123",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229829"
-    },
-    {
-      "id": "b15e98d29c18",
-      "title": "Совет директоров Nvidia отказался возвращать Хуанга на пост гендиректора",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112126",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229818"
-    },
-    {
-      "id": "87e4eea5d99c",
-      "title": "«Ведомости»: прямая линия Владимира Путина состоится 10 декабря",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112128",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229807"
-    },
-    {
-      "id": "3db7fb37a0e5",
-      "title": "Как одна игровая серия научилась задавать правила не только внутри виртуального мира, но и за его пределами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9111548",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229795"
-    },
-    {
-      "id": "8b0bef28e6e1",
-      "title": "Армия Кувейта сообщила об отражении атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112132",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229772"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:25.668998"
-    },
-    {
-      "id": "62871ea8e0bd",
-      "title": "Про Кыштымского карлика Алешеньку выпустят документальную книгу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112066",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "17.11 22:57",
-      "parsed_at": "2026-11-17T22:57:41.049397"
     }
   ]
 }
