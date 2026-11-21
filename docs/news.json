@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-21T20:51:01.525911",
+  "last_updated": "2026-11-22T01:39:45.936155",
   "stats": {
-    "zhkh": 1,
+    "zhkh": 2,
     "mchs": 4,
     "works": 0,
     "events": 0,
-    "news": 115,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "2254c51e9ac4",
+      "title": "В Свердловской области мужчина похитил и удерживал ребенка в заброшенном доме",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127206",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152503"
+    },
+    {
+      "id": "d13e1c505352",
+      "title": "Премьер Латвии исключил возвращение к нормальным отношениям с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127208",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152491"
+    },
+    {
+      "id": "38f98426f788",
+      "title": "«Зенит» потерпел поражение в Казани и рискует потерять лидерство в РПЛ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127207",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152480"
+    },
+    {
+      "id": "2733e801f938",
+      "title": "В МИДе Турции предупредили о возможной операции Израиля против Сирии",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127209",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152457"
+    },
+    {
+      "id": "9d7700060181",
+      "title": "Вице-премьер Никитин сообщил об усложнении логистики после атак на Крымский мост",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127210",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152445"
+    },
+    {
+      "id": "e2825764c4b2",
+      "title": "Переговоры ООН по автономному оружию завершились без обязывающих ограничений",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127212",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152416"
+    },
+    {
+      "id": "d665b970dc32",
+      "title": "Yle сообщила о попытках взыскать с РФ и «Газпрома» в Финляндии более €25 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127213",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152405"
+    },
+    {
+      "id": "9a9e24c21dc6",
+      "title": "Трамп выложил совместную фотографию с Путиным с подписью «Мой друг»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127214",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152394"
+    },
+    {
+      "id": "97783c650085",
+      "title": "Repubblica: Мелони выразила протест Зеленскому из-за запрещенного «Миротворца»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127216",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:17.152375"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 01:39",
+      "parsed_at": "2026-11-22T01:39:14.531392"
+    },
     {
       "id": "b27b89475d1f",
       "title": "Трамп заявил, что никогда не думал о смене власти в Иране",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "18.11 13:27",
       "parsed_at": "2026-11-18T13:27:04.783957"
-    },
-    {
-      "id": "8d9eed05e663",
-      "title": "Ушаков анонсировал «полноценный разговор» Путина с Трампом на саммите АТЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112494",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783940"
-    },
-    {
-      "id": "fab0538fa7c8",
-      "title": "Московское «Динамо» расторгло контракт с отстраненным главным тренером Тамбиевым",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112512",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783904"
-    },
-    {
-      "id": "d991df734479",
-      "title": "Замороженная красная рыба за год подорожала в России на 21%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112509",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783884"
-    },
-    {
-      "id": "539a40f3e616",
-      "title": "Трамп и Си Цзиньпин обнялись при встрече в аэропорту Шэньчжэня",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112516",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783864"
-    },
-    {
-      "id": "04ffe65d0e6b",
-      "title": "Semafor: часть совета директоров Nvidia настаивает на возвращении Хуанга",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112504",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783847"
-    },
-    {
-      "id": "4d87f76e685e",
-      "title": "Прибыль Nvidia за третий квартал выросла на 105% год к году",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112498",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783825"
-    },
-    {
-      "id": "93e890a78c9d",
-      "title": "Обзор иностранной прессы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112461",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.783798"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 13:27",
-      "parsed_at": "2026-11-18T13:27:04.098675"
-    },
-    {
-      "id": "75bc7e280431",
-      "title": "Цифровая трансформация судебной системы должна пройти в сжатые сроки",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112035",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229884"
-    },
-    {
-      "id": "3c8c653362f8",
-      "title": "Bloomberg узнал о предстоящих переговорах США, Европы и Украины в Берлине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112119",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 05:07",
-      "parsed_at": "2026-11-18T05:07:29.229873"
     }
   ]
 }
