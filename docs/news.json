@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-22T13:35:09.142016",
+  "last_updated": "2026-11-22T21:10:27.248268",
   "stats": {
-    "zhkh": 2,
+    "zhkh": 3,
     "mchs": 4,
     "works": 0,
     "events": 1,
-    "news": 113,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "a5653322551a",
+      "title": "Московский клуб лидирует в Российской премьер-лиге после 15 туров",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127463",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890864"
+    },
+    {
+      "id": "881d39202038",
+      "title": "Бывшему топ-менеджеру компании «Интер РАО» колонию заменили исправительным центром",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127483",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890847"
+    },
+    {
+      "id": "c238a660dd89",
+      "title": "Три человека пострадали при ударе дрона по остановке в Горловке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127526",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890823"
+    },
+    {
+      "id": "a0515532ce8b",
+      "title": "Прядь волос Джорджа Вашингтона продали с аукциона",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127505",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890786"
+    },
+    {
+      "id": "ba79d3faccbc",
+      "title": "Гутерриш выразил недовольство итогами конференции ООН по климату",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127532",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890767"
+    },
+    {
+      "id": "2bb396b13737",
+      "title": "Производители ИИ-серверов начали повышать цены по уже подписанным контрактам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127478",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890741"
+    },
+    {
+      "id": "b5148a9e2687",
+      "title": "Reuters: морской беспилотник атаковал торговое судно у берегов Бенгази",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127534",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890721"
+    },
+    {
+      "id": "d2274a290f09",
+      "title": "Баскетболисты ЦСКА в овертайме обыграли УНИКС в матче Единой лиги ВТБ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127529",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890702"
+    },
+    {
+      "id": "2e31b8636373",
+      "title": "На продажу выставлен самолет Саддама Хусейна за $900 тыс.",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127533",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 21:09",
+      "parsed_at": "2026-11-22T21:09:58.890673"
+    },
     {
       "id": "0779cbfad617",
       "title": "Решетников обещает высокий спрос на российские плавучие АЭС",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.11 11:24",
       "parsed_at": "2026-11-19T11:24:19.557870"
-    },
-    {
-      "id": "71ea1a034e2f",
-      "title": "Въездной турпоток в РФ снизился на 12% за год",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113099",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557861"
-    },
-    {
-      "id": "61e0727333aa",
-      "title": "Производитель сигарет Winston спишет $8,9 млрд после утраты контроля в России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113389",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557852"
-    },
-    {
-      "id": "72a18f785081",
-      "title": "В Улан-Удэ временно введут проезд для льготников за 1 рубль",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113376",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557832"
-    },
-    {
-      "id": "231d42f32abc",
-      "title": "В Латвии рассмотрели «декларацию о дерусификации» для ограничения русского языка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113400",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557818"
-    },
-    {
-      "id": "c54ee0b0573a",
-      "title": "UniCredit договорился с властями Германии о покупке Commerzbank",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113361",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557804"
-    },
-    {
-      "id": "e8a3bea0e954",
-      "title": "ИИ-разработчик Anthropic провел крупнейшее в мире IPO",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113371",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557794"
-    },
-    {
-      "id": "fa7a9f7827ce",
-      "title": "Кушнер и Уиткофф обсудят с Зеленским «ключевые элементы мира» на Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113396",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557783"
-    },
-    {
-      "id": "0624fa300935",
-      "title": "Зачем компании нанимают философов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110871",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557764"
-    },
-    {
-      "id": "6ad28fad4ab6",
-      "title": "Госдума ужесточает ответственность за нарушения на опасных производствах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113004",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195823"
     }
   ]
 }
