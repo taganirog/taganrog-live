@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T21:10:27.248268",
+  "last_updated": "2026-11-23T02:43:02.799930",
   "stats": {
     "zhkh": 3,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "961279b124bc",
+      "title": "Цены на карбамид в портах Балтики с октября снизились на 12%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127376",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680544"
+    },
+    {
+      "id": "1a9ea299d28d",
+      "title": "«Новые люди» пообещали защищать права автомобилистов системно",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127398",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680529"
+    },
+    {
+      "id": "42d6b33cb25c",
+      "title": "Определен механизм принятия решений о блокировке продаж некачественной продукции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127460",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680515"
+    },
+    {
+      "id": "b23c54d72a61",
+      "title": "Глава Белгородской области Александр Шуваев пообщался с избирателями по-военному",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127479",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680484"
+    },
+    {
+      "id": "6bf6f3327eba",
+      "title": "Гендерное равенство улучшает финансовые результаты компаний",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127492",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680467"
+    },
+    {
+      "id": "5ff25780354a",
+      "title": "В третьем квартале выплаты РНПК превысили премии почти в два раза",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127498",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680452"
+    },
+    {
+      "id": "a4c3812c2e49",
+      "title": "Индекс RSBI в октябре вышел на максимум 2026 года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127504",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680437"
+    },
+    {
+      "id": "2b4e59f9f76b",
+      "title": "Мониторинг внешней торговли",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127509",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680415"
+    },
+    {
+      "id": "dfea24b4466b",
+      "title": "Путин и Трамп не обсуждали назначение посла России в США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127616",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 02:42",
+      "parsed_at": "2026-11-23T02:42:29.680390"
+    },
     {
       "id": "a5653322551a",
       "title": "Московский клуб лидирует в Российской премьер-лиге после 15 туров",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.11 20:30",
       "parsed_at": "2026-11-19T20:30:09.580650"
-    },
-    {
-      "id": "149f5866e7a0",
-      "title": "Как Рособрнадзор хочет бороться со списыванием в вузах",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114122",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580637"
-    },
-    {
-      "id": "a04e15223829",
-      "title": "Водители смогут оплачивать парковки со шлагбаумом без паркоматов и QR-кодов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113830",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580625"
-    },
-    {
-      "id": "b81da19aa89f",
-      "title": "Объем хищений со счетов юрлиц снизился впервые в истории наблюдений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114058",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580612"
-    },
-    {
-      "id": "913b1167bf3b",
-      "title": "Хакеры опубликовали данные тысяч клиентов Visa, Mastercard и JPMorgan",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114139",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580599"
-    },
-    {
-      "id": "7cfbabfb9c9d",
-      "title": "ВККС открыла две вакансии на должности зампредов Верховного суда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114145",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580586"
-    },
-    {
-      "id": "02656f3f1e28",
-      "title": "Трамп оценил визит в Китай на 12 из 10",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114129",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580572"
-    },
-    {
-      "id": "438df82346de",
-      "title": "Бюджетный пакет принят во втором чтении",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114135",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580557"
-    },
-    {
-      "id": "aa08dba94bed",
-      "title": "ФАС потребовала от «Гротекса» перечислить в бюджет 2 млрд рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113961",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 20:30",
-      "parsed_at": "2026-11-19T20:30:09.580528"
-    },
-    {
-      "id": "6b211a935cfc",
-      "title": "Преподаватели используют мемы для объяснения сложных тем",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112854",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 11:24",
-      "parsed_at": "2026-11-19T11:24:19.557870"
     }
   ]
 }
