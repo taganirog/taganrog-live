@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T05:46:27.161579",
+  "last_updated": "2026-11-22T13:35:09.142016",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
@@ -9,6 +9,127 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "0779cbfad617",
+      "title": "Решетников обещает высокий спрос на российские плавучие АЭС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127302",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.411057"
+    },
+    {
+      "id": "241637e6f326",
+      "title": "El Pais: Каллас не была реальным кандидатом на роль переговорщика с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127311",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.411041"
+    },
+    {
+      "id": "b2bc73c86486",
+      "title": "Германия отвергла финальный проект текста климатической конференции в Анталье",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127313",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.411024"
+    },
+    {
+      "id": "ae43a4b4bdb0",
+      "title": "Один человек погиб и трое ранены в ЛНР из-за ударов ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127319",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410989"
+    },
+    {
+      "id": "8ab72aca521d",
+      "title": "Какой алкоголь стал главным трендом рынка",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127316",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410971"
+    },
+    {
+      "id": "eed50f2fd5ff",
+      "title": "Макс Ферстаппен выиграл безумный Гран-при Лас-Вегаса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127305",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410955"
+    },
+    {
+      "id": "01e1dfbc317d",
+      "title": "WSJ: оборонная отрасль Украины, вероятно, достигла потолка роста",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127321",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410937"
+    },
+    {
+      "id": "4faa1a452cdb",
+      "title": "Совет НАТО обсудит инцидент с упавшими в Польше ракетами 23 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127330",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410916"
+    },
+    {
+      "id": "c03f586750a2",
+      "title": "Умер создатель историй о Хоме и Суслике Альберт Иванов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9127329",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:40.410888"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:39.410868"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "22.11 13:34",
+      "parsed_at": "2026-11-22T13:34:39.410836"
+    },
     {
       "id": "b541e0f6ad92",
       "title": "Иран ударил по базам США в Бахрейне",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "19.11 03:57",
       "parsed_at": "2026-11-19T03:57:36.195823"
-    },
-    {
-      "id": "0f644ed6d65b",
-      "title": "Белый дом утвердил пакет законов о ЕТОР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113010",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195807"
-    },
-    {
-      "id": "f550b535e095",
-      "title": "Мониторинг мировой экономики",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113037",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195778"
-    },
-    {
-      "id": "24b480c7f045",
-      "title": "Партийцы и эксперты обсудили настоящее и будущее политтехнологий",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113066",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195750"
-    },
-    {
-      "id": "73f7771a8304",
-      "title": "Северному завозу требуется обновление речного флота",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113097",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195729"
-    },
-    {
-      "id": "8e2139525b31",
-      "title": "Bloomberg узнал возможную цену акций Anthropic на IPO",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113140",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195715"
-    },
-    {
-      "id": "4b39c01868f1",
-      "title": "Судьи КС Польши лишили иммунитета и.о. председателя Богдана Свенчковского",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113146",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195701"
-    },
-    {
-      "id": "5c877b8e0dae",
-      "title": "Цивилева заявила об отсутствии очередей на протезирование в военных госпиталях",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113148",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195682"
-    },
-    {
-      "id": "80d8ec2017b7",
-      "title": "Трамп: США не будут просить у России и Китая помощи с Ираном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113150",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "19.11 03:57",
-      "parsed_at": "2026-11-19T03:57:36.195655"
-    },
-    {
-      "id": "d0954968e55b",
-      "title": "И никто из семейства не оказался тем, кем, опасались, может оказаться",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113067",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 21:57",
-      "parsed_at": "2026-11-18T21:57:32.131055"
-    },
-    {
-      "id": "376408030ffc",
-      "title": "Судам дадут полгода на расставание со своим юридическим лицом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112955",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 21:57",
-      "parsed_at": "2026-11-18T21:57:32.131043"
-    },
-    {
-      "id": "378886b46a48",
-      "title": "Госдума поддержала штрафы за демонстрацию дискредитирующих традиционные ценности фильмов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113041",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "18.11 21:57",
-      "parsed_at": "2026-11-18T21:57:32.131033"
     }
   ]
 }
