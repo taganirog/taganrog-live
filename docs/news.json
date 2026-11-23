@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-23T08:00:40.895396",
+  "last_updated": "2026-11-23T18:48:23.037195",
   "stats": {
-    "zhkh": 3,
+    "zhkh": 4,
     "mchs": 5,
     "works": 0,
     "events": 1,
-    "news": 111,
+    "news": 110,
     "total": 120
   },
   "items": [
+    {
+      "id": "c90b0175c1a6",
+      "title": "Образовательная онлайн-платформа ЕС подверглась кибератаке",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128342",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623136"
+    },
+    {
+      "id": "90d2fd46d142",
+      "title": "«Самолет» объявил о заседании совета директоров по реструктуризации долга",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128393",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623120"
+    },
+    {
+      "id": "dd3bea6c071e",
+      "title": "МИД РФ выразил протест представителю Эстонии из-за закрытия границы с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128312",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623104"
+    },
+    {
+      "id": "bdd14bf65c2e",
+      "title": "Трофейная недвижимость: почему ее все хотят",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091133",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623089"
+    },
+    {
+      "id": "781e86186b59",
+      "title": "Таджикистан уведомил ООН о выходе из МУС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128274",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623074"
+    },
+    {
+      "id": "7fb74f0a3b88",
+      "title": "В секторе Газа впервые прошел турнир по силовому экстриму",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128288",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623058"
+    },
+    {
+      "id": "e64fd7de9741",
+      "title": "В Женеве начинается матч за титул чемпиона мира между Гукешем Доммараджу и Жавохиром Синдаровым",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128381",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623045"
+    },
+    {
+      "id": "2d695c7fbc57",
+      "title": "Определились места проведения женских ЧМ по футболу 2031 и 2035 годов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128399",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623026"
+    },
+    {
+      "id": "6310f661114b",
+      "title": "Делегаты СОР31 не смогли утвердить итоговый документ конференции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128257",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.623009"
+    },
+    {
+      "id": "d09ecbef373c",
+      "title": "Почему полезное для компании действие кажется сотрудникам угрозой их интересам",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128304",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "23.11 18:47",
+      "parsed_at": "2026-11-23T18:47:52.622981"
+    },
     {
       "id": "b6a853c3713f",
       "title": "Фонд «Цифровые горизонты» вышел из капитала «Юрент»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "20.11 17:13",
       "parsed_at": "2026-11-20T17:13:21.696856"
-    },
-    {
-      "id": "bfb84b67d703",
-      "title": "Стоимость яблок в России за год упала на 16–33,7%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114023",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137591"
-    },
-    {
-      "id": "8fda765014b3",
-      "title": "У Пентагона нет долгосрочного плана по наращиванию объемов боеприпасов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114252",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": true,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137573"
-    },
-    {
-      "id": "962f535e7601",
-      "title": "СКР возбудил дело после массового отравления учеников школы на Камчатке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114263",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137560"
-    },
-    {
-      "id": "33c30e219e56",
-      "title": "NBC: технические сбои в сети АНБ США продолжаются три дня",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114273",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137535"
-    },
-    {
-      "id": "30c4fb876534",
-      "title": "Компании Китая опасаются ограничений доступа к чипам Nvidia со стороны США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114276",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137522"
-    },
-    {
-      "id": "a57ff042098f",
-      "title": "Виктор Достов о цифровых валютах в поиске специализации",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112485",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137509"
-    },
-    {
-      "id": "ddb4a064d1d1",
-      "title": "Гендиректор ассоциации «ФинТех» Максим Григорьев об операциях с новой формой рубля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9112552",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137496"
-    },
-    {
-      "id": "528bdfe2fca4",
-      "title": "Сотрудники пересмотрели причины смены работы",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113968",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137481"
-    },
-    {
-      "id": "a31fa7d905da",
-      "title": "Как проходит внедрение цифрового рубля в крупных и малых банках",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114124",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 08:07",
-      "parsed_at": "2026-11-20T08:07:16.137460"
-    },
-    {
-      "id": "251b4a33169d",
-      "title": "Путин прилетел в Таджикистан",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9114227",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 02:43",
-      "parsed_at": "2026-11-20T02:43:53.473828"
     }
   ]
 }
