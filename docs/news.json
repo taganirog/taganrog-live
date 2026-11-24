@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T18:48:23.037195",
+  "last_updated": "2026-11-24T05:43:01.626461",
   "stats": {
     "zhkh": 4,
     "mchs": 5,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "4bb87f9ff076",
+      "title": "Премьер Пакистана прилетит в Россию 30 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128569",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308686"
+    },
+    {
+      "id": "a9c11bfca529",
+      "title": "Пять жителей Брянской области ранены из-за атак дронов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128568",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308676"
+    },
+    {
+      "id": "3c8b937d78a5",
+      "title": "Россия потребовала у Нидерландов разъяснений о причастности к атаке на Крымский мост",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128572",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308664"
+    },
+    {
+      "id": "8ef984998194",
+      "title": "На востоке Польши объявляли воздушную тревогу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128591",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308641"
+    },
+    {
+      "id": "9c12dae045f7",
+      "title": "Аль Тани: Ближний Восток не выдержит новой эскалации между США и Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128592",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308630"
+    },
+    {
+      "id": "7966280783da",
+      "title": "В Южной Корее объявляли эвакуацию из-за иностранного военного самолета",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128594",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308618"
+    },
+    {
+      "id": "8ec69ffd1f50",
+      "title": "Песков: решение об участии Путина в саммите G20 пока не принято",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128595",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308606"
+    },
+    {
+      "id": "9fd89396857a",
+      "title": "Писториус заявил о рисках распространения украинского конфликта на Балтику",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128596",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308592"
+    },
+    {
+      "id": "b8383e1cdf2e",
+      "title": "Число сбитых вблизи Москвы БПЛА достигло 20",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128597",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 05:42",
+      "parsed_at": "2026-11-24T05:42:33.308554"
+    },
     {
       "id": "c90b0175c1a6",
       "title": "Образовательная онлайн-платформа ЕС подверглась кибератаке",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.11 00:54",
       "parsed_at": "2026-11-21T00:54:12.728485"
-    },
-    {
-      "id": "b4cf61640ddd",
-      "title": "Индия и США ликвидировали международную сеть наркоторговцев",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126502",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.697041"
-    },
-    {
-      "id": "7be142e4f7a8",
-      "title": "Крупные перевозчики предлагают включить частников в единый реестр",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126445",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.697023"
-    },
-    {
-      "id": "9e9d91ebb02b",
-      "title": "Джордж Лэзенби и Пирс Броснан поздравили Паттинсона с ролью агента 007",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9126478",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696990"
-    },
-    {
-      "id": "13dec065ccba",
-      "title": "VK требует от Apple выплатить более €31 млн и проценты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126517",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696956"
-    },
-    {
-      "id": "96fd7615adfd",
-      "title": "100 лет назад так было открыто новое месторождение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9110321",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696939"
-    },
-    {
-      "id": "cdd4052c4a9f",
-      "title": "Индексы РТС и Мосбиржи упали на 3%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126523",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696922"
-    },
-    {
-      "id": "a86a4c49d1ad",
-      "title": "Как драгметалл превратился из украшения в инвестиционный актив",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126490",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696905"
-    },
-    {
-      "id": "3e49624f483b",
-      "title": "Международный суд ООН впервые обвинил отдельную страну в геноциде",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126500",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696884"
-    },
-    {
-      "id": "148213f20153",
-      "title": "Почему компании ищут замену привычному мессенджеру: исследование «Билайн бизнеса»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126364",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "20.11 17:13",
-      "parsed_at": "2026-11-20T17:13:21.696856"
     }
   ]
 }
