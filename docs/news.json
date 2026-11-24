@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-24T05:43:01.626461",
+  "last_updated": "2026-11-24T16:09:32.290874",
   "stats": {
-    "zhkh": 4,
-    "mchs": 5,
+    "zhkh": 3,
+    "mchs": 4,
     "works": 0,
     "events": 1,
-    "news": 110,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "525b6f3c6b8a",
+      "title": "Госдума одобрила законопроект о списании долгов участников СВО",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129419",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130465"
+    },
+    {
+      "id": "5537f5966954",
+      "title": "Аузан встретился с Мальцевым перед передачей полномочий декана экономфака МГУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129401",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130454"
+    },
+    {
+      "id": "c14d5061f3ce",
+      "title": "«Т-Технологии» направили ЦИАН оферту на выкуп акций по 993 рублей за штуку",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129412",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130443"
+    },
+    {
+      "id": "ea73529d3948",
+      "title": "В Китае к смертной казни за шпионаж приговорили чиновника по фамилии Ма",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129390",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130421"
+    },
+    {
+      "id": "68652efdce4a",
+      "title": "Схваченного в Мексике наркобарона Эль Чапо Исидро не экстрадируют в США",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129404",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130410"
+    },
+    {
+      "id": "04212d734911",
+      "title": "Израиль ликвидировал главу службы внутренней безопасности «Хамаса»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129418",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130399"
+    },
+    {
+      "id": "ebb46b27c613",
+      "title": "«Одиссея» Кристофера Нолана лидирует в шорт-листах Critics Choice Awards",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9128845",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130387"
+    },
+    {
+      "id": "408acb6ead5c",
+      "title": "Фонд рассчитывает зарабатывать на продаже углеродных единиц",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129287",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130373"
+    },
+    {
+      "id": "9108b270a72c",
+      "title": "Экспорт нефти по нерегулярным направлениям из России вырос почти на 75%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129341",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "24.11 16:09",
+      "parsed_at": "2026-11-24T16:09:04.130348"
+    },
     {
       "id": "4bb87f9ff076",
       "title": "Премьер Пакистана прилетит в Россию 30 ноября",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.11 00:54",
       "parsed_at": "2026-11-21T00:54:16.649445"
-    },
-    {
-      "id": "c0a8f2521472",
-      "title": "Трамп заявил о неготовности обсуждать гарантии Киеву до конца конфликта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126692",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649422"
-    },
-    {
-      "id": "a1023e5bda9b",
-      "title": "NYT узнала о связях любовницы бывшего главы Nvidia Элис Хуанг с ВПК Китая",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126693",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649409"
-    },
-    {
-      "id": "6a4262428bed",
-      "title": "Путин: Россия никогда никого «не прибирала к рукам»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126696",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649383"
-    },
-    {
-      "id": "431c34cf7f37",
-      "title": "Президент Чехии заявил о риске страны стать целью России",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126699",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649371"
-    },
-    {
-      "id": "7649f2c2f7fc",
-      "title": "Вышла новая книга лауреата «Большой книги» Эдуарда Веркина — «Площадь оружия»",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9126359",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649357"
-    },
-    {
-      "id": "9647421221d6",
-      "title": "Grand Theft Auto VI собрала в первый день релиза $3,79 млрд и установила рекорд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126700",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649342"
-    },
-    {
-      "id": "ae92e696af3a",
-      "title": "Патриарх отметил свое 80-летие",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126568",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649324"
-    },
-    {
-      "id": "edcacb144e39",
-      "title": "«Аль-Джазира»: семь палестинцев погибли в центре Газы при ударах Израиля",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126965",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649301"
-    },
-    {
-      "id": "5ebc7cabc5ee",
-      "title": "Погода в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:12.728485"
     }
   ]
 }
