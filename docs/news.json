@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-24T16:09:32.290874",
+  "last_updated": "2026-11-25T02:10:13.563505",
   "stats": {
     "zhkh": 3,
-    "mchs": 4,
+    "mchs": 2,
     "works": 0,
     "events": 1,
-    "news": 112,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "c52a37584c65",
+      "title": "Ирак потерял более $300 млрд из-за прекращения поставок нефти из Курдистана",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129768",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943589"
+    },
+    {
+      "id": "d4233e23e9d5",
+      "title": "Дефицит свободных средств у банков достиг 3,3 трлн руб.",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129594",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943570"
+    },
+    {
+      "id": "a6ce5c612897",
+      "title": "Продажи зимних шин перетекают на лето",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129597",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943552"
+    },
+    {
+      "id": "586eead375db",
+      "title": "Единороссы привлекут гражданских активистов к реализации своей предвыборной программы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129613",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943510"
+    },
+    {
+      "id": "b2f0d00a1bb9",
+      "title": "Снижение спроса на детские товары замедлилось до 2%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129619",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943488"
+    },
+    {
+      "id": "42b84e80b422",
+      "title": "В следующем сезоне сбор пшеницы может сократиться на 6,8–8,3%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129641",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943468"
+    },
+    {
+      "id": "c6b614adf0de",
+      "title": "НПФ раскритиковали законопроект о переводе средств ОПС в ПДС",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129715",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943450"
+    },
+    {
+      "id": "41b38e1d2882",
+      "title": "«Реал» по-прежнему не теряет очки в Лиге чемпионов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129769",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943430"
+    },
+    {
+      "id": "9403096258c3",
+      "title": "При атаке на порт в Ливии погибли двое военнослужащих",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129770",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 02:09",
+      "parsed_at": "2026-11-25T02:09:42.943401"
+    },
     {
       "id": "525b6f3c6b8a",
       "title": "Госдума одобрила законопроект о списании долгов участников СВО",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.11 05:56",
       "parsed_at": "2026-11-21T05:56:17.586141"
-    },
-    {
-      "id": "ddafde93aa74",
-      "title": "Полиция США обратилась с предупреждениями к американцам после выхода GTA VI",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126972",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586129"
-    },
-    {
-      "id": "15b17e2d4f89",
-      "title": "Axios: посланники Трампа провели в Берлине секретные переговоры с Катаром по Ирану",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126974",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586119"
-    },
-    {
-      "id": "0ce644250b8b",
-      "title": "Власти США опубликовали отчеты о предполагаемых встречах со снежным человеком",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126975",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586093"
-    },
-    {
-      "id": "b182fb8f39cb",
-      "title": "Современное искусство как двигатель прогресса",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9114430",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586080"
-    },
-    {
-      "id": "f8c5320b74b2",
-      "title": "Советник Макрона назвал условие поездки европейцев на переговоры в Россию",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126976",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586068"
-    },
-    {
-      "id": "d7f1f31db128",
-      "title": "WP: Хегсет распорядился ограничить военные связи США с Канадой",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126978",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586054"
-    },
-    {
-      "id": "4bc02f456ce8",
-      "title": "Над Ленинградской областью сбили шесть БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126979",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586039"
-    },
-    {
-      "id": "c2408f808523",
-      "title": "Шторм на юге Бразилии разрушил около 5 тыс. домов, погибли три человека",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126981",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586017"
-    },
-    {
-      "id": "af508c4e5787",
-      "title": "Трамп пригрозил компаниям с ЦОДами за рубежом огромным налогом",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126689",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 00:54",
-      "parsed_at": "2026-11-21T00:54:16.649445"
     }
   ]
 }
