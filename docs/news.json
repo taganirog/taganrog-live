@@ -1,14 +1,179 @@
 {
-  "last_updated": "2026-11-25T08:33:50.048675",
+  "last_updated": "2026-11-25T19:35:49.354391",
   "stats": {
     "zhkh": 4,
-    "mchs": 1,
+    "mchs": 3,
     "works": 0,
     "events": 1,
-    "news": 114,
+    "news": 112,
     "total": 120
   },
   "items": [
+    {
+      "id": "647006a875b4",
+      "title": "Госдума поддержала проект о единоличном рассмотрении жалоб на заочные приговоры",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130643",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801343"
+    },
+    {
+      "id": "c7d9d8c3daa9",
+      "title": "Лапорта пригрозил Пересу иском о клевете из-за заявлений об «украденных титулах»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130652",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801326"
+    },
+    {
+      "id": "71d962540f0d",
+      "title": "Ассоциация владельцев кинотеатров предупредила о последствиях квотирования кино",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130593",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801308"
+    },
+    {
+      "id": "3f816f7cadb7",
+      "title": "Стоимость трудовых патентов для иностранцев в Москве увеличится",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130636",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801274"
+    },
+    {
+      "id": "dd74cf7742f5",
+      "title": "Всемирный русский народный собор открылся в храме Христа Спасителя",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130564",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801251"
+    },
+    {
+      "id": "05ece32eaaf9",
+      "title": "Леван Назаров консолидировал 20% акций ЦИАН",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130653",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801233"
+    },
+    {
+      "id": "5be598ee16ca",
+      "title": "В парке «Зарядье» открылась гостиница «Россия»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130557",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801216"
+    },
+    {
+      "id": "8e5d0ab24e48",
+      "title": "На 88-м году жизни умерла супермодель Вера фон Лендорф",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130651",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801195"
+    },
+    {
+      "id": "8f5dbc79e7ce",
+      "title": "Долю Левана Назарова в ЦИАН оценили в 15 млрд рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130658",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:20.801168"
+    },
+    {
+      "id": "aea370a444ee",
+      "title": "происшествия в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635975"
+    },
+    {
+      "id": "2c7952f8718b",
+      "title": "Транспорт в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635693"
+    },
+    {
+      "id": "a6ce80a572fd",
+      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635672"
+    },
+    {
+      "id": "30e0fde45105",
+      "title": "Погода в Ростове-на-Дону",
+      "desc": "",
+      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635647"
+    },
+    {
+      "id": "71ba29294f6c",
+      "title": "Транспорт в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635614"
+    },
+    {
+      "id": "5ebc7cabc5ee",
+      "title": "Погода в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/pogoda-v-taganroge",
+      "source": "mytaganrog.com",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "25.11 19:35",
+      "parsed_at": "2026-11-25T19:35:14.635577"
+    },
     {
       "id": "be7a3da111ac",
       "title": "Rapporteur: НАТО обеспокоено частым применением четвертой статьи альянса",
@@ -1163,171 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.11 01:39",
       "parsed_at": "2026-11-22T01:39:14.531392"
-    },
-    {
-      "id": "b27b89475d1f",
-      "title": "Трамп заявил, что никогда не думал о смене власти в Иране",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127188",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162257"
-    },
-    {
-      "id": "5fbe84976710",
-      "title": "Минобороны РФ отчиталось об ударе по объектам энергетики и сухогрузу Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127190",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162241"
-    },
-    {
-      "id": "a218b897fa79",
-      "title": "Трамп предупредил об угрозе банкротства США из-за высокого госдолга",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127193",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162218"
-    },
-    {
-      "id": "c5754a598601",
-      "title": "В НАТО пообещали защищать «каждый дюйм» территории Польши после инцидента с ракетами",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127196",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162183"
-    },
-    {
-      "id": "91697bc50b2a",
-      "title": "Швейцария проведет референдум об ослаблении правил экспорта оружия",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127200",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162163"
-    },
-    {
-      "id": "5eb2a9a3f6d6",
-      "title": "В Финляндии допустили причастность Украины к удару дронами по российскому судну",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127192",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162142"
-    },
-    {
-      "id": "91e311e2cbdb",
-      "title": "Весь сарказм «Противоденствия» Томаса Пинчона — впервые на русском",
-      "desc": "",
-      "url": "https://www.myweekend.ru/doc/9126603",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162123"
-    },
-    {
-      "id": "eb1b48d77aaa",
-      "title": "В аэропорту Калининграда ввели временные ограничения на полеты",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127201",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162101"
-    },
-    {
-      "id": "781d84af65bf",
-      "title": "В Калининградской области сработала система оповещения о беспилотной опасности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127202",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 20:50",
-      "parsed_at": "2026-11-21T20:50:33.162070"
-    },
-    {
-      "id": "533a49cd2218",
-      "title": "Почему раннее бронирование перестало быть выгодным",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127071",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341919"
-    },
-    {
-      "id": "5b801aced3fa",
-      "title": "Биткойн упал до $55 тыс. впервые с сентября 2024 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127070",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341908"
-    },
-    {
-      "id": "e984aa6586fa",
-      "title": "Суд признал законным заочный приговор основателю автодилера «Рольф» Петрову",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127074",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341897"
-    },
-    {
-      "id": "dafe4e6377d7",
-      "title": "Почему биткойн теряет позиции и как долго продлится падение",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127082",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341886"
-    },
-    {
-      "id": "d7dddb8b4fc3",
-      "title": "В России ограничат повышенные тарифы для детей в такси",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127084",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341862"
-    },
-    {
-      "id": "e3d2ef849d8b",
-      "title": "Минобороны России отчиталось об ударе по месту совещания командиров ВСУ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127087",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341847"
     }
   ]
 }
