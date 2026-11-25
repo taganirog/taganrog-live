@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-25T02:10:13.563505",
+  "last_updated": "2026-11-25T08:33:50.048675",
   "stats": {
-    "zhkh": 3,
-    "mchs": 2,
+    "zhkh": 4,
+    "mchs": 1,
     "works": 0,
     "events": 1,
     "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "be7a3da111ac",
+      "title": "Rapporteur: НАТО обеспокоено частым применением четвертой статьи альянса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129833",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.671047"
+    },
+    {
+      "id": "d0a0008dbb7f",
+      "title": "Один человек погиб при атаке БПЛА на Самарскую область",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129834",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.671029"
+    },
+    {
+      "id": "fbee902760fc",
+      "title": "В МИД Польши предостерегли от эскалации в отношениях с Россией",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129815",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.671012"
+    },
+    {
+      "id": "366340696cf1",
+      "title": "Лесная служба США обнародовала архивные данные о Бигфуте",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9129576",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670975"
+    },
+    {
+      "id": "50636e7dfff6",
+      "title": "Спрос на путешествия в Старый Свет вырос на 6%",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129622",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670949"
+    },
+    {
+      "id": "0514ea8937c9",
+      "title": "Минобороны России сообщило об ударе по энергетике и транспорту на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129845",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670924"
+    },
+    {
+      "id": "19a973cf7a47",
+      "title": "FT: Трамп отложил идею о бизнес-сделках США с Россией ради мира на Украине",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129851",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670905"
+    },
+    {
+      "id": "62bf00da7152",
+      "title": "Иран сообщил о подрыве двух нефтетанкеров в Ормузском проливе",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129843",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670883"
+    },
+    {
+      "id": "70f00b11697d",
+      "title": "Чукотка лидирует по размеру социальных пенсий в России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129849",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "25.11 08:33",
+      "parsed_at": "2026-11-25T08:33:21.670854"
+    },
     {
       "id": "c52a37584c65",
       "title": "Ирак потерял более $300 млрд из-за прекращения поставок нефти из Курдистана",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "21.11 13:34",
       "parsed_at": "2026-11-21T13:34:53.341847"
-    },
-    {
-      "id": "b191f0b75653",
-      "title": "Беспилотники ударили по шедшему в Калининград судну в Финском заливе",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127097",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341834"
-    },
-    {
-      "id": "bdc1b5db15af",
-      "title": "Замглавы Ростехнадзора утвердили заместителем гендиректора МАГАТЭ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127094",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341821"
-    },
-    {
-      "id": "a1096557f077",
-      "title": "На Пхукете задержали двоих россиян по делу о мошенничестве на 150 млн рублей",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127102",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:53.341801"
-    },
-    {
-      "id": "aea370a444ee",
-      "title": "происшествия в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/proishestvia-v-taganroge",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:50.933114"
-    },
-    {
-      "id": "2c7952f8718b",
-      "title": "Транспорт в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/transport-in-rostov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:50.932912"
-    },
-    {
-      "id": "a6ce80a572fd",
-      "title": "Расписание рейсов аэропорта Ростова-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/aeroport-rostov-na-donu-raspisanie-reysov-onlayn-tablo-prileta-i-vyleta-samoletov",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:50.932899"
-    },
-    {
-      "id": "30e0fde45105",
-      "title": "Погода в Ростове-на-Дону",
-      "desc": "",
-      "url": "https://mytaganrog.com/novosti-rostova/pogoda-v-rostove-na-donu",
-      "source": "mytaganrog.com",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:50.932883"
-    },
-    {
-      "id": "71ba29294f6c",
-      "title": "Транспорт в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/transport-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 13:34",
-      "parsed_at": "2026-11-21T13:34:50.932860"
-    },
-    {
-      "id": "b6e25f1dd973",
-      "title": "Еврокомиссия выделила €7,9 млрд Украине",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9126971",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "21.11 05:56",
-      "parsed_at": "2026-11-21T05:56:17.586141"
     }
   ]
 }
