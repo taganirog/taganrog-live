@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T12:04:09.274249",
+  "last_updated": "2026-11-26T22:11:57.713429",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "b6358c6d0676",
+      "title": "Иностранный покупатель активов ЛУКОЙЛа раскрыл условия сделки и дальнейшие планы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131755",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508808"
+    },
+    {
+      "id": "a2e202fc0cf0",
+      "title": "FT: новым главой ЕЦБ станет испанец Пабло Эрнандес де Кос",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131750",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508798"
+    },
+    {
+      "id": "b634838d80b5",
+      "title": "В Москве простились с Сергеем Чуприниным",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131629",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508787"
+    },
+    {
+      "id": "3b7375883269",
+      "title": "В Мурманской области появился второй за три дня исполняющий обязанности губернатора",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131751",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508768"
+    },
+    {
+      "id": "7637e0a18676",
+      "title": "Умер сооснователь группы King Crimson Майкл Джайлз",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131765",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508756"
+    },
+    {
+      "id": "8f0c99388157",
+      "title": "Социологи узнали мнение россиян о родных местах и местных властях",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131705",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508744"
+    },
+    {
+      "id": "ef7ed684d119",
+      "title": "Минздрав утвердил клинические рекомендации по контрацепции",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9129469",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508729"
+    },
+    {
+      "id": "113ce94fee37",
+      "title": "Швеция вызвала российского посла и выразила ему демарш",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131762",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508717"
+    },
+    {
+      "id": "32de42234957",
+      "title": "Греф исключил риски финансового кризиса из-за «пузыря» на мировом рынке ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131771",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:29.508696"
+    },
+    {
+      "id": "b25acd87df3e",
+      "title": "ГлавнаяУстав предприятияО предприятии",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 22:11",
+      "parsed_at": "2026-11-26T22:11:27.817902"
+    },
     {
       "id": "67a3835e61fd",
       "title": "Лукашенко предложил провести амнистию в честь «Года белорусской женщины»",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.11 13:34",
       "parsed_at": "2026-11-22T13:34:40.411041"
-    },
-    {
-      "id": "b2bc73c86486",
-      "title": "Германия отвергла финальный проект текста климатической конференции в Анталье",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127313",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.411024"
-    },
-    {
-      "id": "ae43a4b4bdb0",
-      "title": "Один человек погиб и трое ранены в ЛНР из-за ударов ВСУ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127319",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410989"
-    },
-    {
-      "id": "8ab72aca521d",
-      "title": "Какой алкоголь стал главным трендом рынка",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127316",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410971"
-    },
-    {
-      "id": "eed50f2fd5ff",
-      "title": "Макс Ферстаппен выиграл безумный Гран-при Лас-Вегаса",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127305",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410955"
-    },
-    {
-      "id": "01e1dfbc317d",
-      "title": "WSJ: оборонная отрасль Украины, вероятно, достигла потолка роста",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127321",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410937"
-    },
-    {
-      "id": "4faa1a452cdb",
-      "title": "Совет НАТО обсудит инцидент с упавшими в Польше ракетами 23 ноября",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127330",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410916"
-    },
-    {
-      "id": "c03f586750a2",
-      "title": "Умер создатель историй о Хоме и Суслике Альберт Иванов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127329",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.410888"
-    },
-    {
-      "id": "2f957a2a3529",
-      "title": "Повышение финансовой грамотности населения",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:39.410868"
-    },
-    {
-      "id": "628813efdc90",
-      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
-      "desc": "населенияКалькулятор",
-      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:39.410836"
-    },
-    {
-      "id": "b541e0f6ad92",
-      "title": "Иран ударил по базам США в Бахрейне",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127217",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659148"
     }
   ]
 }
