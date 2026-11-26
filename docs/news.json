@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-25T19:35:49.354391",
+  "last_updated": "2026-11-26T03:48:14.763855",
   "stats": {
-    "zhkh": 4,
+    "zhkh": 3,
     "mchs": 3,
     "works": 0,
     "events": 1,
-    "news": 112,
+    "news": 113,
     "total": 120
   },
   "items": [
+    {
+      "id": "8aa5ff476e4e",
+      "title": "Как сохранить конкурентоспособность на фоне стремительного удешевления ИИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128034",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371278"
+    },
+    {
+      "id": "7e95d1429185",
+      "title": "Как интегрировать ИИ-агентов и создавать персональные продукты для клиентов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128040",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371264"
+    },
+    {
+      "id": "2fc88e80eb45",
+      "title": "Из чего складывается технологический и организационный фундамент AI-native компании",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128042",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371251"
+    },
+    {
+      "id": "a560a8483998",
+      "title": "Как меняются полномочия и мотивация при переходе к контролю результата",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128043",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371226"
+    },
+    {
+      "id": "863745c5a2f3",
+      "title": "Как выбрать первый процесс для пилота, ограничить риски и масштабировать опыт",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128047",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371212"
+    },
+    {
+      "id": "82168b174916",
+      "title": "Почему ИИ-пилоты не окупаются и как оценить полную стоимость решения",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128050",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371199"
+    },
+    {
+      "id": "20de3e1005d2",
+      "title": "Как цифровые представители компаний будут находить, проверять и заключать сделки в сети",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128056",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371185"
+    },
+    {
+      "id": "1bd0b97b2436",
+      "title": "ИИ трансформирует бизнес-процессы, но стратегия и ответственность остаются за человеком",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9128058",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371169"
+    },
+    {
+      "id": "c27e8ded99af",
+      "title": "Промзона Невинномысска подверглась атаке БПЛА",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9130808",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 03:47",
+      "parsed_at": "2026-11-26T03:47:46.371132"
+    },
     {
       "id": "647006a875b4",
       "title": "Госдума поддержала проект о единоличном рассмотрении жалоб на заочные приговоры",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.11 01:39",
       "parsed_at": "2026-11-22T01:39:17.152503"
-    },
-    {
-      "id": "d13e1c505352",
-      "title": "Премьер Латвии исключил возвращение к нормальным отношениям с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127208",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152491"
-    },
-    {
-      "id": "38f98426f788",
-      "title": "«Зенит» потерпел поражение в Казани и рискует потерять лидерство в РПЛ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127207",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152480"
-    },
-    {
-      "id": "2733e801f938",
-      "title": "В МИДе Турции предупредили о возможной операции Израиля против Сирии",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127209",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152457"
-    },
-    {
-      "id": "9d7700060181",
-      "title": "Вице-премьер Никитин сообщил об усложнении логистики после атак на Крымский мост",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127210",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152445"
-    },
-    {
-      "id": "e2825764c4b2",
-      "title": "Переговоры ООН по автономному оружию завершились без обязывающих ограничений",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127212",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152416"
-    },
-    {
-      "id": "d665b970dc32",
-      "title": "Yle сообщила о попытках взыскать с РФ и «Газпрома» в Финляндии более €25 млрд",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127213",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152405"
-    },
-    {
-      "id": "9a9e24c21dc6",
-      "title": "Трамп выложил совместную фотографию с Путиным с подписью «Мой друг»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127214",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152394"
-    },
-    {
-      "id": "97783c650085",
-      "title": "Repubblica: Мелони выразила протест Зеленскому из-за запрещенного «Миротворца»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127216",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152375"
-    },
-    {
-      "id": "182dbd0cbfa6",
-      "title": "культура в Таганроге",
-      "desc": "",
-      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
-      "source": "mytaganrog.com",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:14.531392"
     }
   ]
 }
