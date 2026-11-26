@@ -1,14 +1,124 @@
 {
-  "last_updated": "2026-11-26T03:48:14.763855",
+  "last_updated": "2026-11-26T12:04:09.274249",
   "stats": {
     "zhkh": 3,
     "mchs": 3,
     "works": 0,
-    "events": 1,
-    "news": 113,
+    "events": 0,
+    "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "67a3835e61fd",
+      "title": "Лукашенко предложил провести амнистию в честь «Года белорусской женщины»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131064",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081185"
+    },
+    {
+      "id": "1e99ba8098fa",
+      "title": "Трамп хочет обложить новыми пошлинами товары из ЕС и Китая: реакция СМИ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131035",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081174"
+    },
+    {
+      "id": "bba06ce7024a",
+      "title": "Бывший начальник управления Ространснадзора получил пять лет за взятку",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131062",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081163"
+    },
+    {
+      "id": "817628dce903",
+      "title": "Российский болельщик умер во время матча Лиги чемпионов «Сабах»—«Барселона»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131086",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081142"
+    },
+    {
+      "id": "38160c0c0526",
+      "title": "Реставраторы подтвердили, что «Мадонну с гранатом» написал Боттичелли",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9130591",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081130"
+    },
+    {
+      "id": "0e666e0bcc84",
+      "title": "Главное на рынке недвижимости к утру 26 ноября",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131094",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081118"
+    },
+    {
+      "id": "768813690564",
+      "title": "На Кубани запретили продажу электронных сигарет и вейпов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131049",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081108"
+    },
+    {
+      "id": "b115bc8cc721",
+      "title": "Ozon запустил инвестиционное направление бизнеса",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131091",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081095"
+    },
+    {
+      "id": "1fc28f10a0e9",
+      "title": "Жителя Приморья обвинили в госизмене за 5 тыс. рублей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131068",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:41.081076"
+    },
+    {
+      "id": "182dbd0cbfa6",
+      "title": "культура в Таганроге",
+      "desc": "",
+      "url": "https://mytaganrog.com/taganrog_news/culture-in-taganrog",
+      "source": "mytaganrog.com",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "26.11 12:03",
+      "parsed_at": "2026-11-26T12:03:37.891903"
+    },
     {
       "id": "8aa5ff476e4e",
       "title": "Как сохранить конкурентоспособность на фоне стремительного удешевления ИИ",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "22.11 05:45",
       "parsed_at": "2026-11-22T05:45:58.659148"
-    },
-    {
-      "id": "724fd5dd283d",
-      "title": "В МИД РФ сообщили о новых договоренностях с Грузией по расширению торговли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127218",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659132"
-    },
-    {
-      "id": "0dff4ef26fab",
-      "title": "Теннисист Даниил Медведев проиграл в полуфинале итогового турнира АТР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127219",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659114"
-    },
-    {
-      "id": "c0a4eb28cf7f",
-      "title": "В Мексике задержали наркобарона, входящего в список самых разыскиваемых преступников ФБР",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127220",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659079"
-    },
-    {
-      "id": "23d7304a71fb",
-      "title": "Литва отвергла причастность к происшествию на границе Калининградской области",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127221",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659059"
-    },
-    {
-      "id": "4621f3fe6d42",
-      "title": "В МВД Франции сообщили о значительном снижении числа митингующих",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127222",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659038"
-    },
-    {
-      "id": "11522bcdf1c6",
-      "title": "Фицо: Словакия не будет участвовать в новом кредите ЕС для Украины",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127223",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.659018"
-    },
-    {
-      "id": "c12ad119a500",
-      "title": "Фестиваль российского кино открылся в Риме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127224",
-      "source": "kommersant.ru",
-      "category": "events",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.658997"
-    },
-    {
-      "id": "d1cdba1c4b95",
-      "title": "Bloomberg: YouTube выплатит $3 млрд школьным округам США по искам о зависимости",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127225",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.658967"
-    },
-    {
-      "id": "b25acd87df3e",
-      "title": "ГлавнаяУстав предприятияО предприятии",
-      "desc": "",
-      "url": "https://tgnvoda.ru/avarii.php#1031c14edeef",
-      "source": "tgnvoda.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 05:45",
-      "parsed_at": "2026-11-22T05:45:58.077138"
-    },
-    {
-      "id": "2254c51e9ac4",
-      "title": "В Свердловской области мужчина похитил и удерживал ребенка в заброшенном доме",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127206",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 01:39",
-      "parsed_at": "2026-11-22T01:39:17.152503"
     }
   ]
 }
