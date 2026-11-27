@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T05:20:08.098964",
+  "last_updated": "2026-11-27T14:07:34.641671",
   "stats": {
     "zhkh": 2,
     "mchs": 4,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "f70646d4243f",
+      "title": "Волгоградская область стала литературным флагманом России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144167",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363270"
+    },
+    {
+      "id": "30b4a2434e82",
+      "title": "Тысячу матрешек показывают в Сергиевом Посаде",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144155",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363258"
+    },
+    {
+      "id": "6def68d2da6c",
+      "title": "Денис Хуснияров может стать новым худруком электротеатра «Станиславский»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144144",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363246"
+    },
+    {
+      "id": "b187e5a15b9e",
+      "title": "Совет федерации одобрил повышение МРОТ до 28,9 тыс. руб. в 2027 году",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144220",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363221"
+    },
+    {
+      "id": "f86298c17252",
+      "title": "Лыжница Терентьева стала четвертой в разделке на 10 км на этапе Кубка мира",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144221",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363209"
+    },
+    {
+      "id": "9a88d6650c5b",
+      "title": "Уфимский хоккейный клуб «Салават Юлаев» отметил юбилей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144222",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363196"
+    },
+    {
+      "id": "97348139b952",
+      "title": "Новак призвал «не нагнетать лишнего» перед встречей ОПЕК+",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144200",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363182"
+    },
+    {
+      "id": "94982176c034",
+      "title": "Эрмитаж привез в Москву ранние работы великого голландца",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144197",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363168"
+    },
+    {
+      "id": "11fefccdc705",
+      "title": "Минцифры пока не договорилось с Apple о 5G и «Максе»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144219",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 14:07",
+      "parsed_at": "2026-11-27T14:07:05.363148"
+    },
     {
       "id": "9665eadccfb3",
       "title": "Суд в Белграде арестовал главреда Informer Вучичевича на 30 дней",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.11 08:00",
       "parsed_at": "2026-11-23T08:00:12.738457"
-    },
-    {
-      "id": "961279b124bc",
-      "title": "Цены на карбамид в портах Балтики с октября снизились на 12%",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127376",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680544"
-    },
-    {
-      "id": "1a9ea299d28d",
-      "title": "«Новые люди» пообещали защищать права автомобилистов системно",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127398",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680529"
-    },
-    {
-      "id": "42d6b33cb25c",
-      "title": "Определен механизм принятия решений о блокировке продаж некачественной продукции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127460",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680515"
-    },
-    {
-      "id": "b23c54d72a61",
-      "title": "Глава Белгородской области Александр Шуваев пообщался с избирателями по-военному",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127479",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680484"
-    },
-    {
-      "id": "6bf6f3327eba",
-      "title": "Гендерное равенство улучшает финансовые результаты компаний",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127492",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680467"
-    },
-    {
-      "id": "5ff25780354a",
-      "title": "В третьем квартале выплаты РНПК превысили премии почти в два раза",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127498",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680452"
-    },
-    {
-      "id": "a4c3812c2e49",
-      "title": "Индекс RSBI в октябре вышел на максимум 2026 года",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127504",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680437"
-    },
-    {
-      "id": "2b4e59f9f76b",
-      "title": "Мониторинг внешней торговли",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127509",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680415"
-    },
-    {
-      "id": "dfea24b4466b",
-      "title": "Путин и Трамп не обсуждали назначение посла России в США",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127616",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 02:42",
-      "parsed_at": "2026-11-23T02:42:29.680390"
     }
   ]
 }
