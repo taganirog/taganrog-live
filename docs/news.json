@@ -1,14 +1,135 @@
 {
-  "last_updated": "2026-11-26T22:11:57.713429",
+  "last_updated": "2026-11-27T05:20:08.098964",
   "stats": {
-    "zhkh": 3,
-    "mchs": 3,
+    "zhkh": 2,
+    "mchs": 4,
     "works": 0,
     "events": 0,
     "news": 114,
     "total": 120
   },
   "items": [
+    {
+      "id": "9665eadccfb3",
+      "title": "Суд в Белграде арестовал главреда Informer Вучичевича на 30 дней",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131837",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695564"
+    },
+    {
+      "id": "7b62465ef1e7",
+      "title": "Трамп: США предоставляют Ирану все возможности для заключения сделки",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131839",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695547"
+    },
+    {
+      "id": "2daef3ec9545",
+      "title": "Макрон: успехи России в сельском хозяйстве бьют по французским аграриям",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131838",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695530"
+    },
+    {
+      "id": "03804d98419d",
+      "title": "Трамп о завершении конфликта на Украине: для танго нужны двое",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131840",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695495"
+    },
+    {
+      "id": "802112c1647d",
+      "title": "Трамп: G7 менее интересный формат, чем G8 с участием России",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131842",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695472"
+    },
+    {
+      "id": "ccb96d1c8fd9",
+      "title": "Кошта: 24 страны ЕС поддержали выделение кредита Украине на €45 млрд",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131841",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695455"
+    },
+    {
+      "id": "d414b2714666",
+      "title": "Трамп: Россия и Китай содействуют достижению мира между США и Ираном",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131843",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695436"
+    },
+    {
+      "id": "cfd101ce3ea6",
+      "title": "Над Ленинградской областью сбиты четыре беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131844",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695416"
+    },
+    {
+      "id": "b80195ea61a6",
+      "title": "При пожаре в Салехарде погибли женщина и трое детей",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9131846",
+      "source": "kommersant.ru",
+      "category": "mchs",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:39.695387"
+    },
+    {
+      "id": "2f957a2a3529",
+      "title": "Повышение финансовой грамотности населения",
+      "desc": "",
+      "url": "https://tgnvoda.ru/avarii.php#64f7c422ec0d",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:38.827432"
+    },
+    {
+      "id": "628813efdc90",
+      "title": "АбонентамИнформация для абонентовГрафики работыРуководящие документыРаскрытие информацииПовышение финансовой грамотности",
+      "desc": "населенияКалькулятор",
+      "url": "https://tgnvoda.ru/avarii.php#734e9ce10602",
+      "source": "tgnvoda.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 05:19",
+      "parsed_at": "2026-11-27T05:19:38.827399"
+    },
     {
       "id": "b6358c6d0676",
       "title": "Иностранный покупатель активов ЛУКОЙЛа раскрыл условия сделки и дальнейшие планы",
@@ -1207,127 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.11 02:42",
       "parsed_at": "2026-11-23T02:42:29.680390"
-    },
-    {
-      "id": "a5653322551a",
-      "title": "Московский клуб лидирует в Российской премьер-лиге после 15 туров",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127463",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890864"
-    },
-    {
-      "id": "881d39202038",
-      "title": "Бывшему топ-менеджеру компании «Интер РАО» колонию заменили исправительным центром",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127483",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890847"
-    },
-    {
-      "id": "c238a660dd89",
-      "title": "Три человека пострадали при ударе дрона по остановке в Горловке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127526",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890823"
-    },
-    {
-      "id": "a0515532ce8b",
-      "title": "Прядь волос Джорджа Вашингтона продали с аукциона",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127505",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890786"
-    },
-    {
-      "id": "ba79d3faccbc",
-      "title": "Гутерриш выразил недовольство итогами конференции ООН по климату",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127532",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890767"
-    },
-    {
-      "id": "2bb396b13737",
-      "title": "Производители ИИ-серверов начали повышать цены по уже подписанным контрактам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127478",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890741"
-    },
-    {
-      "id": "b5148a9e2687",
-      "title": "Reuters: морской беспилотник атаковал торговое судно у берегов Бенгази",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127534",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890721"
-    },
-    {
-      "id": "d2274a290f09",
-      "title": "Баскетболисты ЦСКА в овертайме обыграли УНИКС в матче Единой лиги ВТБ",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127529",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890702"
-    },
-    {
-      "id": "2e31b8636373",
-      "title": "На продажу выставлен самолет Саддама Хусейна за $900 тыс.",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127533",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 21:09",
-      "parsed_at": "2026-11-22T21:09:58.890673"
-    },
-    {
-      "id": "0779cbfad617",
-      "title": "Решетников обещает высокий спрос на российские плавучие АЭС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127302",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.411057"
-    },
-    {
-      "id": "241637e6f326",
-      "title": "El Pais: Каллас не была реальным кандидатом на роль переговорщика с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127311",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "22.11 13:34",
-      "parsed_at": "2026-11-22T13:34:40.411041"
     }
   ]
 }
