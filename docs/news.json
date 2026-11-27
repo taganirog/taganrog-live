@@ -1,14 +1,113 @@
 {
-  "last_updated": "2026-11-27T14:07:34.641671",
+  "last_updated": "2026-11-27T23:07:17.791277",
   "stats": {
     "zhkh": 2,
-    "mchs": 4,
+    "mchs": 3,
     "works": 0,
     "events": 0,
-    "news": 114,
+    "news": 115,
     "total": 120
   },
   "items": [
+    {
+      "id": "d5d3f73f12e9",
+      "title": "«Аэроэкспресс» с 16 декабря изменит цены на билеты при покупке офлайн",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144610",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.388067"
+    },
+    {
+      "id": "fd42f50a6e3a",
+      "title": "Минюст внес Илью Яшина* в реестр лиц под временными ограничениями",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144615",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.388054"
+    },
+    {
+      "id": "ea6a74f105eb",
+      "title": "В Минтрансе рассказали об альтернативных маршрутах для поездок в Крым",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144614",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.388036"
+    },
+    {
+      "id": "8b2b34fb89e4",
+      "title": "В Польше заявили о скором завершении расследования смоленской авиакатастрофы",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144617",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387992"
+    },
+    {
+      "id": "c119fe5ae785",
+      "title": "Число приговоренных к принудительным работам выросло на 56,3% с начала года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144619",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387977"
+    },
+    {
+      "id": "90fa77224df6",
+      "title": "Социальные вопросы стали самой популярной темой обращений на прямую линию Путина",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144621",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387963"
+    },
+    {
+      "id": "1d4798ef15f6",
+      "title": "В Санкт-Петербурге выявили третий за сутки случай заражения оспой обезьян",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144623",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387949"
+    },
+    {
+      "id": "8a067b04b4a9",
+      "title": "Российский боксер уступил в поединке за пояс IBF кубинцу Энди Крусу",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144616",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387933"
+    },
+    {
+      "id": "90ddfc71fdbc",
+      "title": "Генералу Малькову добавили обвинение в незаконном хранении патронов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144622",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "27.11 23:06",
+      "parsed_at": "2026-11-27T23:06:49.387910"
+    },
     {
       "id": "f70646d4243f",
       "title": "Волгоградская область стала литературным флагманом России",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.11 08:00",
       "parsed_at": "2026-11-23T08:00:12.738567"
-    },
-    {
-      "id": "248c3bd335b0",
-      "title": "Forbes: Дубай с 2022 года покинули более 20% российских компаний",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127662",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738557"
-    },
-    {
-      "id": "d914cf2c11cf",
-      "title": "Главный научный сотрудник OpenAI предложил ввести единые стандарты безопасности",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127664",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738543"
-    },
-    {
-      "id": "a04e15223829",
-      "title": "Водители смогут оплачивать парковки со шлагбаумом без паркоматов и QR-кодов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9113830",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738533"
-    },
-    {
-      "id": "172fb6b636bf",
-      "title": "ВОЗ выразила беспокойство из-за роста заражений супербактерией в ЕС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127665",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738522"
-    },
-    {
-      "id": "8ce04693201e",
-      "title": "Суд в Москве арестовал мужчину по делу о подготовке теракта",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127666",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738512"
-    },
-    {
-      "id": "7a020fd283d7",
-      "title": "Армия США запланировала подрыв 4,4 т азида свинца вопреки решению суда",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127673",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738502"
-    },
-    {
-      "id": "ea08d0bef13f",
-      "title": "МВД рассказало о схеме обмана с приложением для обработки фотографий",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127674",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738491"
-    },
-    {
-      "id": "49bc660e8be6",
-      "title": "В Ростовской области произошел пожар после атаки БПЛА",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127676",
-      "source": "kommersant.ru",
-      "category": "mchs",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738478"
-    },
-    {
-      "id": "96c4dd5f8932",
-      "title": "WSJ увидела сходство распродаж акций ИИ с крахом доткомов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127677",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738457"
     }
   ]
 }
