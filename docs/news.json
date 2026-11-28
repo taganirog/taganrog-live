@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:07:17.791277",
+  "last_updated": "2026-11-28T05:52:07.856440",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,105 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "5b11622f7c70",
+      "title": "КСИР сообщил о подрыве двух нефтяных танкеров на минах у Ормузского пролива",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144896",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619731"
+    },
+    {
+      "id": "5b2f4ce9c895",
+      "title": "На подлете к Москве сбили 33 беспилотника",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144901",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619718"
+    },
+    {
+      "id": "3849114781d4",
+      "title": "Минпросвещения сократило зимние каникулы для школьников на один день",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144898",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619706"
+    },
+    {
+      "id": "439c619abb1d",
+      "title": "Хорватия отказалась выдавать ФРГ подозреваемого в подрыве «Северных потоков»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144903",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619681"
+    },
+    {
+      "id": "5509ae309d29",
+      "title": "Минтранс доработает соглашение с Китаем о пересечении границы на личных авто",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144899",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619668"
+    },
+    {
+      "id": "09ebb7bb3f8c",
+      "title": "Мошенники начали рассылать фишинговые открытки ко Дню матери",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144900",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619654"
+    },
+    {
+      "id": "4d17b74be9ec",
+      "title": "На подлете к Москве сбили 48 беспилотников",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144905",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619641"
+    },
+    {
+      "id": "cb526bcd4548",
+      "title": "Telegram предупредил владельцев iPhone об угрозе массовых взломов",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144906",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619625"
+    },
+    {
+      "id": "c79b9588e76f",
+      "title": "Bloomberg: отношения Италии и Украины испортились после удара ВСУ по порту Бенгази",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9144907",
+      "source": "kommersant.ru",
+      "category": "zhkh",
+      "is_urgent": false,
+      "published_at": "28.11 05:51",
+      "parsed_at": "2026-11-28T05:51:39.619600"
+    },
     {
       "id": "d5d3f73f12e9",
       "title": "«Аэроэкспресс» с 16 декабря изменит цены на билеты при покупке офлайн",
@@ -1229,105 +1328,6 @@
       "is_urgent": false,
       "published_at": "23.11 18:47",
       "parsed_at": "2026-11-23T18:47:52.623120"
-    },
-    {
-      "id": "dd3bea6c071e",
-      "title": "МИД РФ выразил протест представителю Эстонии из-за закрытия границы с Россией",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128312",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623104"
-    },
-    {
-      "id": "bdd14bf65c2e",
-      "title": "Трофейная недвижимость: почему ее все хотят",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9091133",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623089"
-    },
-    {
-      "id": "781e86186b59",
-      "title": "Таджикистан уведомил ООН о выходе из МУС",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128274",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623074"
-    },
-    {
-      "id": "7fb74f0a3b88",
-      "title": "В секторе Газа впервые прошел турнир по силовому экстриму",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128288",
-      "source": "kommersant.ru",
-      "category": "zhkh",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623058"
-    },
-    {
-      "id": "e64fd7de9741",
-      "title": "В Женеве начинается матч за титул чемпиона мира между Гукешем Доммараджу и Жавохиром Синдаровым",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128381",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623045"
-    },
-    {
-      "id": "2d695c7fbc57",
-      "title": "Определились места проведения женских ЧМ по футболу 2031 и 2035 годов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128399",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623026"
-    },
-    {
-      "id": "6310f661114b",
-      "title": "Делегаты СОР31 не смогли утвердить итоговый документ конференции",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128257",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623009"
-    },
-    {
-      "id": "d09ecbef373c",
-      "title": "Почему полезное для компании действие кажется сотрудникам угрозой их интересам",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128304",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.622981"
-    },
-    {
-      "id": "b6a853c3713f",
-      "title": "Фонд «Цифровые горизонты» вышел из капитала «Юрент»",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9127061",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 08:00",
-      "parsed_at": "2026-11-23T08:00:12.738567"
     }
   ]
 }
