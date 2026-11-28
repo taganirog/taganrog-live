@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T05:52:07.856440",
+  "last_updated": "2026-11-28T14:13:27.860091",
   "stats": {
     "zhkh": 2,
     "mchs": 3,
@@ -9,6 +9,116 @@
     "total": 120
   },
   "items": [
+    {
+      "id": "78781034a881",
+      "title": "В ЛНР задержали подозреваемого в работе на СБУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145019",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.748039"
+    },
+    {
+      "id": "cd807569ff3b",
+      "title": "МИД России сообщил о более чем 130 пострадавших медиках с начала года",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145021",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.748030"
+    },
+    {
+      "id": "08fd51aa1d31",
+      "title": "Александр Золотовицкий возглавит московский театр «Практика»",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145026",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.748021"
+    },
+    {
+      "id": "463586cf17ff",
+      "title": "Мемуары Байдена разошлись хуже воспоминаний Обамы и Клинтона",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145027",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.748012"
+    },
+    {
+      "id": "bdd14bf65c2e",
+      "title": "Трофейная недвижимость: почему ее все хотят",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9091133",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.748003"
+    },
+    {
+      "id": "6e6ad2353c77",
+      "title": "Стоит ли запрещать некорпоративные нейросети ради безопасности компаний",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145031",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.747994"
+    },
+    {
+      "id": "7da892b921fc",
+      "title": "Шахтеры в ЛНР оказались заблокированы под землей из-за атак ВСУ",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145034",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.747985"
+    },
+    {
+      "id": "1da078a78d99",
+      "title": "Свадебное пальто Джорджа Харрисона выставят на Sotheby’s",
+      "desc": "",
+      "url": "https://www.myweekend.ru/doc/9144451",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.747975"
+    },
+    {
+      "id": "6eb111384f31",
+      "title": "Суд арестовал отца умершей от истощения девочки из Вологды",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145037",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.747965"
+    },
+    {
+      "id": "95bd31bd70c6",
+      "title": "При взрыве в школе в Афганистане погибли семь человек",
+      "desc": "",
+      "url": "https://www.kommersant.ru/doc/9145035",
+      "source": "kommersant.ru",
+      "category": "news",
+      "is_urgent": false,
+      "published_at": "28.11 14:12",
+      "parsed_at": "2026-11-28T14:12:56.747949"
+    },
     {
       "id": "5b11622f7c70",
       "title": "КСИР сообщил о подрыве двух нефтяных танкеров на минах у Ормузского пролива",
@@ -1218,116 +1328,6 @@
       "is_urgent": false,
       "published_at": "24.11 05:42",
       "parsed_at": "2026-11-24T05:42:33.308686"
-    },
-    {
-      "id": "a9c11bfca529",
-      "title": "Пять жителей Брянской области ранены из-за атак дронов",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128568",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308676"
-    },
-    {
-      "id": "3c8b937d78a5",
-      "title": "Россия потребовала у Нидерландов разъяснений о причастности к атаке на Крымский мост",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128572",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308664"
-    },
-    {
-      "id": "8ef984998194",
-      "title": "На востоке Польши объявляли воздушную тревогу",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128591",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308641"
-    },
-    {
-      "id": "9c12dae045f7",
-      "title": "Аль Тани: Ближний Восток не выдержит новой эскалации между США и Ираном",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128592",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308630"
-    },
-    {
-      "id": "7966280783da",
-      "title": "В Южной Корее объявляли эвакуацию из-за иностранного военного самолета",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128594",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308618"
-    },
-    {
-      "id": "8ec69ffd1f50",
-      "title": "Песков: решение об участии Путина в саммите G20 пока не принято",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128595",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308606"
-    },
-    {
-      "id": "9fd89396857a",
-      "title": "Писториус заявил о рисках распространения украинского конфликта на Балтику",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128596",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308592"
-    },
-    {
-      "id": "b8383e1cdf2e",
-      "title": "Число сбитых вблизи Москвы БПЛА достигло 20",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128597",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "24.11 05:42",
-      "parsed_at": "2026-11-24T05:42:33.308554"
-    },
-    {
-      "id": "c90b0175c1a6",
-      "title": "Образовательная онлайн-платформа ЕС подверглась кибератаке",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128342",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623136"
-    },
-    {
-      "id": "90d2fd46d142",
-      "title": "«Самолет» объявил о заседании совета директоров по реструктуризации долга",
-      "desc": "",
-      "url": "https://www.kommersant.ru/doc/9128393",
-      "source": "kommersant.ru",
-      "category": "news",
-      "is_urgent": false,
-      "published_at": "23.11 18:47",
-      "parsed_at": "2026-11-23T18:47:52.623120"
     }
   ]
 }
